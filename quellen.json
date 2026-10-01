@@ -167,12 +167,6 @@
       "je_quelle": 15
     },
     {
-      "name": "BGH",
-      "bereich": "Baurecht",
-      "url": "https://www.bundesgerichtshof.de/DE/Service/RSSFeed/Function/RSS_PM.xml",
-      "nur_mit": "Bau|Werk|VOB|Architekt|Handwerk|Mangel|Mängel|Vergabe|Arbeit|Mindestlohn|Urlaub|Kündigung|Unfall|Gewährleistung"
-    },
-    {
       "name": "Bauministerium",
       "bereich": "Bau & Politik",
       "url": "https://www.bmwsb.bund.de/DE/tools-services/rssfeed/_functions/rssnewsfeed.xml"
