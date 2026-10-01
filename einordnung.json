@@ -829,22 +829,6 @@
   "gewicht": 1,
   "gesehen": "2026-10-01"
  },
- "https://www.handwerksblatt.de/betriebsfuehrung/schwanger-und-selbststaendig-wo-bleibt-der-mutterschutz-interview-mit-johanna-roeh": {
-  "id": "89c2d36bde82",
-  "relevant": true,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung"
-  ],
-  "thema": "Recht & Pflichten",
-  "was": "Mutterschutz für Selbstständige ist im Elterngeld-Reformentwurf noch nicht enthalten, Lage für selbstständige Handwerkerinnen bleibt ungeklärt.",
-  "tun": "Verfolge die Entwicklung, falls du als Selbstständige betroffen bist",
-  "frist": "2025-10-06",
-  "gewicht": 2,
-  "gesehen": "2026-10-01"
- },
  "https://www.elektro.net/129816/antistatische-faser-erhoeht-sicherheit-bei-arbeitsbekleidung/": {
   "id": "37d67a4adc10",
   "relevant": true,
@@ -1307,24 +1291,6 @@
   "was": "",
   "tun": "",
   "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-01"
- },
- "https://www.bft-international.com/de/news/web-seminar-zu-resilientem-planen-und-bauen-4429333.html": {
-  "id": "62bb6f715794",
-  "relevant": true,
-  "gewerke": [
-   "Hochbau/Rohbau",
-   "Architektur/Planung"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung"
-  ],
-  "thema": "Normen & Technik",
-  "was": "Seminar zeigt, wie Gebäude widerstandsfähiger gegen Wetterextreme und Krisen geplant werden.",
-  "tun": "Melde dich zum Web-Seminar am 14.10.2026 an.",
-  "frist": "2026-10-14",
   "gewicht": 1,
   "gesehen": "2026-10-01"
  },
@@ -1866,24 +1832,6 @@
   "gewicht": 1,
   "gesehen": "2026-10-01"
  },
- "https://www.kka-online.info/news/f-gas-verordnung-im-fokus-ab-01-01-2027-wird-die-verfuegbare-menge-an-fluorierten-kaeltemitteln-weiter-reduziert-4426996.html": {
-  "id": "c93e904d24ff",
-  "relevant": true,
-  "gewerke": [
-   "Kälte- und Klimatechnik",
-   "Sanitär/Heizung/Klima (SHK)"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung"
-  ],
-  "thema": "Recht & Pflichten",
-  "was": "Ab 2027 wird die Menge verfügbarer fluorierter Kältemittel weiter gekürzt, Anlagen mit R404A/R448A/R449A müssen frühzeitig umgerüstet werden.",
-  "tun": "Plane jetzt Umrüstung oder Ersatz betroffener Kälteanlagen.",
-  "frist": "2027-01-01",
-  "gewicht": 3,
-  "gesehen": "2026-10-01"
- },
  "https://www.bft-international.com/de/news/veranstaltungstipp-fachsymposium-zur-betoninstandsetzung-in-dortmund-4426514.html": {
   "id": "85b30b30882d",
   "relevant": false,
@@ -2359,6 +2307,59 @@
   "tun": "Motiviere deine Azubis, am Sicherheitspreis 2026/2027 teilzunehmen.",
   "frist": null,
   "gewicht": 2,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.bft-international.com/de/news/web-seminar-zu-resilientem-planen-und-bauen-4429333.html": {
+  "id": "62bb6f715794",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/schwanger-und-selbststaendig-wo-bleibt-der-mutterschutz-interview-mit-johanna-roeh": {
+  "id": "89c2d36bde82",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Mutterschutz für Selbstständige fehlt noch im Elterngeld-Reformentwurf, bleibt rechtliche Lücke für Chefinnen.",
+  "tun": "Verfolge die Gesetzesentwicklung, falls du als Selbstständige betroffen bist.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.kka-online.info/news/f-gas-verordnung-im-fokus-ab-01-01-2027-wird-die-verfuegbare-menge-an-fluorierten-kaeltemitteln-weiter-reduziert-4426996.html": {
+  "id": "c93e904d24ff",
+  "relevant": true,
+  "gewerke": [
+   "Kälte- und Klimatechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Ab 2027 wird die verfügbare Menge fluorierter Kältemittel weiter gekürzt, Altanlagen mit R404A & Co. brauchen frühzeitig einen Umstiegsplan.",
+  "tun": "Plane jetzt den Umstieg auf alternative Kältemittel für betroffene Bestandsanlagen.",
+  "frist": "2027-01-01",
+  "gewicht": 3,
   "gesehen": "2026-10-01"
  }
 }

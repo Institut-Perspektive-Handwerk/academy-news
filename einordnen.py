@@ -26,7 +26,8 @@ Für jede Meldung entscheidest du:
 - thema: genau eins aus THEMEN.
 - was: ein Satz, max. 140 Zeichen: Was heißt das für den Betrieb? Konkret, keine Wiederholung der Überschrift.
 - tun: ein Satz, max. 100 Zeichen, mit Verb am Anfang (z. B. "Prüfe ...", "Sprich mit ..."); leer, wenn es nichts zu tun gibt.
-- frist: Datum JJJJ-MM-TT, falls in Überschrift oder Anriss eine Frist/ein Stichtag genannt ist, sonst null.
+- frist: Datum JJJJ-MM-TT nur für echte Stichtage mit Handlungsbedarf für Betriebe (Pflicht gilt ab, Antragsfrist,
+  Meldefrist, Übergangsfrist endet), sonst null. Veranstaltungs-, Seminar- oder Messetermine sind KEINE Frist.
 - gewicht: 1 (nett zu wissen), 2 (wichtig), 3 (muss jeder Betrieb wissen).
 Erfinde keine Fakten, Zahlen oder Fristen. Nutze nur, was in Überschrift und Anriss steht.
 

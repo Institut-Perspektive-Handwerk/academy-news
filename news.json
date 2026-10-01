@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-01T23:30+00:00",
- "anzahl": 73,
+ "stand": "2026-10-01T23:36+00:00",
+ "anzahl": 72,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -33,18 +33,11 @@
  ],
  "fristen": [
   {
-   "titel": "Web-Seminar zu resilientem Planen und Bauen",
-   "link": "https://www.bft-international.com/de/news/web-seminar-zu-resilientem-planen-und-bauen-4429333.html",
-   "quelle": "BFT",
-   "frist": "2026-10-14",
-   "tun": "Melde dich zum Web-Seminar am 14.10.2026 an."
-  },
-  {
    "titel": "F-Gas-Verordnung im Fokus: Ab 01.01.2027 wird die verfügbare Menge an fluorierten Kältemitteln weiter reduziert",
    "link": "https://www.kka-online.info/news/f-gas-verordnung-im-fokus-ab-01-01-2027-wird-die-verfuegbare-menge-an-fluorierten-kaeltemitteln-weiter-reduziert-4426996.html",
    "quelle": "KKA",
    "frist": "2027-01-01",
-   "tun": "Plane jetzt Umrüstung oder Ersatz betroffener Kälteanlagen."
+   "tun": "Plane jetzt den Umstieg auf alternative Kältemittel für betroffene Bestandsanlagen."
   }
  ],
  "news": [
@@ -831,26 +824,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Web-Seminar zu resilientem Planen und Bauen",
-   "link": "https://www.bft-international.com/de/news/web-seminar-zu-resilientem-planen-und-bauen-4429333.html",
-   "quelle": "BFT",
-   "bereich": "Bau",
-   "datum": "2026-09-25T06:35:34+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
-    "Architektur/Planung"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Seminar zeigt, wie Gebäude widerstandsfähiger gegen Wetterextreme und Krisen geplant werden.",
-   "tun": "Melde dich zum Web-Seminar am 14.10.2026 an.",
-   "frist": "2026-10-14",
-   "gewicht": 1
-  },
-  {
    "titel": "Neue Termine für „Sarnafil“-Verlegerschulungen",
    "link": "https://www.dach-holzbau.de/news/neue-termine-fuer-sarnafil-verlegerschulungen-4428642.html",
    "quelle": "dach+holzbau",
@@ -890,24 +863,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Zuwachs im Fenstermarkt",
    "link": "https://www.metallbau-magazin.de/news/zuwachs-im-fenstermarkt-4432057.html",
    "quelle": "Metallbau",
@@ -925,6 +880,24 @@
    "tun": "Plane Kapazitäten für steigende Auftragszahlen ein.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Funk-Brandwarnanlage statt Brandmeldeanlage",
@@ -985,24 +958,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Drohnen im Handwerk: Förderung durch die BG BAU",
    "link": "https://www.handwerksblatt.de/betriebsfuehrung/drohnen-im-handwerk-foerderung-durch-die-bg-bau",
    "quelle": "handwerksblatt",
@@ -1019,6 +974,24 @@
    "tun": "Informiere dich bei der Handwerkskammer zu Voraussetzungen der Förderung",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Waterkotte startet Serienfertigung großer R290-Wärmepumpe",
@@ -1081,24 +1054,6 @@
    "gewicht": 3
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "DGNB baut umfangreiches Schulungsangebot für das Handwerk auf",
    "link": "https://www.bauhandwerk.de/news/dgnb-baut-umfangreiches-schulungsangebot-fuer-das-handwerk-auf-4425941.html",
    "quelle": "bauhandwerk",
@@ -1116,6 +1071,24 @@
    "tun": "Beobachte das DGNB-Angebot für passende Weiterbildungen",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Handwerk in Baden-Württemberg: Aufschwung lässt auf sich warten",
@@ -1177,24 +1150,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Ökofen: Pellet-Brennwert für größere Leistungen",
    "link": "https://www.ikz.de/heizungstechnik/news/detail/oekofen-pellet-brennwert-fuer-groessere-leistungen/",
    "quelle": "IKZ",
@@ -1213,6 +1168,24 @@
    "tun": "Prüfe das Produkt für Angebote bei größeren Wohnanlagen und Gewerbe",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Self-Service im Handwerk: Was Betriebe von Fast-Food-Ketten und Airlines lernen können",
@@ -1271,24 +1244,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Fraunhofer ISE: Preissimulator zeigt Einfluß von Batteriespeichern",
    "link": "https://www.solarserver.de/2026/10/01/fraunhofer-ise-preissimulator-zeigt-einfluss-von-batteriespeichern/",
    "quelle": "Solarserver",
@@ -1307,6 +1262,24 @@
    "tun": "Nutze den Preissimulator für Angebotskalkulation bei Speicherprojekten.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Bundesnetzagentur beschließt MiSpeL-Regeln für Speicher und bidirektionales Laden",
@@ -1343,9 +1316,9 @@
     "Inhaber/Geschäftsführung"
    ],
    "thema": "Recht & Pflichten",
-   "was": "Mutterschutz für Selbstständige ist im Elterngeld-Reformentwurf noch nicht enthalten, Lage für selbstständige Handwerkerinnen bleibt ungeklärt.",
-   "tun": "Verfolge die Entwicklung, falls du als Selbstständige betroffen bist",
-   "frist": "2025-10-06",
+   "was": "Mutterschutz für Selbstständige fehlt noch im Elterngeld-Reformentwurf, bleibt rechtliche Lücke für Chefinnen.",
+   "tun": "Verfolge die Gesetzesentwicklung, falls du als Selbstständige betroffen bist.",
+   "frist": null,
    "gewicht": 2
   },
   {
@@ -1368,24 +1341,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "TÜV zur neuen ISO 9001",
    "link": "https://www.metallbau-magazin.de/news/tuev-zur-neuen-iso-9001-4430894.html",
    "quelle": "Metallbau",
@@ -1403,6 +1358,24 @@
    "tun": "Prüfe dein QM-System auf Anpassungsbedarf zur neuen Norm.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Reverse Factoring: Darauf sollten Handwerksunternehmer achten",
@@ -1430,16 +1403,15 @@
    "bereich": "Kälte & Klima",
    "datum": "2026-09-22T05:40:54+00:00",
    "gewerke": [
-    "Kälte- und Klimatechnik",
-    "Sanitär/Heizung/Klima (SHK)"
+    "Kälte- und Klimatechnik"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
    "thema": "Recht & Pflichten",
-   "was": "Ab 2027 wird die Menge verfügbarer fluorierter Kältemittel weiter gekürzt, Anlagen mit R404A/R448A/R449A müssen frühzeitig umgerüstet werden.",
-   "tun": "Plane jetzt Umrüstung oder Ersatz betroffener Kälteanlagen.",
+   "was": "Ab 2027 wird die verfügbare Menge fluorierter Kältemittel weiter gekürzt, Altanlagen mit R404A & Co. brauchen frühzeitig einen Umstiegsplan.",
+   "tun": "Plane jetzt den Umstieg auf alternative Kältemittel für betroffene Bestandsanlagen.",
    "frist": "2027-01-01",
    "gewicht": 3
   }
