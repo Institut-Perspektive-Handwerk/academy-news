@@ -34,9 +34,20 @@ Antworte NUR mit einem JSON-Array, ein Objekt je Meldung in der Eingabereihenfol
 [{"id": "...", "relevant": true, "gewerke": [...], "rollen": [...], "thema": "...", "was": "...", "tun": "...", "frist": null, "gewicht": 2}]"""
 
 
-def einordnen(meldungen, gewerke, rollen, themen, schluessel, paket=25):
-    """meldungen: Liste von dicts mit id, titel, anriss, quelle. Gibt {id: einordnung}, verbrauch zurück."""
+def einordnen(meldungen, gewerke, rollen, themen, schluessel, paket=15, _tiefe=0):
+    """meldungen: Liste von dicts mit id, titel, anriss, quelle. Gibt {id: einordnung}, verbrauch zurück.
+    Kommt für ein Paket kein gültiges JSON zurück, wird es einmal in zwei Hälften neu versucht."""
     ergebnis, verbrauch = {}, {'eingabe': 0, 'ausgabe': 0, 'aufrufe': 0}
+
+    def nachholen(teil):
+        if _tiefe >= 1 or len(teil) < 2:
+            return
+        for h in (teil[:len(teil) // 2], teil[len(teil) // 2:]):
+            e2, v2 = einordnen(h, gewerke, rollen, themen, schluessel, paket=len(h), _tiefe=_tiefe + 1)
+            ergebnis.update(e2)
+            for k in verbrauch:
+                verbrauch[k] += v2[k]
+
     for i in range(0, len(meldungen), paket):
         teil = meldungen[i:i + paket]
         eingabe = 'GEWERKE: ' + json.dumps(gewerke, ensure_ascii=False) + '\nROLLEN: ' + json.dumps(rollen, ensure_ascii=False) \
@@ -60,7 +71,8 @@ def einordnen(meldungen, gewerke, rollen, themen, schluessel, paket=25):
         try:
             liste = json.loads(m.group(0)) if m else []
         except json.JSONDecodeError:
-            print(f'Einordnung Paket {i // paket + 1}: Antwort war kein gültiges JSON')
+            print(f'Einordnung Paket {i // paket + 1}: Antwort war kein gültiges JSON' + (' - neuer Versuch in zwei Hälften' if _tiefe == 0 else ''))
+            nachholen(teil)
             continue
         for e in liste:
             if not isinstance(e, dict) or 'id' not in e:

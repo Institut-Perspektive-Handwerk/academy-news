@@ -1,7 +1,7 @@
 {
   "max_alter_tage": 14,
-  "je_quelle": 8,
-  "gesamt": 40,
+  "je_quelle": 6,
+  "gesamt": 90,
   "iph_alle": 4,
   "gewerke": [
     "Alle Gewerke",
@@ -89,6 +89,76 @@
       "name": "elektro.net",
       "bereich": "Elektro",
       "url": "https://www.elektro.net/feed"
+    },
+    {
+      "name": "Boden Wand Decke",
+      "bereich": "Ausbau & Maler",
+      "url": "https://www.boden-wand-decke.de/feed/"
+    },
+    {
+      "name": "stuckateur.de",
+      "bereich": "Ausbau & Maler",
+      "url": "https://www.stuckateur.de/feed/"
+    },
+    {
+      "name": "GFF",
+      "bereich": "Fenster & Glas",
+      "url": "https://www.gff-magazin.de/feed/"
+    },
+    {
+      "name": "Metallbau",
+      "bereich": "Metallbau",
+      "url": "https://www.metallbau-magazin.de/rss.xml"
+    },
+    {
+      "name": "KKA",
+      "bereich": "Kälte & Klima",
+      "url": "https://www.kka-online.info/rss.xml"
+    },
+    {
+      "name": "Kälte Luft Klima",
+      "bereich": "Kälte & Klima",
+      "url": "https://kaelte-luft-klima.de/rss.xml"
+    },
+    {
+      "name": "TGA-Praxis",
+      "bereich": "TGA",
+      "url": "https://www.tga-praxis.de/rss"
+    },
+    {
+      "name": "pv magazine",
+      "bereich": "Photovoltaik",
+      "url": "https://www.pv-magazine.de/feed/"
+    },
+    {
+      "name": "Solarserver",
+      "bereich": "Photovoltaik",
+      "url": "https://www.solarserver.de/feed/"
+    },
+    {
+      "name": "Baublatt",
+      "bereich": "Bau",
+      "url": "https://baublatt.de/feed/"
+    },
+    {
+      "name": "DEGA GaLaBau",
+      "bereich": "GaLaBau",
+      "url": "https://www.dega-galabau.de/artikel.dll/RSS?MID=50278"
+    },
+    {
+      "name": "BFT",
+      "bereich": "Bau",
+      "url": "https://www.bft-international.com/de/rss.xml"
+    },
+    {
+      "name": "Mittelstandswiki",
+      "bereich": "KI & Digitales",
+      "url": "https://www.mittelstandswiki.de/feed"
+    },
+    {
+      "name": "impulse",
+      "bereich": "Unternehmer",
+      "url": "https://www.impulse.de/feed"
     }
   ]
 }
