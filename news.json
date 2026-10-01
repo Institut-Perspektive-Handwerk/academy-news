@@ -1,0 +1,356 @@
+{
+ "stand": "2026-10-01T15:56+00:00",
+ "anzahl": 50,
+ "news": [
+  {
+   "titel": "Tankrabatt führt zu schnell fallenden Spritpreisen",
+   "link": "https://allgemeinebauzeitung.de/tankrabatt-spritpreise-fallen-benzin-diesel/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-01T15:22:49+00:00"
+  },
+  {
+   "titel": "Effiziente Hallenleuchte mit bis zu 114 Konfigurationsmöglichkeiten",
+   "link": "https://www.elektro.net/129827/effiziente-hallenleuchte-mit-bis-zu-114-konfigurationsmoeglichkeiten/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-01T14:21:00+00:00"
+  },
+  {
+   "titel": "Resturlaub: So vermeiden Chefs rechtliche Risiken",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/resturlaub-vor-jahresende-handlungsbedarf-fuer-unternehmen",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T14:00:00+00:00"
+  },
+  {
+   "titel": "EU-Verpackungsverordnung: ZDH fordert Änderungen",
+   "link": "https://handwerk.com/politik-und-wirtschaft/eu-verpackungsverordnung-zdh-fordert-aenderungen",
+   "quelle": "handwerk.com",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T10:19:49+00:00"
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH"
+  },
+  {
+   "titel": "Fallbeispiele für Leasing: Wie Sie investieren und Liquidität schonen",
+   "link": "https://www.handwerk-magazin.de/leasing-investieren-und-die-liquiditaet-schonen-351102/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T08:00:00+00:00"
+  },
+  {
+   "titel": "Wärmepumpen für den europäischen Markt",
+   "link": "https://www.ikz.de/detail/news/detail/waermepumpen-fuer-den-europaeischen-markt/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-10-01T05:50:32+00:00"
+  },
+  {
+   "titel": "Rückblick auf den Tag des Bades 2026",
+   "link": "https://www.shk-profi.de/news/rueckblick-auf-den-tag-des-bades-2026-4431115.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-09-30T10:55:32+00:00"
+  },
+  {
+   "titel": "Austrotherm ist neues Fördermitglied der IQDF",
+   "link": "https://www.dach-holzbau.de/news/austrotherm-ist-foerdermitglied-der-iqdf-4430712.html",
+   "quelle": "dach+holzbau",
+   "bereich": "Dach & Holz",
+   "datum": "2026-09-29T10:16:12+00:00"
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH"
+  },
+  {
+   "titel": "Tischler-Nationalteam erfolgreich bei Worldskills 2026 in Shanghai",
+   "link": "https://www.bauhandwerk.de/news/tischler-nationalteam-erfolgreich-bei-worldskills-2026-in-shanghai-4430194.html",
+   "quelle": "bauhandwerk",
+   "bereich": "Bau",
+   "datum": "2026-09-28T13:46:33+00:00"
+  },
+  {
+   "titel": "Steelwrist startet in das nächste Kapitel mit neuen Standorten",
+   "link": "https://allgemeinebauzeitung.de/steelwrist-neue-standorte-ceo-wechsel/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-01T15:16:07+00:00"
+  },
+  {
+   "titel": "Marc-André Rusch wird CEO bei Griesser",
+   "link": "https://www.elektro.net/129825/marc-andre-rusch-wird-ceo-bei-griesser/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-01T13:55:00+00:00"
+  },
+  {
+   "titel": "Einwanderer sichern Fachkräfte in vielen Berufen",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/einwanderer-in-vielen-berufen-unverzichtbar",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T12:03:00+00:00"
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH"
+  },
+  {
+   "titel": "Digitale Geräteverwaltung im Handwerk dank RFID",
+   "link": "https://handwerk.com/gewerke/rfid-bringt-digitale-geraeteverwaltung-ins-handwerk",
+   "quelle": "handwerk.com",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T09:01:12+00:00"
+  },
+  {
+   "titel": "EEG-Novelle 2027 und die Folgen für kleine EE-Anlagen",
+   "link": "https://www.ikz.de/detail/news/detail/eeg-novelle-2027-und-die-folgen-fuer-kleine-ee-anlagen/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-09-30T12:10:02+00:00"
+  },
+  {
+   "titel": "Flottenversicherung: Wie ein Vertrag den ganzen Fuhrpark günstiger macht",
+   "link": "https://www.handwerk-magazin.de/flottenversicherung-grosse-vorteile-gegenueber-einzelvertraegen-351183/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-09-30T08:00:00+00:00"
+  },
+  {
+   "titel": "Dornbracht-Schulungen erfolgreich etabliert",
+   "link": "https://www.shk-profi.de/news/dornbracht-schulungen-erfolgreich-etabliert-4430878.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-09-29T14:50:37+00:00"
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH"
+  },
+  {
+   "titel": "Wechsel in der Geschäftsführung von Rheinzink",
+   "link": "https://www.dach-holzbau.de/news/wechsel-in-der-geschaeftsfuehrung-von-rheinzink-4430531.html",
+   "quelle": "dach+holzbau",
+   "bereich": "Dach & Holz",
+   "datum": "2026-09-29T08:03:15+00:00"
+  },
+  {
+   "titel": "Registrierkassenpflicht: Diese neuen Kassen-Regeln sollten Handwerksbetriebe jetzt kennen",
+   "link": "https://www.bauhandwerk.de/news/registrierkassenpflicht-diese-neuen-kassen-regeln-sollten-handwerksbetriebe-jetzt-kennen-4427013.html",
+   "quelle": "bauhandwerk",
+   "bereich": "Bau",
+   "datum": "2026-09-22T07:18:37+00:00"
+  },
+  {
+   "titel": "50000 Wohneinheiten durch EH55-Förderung gefördert",
+   "link": "https://allgemeinebauzeitung.de/eh55-wohneinheiten-kfw-baufoerderung/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-01T14:22:03+00:00"
+  },
+  {
+   "titel": "Neues Vogelabwehrsystem für Photovoltaik-Großanlagen",
+   "link": "https://www.elektro.net/129824/neues-vogelabwehrsystem-fuer-photovoltaik-grossanlagen/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-01T12:46:00+00:00"
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH"
+  },
+  {
+   "titel": "Gesundheitsreform: Was sich für Versicherte ändert",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/gesundheitsreform-was-sich-fuer-versicherte-aendert",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T10:25:00+00:00"
+  },
+  {
+   "titel": "Maschinentechnik: Kompakte Plattenaufteilsäge fürs Handwerk",
+   "link": "https://handwerk.com/gewerke/homag-bringt-kompakte-plattenaufteilsaege",
+   "quelle": "handwerk.com",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T08:56:53+00:00"
+  },
+  {
+   "titel": "24. Fachsymposium bei Hoval Deutschland",
+   "link": "https://www.ikz.de/detail/news/detail/24-fachsymposium-bei-hoval-deutschland/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-09-30T05:53:43+00:00"
+  },
+  {
+   "titel": "Hansgrohe startet neues Partnerprogramm",
+   "link": "https://www.shk-profi.de/news/hansgrohe-startet-neues-partnerprogramm-4430876.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-09-29T14:44:39+00:00"
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH"
+  },
+  {
+   "titel": "Mazda 6e EV: \"Die Lenkung reagiert exakt, er fährt sich sehr ruhig\"",
+   "link": "https://www.handwerk-magazin.de/mazda-6e-ev-die-lenkung-reagiert-exakt-er-faehrt-sich-sehr-ruhig-351286/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-09-29T08:00:00+00:00"
+  },
+  {
+   "titel": "Neue Termine für „Sarnafil“-Verlegerschulungen",
+   "link": "https://www.dach-holzbau.de/news/neue-termine-fuer-sarnafil-verlegerschulungen-4428642.html",
+   "quelle": "dach+holzbau",
+   "bereich": "Dach & Holz",
+   "datum": "2026-09-24T12:03:38+00:00"
+  },
+  {
+   "titel": "Handwerker-Seminarprogramm 2027 der Brillux Akademie",
+   "link": "https://www.bauhandwerk.de/news/handwerker-seminarprogramm-2027-der-brillux-akademie-4426987.html",
+   "quelle": "bauhandwerk",
+   "bereich": "Bau",
+   "datum": "2026-09-21T15:52:04+00:00"
+  },
+  {
+   "titel": "Studie zeigt: Viele Mehrfamilienhäuser geeignet für Wärmepumpen",
+   "link": "https://allgemeinebauzeitung.de/mehrfamilienhaeuser-waermepumpe-geeignetheit-kosten/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-01T13:46:14+00:00"
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH"
+  },
+  {
+   "titel": "Funk-Brandwarnanlage statt Brandmeldeanlage",
+   "link": "https://www.elektro.net/129529/brandwarnanlage-statt-brandmeldeanlage/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-01T11:54:00+00:00"
+  },
+  {
+   "titel": "Drohnen im Handwerk: Förderung durch die BG BAU",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/drohnen-im-handwerk-foerderung-durch-die-bg-bau",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T09:44:00+00:00"
+  },
+  {
+   "titel": "Digitale Konfiguration: Tanos startet Online-Berater für Systainer",
+   "link": "https://handwerk.com/gewerke/tanos-startet-online-berater-fuer-systainerr",
+   "quelle": "handwerk.com",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T08:49:59+00:00"
+  },
+  {
+   "titel": "Waterkotte startet Serienfertigung großer R290-Wärmepumpe",
+   "link": "https://www.ikz.de/detail/news/detail/waterkotte-startet-serienfertigung-grosser-r290-waermepumpe/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-09-29T05:50:35+00:00"
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH"
+  },
+  {
+   "titel": "WorldSkills 2026: Gold für Möbelschreiner und Stahlbetonbauer – Team Germany glänzt in Shanghai",
+   "link": "https://www.handwerk-magazin.de/worldskills-2026-team-germany-kaempft-in-shanghai-um-medaillen-351303/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-09-28T16:00:08+00:00"
+  },
+  {
+   "titel": "Trends vom Hoval-Symposium",
+   "link": "https://www.shk-profi.de/news/trends-vom-hoval-symposium-4429903.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-09-28T12:28:10+00:00"
+  },
+  {
+   "titel": "Absturzgefahren bei Dacharbeiten erkennen und vermeiden",
+   "link": "https://www.dach-holzbau.de/news/absturzgefahren-bei-dacharbeiten-erkennen-und-vermeiden-4426050.html",
+   "quelle": "dach+holzbau",
+   "bereich": "Dach & Holz",
+   "datum": "2026-09-18T13:25:09+00:00"
+  },
+  {
+   "titel": "DGNB baut umfangreiches Schulungsangebot für das Handwerk auf",
+   "link": "https://www.bauhandwerk.de/news/dgnb-baut-umfangreiches-schulungsangebot-fuer-das-handwerk-auf-4425941.html",
+   "quelle": "bauhandwerk",
+   "bereich": "Bau",
+   "datum": "2026-09-18T09:27:56+00:00"
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH"
+  },
+  {
+   "titel": "Handwerk in Baden-Württemberg: Aufschwung lässt auf sich warten",
+   "link": "https://allgemeinebauzeitung.de/handwerk-baden-wurttemberg-aufschwung-anspannung-investitionen/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-01T12:42:52+00:00"
+  },
+  {
+   "titel": "Steuerbare Verbrauchseinrichtungen gemäß § 4a EnWG",
+   "link": "https://www.elektro.net/129742/steuerbarkeit-praktisch-umsetzen/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-01T11:00:00+00:00"
+  },
+  {
+   "titel": "Ehrenamtskarte in Rheinland-Pfalz jetzt als App",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/ehrenamtskarte-in-rheinland-pfalz-jetzt-als-app",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T09:08:00+00:00"
+  },
+  {
+   "titel": "Digitale Farbplanung mit neuem Farbdesigner",
+   "link": "https://handwerk.com/gewerke/digitalisierung-im-handwerk-osmo-startet-farbdesigner",
+   "quelle": "handwerk.com",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T08:46:21+00:00"
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH"
+  }
+ ]
+}

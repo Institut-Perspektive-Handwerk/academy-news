@@ -1,0 +1,17 @@
+{
+  "max_alter_tage": 14,
+  "je_quelle": 5,
+  "gesamt": 40,
+  "iph_alle": 4,
+  "quellen": [
+    { "name": "handwerksblatt", "bereich": "Handwerk", "url": "https://www.handwerksblatt.de/rss_feed.xml" },
+    { "name": "handwerk.com", "bereich": "Handwerk", "url": "https://handwerk.com/rss.xml" },
+    { "name": "handwerk magazin", "bereich": "Handwerk", "url": "https://www.handwerk-magazin.de/feed/" },
+    { "name": "Allgemeine Bauzeitung", "bereich": "Bau", "url": "https://www.allgemeinebauzeitung.de/feed/" },
+    { "name": "bauhandwerk", "bereich": "Bau", "url": "https://www.bauhandwerk.de/rss.xml" },
+    { "name": "dach+holzbau", "bereich": "Dach & Holz", "url": "https://www.dach-holzbau.de/rss.xml" },
+    { "name": "IKZ", "bereich": "SHK", "url": "https://www.ikz.de/rss.xml" },
+    { "name": "SHK-Profi", "bereich": "SHK", "url": "https://www.shk-profi.de/rss.xml" },
+    { "name": "elektro.net", "bereich": "Elektro", "url": "https://www.elektro.net/feed" }
+  ]
+}
