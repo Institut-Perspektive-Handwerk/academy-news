@@ -1,0 +1,22 @@
+name: News sammeln
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # alle 2 Stunden
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sammeln:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python news_sammeln.py
+      - name: news.json committen, wenn sich etwas geändert hat
+        run: |
+          git config user.name "iph-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || (git commit -m "News aktualisiert" && git push)
