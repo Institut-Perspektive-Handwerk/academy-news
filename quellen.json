@@ -1,17 +1,94 @@
 {
   "max_alter_tage": 14,
-  "je_quelle": 5,
+  "je_quelle": 8,
   "gesamt": 40,
   "iph_alle": 4,
+  "gewerke": [
+    "Alle Gewerke",
+    "Sanitär/Heizung/Klima (SHK)",
+    "Elektro",
+    "Tiefbau",
+    "Hochbau/Rohbau",
+    "Innenausbau/Trockenbau",
+    "Stuckateur/Fassade",
+    "Maler und Lackierer",
+    "Dachdecker",
+    "Holzbau/Zimmerei",
+    "Schreinerei/Tischlerei",
+    "Fliesen- und Bodenleger",
+    "Metallbau",
+    "Fensterbau/Glas",
+    "Kälte- und Klimatechnik",
+    "TGA/Energiedienstleister",
+    "Photovoltaik/Solartechnik",
+    "Gerüstbau",
+    "Garten- und Landschaftsbau",
+    "Werbetechnik",
+    "Architektur/Planung"
+  ],
+  "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+  ],
+  "themen": [
+    "Recht & Pflichten",
+    "Förderung",
+    "Preise & Material",
+    "Personal & Ausbildung",
+    "Arbeitsschutz",
+    "Normen & Technik",
+    "VOB & Verträge",
+    "KI & Digitales",
+    "Markt"
+  ],
   "quellen": [
-    { "name": "handwerksblatt", "bereich": "Handwerk", "url": "https://www.handwerksblatt.de/rss_feed.xml" },
-    { "name": "handwerk.com", "bereich": "Handwerk", "url": "https://handwerk.com/rss.xml" },
-    { "name": "handwerk magazin", "bereich": "Handwerk", "url": "https://www.handwerk-magazin.de/feed/" },
-    { "name": "Allgemeine Bauzeitung", "bereich": "Bau", "url": "https://www.allgemeinebauzeitung.de/feed/" },
-    { "name": "bauhandwerk", "bereich": "Bau", "url": "https://www.bauhandwerk.de/rss.xml" },
-    { "name": "dach+holzbau", "bereich": "Dach & Holz", "url": "https://www.dach-holzbau.de/rss.xml" },
-    { "name": "IKZ", "bereich": "SHK", "url": "https://www.ikz.de/rss.xml" },
-    { "name": "SHK-Profi", "bereich": "SHK", "url": "https://www.shk-profi.de/rss.xml" },
-    { "name": "elektro.net", "bereich": "Elektro", "url": "https://www.elektro.net/feed" }
+    {
+      "name": "handwerksblatt",
+      "bereich": "Handwerk",
+      "url": "https://www.handwerksblatt.de/rss_feed.xml"
+    },
+    {
+      "name": "handwerk.com",
+      "bereich": "Handwerk",
+      "url": "https://handwerk.com/rss.xml"
+    },
+    {
+      "name": "handwerk magazin",
+      "bereich": "Handwerk",
+      "url": "https://www.handwerk-magazin.de/feed/"
+    },
+    {
+      "name": "Allgemeine Bauzeitung",
+      "bereich": "Bau",
+      "url": "https://www.allgemeinebauzeitung.de/feed/"
+    },
+    {
+      "name": "bauhandwerk",
+      "bereich": "Bau",
+      "url": "https://www.bauhandwerk.de/rss.xml"
+    },
+    {
+      "name": "dach+holzbau",
+      "bereich": "Dach & Holz",
+      "url": "https://www.dach-holzbau.de/rss.xml"
+    },
+    {
+      "name": "IKZ",
+      "bereich": "SHK",
+      "url": "https://www.ikz.de/rss.xml"
+    },
+    {
+      "name": "SHK-Profi",
+      "bereich": "SHK",
+      "url": "https://www.shk-profi.de/rss.xml"
+    },
+    {
+      "name": "elektro.net",
+      "bereich": "Elektro",
+      "url": "https://www.elektro.net/feed"
+    }
   ]
 }

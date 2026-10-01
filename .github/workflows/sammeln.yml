@@ -14,9 +14,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: python news_sammeln.py
-      - name: news.json committen, wenn sich etwas geändert hat
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: news.json und Einordnung committen, wenn sich etwas geändert hat
         run: |
           git config user.name "iph-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add news.json
+          git add news.json einordnung.json
           git diff --cached --quiet || (git commit -m "News aktualisiert" && git push)

@@ -1,356 +1,910 @@
 {
- "stand": "2026-10-01T22:15+00:00",
- "anzahl": 50,
+ "stand": "2026-10-01T23:02+00:00",
+ "anzahl": 46,
+ "gewerke": [
+  "Alle Gewerke",
+  "Sanitär/Heizung/Klima (SHK)",
+  "Elektro",
+  "Tiefbau",
+  "Hochbau/Rohbau",
+  "Innenausbau/Trockenbau",
+  "Stuckateur/Fassade",
+  "Maler und Lackierer",
+  "Dachdecker",
+  "Holzbau/Zimmerei",
+  "Schreinerei/Tischlerei",
+  "Fliesen- und Bodenleger",
+  "Metallbau",
+  "Fensterbau/Glas",
+  "Kälte- und Klimatechnik",
+  "TGA/Energiedienstleister",
+  "Photovoltaik/Solartechnik",
+  "Gerüstbau",
+  "Garten- und Landschaftsbau",
+  "Werbetechnik",
+  "Architektur/Planung"
+ ],
+ "rollen": [
+  "Inhaber/Geschäftsführung",
+  "Projektleitung/Bauleitung",
+  "Büro/Kalkulation",
+  "Monteur/Facharbeiter",
+  "Ausbildung"
+ ],
+ "fristen": [],
  "news": [
   {
    "titel": "Tankrabatt führt zu schnell fallenden Spritpreisen",
    "link": "https://allgemeinebauzeitung.de/tankrabatt-spritpreise-fallen-benzin-diesel/",
    "quelle": "Allgemeine Bauzeitung",
    "bereich": "Bau",
-   "datum": "2026-10-01T15:22:49+00:00"
-  },
-  {
-   "titel": "Effiziente Hallenleuchte mit bis zu 114 Konfigurationsmöglichkeiten",
-   "link": "https://www.elektro.net/129827/effiziente-hallenleuchte-mit-bis-zu-114-konfigurationsmoeglichkeiten/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-01T14:21:00+00:00"
+   "datum": "2026-10-01T15:22:49+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Sinkende Spritpreise senken kurzfristig die Fahrzeug- und Transportkosten im Betrieb.",
+   "tun": "Vergleiche Tankkosten und plane Dienstfahrten kosteneffizient.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Resturlaub: So vermeiden Chefs rechtliche Risiken",
    "link": "https://www.handwerksblatt.de/betriebsfuehrung/resturlaub-vor-jahresende-handlungsbedarf-fuer-unternehmen",
    "quelle": "handwerksblatt",
    "bereich": "Handwerk",
-   "datum": "2026-10-01T14:00:00+00:00"
+   "datum": "2026-10-01T14:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Ohne aktive Urlaubsaufforderung drohen Nachzahlungsansprüche der Mitarbeiter.",
+   "tun": "Informiere Mitarbeiter schriftlich über Resturlaub und Fristen.",
+   "frist": null,
+   "gewicht": 3
   },
   {
    "titel": "EU-Verpackungsverordnung: ZDH fordert Änderungen",
    "link": "https://handwerk.com/politik-und-wirtschaft/eu-verpackungsverordnung-zdh-fordert-aenderungen",
    "quelle": "handwerk.com",
    "bereich": "Handwerk",
-   "datum": "2026-10-01T10:19:49+00:00"
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH"
+   "datum": "2026-10-01T10:19:49+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Neue Verpackungsregeln könnten kleine Betriebe mit zusätzlichem Aufwand belasten.",
+   "tun": "Verfolge die Diskussion um Bagatellgrenzen und prüfe eigene Verpackungspflichten.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Fallbeispiele für Leasing: Wie Sie investieren und Liquidität schonen",
    "link": "https://www.handwerk-magazin.de/leasing-investieren-und-die-liquiditaet-schonen-351102/",
    "quelle": "handwerk magazin",
    "bereich": "Handwerk",
-   "datum": "2026-10-01T08:00:00+00:00"
+   "datum": "2026-10-01T08:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Leasing kann Liquidität schonen, wenn Maschinen oder Fahrzeuge finanziert werden müssen.",
+   "tun": "Prüfe Leasingangebote als Alternative zum Kauf für anstehende Investitionen.",
+   "frist": null,
+   "gewicht": 2
   },
   {
-   "titel": "Wärmepumpen für den europäischen Markt",
-   "link": "https://www.ikz.de/detail/news/detail/waermepumpen-fuer-den-europaeischen-markt/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-10-01T05:50:32+00:00"
-  },
-  {
-   "titel": "Rückblick auf den Tag des Bades 2026",
-   "link": "https://www.shk-profi.de/news/rueckblick-auf-den-tag-des-bades-2026-4431115.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-09-30T10:55:32+00:00"
-  },
-  {
-   "titel": "Austrotherm ist neues Fördermitglied der IQDF",
-   "link": "https://www.dach-holzbau.de/news/austrotherm-ist-foerdermitglied-der-iqdf-4430712.html",
-   "quelle": "dach+holzbau",
-   "bereich": "Dach & Holz",
-   "datum": "2026-09-29T10:16:12+00:00"
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
    "aktiv": true,
-   "bereich": "IPH"
-  },
-  {
-   "titel": "Tischler-Nationalteam erfolgreich bei Worldskills 2026 in Shanghai",
-   "link": "https://www.bauhandwerk.de/news/tischler-nationalteam-erfolgreich-bei-worldskills-2026-in-shanghai-4430194.html",
-   "quelle": "bauhandwerk",
-   "bereich": "Bau",
-   "datum": "2026-09-28T13:46:33+00:00"
-  },
-  {
-   "titel": "Steelwrist startet in das nächste Kapitel mit neuen Standorten",
-   "link": "https://allgemeinebauzeitung.de/steelwrist-neue-standorte-ceo-wechsel/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-01T15:16:07+00:00"
-  },
-  {
-   "titel": "Marc-André Rusch wird CEO bei Griesser",
-   "link": "https://www.elektro.net/129825/marc-andre-rusch-wird-ceo-bei-griesser/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-01T13:55:00+00:00"
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Einwanderer sichern Fachkräfte in vielen Berufen",
    "link": "https://www.handwerksblatt.de/betriebsfuehrung/einwanderer-in-vielen-berufen-unverzichtbar",
    "quelle": "handwerksblatt",
    "bereich": "Handwerk",
-   "datum": "2026-10-01T12:03:00+00:00"
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH"
+   "datum": "2026-10-01T12:03:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Einwanderer sichern zunehmend den Fachkräftebedarf in Bauberufen – wichtig für Personalplanung.",
+   "tun": "Prüfe gezielt Rekrutierung und Integration internationaler Fachkräfte.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Digitale Geräteverwaltung im Handwerk dank RFID",
    "link": "https://handwerk.com/gewerke/rfid-bringt-digitale-geraeteverwaltung-ins-handwerk",
    "quelle": "handwerk.com",
    "bereich": "Handwerk",
-   "datum": "2026-10-01T09:01:12+00:00"
+   "datum": "2026-10-01T09:01:12+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "KI & Digitales",
+   "was": "RFID-Technik kann helfen, Geräteverantwortung und -verbleib im Betrieb klar zu dokumentieren.",
+   "tun": "Prüfe, ob RFID-Geräteverwaltung Verluste und Verantwortlichkeiten im Betrieb reduziert.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "EEG-Novelle 2027 und die Folgen für kleine EE-Anlagen",
    "link": "https://www.ikz.de/detail/news/detail/eeg-novelle-2027-und-die-folgen-fuer-kleine-ee-anlagen/",
    "quelle": "IKZ",
    "bereich": "SHK",
-   "datum": "2026-09-30T12:10:02+00:00"
+   "datum": "2026-09-30T12:10:02+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "Elektro"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Die EEG-Novelle 2027 kann Förderbedingungen für kleine PV-Anlagen verändern.",
+   "tun": "Verfolge die Einschätzung der Stiftung Umweltenergierecht zu Folgen für Kleinanlagen.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Flottenversicherung: Wie ein Vertrag den ganzen Fuhrpark günstiger macht",
    "link": "https://www.handwerk-magazin.de/flottenversicherung-grosse-vorteile-gegenueber-einzelvertraegen-351183/",
    "quelle": "handwerk magazin",
    "bereich": "Handwerk",
-   "datum": "2026-09-30T08:00:00+00:00"
+   "datum": "2026-09-30T08:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Eine Flottenversicherung kann Prämien und Verwaltungsaufwand für den Fuhrpark senken.",
+   "tun": "Vergleiche aktuelle Flottenversicherungsangebote für deinen Fuhrpark.",
+   "frist": null,
+   "gewicht": 2
   },
   {
-   "titel": "Dornbracht-Schulungen erfolgreich etabliert",
-   "link": "https://www.shk-profi.de/news/dornbracht-schulungen-erfolgreich-etabliert-4430878.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-09-29T14:50:37+00:00"
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
    "aktiv": true,
-   "bereich": "IPH"
-  },
-  {
-   "titel": "Wechsel in der Geschäftsführung von Rheinzink",
-   "link": "https://www.dach-holzbau.de/news/wechsel-in-der-geschaeftsfuehrung-von-rheinzink-4430531.html",
-   "quelle": "dach+holzbau",
-   "bereich": "Dach & Holz",
-   "datum": "2026-09-29T08:03:15+00:00"
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Registrierkassenpflicht: Diese neuen Kassen-Regeln sollten Handwerksbetriebe jetzt kennen",
    "link": "https://www.bauhandwerk.de/news/registrierkassenpflicht-diese-neuen-kassen-regeln-sollten-handwerksbetriebe-jetzt-kennen-4427013.html",
    "quelle": "bauhandwerk",
    "bereich": "Bau",
-   "datum": "2026-09-22T07:18:37+00:00"
+   "datum": "2026-09-22T07:18:37+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Ab 2028 soll eine allgemeine Registrierkassenpflicht gelten – Kassenprozesse müssen angepasst werden.",
+   "tun": "Informiere dich über den Referentenentwurf und plane die Umstellung der Kassensysteme.",
+   "frist": null,
+   "gewicht": 3
   },
   {
    "titel": "50000 Wohneinheiten durch EH55-Förderung gefördert",
    "link": "https://allgemeinebauzeitung.de/eh55-wohneinheiten-kfw-baufoerderung/",
    "quelle": "Allgemeine Bauzeitung",
    "bereich": "Bau",
-   "datum": "2026-10-01T14:22:03+00:00"
+   "datum": "2026-10-01T14:22:03+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Förderung",
+   "was": "Die KfW-EH55-Förderung zeigt starke Nachfrage – relevant für Neubauprojekte und Fördermittelplanung.",
+   "tun": "Prüfe aktuelle EH55-Fördermöglichkeiten für laufende Neubauvorhaben.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Neues Vogelabwehrsystem für Photovoltaik-Großanlagen",
    "link": "https://www.elektro.net/129824/neues-vogelabwehrsystem-fuer-photovoltaik-grossanlagen/",
    "quelle": "elektro.net",
    "bereich": "Elektro",
-   "datum": "2026-10-01T12:46:00+00:00"
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH"
+   "datum": "2026-10-01T12:46:00+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Ein neues Vogelabwehrsystem kann Reinigungsaufwand und Ertragsverluste bei PV-Großanlagen reduzieren.",
+   "tun": "Prüfe den Einsatz des Systems bei gewerblichen PV-Projekten mit Verschattungsproblemen.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Gesundheitsreform: Was sich für Versicherte ändert",
    "link": "https://www.handwerksblatt.de/betriebsfuehrung/gesundheitsreform-was-sich-fuer-versicherte-aendert",
    "quelle": "handwerksblatt",
    "bereich": "Handwerk",
-   "datum": "2026-10-01T10:25:00+00:00"
+   "datum": "2026-10-01T10:25:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Die Gesundheitsreform 2027 bringt höhere Zuzahlungen und neue Beitragsgrenzen für Mitarbeiter.",
+   "tun": "Informiere Mitarbeiter über geänderte Beiträge und Zuzahlungen ab 2027.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Maschinentechnik: Kompakte Plattenaufteilsäge fürs Handwerk",
    "link": "https://handwerk.com/gewerke/homag-bringt-kompakte-plattenaufteilsaege",
    "quelle": "handwerk.com",
    "bereich": "Handwerk",
-   "datum": "2026-10-01T08:56:53+00:00"
-  },
-  {
-   "titel": "24. Fachsymposium bei Hoval Deutschland",
-   "link": "https://www.ikz.de/detail/news/detail/24-fachsymposium-bei-hoval-deutschland/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-09-30T05:53:43+00:00"
-  },
-  {
-   "titel": "Hansgrohe startet neues Partnerprogramm",
-   "link": "https://www.shk-profi.de/news/hansgrohe-startet-neues-partnerprogramm-4430876.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-09-29T14:44:39+00:00"
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH"
-  },
-  {
-   "titel": "Mazda 6e EV: \"Die Lenkung reagiert exakt, er fährt sich sehr ruhig\"",
-   "link": "https://www.handwerk-magazin.de/mazda-6e-ev-die-lenkung-reagiert-exakt-er-faehrt-sich-sehr-ruhig-351286/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-09-29T08:00:00+00:00"
+   "datum": "2026-10-01T08:56:53+00:00",
+   "gewerke": [
+    "Schreinerei/Tischlerei"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Die kompakte Plattensäge kann Durchsatz und Präzision in der Werkstatt verbessern.",
+   "tun": "Prüfe die SAWTEQ S-190 als Ergänzung für deine Werkstattausstattung.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Neue Termine für „Sarnafil“-Verlegerschulungen",
    "link": "https://www.dach-holzbau.de/news/neue-termine-fuer-sarnafil-verlegerschulungen-4428642.html",
    "quelle": "dach+holzbau",
    "bereich": "Dach & Holz",
-   "datum": "2026-09-24T12:03:38+00:00"
-  },
-  {
-   "titel": "Handwerker-Seminarprogramm 2027 der Brillux Akademie",
-   "link": "https://www.bauhandwerk.de/news/handwerker-seminarprogramm-2027-der-brillux-akademie-4426987.html",
-   "quelle": "bauhandwerk",
-   "bereich": "Bau",
-   "datum": "2026-09-21T15:52:04+00:00"
+   "datum": "2026-09-24T12:03:38+00:00",
+   "gewerke": [
+    "Dachdecker"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Schulungen für Flachdachverlegung mit Sarnafil-Systemen für 2027 sind buchbar.",
+   "tun": "Melde Monteure rechtzeitig für Schulungsplätze an",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Studie zeigt: Viele Mehrfamilienhäuser geeignet für Wärmepumpen",
    "link": "https://allgemeinebauzeitung.de/mehrfamilienhaeuser-waermepumpe-geeignetheit-kosten/",
    "quelle": "Allgemeine Bauzeitung",
    "bereich": "Bau",
-   "datum": "2026-10-01T13:46:14+00:00"
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH"
+   "datum": "2026-10-01T13:46:14+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Markt",
+   "was": "Großes Marktpotenzial für Wärmepumpen-Nachrüstung in Mehrfamilienhäusern, auch ohne Flächenheizung.",
+   "tun": "Biete Bestandskunden mit MFH gezielt Wärmepumpen-Beratung an",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Funk-Brandwarnanlage statt Brandmeldeanlage",
    "link": "https://www.elektro.net/129529/brandwarnanlage-statt-brandmeldeanlage/",
    "quelle": "elektro.net",
    "bereich": "Elektro",
-   "datum": "2026-10-01T11:54:00+00:00"
-  },
-  {
-   "titel": "Drohnen im Handwerk: Förderung durch die BG BAU",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/drohnen-im-handwerk-foerderung-durch-die-bg-bau",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-01T09:44:00+00:00"
-  },
-  {
-   "titel": "Digitale Konfiguration: Tanos startet Online-Berater für Systainer",
-   "link": "https://handwerk.com/gewerke/tanos-startet-online-berater-fuer-systainerr",
-   "quelle": "handwerk.com",
-   "bereich": "Handwerk",
-   "datum": "2026-10-01T08:49:59+00:00"
-  },
-  {
-   "titel": "Waterkotte startet Serienfertigung großer R290-Wärmepumpe",
-   "link": "https://www.ikz.de/detail/news/detail/waterkotte-startet-serienfertigung-grosser-r290-waermepumpe/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-09-29T05:50:35+00:00"
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH"
-  },
-  {
-   "titel": "WorldSkills 2026: Gold für Möbelschreiner und Stahlbetonbauer – Team Germany glänzt in Shanghai",
-   "link": "https://www.handwerk-magazin.de/worldskills-2026-team-germany-kaempft-in-shanghai-um-medaillen-351303/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-09-28T16:00:08+00:00"
-  },
-  {
-   "titel": "Trends vom Hoval-Symposium",
-   "link": "https://www.shk-profi.de/news/trends-vom-hoval-symposium-4429903.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-09-28T12:28:10+00:00"
-  },
-  {
-   "titel": "Absturzgefahren bei Dacharbeiten erkennen und vermeiden",
-   "link": "https://www.dach-holzbau.de/news/absturzgefahren-bei-dacharbeiten-erkennen-und-vermeiden-4426050.html",
-   "quelle": "dach+holzbau",
-   "bereich": "Dach & Holz",
-   "datum": "2026-09-18T13:25:09+00:00"
-  },
-  {
-   "titel": "DGNB baut umfangreiches Schulungsangebot für das Handwerk auf",
-   "link": "https://www.bauhandwerk.de/news/dgnb-baut-umfangreiches-schulungsangebot-fuer-das-handwerk-auf-4425941.html",
-   "quelle": "bauhandwerk",
-   "bereich": "Bau",
-   "datum": "2026-09-18T09:27:56+00:00"
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH"
-  },
-  {
-   "titel": "Handwerk in Baden-Württemberg: Aufschwung lässt auf sich warten",
-   "link": "https://allgemeinebauzeitung.de/handwerk-baden-wurttemberg-aufschwung-anspannung-investitionen/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-01T12:42:52+00:00"
-  },
-  {
-   "titel": "Steuerbare Verbrauchseinrichtungen gemäß § 4a EnWG",
-   "link": "https://www.elektro.net/129742/steuerbarkeit-praktisch-umsetzen/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-01T11:00:00+00:00"
-  },
-  {
-   "titel": "Ehrenamtskarte in Rheinland-Pfalz jetzt als App",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/ehrenamtskarte-in-rheinland-pfalz-jetzt-als-app",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-01T09:08:00+00:00"
-  },
-  {
-   "titel": "Digitale Farbplanung mit neuem Farbdesigner",
-   "link": "https://handwerk.com/gewerke/digitalisierung-im-handwerk-osmo-startet-farbdesigner",
-   "quelle": "handwerk.com",
-   "bereich": "Handwerk",
-   "datum": "2026-10-01T08:46:21+00:00"
+   "datum": "2026-10-01T11:54:00+00:00",
+   "gewerke": [
+    "Elektro"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Funk-Brandwarnanlagen sind eine wirtschaftliche Alternative zur klassischen Brandmeldeanlage bei kleineren Objekten.",
+   "tun": "Prüfe bei Kita- und Pflegeprojekten die Funk-Lösung als Option",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
    "aktiv": true,
-   "bereich": "IPH"
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Drohnen im Handwerk: Förderung durch die BG BAU",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/drohnen-im-handwerk-foerderung-durch-die-bg-bau",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T09:44:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Förderung",
+   "was": "BG BAU fördert jetzt Drohneneinsatz für mehr Arbeitsschutz im Betrieb.",
+   "tun": "Informiere dich bei der Handwerkskammer zu Voraussetzungen der Förderung",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Waterkotte startet Serienfertigung großer R290-Wärmepumpe",
+   "link": "https://www.ikz.de/detail/news/detail/waterkotte-startet-serienfertigung-grosser-r290-waermepumpe/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-09-29T05:50:35+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Preise & Material",
+   "was": "Neue große R290-Wärmepumpe von Waterkotte geht in Serie, relevant für Verfügbarkeit und Angebotsplanung.",
+   "tun": "Frage beim Großhandel nach Lieferzeiten und Preisen an",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Absturzgefahren bei Dacharbeiten erkennen und vermeiden",
+   "link": "https://www.dach-holzbau.de/news/absturzgefahren-bei-dacharbeiten-erkennen-und-vermeiden-4426050.html",
+   "quelle": "dach+holzbau",
+   "bereich": "Dach & Holz",
+   "datum": "2026-09-18T13:25:09+00:00",
+   "gewerke": [
+    "Dachdecker",
+    "Gerüstbau"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Arbeitsschutz",
+   "was": "Absturz- und Durchsturzgefahren bei Dacharbeiten bleiben eine der größten Unfallursachen am Bau.",
+   "tun": "Prüfe Absturzsicherung und Durchsturzschutz vor jedem Dacheinsatz",
+   "frist": null,
+   "gewicht": 3
+  },
+  {
+   "titel": "DGNB baut umfangreiches Schulungsangebot für das Handwerk auf",
+   "link": "https://www.bauhandwerk.de/news/dgnb-baut-umfangreiches-schulungsangebot-fuer-das-handwerk-auf-4425941.html",
+   "quelle": "bauhandwerk",
+   "bereich": "Bau",
+   "datum": "2026-09-18T09:27:56+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Ausbildung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "DGNB baut Schulungsangebot für nachhaltiges Bauen im Handwerk auf, relevant für Zertifizierung und Qualifikation.",
+   "tun": "Beobachte das DGNB-Angebot für passende Weiterbildungen",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Handwerk in Baden-Württemberg: Aufschwung lässt auf sich warten",
+   "link": "https://allgemeinebauzeitung.de/handwerk-baden-wurttemberg-aufschwung-anspannung-investitionen/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-01T12:42:52+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Konjunktur im BW-Handwerk bleibt schwach, Aufträge und Investitionen sinken weiter.",
+   "tun": "Plane Investitionen und Kapazitäten vorsichtig angesichts schwacher Auftragslage",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Steuerbare Verbrauchseinrichtungen gemäß § 4a EnWG",
+   "link": "https://www.elektro.net/129742/steuerbarkeit-praktisch-umsetzen/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-01T11:00:00+00:00",
+   "gewerke": [
+    "Elektro",
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "§14a EnWG verpflichtet zu steuerbaren Verbrauchseinrichtungen ab 4,2 kW Anschlussleistung, gilt seit Jahresbeginn.",
+   "tun": "Prüfe bei Neuanschlüssen die Pflicht zur Steuerbarkeit nach §14a",
+   "frist": null,
+   "gewicht": 3
+  },
+  {
+   "titel": "Ökofen: Pellet-Brennwert für größere Leistungen",
+   "link": "https://www.ikz.de/heizungstechnik/news/detail/oekofen-pellet-brennwert-fuer-groessere-leistungen/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-09-29T05:17:00+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Preise & Material",
+   "was": "Neuer Pellet-Brennwertkessel bis 130 kW, kaskadierbar bis 520 kW, erweitert Angebot für größere Objekte.",
+   "tun": "Prüfe das Produkt für Angebote bei größeren Wohnanlagen und Gewerbe",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Self-Service im Handwerk: Was Betriebe von Fast-Food-Ketten und Airlines lernen können",
+   "link": "https://www.handwerk-magazin.de/self-service-im-handwerk-was-wir-von-fastfood-riesen-und-fluglinien-lernen-koennen-351673/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-09-28T08:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Self-Service-Ansätze aus anderen Branchen könnten auch im Handwerk Zeit und Personal sparen.",
+   "tun": "Höre den Podcast und prüfe Self-Service-Ideen für dein Kundengeschäft",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "32-Tonnen-Raupenbagger mit KI und FEH präsentiert",
+   "link": "https://allgemeinebauzeitung.de/32-tonnen-raupenbagger-dx300lc-9-kuenstliche-intelligenz-feh/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-01T11:46:58+00:00",
+   "gewerke": [
+    "Tiefbau",
+    "Hochbau/Rohbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Neuer Raupenbagger mit KI-Sicherheitsfunktionen erhöht Produktivität und Betriebssicherheit auf der Baustelle.",
+   "tun": "Informiere dich über die neuen Sicherheitsfunktionen bei Maschinenanschaffung",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Schwanger und selbstständig: Wo bleibt der Mutterschutz?",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/schwanger-und-selbststaendig-wo-bleibt-der-mutterschutz-interview-mit-johanna-roeh",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T07:45:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Mutterschutz für Selbstständige ist im Elterngeld-Reformentwurf noch nicht enthalten, Lage für selbstständige Handwerkerinnen bleibt ungeklärt.",
+   "tun": "Verfolge die Entwicklung, falls du als Selbstständige betroffen bist",
+   "frist": "2025-10-06",
+   "gewicht": 2
+  },
+  {
+   "titel": "Antistatische Faser erhöht Sicherheit bei Arbeitsbekleidung",
+   "link": "https://www.elektro.net/129816/antistatische-faser-erhoeht-sicherheit-bei-arbeitsbekleidung/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-01T07:30:00+00:00",
+   "gewerke": [
+    "Elektro"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Arbeitsschutz",
+   "was": "Neue antistatische Faser für Arbeitskleidung verbessert Sicherheit ohne Komfortverlust, relevant für Beschaffung.",
+   "tun": "Prüfe antistatische Arbeitskleidung bei nächster Bestellung",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Reverse Factoring: Darauf sollten Handwerksunternehmer achten",
+   "link": "https://www.handwerk-magazin.de/reverse-factoring-den-einkauf-finanzieren-lassen-251421/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-09-28T07:22:54+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Reverse Factoring kann bei langen Zahlungszielen helfen, hat aber rechtliche und finanzielle Fallstricke.",
+   "tun": "Prüfe mit Steuerberater, ob Reverse Factoring für dich sinnvoll ist",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Pflicht zur Kartenzahlung: Was Handwerker wissen müssen",
+   "link": "https://handwerk.com/politik-und-wirtschaft/pflicht-zur-kartenzahlung-was-handwerker-wissen-muessen",
+   "quelle": "handwerk.com",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T08:16:50+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Eine mögliche gesetzliche Kartenzahlungspflicht würde Kassen- und Zahlungsprozesse im Betrieb betreffen.",
+   "tun": "Informiere dich über den Stand der Gesetzespläne zur Kartenzahlungspflicht.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Inflationsprämie: Gleichbehandlung von Mindestlohnempfängern",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/bag-urteil-inflationspraemie-gleichbehandlung-von-mindestlohnempfaengern",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-09-30T22:15:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Freiwillige Sonderzahlungen dürfen Mindestlohnempfänger nicht wegen Mindestlohnerhöhung ausschließen.",
+   "tun": "Prüfe deine Regelungen zu Sonderzahlungen und Inflationsprämien auf Gleichbehandlung.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "KI-Trends im Handwerk: Unternehmen brauchen jetzt eine klare Strategie",
+   "link": "https://www.handwerk-magazin.de/ki-trends-im-handwerk-wie-sich-betriebe-sichtbar-machen-mit-ihrer-ganz-speziellen-note-338424/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-09-27T08:44:07+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "KI-Tools wie ChatGPT können Büroarbeit und Kundenkommunikation im Betrieb unterstützen, erfordern aber eine klare Strategie.",
+   "tun": "Lies die Kolumne und überlege, wo KI in deinem Betrieb sinnvoll einsetzbar wäre.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Afriso-Euro-Index: Flügelradanemometer für ­normgerechte Messungen",
+   "link": "https://www.ikz.de/detail/news/detail/afriso-euro-index-fluegelradanemometer-fuer-normgerechte-messungen/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-09-25T08:10:00+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister",
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Ein kompaktes Messgerät erleichtert normgerechte Volumenstrommessungen bei der Abnahme von Lüftungsanlagen.",
+   "tun": "Prüfe, ob das Gerät deine Messausrüstung für Abnahmen sinnvoll ergänzt.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Steigende Kosten im Handwerk: Wenn Aufträge zum Verlustgeschäft werden",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/steigende-kosten-im-handwerk-wenn-auftraege-zum-verlustgeschaeft-werden",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-09-30T22:14:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Preise & Material",
+   "was": "Steigende Energie- und Materialkosten können fest kalkulierte Aufträge ins Minus drehen, wenn Preise nicht angepasst werden.",
+   "tun": "Prüfe laufende Kalkulationen auf aktuelle Kosten und passe Angebote an.",
+   "frist": null,
+   "gewicht": 3
+  },
+  {
+   "titel": "Brandschutz in Einrichtungen mit mobilitätseingeschränkten Bewohnern",
+   "link": "https://www.elektro.net/129819/brandschutz-in-einrichtungen-mit-mobilitaetseingeschraenkten-bewohnern/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-09-30T12:45:00+00:00",
+   "gewerke": [
+    "Elektro",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Vernetzte Rauchwarnmelder und cloudbasierte Brandwarnanlagen verbessern den Brandschutz in Pflegeeinrichtungen – relevant für entsprechende Projekte.",
+   "tun": "Informiere dich über vernetzte Brandwarnsysteme für Projekte in Pflege- und Gesundheitseinrichtungen.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Personalaufwandsquote: Der Maßstab für Mitarbeitereffizienz",
+   "link": "https://www.handwerk-magazin.de/personalaufwandsquote-169580/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-09-26T08:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Die Personalaufwandsquote zeigt, wie effizient dein Personaleinsatz im Verhältnis zum Umsatz ist.",
+   "tun": "Berechne deine Personalaufwandsquote und vergleiche sie mit Branchenwerten.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Heizspiegel zeigt Sparpotenziale für Verbraucher",
+   "link": "https://www.ikz.de/detail/news/detail/heizspiegel-zeigt-sparpotenziale-fuer-verbraucher/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-09-25T05:17:00+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Preise & Material",
+   "was": "Der Heizspiegel zeigt Kunden Sparpotenziale durch Optimierung oder Sanierung – gute Argumentationshilfe für Beratungsgespräche.",
+   "tun": "Nutze den Heizspiegel als Gesprächsgrundlage bei Kundenberatungen zur Heizungsoptimierung.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "PV: Urteile mit Auswirkung auf einen Millionenmarkt",
+   "link": "https://www.shk-profi.de/news/pv-urteile-mit-auswirkung-auf-einen-millionenmarkt-4427383.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-09-23T11:14:57+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "Elektro"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Vertriebsverbote für Balkonkraftwerk-Speicher ohne Leitungsüberlastschutz bestätigt – betrifft Angebot und Montage solcher Produkte.",
+   "tun": "Prüfe, ob eingesetzte Balkonkraftwerk-Speicher einen Leitungsüberlastschutz besitzen.",
+   "frist": null,
+   "gewicht": 2
   }
  ]
 }
