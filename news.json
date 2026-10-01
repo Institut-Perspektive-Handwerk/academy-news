@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-01T23:43+00:00",
- "anzahl": 88,
+ "stand": "2026-10-01T23:45+00:00",
+ "anzahl": 85,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -272,10 +272,10 @@
     "Inhaber/Geschäftsführung"
    ],
    "thema": "VOB & Verträge",
-   "was": "Urteil klärt, wann mehrere Baukörper rechtlich als ein Gebäude gelten – wichtig für Gewährleistung und Abnahme.",
-   "tun": "Prüfe bei Mehrgebäudeprojekten die rechtliche Einordnung vor Vertragsschluss.",
+   "was": "Ob mehrere Gebäude als eins gelten, beeinflusst Fristen und Mängelrechte bei Komplexbauten.",
+   "tun": "Prüfe bei Mehrgebäude-Projekten die vertragliche Abgrenzung genau.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "„Schweigen gegenüber dem Team bietet Raum für Gerüchte“",
@@ -535,8 +535,8 @@
     "Inhaber/Geschäftsführung"
    ],
    "thema": "Recht & Pflichten",
-   "was": "Bei Vergabeportal-Mitteilungen gilt der Zugang spätestens am Folgetag – wichtig für Fristen bei Ausschreibungen.",
-   "tun": "Prüfe Vergabeportal-Nachrichten täglich, um Fristen nicht zu verpassen.",
+   "was": "Bei Vergabeportalen gilt eine Mitteilung spätestens am Folgetag als zugegangen, Fristen laufen entsprechend.",
+   "tun": "Kontrolliere Vergabeportale täglich, um Fristen nicht zu verpassen.",
    "frist": null,
    "gewicht": 2
   },
@@ -1095,25 +1095,6 @@
    ]
   },
   {
-   "titel": "Bestimmtheit eines Beschlusses über die Errichtung von Balkonen",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315817",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-01T02:31:41+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
-    "Metallbau"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "WEG-Beschluss zu Balkonbau muss bestimmt genug sein, sonst drohen spätere Anfechtungen und Bauverzögerungen.",
-   "tun": "Fordere vor Balkonbau-Aufträgen einen klar formulierten WEG-Beschluss an.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Waterkotte startet Serienfertigung großer R290-Wärmepumpe",
    "link": "https://www.ikz.de/detail/news/detail/waterkotte-startet-serienfertigung-grosser-r290-waermepumpe/",
    "quelle": "IKZ",
@@ -1174,24 +1155,6 @@
    "gewicht": 3
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "DGNB baut umfangreiches Schulungsangebot für das Handwerk auf",
    "link": "https://www.bauhandwerk.de/news/dgnb-baut-umfangreiches-schulungsangebot-fuer-das-handwerk-auf-4425941.html",
    "quelle": "bauhandwerk",
@@ -1209,6 +1172,24 @@
    "tun": "Beobachte das DGNB-Angebot für passende Weiterbildungen",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Handwerk in Baden-Württemberg: Aufschwung lässt auf sich warten",
@@ -1270,6 +1251,27 @@
    "gewicht": 1
   },
   {
+   "titel": "Schätzung des merkantilen Minderwerts anhand fiktiver Mängelbeseitigungskosten?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316348",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-30T06:59:00+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Innenausbau/Trockenbau",
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Schadensberechnung über fiktive Mängelkosten beeinflusst, wie Gerichte Wertminderungen bei Baumängeln ansetzen.",
+   "tun": "Beachte bei Mängelstreit, dass fiktive Kosten als Schätzgrundlage dienen können.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -1286,26 +1288,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Schätzung des merkantilen Minderwerts anhand fiktiver Mängelbeseitigungskosten?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316348",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-09-30T06:59:00+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
-    "Architektur/Planung"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Urteil zur Berechnung des merkantilen Minderwerts bei Baumängeln – relevant für Schadensersatzforderungen.",
-   "tun": "Beachte bei Mängelstreitigkeiten die Methodik zur Minderwertberechnung.",
-   "frist": null,
-   "gewicht": 1
   },
   {
    "titel": "Ökofen: Pellet-Brennwert für größere Leistungen",
@@ -1364,24 +1346,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "32-Tonnen-Raupenbagger mit KI und FEH präsentiert",
    "link": "https://allgemeinebauzeitung.de/32-tonnen-raupenbagger-dx300lc-9-kuenstliche-intelligenz-feh/",
    "quelle": "Allgemeine Bauzeitung",
@@ -1400,6 +1364,24 @@
    "tun": "Informiere dich über die neuen Sicherheitsfunktionen bei Maschinenanschaffung",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Fraunhofer ISE: Preissimulator zeigt Einfluß von Batteriespeichern",
@@ -1462,24 +1444,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Antistatische Faser erhöht Sicherheit bei Arbeitsbekleidung",
    "link": "https://www.elektro.net/129816/antistatische-faser-erhoeht-sicherheit-bei-arbeitsbekleidung/",
    "quelle": "elektro.net",
@@ -1499,23 +1463,22 @@
    "gewicht": 1
   },
   {
-   "titel": "Verwalter ist kein \"Bau-Fachmann\"!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316261",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-09-30T02:40:00+00:00",
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
+    "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Gericht stellt klar: WEG-Verwalter gilt nicht als Bau-Fachmann – Haftung bei Baumängeln bleibt beim Bauunternehmen.",
-   "tun": "Verlass dich bei technischen Fragen nicht auf Aussagen des Verwalters, sondern dokumentiere selbst.",
-   "frist": null,
-   "gewicht": 2
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "TÜV zur neuen ISO 9001",
@@ -1556,24 +1519,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "F-Gas-Verordnung im Fokus: Ab 01.01.2027 wird die verfügbare Menge an fluorierten Kältemitteln weiter reduziert",
    "link": "https://www.kka-online.info/news/f-gas-verordnung-im-fokus-ab-01-01-2027-wird-die-verfuegbare-menge-an-fluorierten-kaeltemitteln-weiter-reduziert-4426996.html",
    "quelle": "KKA",
@@ -1600,17 +1545,36 @@
    "datum": "2026-09-29T08:49:38+00:00",
    "gewerke": [
     "Stuckateur/Fassade",
-    "Maler und Lackierer"
+    "Maler und Lackierer",
+    "Werbetechnik"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
    "thema": "Recht & Pflichten",
-   "was": "WEG kann per Mehrheitsbeschluss auch gestalterische Fassadenänderungen wie Wandbilder beschließen – wichtig für Auftragsklärung.",
-   "tun": "Prüfe bei Fassadenarbeiten an WEG-Objekten den zugrunde liegenden Beschluss genau.",
+   "was": "WEG-Gemeinschaften dürfen künftig auch Fassadenkunst beschließen, das eröffnet neue Auftragschancen bei Sanierungen.",
+   "tun": "Sprich Eigentümergemeinschaften gezielt auf Fassadengestaltung als Zusatzauftrag an.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Besteller unterlässt Mitwirkung: Unternehmer kann kündigen und Entschädigung verlangen!",
@@ -1623,32 +1587,70 @@
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
+    "Projektleitung/Bauleitung"
    ],
    "thema": "VOB & Verträge",
-   "was": "Wenn der Kunde nötige Mitwirkung verweigert, kannst du kündigen und Entschädigung verlangen – Gericht stärkt diese Rechte.",
-   "tun": "Dokumentiere fehlende Mitwirkung schriftlich, bevor du kündigst und Entschädigung forderst.",
+   "was": "Fehlt die Mitwirkung des Bestellers, kannst du kündigen und zusätzlich Entschädigung verlangen.",
+   "tun": "Dokumentiere fehlende Mitwirkung des Auftraggebers konsequent für eine mögliche Kündigung.",
    "frist": null,
    "gewicht": 2
   },
   {
-   "titel": "Sachverständiger muss Sanierungsplanung erstellen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316306",
+   "titel": "Vorab übersandtes Angebot beim Verbraucher unterzeichnet: Widerrufsrecht besteht doch!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316282",
    "quelle": "IBR-Online",
    "bereich": "Baurecht",
-   "datum": "2026-09-29T00:00:58+00:00",
+   "datum": "2026-09-28T07:00:14+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Auch bei vorab verschickten und dann unterschriebenen Angeboten kann der Verbraucher widerrufen – Verträge entsprechend gestalten.",
+   "tun": "Passe Angebotsprozesse an, um Widerrufsrecht korrekt zu berücksichtigen.",
+   "frist": null,
+   "gewicht": 3
+  },
+  {
+   "titel": "Die Zielfindungsphase lebt!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316303",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-28T06:21:29+00:00",
    "gewerke": [
     "Architektur/Planung"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung"
+    "Projektleitung/Bauleitung",
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "Recht & Pflichten",
-   "was": "Gericht verpflichtet Sachverständigen zur konkreten Sanierungsplanung – wichtig, wenn du mit Gutachten arbeitest.",
-   "tun": "Fordere bei Schadensgutachten klare Sanierungsvorgaben statt nur Mängelbeschreibung ein.",
+   "thema": "VOB & Verträge",
+   "was": "Die Zielfindungsphase bleibt relevant für Planungsleistungen und deren Vergütung nach HOAI.",
+   "tun": "Kläre Zielfindungsphase vertraglich klar mit Bauherren ab.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
+  },
+  {
+   "titel": "ARGE-Erfahrung als Referenz?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316192",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-28T04:06:53+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Erfahrung aus einer ARGE kann bei Ausschreibungen als Referenz anerkannt werden.",
+   "tun": "Nutze ARGE-Projekte gezielt als Referenznachweis bei Vergabeverfahren.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
@@ -1667,63 +1669,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Vorab übersandtes Angebot beim Verbraucher unterzeichnet: Widerrufsrecht besteht doch!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316282",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-09-28T07:00:14+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Auch bei vorab zugesandten und dann unterschriebenen Angeboten kann der Verbraucher widerrufen – Vorsicht bei Vertragsanbahnung.",
-   "tun": "Prüfe deine Angebotsprozesse auf korrekte Widerrufsbelehrung bei Verbrauchergeschäften.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Die Zielfindungsphase lebt!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316303",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-09-28T06:21:29+00:00",
-   "gewerke": [
-    "Architektur/Planung"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht bestätigt, dass die Zielfindungsphase bei Planungsverträgen weiterhin eigenständig vergütungsrelevant ist.",
-   "tun": "Kalkuliere Zielfindungsphasen separat und dokumentiere sie im Vertrag.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "ARGE-Erfahrung als Referenz?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316192",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-09-28T04:06:53+00:00",
-   "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "ARGE-Erfahrung kann bei Ausschreibungen als Referenz zählen – wichtig für Eignungsnachweise bei Vergabeverfahren.",
-   "tun": "Weise ARGE-Projekte künftig gezielt als Referenz in Vergabeunterlagen aus.",
-   "frist": null,
-   "gewicht": 1
   }
  ]
 }

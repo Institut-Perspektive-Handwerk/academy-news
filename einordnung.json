@@ -2514,5 +2514,286 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315655": {
+  "id": "ce1c2516a42d",
+  "relevant": true,
+  "gewerke": [
+   "Hochbau/Rohbau",
+   "Architektur/Planung"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Ob mehrere Gebäude als eins gelten, beeinflusst Fristen und Mängelrechte bei Komplexbauten.",
+  "tun": "Prüfe bei Mehrgebäude-Projekten die vertragliche Abgrenzung genau.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316342": {
+  "id": "5d34f4c8fb25",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Bei Vergabeportalen gilt eine Mitteilung spätestens am Folgetag als zugegangen, Fristen laufen entsprechend.",
+  "tun": "Kontrolliere Vergabeportale täglich, um Fristen nicht zu verpassen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315802": {
+  "id": "960b06aa899a",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315817": {
+  "id": "34ee9490812e",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316348": {
+  "id": "e5687123c472",
+  "relevant": true,
+  "gewerke": [
+   "Hochbau/Rohbau",
+   "Innenausbau/Trockenbau",
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Schadensberechnung über fiktive Mängelkosten beeinflusst, wie Gerichte Wertminderungen bei Baumängeln ansetzen.",
+  "tun": "Beachte bei Mängelstreit, dass fiktive Kosten als Schätzgrundlage dienen können.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316261": {
+  "id": "7b428c2e673e",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316258": {
+  "id": "b3c0949bbe77",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316117": {
+  "id": "669f7ab63d18",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316351": {
+  "id": "8f0d208f81f7",
+  "relevant": true,
+  "gewerke": [
+   "Stuckateur/Fassade",
+   "Maler und Lackierer",
+   "Werbetechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "WEG-Gemeinschaften dürfen künftig auch Fassadenkunst beschließen, das eröffnet neue Auftragschancen bei Sanierungen.",
+  "tun": "Sprich Eigentümergemeinschaften gezielt auf Fassadengestaltung als Zusatzauftrag an.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316270": {
+  "id": "4a87dca408cf",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Fehlt die Mitwirkung des Bestellers, kannst du kündigen und zusätzlich Entschädigung verlangen.",
+  "tun": "Dokumentiere fehlende Mitwirkung des Auftraggebers konsequent für eine mögliche Kündigung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316219": {
+  "id": "4dde0ffe9e8f",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316306": {
+  "id": "75218d22d79e",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316282": {
+  "id": "7abc3766d696",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Auch bei vorab verschickten und dann unterschriebenen Angeboten kann der Verbraucher widerrufen – Verträge entsprechend gestalten.",
+  "tun": "Passe Angebotsprozesse an, um Widerrufsrecht korrekt zu berücksichtigen.",
+  "frist": null,
+  "gewicht": 3,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316303": {
+  "id": "9cdc0f7c25d4",
+  "relevant": true,
+  "gewerke": [
+   "Architektur/Planung"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Die Zielfindungsphase bleibt relevant für Planungsleistungen und deren Vergütung nach HOAI.",
+  "tun": "Kläre Zielfindungsphase vertraglich klar mit Bauherren ab.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-01"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316192": {
+  "id": "9af55b65f9d9",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Erfahrung aus einer ARGE kann bei Ausschreibungen als Referenz anerkannt werden.",
+  "tun": "Nutze ARGE-Projekte gezielt als Referenznachweis bei Vergabeverfahren.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-01"
  }
 }
