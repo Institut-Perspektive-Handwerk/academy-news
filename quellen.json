@@ -1,7 +1,7 @@
 {
   "max_alter_tage": 14,
   "je_quelle": 6,
-  "gesamt": 90,
+  "gesamt": 100,
   "iph_alle": 4,
   "gewerke": [
     "Alle Gewerke",
@@ -159,6 +159,45 @@
       "name": "impulse",
       "bereich": "Unternehmer",
       "url": "https://www.impulse.de/feed"
+    },
+    {
+      "name": "IBR-Online",
+      "bereich": "Baurecht",
+      "url": "https://www.ibr-online.de/IBRUrteile/rss.php",
+      "je_quelle": 15
+    },
+    {
+      "name": "BGH",
+      "bereich": "Baurecht",
+      "url": "https://www.bundesgerichtshof.de/DE/Service/RSSFeed/Function/RSS_PM.xml",
+      "nur_mit": "Bau|Werk|VOB|Architekt|Handwerk|Mangel|Mängel|Vergabe|Arbeit|Mindestlohn|Urlaub|Kündigung|Unfall|Gewährleistung"
+    },
+    {
+      "name": "Bauministerium",
+      "bereich": "Bau & Politik",
+      "url": "https://www.bmwsb.bund.de/DE/tools-services/rssfeed/_functions/rssnewsfeed.xml"
+    },
+    {
+      "name": "DGUV",
+      "bereich": "Arbeitsschutz",
+      "url": "https://www.dguv.de/de/index.xml.jsp",
+      "nur_mit": "Bau|Baustelle|Handwerk|Gerüst|Absturz|Leiter|Lärm|Staub|Asbest|Hitze|UV|Unfall|Arbeitsschutz|Unterweisung|Prävention"
+    },
+    {
+      "name": "vergabeblog",
+      "bereich": "Vergabe",
+      "url": "https://vergabeblog.de/feed/"
+    },
+    {
+      "name": "forum vergabe",
+      "bereich": "Vergabe",
+      "url": "https://forum-vergabe.de/feed/"
+    },
+    {
+      "name": "LTO",
+      "bereich": "Recht",
+      "url": "https://www.lto.de/feed.xml",
+      "nur_mit": "Bau|Handwerk|Werkvertrag|Arbeitsrecht|Arbeitszeit|Mindestlohn|Urlaub|Kündigung|Betriebsrat|Scheinselbst|E-Rechnung|Datenschutz|DSGVO|Steuer|Azubi|Ausbildung"
     }
   ]
 }

@@ -20,7 +20,8 @@ Für jede Meldung entscheidest du:
 - relevant: true nur, wenn ein Betrieb daraus etwas lernen, beachten oder tun kann (Recht, Pflichten, Fristen, Förderung,
   Preise/Lieferzeiten, Tarif, Arbeitsschutz, Normen, VOB/Urteile, Technik/Verfahren im Gewerk, Personal/Ausbildung, KI und
   Software im Betrieb, Markt/Konjunktur mit Folgen). false für: Personalien von Herstellern, Firmenjubiläen, Messe-Smalltalk,
-  reine Produkt-PR ohne Nutzen, Ereignisse ohne Bezug zum Betrieb, Politik ohne Folgen für Betriebe.
+  reine Produkt-PR ohne Nutzen, Ereignisse ohne Bezug zum Betrieb, Politik ohne Folgen für Betriebe, Miet-, WEG- und
+  Verwalterurteile, die nicht die Leistung, Haftung, Vergütung oder Abnahme des ausführenden Betriebs betreffen.
 - gewerke: Liste aus GEWERKE (genau diese Schreibweise); ["Alle Gewerke"], wenn es alle betrifft.
 - rollen: Liste aus ROLLEN.
 - thema: genau eins aus THEMEN.

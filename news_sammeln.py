@@ -96,7 +96,7 @@ def main():
         for q, eintraege, fehler in ex.map(feed_lesen, cfg['quellen']):
             frisch = [e for e in eintraege if e['datum'] and grenze <= datum_lesen(e['datum']) <= jetzt + timedelta(hours=6)]
             frisch.sort(key=lambda e: e['datum'], reverse=True)
-            alle += frisch[:cfg.get('je_quelle', 5)]
+            alle += frisch[:q.get('je_quelle', cfg.get('je_quelle', 5))]  # Quellen mit viel Fremdem (z. B. IBR) holen mehr
             protokoll.append(f"{q['name']}: {len(eintraege)} gelesen, {len(frisch)} frisch" + (f' - FEHLER {fehler}' if fehler else ''))
     # Quellen reihum mischen (sonst stehen 5 Meldungen eines Portals hintereinander), je Runde neueste zuerst
     je = {}

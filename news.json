@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-01T23:36+00:00",
- "anzahl": 72,
+ "stand": "2026-10-01T23:43+00:00",
+ "anzahl": 88,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -32,6 +32,13 @@
   "Ausbildung"
  ],
  "fristen": [
+  {
+   "titel": "Mecklenburg-Vorpommern hebt vergaberechtlichen Mindestlohn auf 15,27 Euro an",
+   "link": "https://vergabeblog.de/2026-10-01/mecklenburg-vorpommern-hebt-vergaberechtlichen-mindestlohn-auf-1527-euro-an/",
+   "quelle": "vergabeblog",
+   "frist": "2026-10-01",
+   "tun": "Passe Kalkulationen für MV-Ausschreibungen an den neuen Mindestlohn an."
+  },
   {
    "titel": "F-Gas-Verordnung im Fokus: Ab 01.01.2027 wird die verfügbare Menge an fluorierten Kältemitteln weiter reduziert",
    "link": "https://www.kka-online.info/news/f-gas-verordnung-im-fokus-ab-01-01-2027-wird-die-verfuegbare-menge-an-fluorierten-kaeltemitteln-weiter-reduziert-4426996.html",
@@ -251,6 +258,26 @@
    "gewicht": 2
   },
   {
+   "titel": "Bürohochhaus mit Nebengebäuden: Ein oder mehrere Gebäude?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315655",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-01T05:38:26+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Urteil klärt, wann mehrere Baukörper rechtlich als ein Gebäude gelten – wichtig für Gewährleistung und Abnahme.",
+   "tun": "Prüfe bei Mehrgebäudeprojekten die rechtliche Einordnung vor Vertragsschluss.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "„Schweigen gegenüber dem Team bietet Raum für Gerüchte“",
    "link": "https://www.impulse.de/personal/schwaeche-zeigen/7640398.html",
    "quelle": "impulse",
@@ -288,6 +315,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Korridorsanierung der Deutschen Bahn: Das Schienennetz wird zur Großbaustelle",
    "link": "https://baublatt.de/gleise-weichen-bahnhoefe-korridorsanierung-der-deutschen-bahn-das-schienennetz-wird-zur-grossbaustelle/",
    "quelle": "Baublatt",
@@ -308,22 +353,22 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
+   "titel": "Unfallrisiko bei der Arbeit 2025 erneut gesunken",
+   "link": "https://www.dguv.de/de/mediencenter/pm/zahlen-2025.jsp",
+   "quelle": "DGUV",
+   "bereich": "Arbeitsschutz",
+   "datum": "2026-09-22T07:03:08+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Arbeitsschutz",
+   "was": "Weniger Arbeitsunfälle laut DGUV-Zahlen – zeigt, dass Präventionsmaßnahmen im Betrieb wirken.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Elektronische Rechnungen B2B",
@@ -365,6 +410,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Fraunhofer ISE startet Simulator für den Einfluss von Batteriespeichern auf die Strompreise",
    "link": "https://www.pv-magazine.de/2026/10/01/fraunhofer-ise-startet-simulator-fuer-den-einfluss-von-batteriespeichern-auf-die-strompreise/",
    "quelle": "pv magazine",
@@ -403,24 +466,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Digitale Geräteverwaltung im Handwerk dank RFID",
    "link": "https://handwerk.com/gewerke/rfid-bringt-digitale-geraeteverwaltung-ins-handwerk",
    "quelle": "handwerk.com",
@@ -455,6 +500,43 @@
    "thema": "Markt",
    "was": "Nach Jahren des Rückgangs deutet sich 2026 eine Erholung am Fenstermarkt an, regional unterschiedlich stark.",
    "tun": "Beobachte regionale Trends für Auftragsplanung und Kapazitäten.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Mitteilung in Vergabeportal eingestellt: Zugang spätestens am Folgetag!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316342",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-01T04:28:38+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Bei Vergabeportal-Mitteilungen gilt der Zugang spätestens am Folgetag – wichtig für Fristen bei Ausschreibungen.",
+   "tun": "Prüfe Vergabeportal-Nachrichten täglich, um Fristen nicht zu verpassen.",
    "frist": null,
    "gewicht": 2
   },
@@ -498,24 +580,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "VDMA ALT gibt Einblicke in neue Studie zum Energiebedarf",
    "link": "https://kaelte-luft-klima.de/branche-und-markt/vdma-alt-gibt-einblicke-in-neue-studie-zum-energiebedarf",
    "quelle": "Kälte Luft Klima",
@@ -533,6 +597,24 @@
    "tun": "Informiere dich über die Studie zu neuen Energie-Vorgaben.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "ESaK verabschiedet letzten eigenständigen Jahrgang",
@@ -593,24 +675,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Registrierkassenpflicht: Diese neuen Kassen-Regeln sollten Handwerksbetriebe jetzt kennen",
    "link": "https://www.bauhandwerk.de/news/registrierkassenpflicht-diese-neuen-kassen-regeln-sollten-handwerksbetriebe-jetzt-kennen-4427013.html",
    "quelle": "bauhandwerk",
@@ -628,6 +692,24 @@
    "tun": "Informiere dich über den Referentenentwurf und plane die Umstellung der Kassensysteme.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "50000 Wohneinheiten durch EH55-Förderung gefördert",
@@ -690,24 +772,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "FID nach AgNes gesichert!? Es lauern noch zwei Risiken.",
    "link": "https://www.pv-magazine.de/2026/10/01/fid-nach-agnes-gesichert-es-lauern-noch-zwei-risiken/",
    "quelle": "pv magazine",
@@ -726,6 +790,24 @@
    "tun": "Prüfe laufende Speicherprojekte auf Netzentgelt- und Lieferkettenrisiken.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Gesundheitsreform: Was sich für Versicherte ändert",
@@ -786,24 +868,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "GEV: Broschüre zu emissionsarmen Produkten",
    "link": "https://www.boden-wand-decke.de/gev-broschuere-zu-emissionsarmen-produkten-357187/",
    "quelle": "Boden Wand Decke",
@@ -822,6 +886,43 @@
    "tun": "Nutze die Broschüre als Argumentationshilfe bei Materialwahl.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Mecklenburg-Vorpommern hebt vergaberechtlichen Mindestlohn auf 15,27 Euro an",
+   "link": "https://vergabeblog.de/2026-10-01/mecklenburg-vorpommern-hebt-vergaberechtlichen-mindestlohn-auf-1527-euro-an/",
+   "quelle": "vergabeblog",
+   "bereich": "Vergabe",
+   "datum": "2026-10-01T06:00:22+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Vergaberechtlicher Mindestlohn in MV steigt auf 15,27 Euro – betrifft Kalkulation bei öffentlichen Aufträgen dort.",
+   "tun": "Passe Kalkulationen für MV-Ausschreibungen an den neuen Mindestlohn an.",
+   "frist": "2026-10-01",
+   "gewicht": 2
   },
   {
    "titel": "Neue Termine für „Sarnafil“-Verlegerschulungen",
@@ -882,9 +983,9 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
    "aktiv": true,
    "bereich": "IPH",
    "thema": "IPH",
@@ -976,9 +1077,9 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
    "aktiv": true,
    "bereich": "IPH",
    "thema": "IPH",
@@ -992,6 +1093,25 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Bestimmtheit eines Beschlusses über die Errichtung von Balkonen",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315817",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-01T02:31:41+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Metallbau"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "WEG-Beschluss zu Balkonbau muss bestimmt genug sein, sonst drohen spätere Anfechtungen und Bauverzögerungen.",
+   "tun": "Fordere vor Balkonbau-Aufträgen einen klar formulierten WEG-Beschluss an.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Waterkotte startet Serienfertigung großer R290-Wärmepumpe",
@@ -1054,6 +1174,24 @@
    "gewicht": 3
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "DGNB baut umfangreiches Schulungsangebot für das Handwerk auf",
    "link": "https://www.bauhandwerk.de/news/dgnb-baut-umfangreiches-schulungsangebot-fuer-das-handwerk-auf-4425941.html",
    "quelle": "bauhandwerk",
@@ -1071,24 +1209,6 @@
    "tun": "Beobachte das DGNB-Angebot für passende Weiterbildungen",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Handwerk in Baden-Württemberg: Aufschwung lässt auf sich warten",
@@ -1150,6 +1270,44 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Schätzung des merkantilen Minderwerts anhand fiktiver Mängelbeseitigungskosten?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316348",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-30T06:59:00+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Urteil zur Berechnung des merkantilen Minderwerts bei Baumängeln – relevant für Schadensersatzforderungen.",
+   "tun": "Beachte bei Mängelstreitigkeiten die Methodik zur Minderwertberechnung.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Ökofen: Pellet-Brennwert für größere Leistungen",
    "link": "https://www.ikz.de/heizungstechnik/news/detail/oekofen-pellet-brennwert-fuer-groessere-leistungen/",
    "quelle": "IKZ",
@@ -1168,24 +1326,6 @@
    "tun": "Prüfe das Produkt für Angebote bei größeren Wohnanlagen und Gewerbe",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Self-Service im Handwerk: Was Betriebe von Fast-Food-Ketten und Airlines lernen können",
@@ -1222,6 +1362,24 @@
    "tun": "Prüfe, welches Muster auf deinen Betrieb zutrifft.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "32-Tonnen-Raupenbagger mit KI und FEH präsentiert",
@@ -1264,24 +1422,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Bundesnetzagentur beschließt MiSpeL-Regeln für Speicher und bidirektionales Laden",
    "link": "https://www.pv-magazine.de/2026/10/01/bundesnetzagentur-beschliesst-mispel-regeln-fuer-speicher-und-bidirektionales-laden/",
    "quelle": "pv magazine",
@@ -1322,6 +1462,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Antistatische Faser erhöht Sicherheit bei Arbeitsbekleidung",
    "link": "https://www.elektro.net/129816/antistatische-faser-erhoeht-sicherheit-bei-arbeitsbekleidung/",
    "quelle": "elektro.net",
@@ -1339,6 +1497,25 @@
    "tun": "Prüfe antistatische Arbeitskleidung bei nächster Bestellung",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Verwalter ist kein \"Bau-Fachmann\"!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316261",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-30T02:40:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Gericht stellt klar: WEG-Verwalter gilt nicht als Bau-Fachmann – Haftung bei Baumängeln bleibt beim Bauunternehmen.",
+   "tun": "Verlass dich bei technischen Fragen nicht auf Aussagen des Verwalters, sondern dokumentiere selbst.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "TÜV zur neuen ISO 9001",
@@ -1360,24 +1537,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Reverse Factoring: Darauf sollten Handwerksunternehmer achten",
    "link": "https://www.handwerk-magazin.de/reverse-factoring-den-einkauf-finanzieren-lassen-251421/",
    "quelle": "handwerk magazin",
@@ -1397,6 +1556,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "F-Gas-Verordnung im Fokus: Ab 01.01.2027 wird die verfügbare Menge an fluorierten Kältemitteln weiter reduziert",
    "link": "https://www.kka-online.info/news/f-gas-verordnung-im-fokus-ab-01-01-2027-wird-die-verfuegbare-menge-an-fluorierten-kaeltemitteln-weiter-reduziert-4426996.html",
    "quelle": "KKA",
@@ -1414,6 +1591,139 @@
    "tun": "Plane jetzt den Umstieg auf alternative Kältemittel für betroffene Bestandsanlagen.",
    "frist": "2027-01-01",
    "gewicht": 3
+  },
+  {
+   "titel": "Gemeinschaft kann Streetart-Fassadengemälde beschließen",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316351",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-29T08:49:38+00:00",
+   "gewerke": [
+    "Stuckateur/Fassade",
+    "Maler und Lackierer"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "WEG kann per Mehrheitsbeschluss auch gestalterische Fassadenänderungen wie Wandbilder beschließen – wichtig für Auftragsklärung.",
+   "tun": "Prüfe bei Fassadenarbeiten an WEG-Objekten den zugrunde liegenden Beschluss genau.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Besteller unterlässt Mitwirkung: Unternehmer kann kündigen und Entschädigung verlangen!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316270",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-29T06:10:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Wenn der Kunde nötige Mitwirkung verweigert, kannst du kündigen und Entschädigung verlangen – Gericht stärkt diese Rechte.",
+   "tun": "Dokumentiere fehlende Mitwirkung schriftlich, bevor du kündigst und Entschädigung forderst.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Sachverständiger muss Sanierungsplanung erstellen!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316306",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-29T00:00:58+00:00",
+   "gewerke": [
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Gericht verpflichtet Sachverständigen zur konkreten Sanierungsplanung – wichtig, wenn du mit Gutachten arbeitest.",
+   "tun": "Fordere bei Schadensgutachten klare Sanierungsvorgaben statt nur Mängelbeschreibung ein.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Vorab übersandtes Angebot beim Verbraucher unterzeichnet: Widerrufsrecht besteht doch!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316282",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-28T07:00:14+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Auch bei vorab zugesandten und dann unterschriebenen Angeboten kann der Verbraucher widerrufen – Vorsicht bei Vertragsanbahnung.",
+   "tun": "Prüfe deine Angebotsprozesse auf korrekte Widerrufsbelehrung bei Verbrauchergeschäften.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Die Zielfindungsphase lebt!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316303",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-28T06:21:29+00:00",
+   "gewerke": [
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Gericht bestätigt, dass die Zielfindungsphase bei Planungsverträgen weiterhin eigenständig vergütungsrelevant ist.",
+   "tun": "Kalkuliere Zielfindungsphasen separat und dokumentiere sie im Vertrag.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "ARGE-Erfahrung als Referenz?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316192",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-09-28T04:06:53+00:00",
+   "gewerke": [
+    "Tiefbau",
+    "Hochbau/Rohbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "ARGE-Erfahrung kann bei Ausschreibungen als Referenz zählen – wichtig für Eignungsnachweise bei Vergabeverfahren.",
+   "tun": "Weise ARGE-Projekte künftig gezielt als Referenz in Vergabeunterlagen aus.",
+   "frist": null,
+   "gewicht": 1
   }
  ]
 }
