@@ -2795,5 +2795,570 @@
   "frist": null,
   "gewicht": 2,
   "gesehen": "2026-10-01"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-munster/ki-werkstatt-kuenstliche-intelligenz-praxisnah-einsetzen": {
+  "id": "0589ca917af8",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Zeigt praxisnah, wie KI im Betriebsalltag nutzbar ist und was dabei zu beachten ist.",
+  "tun": "Informiere dich über die KI-Werkstatt und prüfe Einsatzmöglichkeiten im Betrieb.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.pv-magazine.de/2026/10/02/ista-uebernimmt-photovoltaik-und-waermepumpen-anbieter-homenergy/": {
+  "id": "e8bdaedba0f7",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://handwerk.com/politik-und-wirtschaft/ostdeutsches-handwerk-fordert-nachwuchsfoerderung": {
+  "id": "2d327eb13258",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Pflicht-Berufsorientierung an Schulen könnte den Nachwuchsmangel im Handwerk langfristig lindern.",
+  "tun": "Unterstütze lokale Initiativen zur Berufsorientierung an Schulen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.solarserver.de/2026/10/02/energy-watch-group-solarer-ausbaustopp-verteuert-strom-um-4-cent/": {
+  "id": "33db6da55b97",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Ein möglicher PV-Ausbaustopp durch das EEG könnte Strompreise und Auftragslage für Solarbetriebe verändern.",
+  "tun": "Verfolge die EEG-Novelle und plane Kapazitäten entsprechend.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://allgemeinebauzeitung.de/elektrischer-raupenkran-modernisiert-schleusenanlage-niederlande/": {
+  "id": "7ddcdc393a0f",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Elektrische Baumaschinen senken Lärm und Emissionen auf sensiblen Baustellen – ein Trend für Ausschreibungen.",
+  "tun": "Prüfe elektrische Kranalternativen für lärm- oder emissionssensible Projekte.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.handwerk-magazin.de/handwerk-magazin-oktober-ausgabe-2026-baustellen-smarter-planen-mit-ki-351775/": {
+  "id": "57cc88186924",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "KI-gestützte Bausoftware kann Planungs- und Verwaltungsaufwand im Betrieb spürbar reduzieren.",
+  "tun": "Teste KI-Funktionen deiner Bausoftware oder vergleiche Anbieter.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.tga-praxis.de/news/neues-kompaktes-kanalklimageraet.html": {
+  "id": "7de7d9607640",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://kaelte-luft-klima.de/praxis-und-handwerk/effizientere-ablaeufe-beim-waermepumpen-einbau": {
+  "id": "f4e449a5fe6c",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Ein Online-Check soll den Wärmepumpen-Einbau nach Praxiserfahrungen aus 15 Betrieben effizienter machen.",
+  "tun": "Nutze den Online-Check, um eigene Einbauabläufe zu optimieren.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://vergabeblog.de/2026-10-02/oeffentliche-schulden-im-2-quartal-2026-um-10-hoeher-als-im-vorquartal/": {
+  "id": "b98ea5f7bea4",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316381": {
+  "id": "50260be7b349",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Laut OLG Hamm kann eine Teilschlussrechnung die Schlussrechnung rechtlich ersetzen – wichtig für Abrechnungspraxis.",
+  "tun": "Prüfe mit deinem Steuerberater, ob Teilschlussrechnungen künftig genutzt werden können.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.boden-wand-decke.de/christian-loeher-feiert-drei-jahrzehnte-bei-bona-357206/": {
+  "id": "84eaeeaa6289",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.gff-magazin.de/lattuada-praesentiert-vollautomatische-roboterlinie-336503/": {
+  "id": "2ae255d7d7c0",
+  "relevant": true,
+  "gewerke": [
+   "Fensterbau/Glas"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Automatisierte Roboterlinien zeigen, wohin sich die Glasverarbeitung technisch entwickelt.",
+  "tun": "Informiere dich über Automatisierungsoptionen für die eigene Fertigung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.ikz.de/detail/news/detail/primagas-eroeffnet-lagerstaette-fuer-regenerativen-dimethylether-rdme/": {
+  "id": "fd735afc9090",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.elektro.net/129826/berufsbegleitend-zum-geprueften-obermonteur/": {
+  "id": "6203e047c6f9",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Ausbildung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Der berufsbegleitende Lehrgang zum geprüften Obermonteur qualifiziert Fachkräfte für Führungsaufgaben im Elektrohandwerk.",
+  "tun": "Melde interessierte Mitarbeiter für den Lehrgang in Dresden an.",
+  "frist": "2026-11-06",
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.shk-profi.de/news/oldenburger-schnittstellentag-steht-an-4431117.html": {
+  "id": "ed652213cc6c",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.dach-holzbau.de/news/wettbewerb-auf-it-gebaut-bauberufe-mit-zukunft-2027-4430714.html": {
+  "id": "f1ed23b43c41",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/aktuelle-meisterstuecke-der-tischler-zu-sehen": {
+  "id": "d35d6550dbdb",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.pv-magazine.de/2026/10/02/ladesonne-koppelt-schnellladepreis-an-photovoltaik-erzeugung/": {
+  "id": "245a11424a23",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "Elektro"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Zeigt, wie PV-Erzeugung direkt in Strompreise für E-Mobilität eingepreist werden kann – Modell für eigene Energiedienstleistungen.",
+  "tun": "Prüfe ähnliche Preismodelle für eigene PV-Projekte mit Ladeinfrastruktur.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://allgemeinebauzeitung.de/baubranche-foerderluecke-sommer-2027-wohnungen/": {
+  "id": "bbfd7e69a51f",
+  "relevant": true,
+  "gewerke": [
+   "Hochbau/Rohbau",
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Förderung",
+  "was": "Ohne Übergangsregelung drohen Förderlücken im Wohnungsbau bis Sommer 2027 – das kann Aufträge und Planungssicherheit kosten.",
+  "tun": "Verfolge die politische Entwicklung und plane Förderanträge rechtzeitig.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.handwerk-magazin.de/investition-und-finanzierung-172112/": {
+  "id": "8339f9f92964",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Bessere Finanzierungskonditionen können Investitionen und Liquidität im Betrieb günstiger machen.",
+  "tun": "Vergleiche aktuelle Bankkonditionen vor der nächsten Finanzierung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://vergabeblog.de/2026-10-02/europaeische-verteidigungsindustrie-eu-rat-bestimmt-die-ersten-fuenf-vorhaben-von-gemeinsamem-interesse/": {
+  "id": "d19f1c5c9cc8",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.boden-wand-decke.de/thalhofer-gruppe-uebernahme-von-friederichs-357204/": {
+  "id": "cac87a483a15",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316006": {
+  "id": "3a539d9a7db8",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Das Gericht stellt klar, dass Auftraggeber bei Steuerfragen in Vergabeverfahren nicht als Fachleute gelten müssen – wichtig für Angebotsprüfung.",
+  "tun": "Prüfe eigene Angebote auf steuerliche Klarheit, verlasse dich nicht auf Auftraggeberwissen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/rechtssicherheit-nachhaltig-werben": {
+  "id": "cb7a02bd1692",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Nachhaltigkeitswerbung unterliegt neuen rechtlichen Vorgaben, auch für Handwerksbetriebe mit Umweltversprechen.",
+  "tun": "Melde dich zur Online-Veranstaltung an und prüfe eigene Werbeaussagen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.pv-magazine.de/2026/10/02/eeg-im-bundestag-verlaesslichkeit-ist-auch-eine-pflicht-fuer-den-gesetzgeber/": {
+  "id": "178ba15a7619",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Geplante Gewinnabschöpfung bei Gewerbe-PV könnte Wirtschaftlichkeit großer Anlagen verschlechtern.",
+  "tun": "Beobachte die EEG-Novelle und kalkuliere PV-Projekte vorsichtig.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-02"
+ },
+ "https://allgemeinebauzeitung.de/dombauhuette-tragfaehige-transportloesung-geda/": {
+  "id": "491c4f89f460",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.handwerksblatt.de/handwerkspolitik/entlastung-schaffen-fachkraefte-sichern": {
+  "id": "b13542f0fb23",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://allgemeinebauzeitung.de/fachpublikum-sorgt-starke-resonanz-steinexpo/": {
+  "id": "4119601cdaca",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.handwerksblatt.de/themen-specials/neue-werkzeuge-fuer-das-handwerk/strauss-stellt-ki-werkzeugbrille-fuer-das-handwerk-vor": {
+  "id": "a0362d3bac9f",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Eine KI-Werkzeugbrille könnte ab 2027 Arbeitsabläufe auf der Baustelle unterstützen – frühzeitig Marktentwicklung im Blick behalten.",
+  "tun": "Beobachte die Produktentwicklung für mögliche Einsatzszenarien im eigenen Betrieb.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://allgemeinebauzeitung.de/strategie-innovation-nachhaltigkeit-porr/": {
+  "id": "c316159ad787",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/ki-assistent-hilft-elektrobetrieben-bei-der-angebotskalkulation": {
+  "id": "bd65d881e594",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Neues Tool verspricht schnellere Angebotskalkulation ohne manuellen Aufwand für E-Betriebe.",
+  "tun": "Teste das Tool im Vergleich zu deiner aktuellen Kalkulationspraxis.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-02"
  }
 }
