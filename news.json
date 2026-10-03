@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-03T08:06+00:00",
- "anzahl": 81,
+ "stand": "2026-10-03T13:23+00:00",
+ "anzahl": 80,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -61,25 +61,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Erste Anwendung von Super-RS-Gerüsten auf Berliner Fassade",
-   "link": "https://allgemeinebauzeitung.de/erste-anwendung-super-rs-gerueste-berlin/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-02T10:30:53+00:00",
-   "gewerke": [
-    "Gerüstbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Arbeitsschutz",
-   "was": "Neues Gerüstsystem mit vorlaufendem Geländer kann Absturzsicherung bei Fassadenarbeiten verbessern.",
-   "tun": "Informiere dich beim Hersteller über Einsatzmöglichkeiten für deine Baustellen.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Die Zukunft der Zertifizierung von Kältetechnikprodukten gestalten",
    "link": "https://www.kka-online.info/news/die-zukunft-der-zertifizierung-von-kaeltetechnikprodukten-gestalten-4432516.html",
    "quelle": "KKA",
@@ -118,24 +99,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Effizientere Abläufe beim Wärmepumpen-Einbau",
    "link": "https://kaelte-luft-klima.de/praxis-und-handwerk/effizientere-ablaeufe-beim-waermepumpen-einbau",
    "quelle": "Kälte Luft Klima",
@@ -153,6 +116,24 @@
    "tun": "Nutze den Online-Check, um eigene Einbauabläufe zu optimieren.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Teilschussrechnung kann Schlussrechnung ersetzen!",
@@ -213,24 +194,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Korridorsanierung der Deutschen Bahn: Das Schienennetz wird zur Großbaustelle",
    "link": "https://baublatt.de/gleise-weichen-bahnhoefe-korridorsanierung-der-deutschen-bahn-das-schienennetz-wird-zur-grossbaustelle/",
    "quelle": "Baublatt",
@@ -249,6 +212,24 @@
    "tun": "Informiere dich über Ausschreibungen zu Bahn-Korridorsanierungen in deiner Region.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Unfallrisiko bei der Arbeit 2025 erneut gesunken",
@@ -308,24 +289,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Zukunftsprojekte: Wie sich das Bauen verändert",
    "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-trier/zukunftsprojekte-wie-sich-das-bauen-veraendert",
    "quelle": "handwerksblatt",
@@ -343,6 +306,24 @@
    "tun": "",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Bundesrat fordert Änderungen an EEG und Netzpaket – Regierung lehnt ab",
@@ -364,23 +345,23 @@
    "gewicht": 1
   },
   {
-   "titel": "Studie: Zahlungsverzug bleibt Dauerproblem der deutschen Wirtschaft",
-   "link": "https://allgemeinebauzeitung.de/zahlungsverzug-deutsche-wirtschaft-studie-maschinenbau-kettenreaktion/",
+   "titel": "Erste Anwendung von Super-RS-Gerüsten auf Berliner Fassade",
+   "link": "https://allgemeinebauzeitung.de/erste-anwendung-super-rs-gerueste-berlin/",
    "quelle": "Allgemeine Bauzeitung",
    "bereich": "Bau",
-   "datum": "2026-10-02T10:18:46+00:00",
+   "datum": "2026-10-02T10:30:53+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Gerüstbau"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
+    "Monteur/Facharbeiter"
    ],
-   "thema": "Markt",
-   "was": "Zahlungsverzug von Kunden kann auch deinen Betrieb in Liquiditätsengpässe bringen.",
-   "tun": "Prüfe Zahlungsziele und Mahnwesen bei Großkunden regelmäßig.",
+   "thema": "Arbeitsschutz",
+   "was": "Neues Gerüstsystem mit vorlaufendem Geländer kann Absturzsicherung bei Fassadenarbeiten verbessern.",
+   "tun": "Informiere dich beim Hersteller über Einsatzmöglichkeiten für deine Baustellen.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Neues Schulungsprogramm für die Saison 2026/27",
@@ -403,24 +384,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Ostdeutsches Handwerk fordert Nachwuchsförderung",
    "link": "https://handwerk.com/politik-und-wirtschaft/ostdeutsches-handwerk-fordert-nachwuchsfoerderung",
    "quelle": "handwerk.com",
@@ -438,6 +401,24 @@
    "tun": "Unterstütze lokale Initiativen zur Berufsorientierung an Schulen.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Was Geld kostet und was es bringt: Diese Banken bieten aktuell die besten Konditionen",
@@ -497,24 +478,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Elektronische Rechnungen B2B",
    "link": "https://www.metallbau-magazin.de/news/elektronische-rechnungen-b2b-4432076.html",
    "quelle": "Metallbau",
@@ -532,6 +495,24 @@
    "tun": "Kläre mit dem Steuerberater, bis wann deine Buchhaltung E-Rechnungen verarbeiten kann.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Kältere Witterung treibt Heizkosten trotz stabiler Energiepreise in die Höhe",
@@ -593,24 +574,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Bundesregierung weist Bundesrats-Kritik an geplanter EEG-Novelle zurück",
    "link": "https://www.pv-magazine.de/2026/10/02/bundesregierung-weist-bundesrats-kritik-an-geplanter-eeg-novelle-zurueck/",
    "quelle": "pv magazine",
@@ -631,6 +594,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Next2Sun verfehlt Finanzierungsziel – Zukunft offen",
    "link": "https://www.solarserver.de/2026/10/02/next2sun-verfehlt-finanzierungsziel-zukunft-offen/",
    "quelle": "Solarserver",
@@ -648,6 +629,25 @@
    "tun": "Prüfe laufende Aufträge und Lieferverträge mit Next2Sun.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Studie: Zahlungsverzug bleibt Dauerproblem der deutschen Wirtschaft",
+   "link": "https://allgemeinebauzeitung.de/zahlungsverzug-deutsche-wirtschaft-studie-maschinenbau-kettenreaktion/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-02T10:18:46+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Zahlungsverzug von Kunden kann auch deinen Betrieb in Liquiditätsengpässe bringen.",
+   "tun": "Prüfe Zahlungsziele und Mahnwesen bei Großkunden regelmäßig.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Siemens Logo! 9: Software einrichten und erstes Projekt erstellen",
@@ -1332,44 +1332,6 @@
    "gewicht": 1
   },
   {
-   "titel": "PowerCrete für Kabeltrasse: Hochspannung unter der Erde",
-   "link": "https://allgemeinebauzeitung.de/powercrete-kabeltrasse-hochspannung-erde/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-02T09:46:56+00:00",
-   "gewerke": [
-    "Tiefbau",
-    "Elektro"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Hochwärmeleitfähiger Beton für Kabeltrassen zeigt, wie Platz- und Wärmeprobleme bei Hochspannungskabeln gelöst werden können.",
-   "tun": "Informiere dich über PowerCrete als Alternative bei Kabeltrassen-Projekten.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Techem: Bis zu 90 Prozent der Mehrfamilienhäuser für Wärmepumpen geeignet",
    "link": "https://www.pv-magazine.de/2026/10/02/techem-bis-zu-90-prozent-der-mehrfamilienhaeuser-fuer-waermepumpen-geeignet/",
    "quelle": "pv magazine",
@@ -1388,6 +1350,24 @@
    "tun": "Prüfe Bestandsanlagen von Kunden auf Systemtemperatur-Eignung.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Individuelle Gesundheitschecks direkt am Arbeitsplatz",
@@ -1447,24 +1427,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Ökofen: Pellet-Brennwert für größere Leistungen",
    "link": "https://www.ikz.de/medien/ikz-haustechnik/heftarchiv/jahrgang-2026/ausgabe-09/news/detail/oekofen-pellet-brennwert-fuer-groessere-leistungen/",
    "quelle": "IKZ",
@@ -1483,6 +1445,24 @@
    "tun": "Prüfe das Gerät für anstehende Ausschreibungen im Gewerbe- oder Kommunalbereich.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Schätzung des merkantilen Minderwerts anhand fiktiver Mängelbeseitigungskosten?",
@@ -1546,24 +1526,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Vorab übersandtes Angebot beim Verbraucher unterzeichnet: Widerrufsrecht besteht doch!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316282",
    "quelle": "IBR-Online",
@@ -1581,6 +1543,24 @@
    "tun": "Passe Angebotsprozesse an, um Widerrufsrecht korrekt zu berücksichtigen.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   }
  ]
 }
