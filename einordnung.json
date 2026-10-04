@@ -4046,5 +4046,45 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-03"
+ },
+ "https://allgemeinebauzeitung.de/neues-praesidium-buildingsmart-deutschland-gewaehlt/": {
+  "id": "2f5615501f60",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-04"
+ },
+ "https://www.handwerk-magazin.de/seifriz-gewinner-2026-ki-gestuetztes-pruefverfahren-fuer-steinmetze-351131/": {
+  "id": "fdbecf19404c",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-04"
  }
 }
