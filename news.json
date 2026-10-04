@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-04T15:22+00:00",
+ "stand": "2026-10-04T19:38+00:00",
  "anzahl": 80,
  "gewerke": [
   "Alle Gewerke",
@@ -289,21 +289,22 @@
    "gewicht": 1
   },
   {
-   "titel": "Bundesrat fordert Änderungen an EEG und Netzpaket – Regierung lehnt ab",
-   "link": "https://www.solarserver.de/2026/10/02/bundesrat-fordert-aenderungen-am-eeg-entwurf-regierung-lehnt-ab/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-02T11:00:00+00:00",
+   "titel": "Neues Schulungsprogramm für die Saison 2026/27",
+   "link": "https://www.kka-online.info/news/neues-schulungsprogramm-fuer-die-saison-202627-4432514.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-10-02T09:45:38+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
+    "Kälte- und Klimatechnik"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
    ],
-   "thema": "Recht & Pflichten",
-   "was": "Streit um EEG- und Netzpaket-Änderungen kann Rahmenbedingungen für PV- und Netzprojekte verzögern.",
-   "tun": "Verfolge die weitere Gesetzgebung, bevor du große PV-Projekte kalkulierst.",
+   "thema": "Personal & Ausbildung",
+   "was": "Neue Schulungstermine ab November helfen, Mitarbeiter auf aktuellem Stand zu halten.",
+   "tun": "Melde Monteure für passende Seminare oder Workshops an.",
    "frist": null,
    "gewicht": 1
   },
@@ -324,26 +325,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Neues Schulungsprogramm für die Saison 2026/27",
-   "link": "https://www.kka-online.info/news/neues-schulungsprogramm-fuer-die-saison-202627-4432514.html",
-   "quelle": "KKA",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-10-02T09:45:38+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Neue Schulungstermine ab November helfen, Mitarbeiter auf aktuellem Stand zu halten.",
-   "tun": "Melde Monteure für passende Seminare oder Workshops an.",
-   "frist": null,
-   "gewicht": 1
   },
   {
    "titel": "Ostdeutsches Handwerk fordert Nachwuchsförderung",
@@ -403,24 +384,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Elektronische Rechnungen B2B",
    "link": "https://www.metallbau-magazin.de/news/elektronische-rechnungen-b2b-4432076.html",
    "quelle": "Metallbau",
@@ -438,6 +401,24 @@
    "tun": "Kläre mit dem Steuerberater, bis wann deine Buchhaltung E-Rechnungen verarbeiten kann.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Kältere Witterung treibt Heizkosten trotz stabiler Energiepreise in die Höhe",
@@ -499,24 +480,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Bundesregierung weist Bundesrats-Kritik an geplanter EEG-Novelle zurück",
    "link": "https://www.pv-magazine.de/2026/10/02/bundesregierung-weist-bundesrats-kritik-an-geplanter-eeg-novelle-zurueck/",
    "quelle": "pv magazine",
@@ -537,6 +500,43 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Bundesrat fordert Änderungen an EEG und Netzpaket – Regierung lehnt ab",
+   "link": "https://www.solarserver.de/2026/10/02/bundesrat-fordert-aenderungen-am-eeg-entwurf-regierung-lehnt-ab/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-02T11:00:00+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Streit um EEG- und Netzpaket-Änderungen kann Rahmenbedingungen für PV- und Netzprojekte verzögern.",
+   "tun": "Verfolge die weitere Gesetzgebung, bevor du große PV-Projekte kalkulierst.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Erste Anwendung von Super-RS-Gerüsten auf Berliner Fassade",
    "link": "https://allgemeinebauzeitung.de/erste-anwendung-super-rs-gerueste-berlin/",
    "quelle": "Allgemeine Bauzeitung",
@@ -552,25 +552,6 @@
    "thema": "Arbeitsschutz",
    "was": "Neues Gerüstsystem mit vorlaufendem Geländer kann Absturzsicherung bei Fassadenarbeiten verbessern.",
    "tun": "Informiere dich beim Hersteller über Einsatzmöglichkeiten für deine Baustellen.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Next2Sun verfehlt Finanzierungsziel – Zukunft offen",
-   "link": "https://www.solarserver.de/2026/10/02/next2sun-verfehlt-finanzierungsziel-zukunft-offen/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-02T10:30:36+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Markt",
-   "was": "Finanzielle Schieflage eines Agri-PV-Herstellers kann Lieferketten und Garantien betreffen, wenn du mit ihm arbeitest.",
-   "tun": "Prüfe laufende Aufträge und Lieferverträge mit Next2Sun.",
    "frist": null,
    "gewicht": 1
   },
@@ -595,24 +576,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "handwerk magazin Oktober-Ausgabe 2026: Baustellen smarter planen mit KI",
    "link": "https://www.handwerk-magazin.de/handwerk-magazin-oktober-ausgabe-2026-baustellen-smarter-planen-mit-ki-351775/",
    "quelle": "handwerk magazin",
@@ -630,6 +593,24 @@
    "tun": "Teste KI-Funktionen deiner Bausoftware oder vergleiche Anbieter.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Azubi-Sicherheitspreis",
@@ -690,24 +671,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Bürohochhaus mit Nebengebäuden: Ein oder mehrere Gebäude?",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315655",
    "quelle": "IBR-Online",
@@ -726,6 +689,24 @@
    "tun": "Prüfe bei Mehrgebäude-Projekten die vertragliche Abgrenzung genau.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "EEG-Novelle 2027 und die Folgen für kleine EE-Anlagen",
@@ -785,24 +766,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Registrierkassenpflicht: Diese neuen Kassen-Regeln sollten Handwerksbetriebe jetzt kennen",
    "link": "https://www.bauhandwerk.de/news/registrierkassenpflicht-diese-neuen-kassen-regeln-sollten-handwerksbetriebe-jetzt-kennen-4427013.html",
    "quelle": "bauhandwerk",
@@ -820,6 +783,24 @@
    "tun": "Informiere dich über den Referentenentwurf und plane die Umstellung der Kassensysteme.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Next2Sun: Finanzierung kommt nicht zustande",
@@ -841,6 +822,25 @@
    "gewicht": 2
   },
   {
+   "titel": "Next2Sun verfehlt Finanzierungsziel – Zukunft offen",
+   "link": "https://www.solarserver.de/2026/10/02/next2sun-verfehlt-finanzierungsziel-zukunft-offen/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-02T10:30:36+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Finanzielle Schieflage eines Agri-PV-Herstellers kann Lieferketten und Garantien betreffen, wenn du mit ihm arbeitest.",
+   "tun": "Prüfe laufende Aufträge und Lieferverträge mit Next2Sun.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Studie: Zahlungsverzug bleibt Dauerproblem der deutschen Wirtschaft",
    "link": "https://allgemeinebauzeitung.de/zahlungsverzug-deutsche-wirtschaft-studie-maschinenbau-kettenreaktion/",
    "quelle": "Allgemeine Bauzeitung",
@@ -860,21 +860,21 @@
    "gewicht": 2
   },
   {
-   "titel": "Netzanschlussprüfung von PV-Anlagen bis 100 kW dauert im Schnitt 79 Tage",
-   "link": "https://www.solarserver.de/2026/10/02/netzanschlusspruefung-von-pv-anlagen-bis-100-kw-dauert-im-schnitt-79-tage/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-02T09:41:44+00:00",
+   "titel": "E-Rechnung – aktueller Stand und Ausblick",
+   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/e-rechnung-aktueller-stand-und-ausblick",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-02T09:32:57+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
+    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "Markt",
-   "was": "Netzanschlussprüfungen für PV-Anlagen dauern im Schnitt über zwei Monate – das beeinflusst deine Projektplanung.",
-   "tun": "Plane Pufferzeiten für Netzanschlussprüfungen fest ein.",
+   "thema": "Recht & Pflichten",
+   "was": "Die E-Rechnungspflicht verändert, wie du Rechnungen stellst und empfängst – frühzeitige Umstellung lohnt sich.",
+   "tun": "Informiere dich über den aktuellen Stand der E-Rechnungspflicht.",
    "frist": null,
    "gewicht": 2
   },
@@ -895,25 +895,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "E-Rechnung – aktueller Stand und Ausblick",
-   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/e-rechnung-aktueller-stand-und-ausblick",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-02T09:32:57+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Die E-Rechnungspflicht verändert, wie du Rechnungen stellst und empfängst – frühzeitige Umstellung lohnt sich.",
-   "tun": "Informiere dich über den aktuellen Stand der E-Rechnungspflicht.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Was Geld kostet und was es bringt: Diese Banken bieten aktuell die besten Konditionen",
@@ -973,24 +954,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Innung Nordost: kostspielige Abmahnungen drohen",
    "link": "https://www.boden-wand-decke.de/innung-nordost-kostspielige-abmahnungen-drohen-357200/",
    "quelle": "Boden Wand Decke",
@@ -1008,6 +971,24 @@
    "tun": "Prüfe deine Werbeaussagen und AGB auf UWG-Konformität.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Digitale Geräteverwaltung im Handwerk dank RFID",
@@ -1068,24 +1049,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Mitteilung in Vergabeportal eingestellt: Zugang spätestens am Folgetag!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316342",
    "quelle": "IBR-Online",
@@ -1103,6 +1066,24 @@
    "tun": "Kontrolliere Vergabeportale täglich, um Fristen nicht zu verpassen.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "VDI aktualisiert Richtlinien zur Ladungssicherung von Betonstahl",
@@ -1163,6 +1144,25 @@
    "gewicht": 2
   },
   {
+   "titel": "Netzanschlussprüfung von PV-Anlagen bis 100 kW dauert im Schnitt 79 Tage",
+   "link": "https://www.solarserver.de/2026/10/02/netzanschlusspruefung-von-pv-anlagen-bis-100-kw-dauert-im-schnitt-79-tage/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-02T09:41:44+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Netzanschlussprüfungen für PV-Anlagen dauern im Schnitt über zwei Monate – das beeinflusst deine Projektplanung.",
+   "tun": "Plane Pufferzeiten für Netzanschlussprüfungen fest ein.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
    "link": "https://iph-academy.learningsuite.io/student/courses",
    "quelle": "IPH Academy",
@@ -1179,24 +1179,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Energy Watch Group: Solarer Ausbaustopp verteuert Strom um 4 Cent",
-   "link": "https://www.solarserver.de/2026/10/02/energy-watch-group-solarer-ausbaustopp-verteuert-strom-um-4-cent/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-02T08:01:10+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Ein möglicher PV-Ausbaustopp durch das EEG könnte Strompreise und Auftragslage für Solarbetriebe verändern.",
-   "tun": "Verfolge die EEG-Novelle und plane Kapazitäten entsprechend.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Maschinentechnik: Kompakte Plattenaufteilsäge fürs Handwerk",
@@ -1256,24 +1238,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "ESaK verabschiedet letzten eigenständigen Jahrgang",
    "link": "https://www.kka-online.info/news/esak-verabschiedet-letzten-eigenstaendigen-jahrgang-4430527.html",
    "quelle": "KKA",
@@ -1291,6 +1255,24 @@
    "tun": "Prüfe, wie sich die neue Ausbildungsstruktur auf deine Nachwuchsplanung auswirkt.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Waterkotte startet Serienfertigung großer R290-Wärmepumpe",
@@ -1349,6 +1331,24 @@
    "tun": "Frag bei der IKK Südwest nach einem Termin für dein Team an.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Energy Watch Group: Solarer Ausbaustopp verteuert Strom um 4 Cent",
+   "link": "https://www.solarserver.de/2026/10/02/energy-watch-group-solarer-ausbaustopp-verteuert-strom-um-4-cent/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-02T08:01:10+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Ein möglicher PV-Ausbaustopp durch das EEG könnte Strompreise und Auftragslage für Solarbetriebe verändern.",
+   "tun": "Verfolge die EEG-Novelle und plane Kapazitäten entsprechend.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
