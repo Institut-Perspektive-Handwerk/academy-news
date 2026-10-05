@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-05T14:41+00:00",
+ "stand": "2026-10-05T22:37+00:00",
  "anzahl": 72,
  "gewerke": [
   "Alle Gewerke",
@@ -438,25 +438,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Teilschussrechnung kann Schlussrechnung ersetzen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316381",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-02T06:27:58+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Laut OLG Hamm kann eine Teilschlussrechnung die Schlussrechnung rechtlich ersetzen – wichtig für Abrechnungspraxis.",
-   "tun": "Prüfe mit deinem Steuerberater, ob Teilschlussrechnungen künftig genutzt werden können.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Leitfaden für Feststellanlagen",
    "link": "https://www.metallbau-magazin.de/news/leitfaden-fuer-feststellanlagen-4432087.html",
    "quelle": "Metallbau",
@@ -495,24 +476,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Copilot-Governance: KI-Agents brauchen Kontrolle",
    "link": "https://www.mittelstandswiki.de/2026/09/copilot-governance-ki-agents-brauchen-kontrolle/",
    "quelle": "Mittelstandswiki",
@@ -530,6 +493,24 @@
    "tun": "Richte klare Zugriffsregeln für Copilot und KI-Agents im Büro ein.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Next2Sun meldet für zwei Töchter Insolvenz an",
@@ -571,41 +552,23 @@
    "gewicht": 1
   },
   {
-   "titel": "Auftraggeber ist kein Steuerrechtsfachmann!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316006",
+   "titel": "Teilschussrechnung kann Schlussrechnung ersetzen!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316381",
    "quelle": "IBR-Online",
    "bereich": "Baurecht",
-   "datum": "2026-10-02T04:00:00+00:00",
+   "datum": "2026-10-02T06:27:58+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
-    "Büro/Kalkulation",
-    "Projektleitung/Bauleitung"
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
    ],
    "thema": "VOB & Verträge",
-   "was": "Das Gericht stellt klar, dass Auftraggeber bei Steuerfragen in Vergabeverfahren nicht als Fachleute gelten müssen – wichtig für Angebotsprüfung.",
-   "tun": "Prüfe eigene Angebote auf steuerliche Klarheit, verlasse dich nicht auf Auftraggeberwissen.",
+   "was": "Laut OLG Hamm kann eine Teilschlussrechnung die Schlussrechnung rechtlich ersetzen – wichtig für Abrechnungspraxis.",
+   "tun": "Prüfe mit deinem Steuerberater, ob Teilschlussrechnungen künftig genutzt werden können.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Elektronische Rechnungen B2B",
@@ -625,6 +588,24 @@
    "tun": "Kläre mit dem Steuerberater, bis wann deine Buchhaltung E-Rechnungen verarbeiten kann.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Darf mein Team wissen, wie schlecht es mir geht?",
@@ -685,24 +666,6 @@
    "gewicht": 3
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Netzbetreiberprüfung für Photovoltaik-Anlagen bis 100 Kilowatt dauert im Bundesschnitt 80 Tage",
    "link": "https://www.pv-magazine.de/2026/10/05/netzbetreiberpruefung-fuer-photovoltaik-anlagen-bis-100-kilowatt-dauert-im-bundesschnitt-80-tage/",
    "quelle": "pv magazine",
@@ -720,6 +683,24 @@
    "tun": "Prüfe vorab die Durchschnittszeit deines Netzbetreibers für die Projektplanung.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Energiekonzepte Deutschland stellt Insolvenzantrag",
@@ -778,24 +759,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "handwerk magazin Oktober-Ausgabe 2026: Baustellen smarter planen mit KI",
    "link": "https://www.handwerk-magazin.de/handwerk-magazin-oktober-ausgabe-2026-baustellen-smarter-planen-mit-ki-351775/",
    "quelle": "handwerk magazin",
@@ -815,6 +778,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Lattuada präsentiert vollautomatische Roboterlinie",
    "link": "https://www.gff-magazin.de/lattuada-praesentiert-vollautomatische-roboterlinie-336503/",
    "quelle": "GFF",
@@ -832,6 +813,25 @@
    "tun": "Informiere dich über Automatisierungsoptionen für die eigene Fertigung.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Auftraggeber ist kein Steuerrechtsfachmann!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316006",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-02T04:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Das Gericht stellt klar, dass Auftraggeber bei Steuerfragen in Vergabeverfahren nicht als Fachleute gelten müssen – wichtig für Angebotsprüfung.",
+   "tun": "Prüfe eigene Angebote auf steuerliche Klarheit, verlasse dich nicht auf Auftraggeberwissen.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Azubi-Sicherheitspreis",
@@ -892,26 +892,6 @@
    ]
   },
   {
-   "titel": "Bürohochhaus mit Nebengebäuden: Ein oder mehrere Gebäude?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315655",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-01T05:38:26+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
-    "Architektur/Planung"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Ob mehrere Gebäude als eins gelten, beeinflusst Fristen und Mängelrechte bei Komplexbauten.",
-   "tun": "Prüfe bei Mehrgebäude-Projekten die vertragliche Abgrenzung genau.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "VDMA ALT gibt Einblicke in neue Studie zum Energiebedarf",
    "link": "https://kaelte-luft-klima.de/branche-und-markt/vdma-alt-gibt-einblicke-in-neue-studie-zum-energiebedarf",
    "quelle": "Kälte Luft Klima",
@@ -969,24 +949,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Was Geld kostet und was es bringt: Diese Banken bieten aktuell die besten Konditionen",
    "link": "https://www.handwerk-magazin.de/investition-und-finanzierung-172112/",
    "quelle": "handwerk magazin",
@@ -1004,6 +966,24 @@
    "tun": "Vergleiche aktuelle Bankkonditionen vor der nächsten Finanzierung.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Plus für dt. Fenstermarkt",
@@ -1043,41 +1023,24 @@
    "gewicht": 2
   },
   {
-   "titel": "Mitteilung in Vergabeportal eingestellt: Zugang spätestens am Folgetag!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316342",
+   "titel": "Bürohochhaus mit Nebengebäuden: Ein oder mehrere Gebäude?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315655",
    "quelle": "IBR-Online",
    "bereich": "Baurecht",
-   "datum": "2026-10-01T04:28:38+00:00",
+   "datum": "2026-10-01T05:38:26+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Hochbau/Rohbau",
+    "Architektur/Planung"
    ],
    "rollen": [
-    "Büro/Kalkulation",
+    "Projektleitung/Bauleitung",
     "Inhaber/Geschäftsführung"
    ],
-   "thema": "Recht & Pflichten",
-   "was": "Bei Vergabeportalen gilt eine Mitteilung spätestens am Folgetag als zugegangen, Fristen laufen entsprechend.",
-   "tun": "Kontrolliere Vergabeportale täglich, um Fristen nicht zu verpassen.",
+   "thema": "VOB & Verträge",
+   "was": "Ob mehrere Gebäude als eins gelten, beeinflusst Fristen und Mängelrechte bei Komplexbauten.",
+   "tun": "Prüfe bei Mehrgebäude-Projekten die vertragliche Abgrenzung genau.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "EEG-Novelle 2027 und die Folgen für kleine EE-Anlagen",
@@ -1098,6 +1061,24 @@
    "tun": "Verfolge die Einschätzung der Stiftung Umweltenergierecht zu Folgen für Kleinanlagen.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "VDI aktualisiert Richtlinien zur Ladungssicherung von Betonstahl",
@@ -1159,24 +1140,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Kältere Witterung treibt Heizkosten trotz stabiler Energiepreise in die Höhe",
    "link": "https://www.tga-praxis.de/news/kaeltere-witterung-treibt-heizkosten-trotz-stabiler-energiepreise-die-hoehe.html",
    "quelle": "TGA-Praxis",
@@ -1195,6 +1158,24 @@
    "tun": "Bereite Argumente für Kundengespräche zu Heizkosten und Effizienz vor.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Fenstermarkt 2026: Stabiles Wachstum mit positivem Ausblick",
@@ -1254,24 +1235,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "GEV: Broschüre zu emissionsarmen Produkten",
    "link": "https://www.boden-wand-decke.de/gev-broschuere-zu-emissionsarmen-produkten-357187/",
    "quelle": "Boden Wand Decke",
@@ -1292,6 +1255,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Mecklenburg-Vorpommern hebt vergaberechtlichen Mindestlohn auf 15,27 Euro an",
    "link": "https://vergabeblog.de/2026-10-01/mecklenburg-vorpommern-hebt-vergaberechtlichen-mindestlohn-auf-1527-euro-an/",
    "quelle": "vergabeblog",
@@ -1308,6 +1289,25 @@
    "was": "Vergaberechtlicher Mindestlohn in MV steigt auf 15,27 Euro – betrifft Kalkulation bei öffentlichen Aufträgen dort.",
    "tun": "Passe Kalkulationen für MV-Ausschreibungen an den neuen Mindestlohn an.",
    "frist": "2026-10-01",
+   "gewicht": 2
+  },
+  {
+   "titel": "Mitteilung in Vergabeportal eingestellt: Zugang spätestens am Folgetag!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316342",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-01T04:28:38+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Bei Vergabeportalen gilt eine Mitteilung spätestens am Folgetag als zugegangen, Fristen laufen entsprechend.",
+   "tun": "Kontrolliere Vergabeportale täglich, um Fristen nicht zu verpassen.",
+   "frist": null,
    "gewicht": 2
   },
   {
