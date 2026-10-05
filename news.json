@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-04T23:10+00:00",
- "anzahl": 77,
+ "stand": "2026-10-05T05:41+00:00",
+ "anzahl": 81,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -41,6 +41,26 @@
   }
  ],
  "news": [
+  {
+   "titel": "KI-Agenten für die Automatisierung",
+   "link": "https://www.elektro.net/129832/ki-agenten-fuer-die-automatisierung/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-05T05:00:00+00:00",
+   "gewerke": [
+    "Elektro",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Ab 2027 sollen KI-Agenten in Automatisierungsplattformen Engineering-Aufgaben selbst übernehmen.",
+   "tun": "Beobachte die Entwicklung für Anlagenplanung und Programmierung.",
+   "frist": null,
+   "gewicht": 1
+  },
   {
    "titel": "Du arbeitest zu Hause? Das solltest du in der Steuererklärung angeben",
    "link": "https://www.impulse.de/finanzen/haeusliches-arbeitszimmer/7639292.html",
@@ -99,6 +119,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Teilschussrechnung kann Schlussrechnung ersetzen!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316381",
    "quelle": "IBR-Online",
@@ -116,24 +154,6 @@
    "tun": "Prüfe mit deinem Steuerberater, ob Teilschlussrechnungen künftig genutzt werden können.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Leitfaden für Feststellanlagen",
@@ -195,24 +215,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Unfallrisiko bei der Arbeit 2025 erneut gesunken",
-   "link": "https://www.dguv.de/de/mediencenter/pm/zahlen-2025.jsp",
-   "quelle": "DGUV",
-   "bereich": "Arbeitsschutz",
-   "datum": "2026-09-22T07:03:08+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Arbeitsschutz",
-   "was": "Weniger Arbeitsunfälle laut DGUV-Zahlen – zeigt, dass Präventionsmaßnahmen im Betrieb wirken.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
    "link": "https://iph-academy.learningsuite.io/student/event-plan",
    "quelle": "IPH Academy",
@@ -229,6 +231,24 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Unfallrisiko bei der Arbeit 2025 erneut gesunken",
+   "link": "https://www.dguv.de/de/mediencenter/pm/zahlen-2025.jsp",
+   "quelle": "DGUV",
+   "bereich": "Arbeitsschutz",
+   "datum": "2026-09-22T07:03:08+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Arbeitsschutz",
+   "was": "Weniger Arbeitsunfälle laut DGUV-Zahlen – zeigt, dass Präventionsmaßnahmen im Betrieb wirken.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Surevive: Batteriespeicher übernehmen Systemverantwortung",
@@ -249,25 +269,6 @@
    "tun": "",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Außenbeleuchtung von Arbeitsstätten",
-   "link": "https://www.elektro.net/129689/aussenbeleuchtung-von-arbeitsstaetten/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-02T12:40:00+00:00",
-   "gewerke": [
-    "Elektro"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Normen & Technik",
-   "was": "ASR A3.4 und DIN EN 12464-2 regeln Anforderungen an Außenbeleuchtung von Arbeitsstätten – wichtig für Planung.",
-   "tun": "Prüfe bestehende Außenbeleuchtungsprojekte auf Normkonformität.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Zukunftsprojekte: Wie sich das Bauen verändert",
@@ -459,6 +460,25 @@
    "gewicht": 1
   },
   {
+   "titel": "Außenbeleuchtung von Arbeitsstätten",
+   "link": "https://www.elektro.net/129689/aussenbeleuchtung-von-arbeitsstaetten/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-02T12:40:00+00:00",
+   "gewerke": [
+    "Elektro"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Normen & Technik",
+   "was": "ASR A3.4 und DIN EN 12464-2 regeln Anforderungen an Außenbeleuchtung von Arbeitsstätten – wichtig für Planung.",
+   "tun": "Prüfe bestehende Außenbeleuchtungsprojekte auf Normkonformität.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Bundesregierung weist Bundesrats-Kritik an geplanter EEG-Novelle zurück",
    "link": "https://www.pv-magazine.de/2026/10/02/bundesregierung-weist-bundesrats-kritik-an-geplanter-eeg-novelle-zurueck/",
    "quelle": "pv magazine",
@@ -479,25 +499,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Bundesrat fordert Änderungen an EEG und Netzpaket – Regierung lehnt ab",
-   "link": "https://www.solarserver.de/2026/10/02/bundesrat-fordert-aenderungen-am-eeg-entwurf-regierung-lehnt-ab/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-02T11:00:00+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Streit um EEG- und Netzpaket-Änderungen kann Rahmenbedingungen für PV- und Netzprojekte verzögern.",
-   "tun": "Verfolge die weitere Gesetzgebung, bevor du große PV-Projekte kalkulierst.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
    "link": "https://iph-academy.learningsuite.io/student/event-plan",
    "quelle": "IPH Academy",
@@ -516,22 +517,21 @@
    ]
   },
   {
-   "titel": "Siemens Logo! 9: Software einrichten und erstes Projekt erstellen",
-   "link": "https://www.elektro.net/129681/software-einrichten-und-erstes-projekt-erstellen/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-02T10:04:00+00:00",
+   "titel": "Bundesrat fordert Änderungen an EEG und Netzpaket – Regierung lehnt ab",
+   "link": "https://www.solarserver.de/2026/10/02/bundesrat-fordert-aenderungen-am-eeg-entwurf-regierung-lehnt-ab/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-02T11:00:00+00:00",
    "gewerke": [
-    "Elektro",
+    "Photovoltaik/Solartechnik",
     "TGA/Energiedienstleister"
    ],
    "rollen": [
-    "Monteur/Facharbeiter",
-    "Projektleitung/Bauleitung"
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "Normen & Technik",
-   "was": "Die neue Logo! 9 Software erleichtert Inbetriebnahme und Programmierung von Steuerungen in Elektro- und TGA-Projekten.",
-   "tun": "Teste die neue Engineering-Software bei nächster Logo!-Installation.",
+   "thema": "Recht & Pflichten",
+   "was": "Streit um EEG- und Netzpaket-Änderungen kann Rahmenbedingungen für PV- und Netzprojekte verzögern.",
+   "tun": "Verfolge die weitere Gesetzgebung, bevor du große PV-Projekte kalkulierst.",
    "frist": null,
    "gewicht": 1
   },
@@ -822,6 +822,26 @@
    "gewicht": 1
   },
   {
+   "titel": "Siemens Logo! 9: Software einrichten und erstes Projekt erstellen",
+   "link": "https://www.elektro.net/129681/software-einrichten-und-erstes-projekt-erstellen/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-02T10:04:00+00:00",
+   "gewerke": [
+    "Elektro",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Die neue Logo! 9 Software erleichtert Inbetriebnahme und Programmierung von Steuerungen in Elektro- und TGA-Projekten.",
+   "tun": "Teste die neue Engineering-Software bei nächster Logo!-Installation.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "E-Rechnung – aktueller Stand und Ausblick",
    "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/e-rechnung-aktueller-stand-und-ausblick",
    "quelle": "handwerksblatt",
@@ -858,25 +878,6 @@
    "tun": "Vergleiche aktuelle Bankkonditionen vor der nächsten Finanzierung.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Berufsbegleitend zum geprüften Obermonteur",
-   "link": "https://www.elektro.net/129826/berufsbegleitend-zum-geprueften-obermonteur/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-02T05:00:00+00:00",
-   "gewerke": [
-    "Elektro"
-   ],
-   "rollen": [
-    "Ausbildung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Der berufsbegleitende Lehrgang zum geprüften Obermonteur qualifiziert Fachkräfte für Führungsaufgaben im Elektrohandwerk.",
-   "tun": "Melde interessierte Mitarbeiter für den Lehrgang in Dresden an.",
-   "frist": "2026-11-06",
-   "gewicht": 2
   },
   {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
@@ -1086,6 +1087,25 @@
    ]
   },
   {
+   "titel": "Erste Anwendung von Super-RS-Gerüsten auf Berliner Fassade",
+   "link": "https://allgemeinebauzeitung.de/erste-anwendung-super-rs-gerueste-berlin/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-02T10:30:53+00:00",
+   "gewerke": [
+    "Gerüstbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Arbeitsschutz",
+   "was": "Neues Gerüstsystem mit vorlaufendem Geländer kann Absturzsicherung bei Fassadenarbeiten verbessern.",
+   "tun": "Informiere dich beim Hersteller über Einsatzmöglichkeiten für deine Baustellen.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Netzanschlussprüfung von PV-Anlagen bis 100 kW dauert im Schnitt 79 Tage",
    "link": "https://www.solarserver.de/2026/10/02/netzanschlusspruefung-von-pv-anlagen-bis-100-kw-dauert-im-schnitt-79-tage/",
    "quelle": "Solarserver",
@@ -1102,6 +1122,25 @@
    "was": "Netzanschlussprüfungen für PV-Anlagen dauern im Schnitt über zwei Monate – das beeinflusst deine Projektplanung.",
    "tun": "Plane Pufferzeiten für Netzanschlussprüfungen fest ein.",
    "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Berufsbegleitend zum geprüften Obermonteur",
+   "link": "https://www.elektro.net/129826/berufsbegleitend-zum-geprueften-obermonteur/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-02T05:00:00+00:00",
+   "gewerke": [
+    "Elektro"
+   ],
+   "rollen": [
+    "Ausbildung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Der berufsbegleitende Lehrgang zum geprüften Obermonteur qualifiziert Fachkräfte für Führungsaufgaben im Elektrohandwerk.",
+   "tun": "Melde interessierte Mitarbeiter für den Lehrgang in Dresden an.",
+   "frist": "2026-11-06",
    "gewicht": 2
   },
   {
@@ -1122,6 +1161,24 @@
    "tun": "Prüfe die SAWTEQ S-190 als Ergänzung für deine Werkstattausstattung.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Fallbeispiele für Leasing: Wie Sie investieren und Liquidität schonen",
@@ -1160,24 +1217,6 @@
    "tun": "Passe Kalkulationen für MV-Ausschreibungen an den neuen Mindestlohn an.",
    "frist": "2026-10-01",
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "ESaK verabschiedet letzten eigenständigen Jahrgang",
@@ -1219,6 +1258,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "VDI aktualisiert Richtlinien zur Ladungssicherung von Betonstahl",
    "link": "https://www.bft-international.com/de/news/vdi-aktualisiert-richtlinien-zur-ladungssicherung-von-betonstahl-4428660.html",
    "quelle": "BFT",
@@ -1235,6 +1292,25 @@
    "thema": "Normen & Technik",
    "was": "Aktualisierte VDI-Richtlinien zur Ladungssicherung betreffen den Transport von Betonstahl.",
    "tun": "Prüfe die Ladungssicherung bei Betonstahl-Transporten auf die neuen Vorgaben.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Studie: Zahlungsverzug bleibt Dauerproblem der deutschen Wirtschaft",
+   "link": "https://allgemeinebauzeitung.de/zahlungsverzug-deutsche-wirtschaft-studie-maschinenbau-kettenreaktion/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-02T10:18:46+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Zahlungsverzug von Kunden kann auch deinen Betrieb in Liquiditätsengpässe bringen.",
+   "tun": "Prüfe Zahlungsziele und Mahnwesen bei Großkunden regelmäßig.",
    "frist": null,
    "gewicht": 2
   },
@@ -1259,24 +1335,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Individuelle Gesundheitschecks direkt am Arbeitsplatz",
    "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/individuelle-gesundheitschecks-direkt-am-arbeitsplatz",
    "quelle": "handwerksblatt",
@@ -1293,6 +1351,24 @@
    "tun": "Frag bei der IKK Südwest nach einem Termin für dein Team an.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Energy Watch Group: Solarer Ausbaustopp verteuert Strom um 4 Cent",
@@ -1352,24 +1428,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "TÜV zur neuen ISO 9001",
    "link": "https://www.metallbau-magazin.de/news/tuev-zur-neuen-iso-9001-4430894.html",
    "quelle": "Metallbau",
@@ -1387,6 +1445,24 @@
    "tun": "Prüfe dein QM-System auf Anpassungsbedarf zur neuen Norm.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Ökofen: Pellet-Brennwert für größere Leistungen",
@@ -1451,24 +1527,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Besteller unterlässt Mitwirkung: Unternehmer kann kündigen und Entschädigung verlangen!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316270",
    "quelle": "IBR-Online",
@@ -1486,6 +1544,24 @@
    "tun": "Dokumentiere fehlende Mitwirkung des Auftraggebers konsequent für eine mögliche Kündigung.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Vorab übersandtes Angebot beim Verbraucher unterzeichnet: Widerrufsrecht besteht doch!",

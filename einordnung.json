@@ -4146,5 +4146,83 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-04"
+ },
+ "https://allgemeinebauzeitung.de/entwaesserungssysteme-fischzuchtanlage-andoya-installiert/": {
+  "id": "fd7ffa6c7f82",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-05"
+ },
+ "https://www.elektro.net/129832/ki-agenten-fuer-die-automatisierung/": {
+  "id": "fed76fc1ddbd",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Ab 2027 sollen KI-Agenten in Automatisierungsplattformen Engineering-Aufgaben selbst übernehmen.",
+  "tun": "Beobachte die Entwicklung für Anlagenplanung und Programmierung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-05"
+ },
+ "https://www.shk-profi.de/news/reflexgroup-uebernimmt-exgas-technology-4432544.html": {
+  "id": "219396a83dca",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-05"
+ },
+ "https://allgemeinebauzeitung.de/spezialgeruest-ueberschallflugzeug-technikmuseum/": {
+  "id": "f6bb2cdf5cf6",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-05"
  }
 }
