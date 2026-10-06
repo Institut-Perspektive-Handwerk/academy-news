@@ -6222,5 +6222,59 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-06"
+ },
+ "https://www.impulse.de/selbstmanagement/stefanie-stahl-ueber-glaubenssaetze/7640417.html": {
+  "id": "dd4609353573",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-06"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316396": {
+  "id": "f93f0255cc5c",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Gericht stellt klar: Freihändige Vergabe ist kein formloser Direktauftrag, sondern muss Vergaberegeln einhalten.",
+  "tun": "Prüfe bei freihändiger Vergabe die formalen Anforderungen genau.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-06"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316432": {
+  "id": "eb69f2e7785c",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Befangenheit eines Entscheiders im Vergabeverfahren kann zum Verlust von Vergütungsansprüchen führen.",
+  "tun": "Dokumentiere Auftragsvergaben sauber, um Befangenheitsvorwürfe zu vermeiden.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-06"
  }
 }

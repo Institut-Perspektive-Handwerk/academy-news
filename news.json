@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-06T15:13+00:00",
+ "stand": "2026-10-06T20:59+00:00",
  "anzahl": 82,
  "gewerke": [
   "Alle Gewerke",
@@ -260,25 +260,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Du arbeitest zu Hause? Das solltest du in der Steuererklärung angeben",
-   "link": "https://www.impulse.de/finanzen/haeusliches-arbeitszimmer/7639292.html",
-   "quelle": "impulse",
-   "bereich": "Unternehmer",
-   "datum": "2026-10-02T10:55:16+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Wer Kosten fürs Arbeitszimmer genau belegt, kann mehr Steuern sparen als mit der Pauschale.",
-   "tun": "Prüfe mit deinem Steuerberater, ob Einzelabrechnung sich für dich lohnt.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Korridorsanierung der Deutschen Bahn: Das Schienennetz wird zur Großbaustelle",
    "link": "https://baublatt.de/gleise-weichen-bahnhoefe-korridorsanierung-der-deutschen-bahn-das-schienennetz-wird-zur-grossbaustelle/",
    "quelle": "Baublatt",
@@ -318,24 +299,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Die zweite Seite von MiSpeL: Saldierung von Netzgebühren und Umlagen",
    "link": "https://www.solarserver.de/2026/10/06/die-zweite-seite-von-mispel-saldierung-von-netzgebuehren-und-umlagen/",
    "quelle": "Solarserver",
@@ -355,6 +318,24 @@
    "tun": "Prüfe die neue Festlegung für laufende Speicher- und Ladeprojekte.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "KI-Diktiergeräte: Was ist rechtlich zu beachten?",
@@ -415,24 +396,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Schütz Energy Systems: Inhouse-WHG-Schulungen für Heizölverbraucheranlagen",
    "link": "https://www.shk-profi.de/news/schuetz-energy-systems-inhouse-whg-schulungen-fuer-heizoelverbraucheranlagen-4433578.html",
    "quelle": "SHK-Profi",
@@ -450,6 +413,24 @@
    "tun": "Prüfe, ob deine verantwortlichen Mitarbeiter die WHG-Qualifikation brauchen.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "ANBest: Kommen bei Zuwendungen deutliche Vereinfachungen, höhere Wertgrenzen und mehr Flexibilität im Vergabewesen?",
@@ -509,6 +490,25 @@
    "gewicht": 1
   },
   {
+   "titel": "Du arbeitest zu Hause? Das solltest du in der Steuererklärung angeben",
+   "link": "https://www.impulse.de/finanzen/haeusliches-arbeitszimmer/7639292.html",
+   "quelle": "impulse",
+   "bereich": "Unternehmer",
+   "datum": "2026-10-02T10:55:16+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Wer Kosten fürs Arbeitszimmer genau belegt, kann mehr Steuern sparen als mit der Pauschale.",
+   "tun": "Prüfe mit deinem Steuerberater, ob Einzelabrechnung sich für dich lohnt.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
    "link": "https://iph-academy.learningsuite.io/student/event-plan",
    "quelle": "IPH Academy",
@@ -545,24 +545,6 @@
    "tun": "Prüfe den Leitfaden für die nächste Feststellanlagen-Abnahme.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "„Schweigen gegenüber dem Team bietet Raum für Gerüchte“",
-   "link": "https://www.impulse.de/personal/schwaeche-zeigen/7640398.html",
-   "quelle": "impulse",
-   "bereich": "Unternehmer",
-   "datum": "2026-09-29T06:05:28+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Offener Umgang mit persönlichen Krisen gegenüber dem Team verhindert Gerüchte und stärkt Vertrauen.",
-   "tun": "Überlege, wie du in Krisensituationen offen mit deinem Team kommunizierst.",
-   "frist": null,
-   "gewicht": 1
   },
   {
    "titel": "Copilot-Governance: KI-Agents brauchen Kontrolle",
@@ -602,24 +584,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Vorläufiger Insolvenzverwalter führt Geschäftsbetrieb von EKD weiter",
    "link": "https://www.pv-magazine.de/2026/10/06/vorlaeufiger-insolvenzverwalter-fuehrt-geschaeftsbetrieb-von-ekd-weiter/",
    "quelle": "pv magazine",
@@ -636,6 +600,24 @@
    "tun": "Prüfe offene Forderungen oder Kooperationen mit EKD-Gesellschaften.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Fachinfo zu Fußbodenheizungen veröffentlicht",
@@ -696,24 +678,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Hyundai kehrt vollelektrisch in das Nutzfahrzeuggeschäft zurück",
    "link": "https://www.ikz.de/detail/news/detail/hyundai-kehrt-vollelektrisch-in-das-nutzfahrzeuggeschaeft-zurueck/",
    "quelle": "IKZ",
@@ -732,6 +696,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "VK Nordbayern: Keine Umgehung der Ausschreibungspflicht über Nachträge – Restleistungen sind (neu) auszuschreiben",
    "link": "https://vergabeblog.de/2026-10-05/vk-nordbayern-keine-umgehung-der-ausschreibungspflicht-ueber-nachtraege-restleistungen-sind-neu-auszuschreiben/",
    "quelle": "vergabeblog",
@@ -747,6 +729,25 @@
    "thema": "VOB & Verträge",
    "was": "Nach einer Kündigung müssen Restleistungen regelmäßig neu ausgeschrieben werden, nicht per Nachtrag vergeben.",
    "tun": "Prüfe bei Kündigungen, ob du Restarbeiten neu ausschreiben musst.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Freihändige Vergabe ≠ Direktauftrag!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316396",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-05T04:51:08+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Gericht stellt klar: Freihändige Vergabe ist kein formloser Direktauftrag, sondern muss Vergaberegeln einhalten.",
+   "tun": "Prüfe bei freihändiger Vergabe die formalen Anforderungen genau.",
    "frist": null,
    "gewicht": 2
   },
@@ -807,11 +808,11 @@
    ]
   },
   {
-   "titel": "Darf mein Team wissen, wie schlecht es mir geht?",
-   "link": "https://www.impulse.de/personal/schicksalsschlaege-plus/7640239.html",
+   "titel": "„Schweigen gegenüber dem Team bietet Raum für Gerüchte“",
+   "link": "https://www.impulse.de/personal/schwaeche-zeigen/7640398.html",
    "quelle": "impulse",
    "bereich": "Unternehmer",
-   "datum": "2026-09-28T13:08:29+00:00",
+   "datum": "2026-09-29T06:05:28+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
@@ -819,8 +820,8 @@
     "Inhaber/Geschäftsführung"
    ],
    "thema": "Personal & Ausbildung",
-   "was": "Zeigt, wie Unternehmerinnen persönliche Krisen offen gegenüber dem Team kommunizieren – Vorbild für eigene Führung.",
-   "tun": "Überlege, wie offen du mit persönlichen Krisen im Team umgehen willst.",
+   "was": "Offener Umgang mit persönlichen Krisen gegenüber dem Team verhindert Gerüchte und stärkt Vertrauen.",
+   "tun": "Überlege, wie du in Krisensituationen offen mit deinem Team kommunizierst.",
    "frist": null,
    "gewicht": 1
   },
@@ -996,25 +997,6 @@
    ]
   },
   {
-   "titel": "Teilschussrechnung kann Schlussrechnung ersetzen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316381",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-02T06:27:58+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Laut OLG Hamm kann eine Teilschlussrechnung die Schlussrechnung rechtlich ersetzen – wichtig für Abrechnungspraxis.",
-   "tun": "Prüfe mit deinem Steuerberater, ob Teilschlussrechnungen künftig genutzt werden können.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Azubi-Sicherheitspreis",
    "link": "https://www.metallbau-magazin.de/news/azubi-sicherheitspreis-4432066.html",
    "quelle": "Metallbau",
@@ -1034,6 +1016,24 @@
    "tun": "Motiviere deine Azubis, am Sicherheitspreis 2026/2027 teilzunehmen.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Darf mein Team wissen, wie schlecht es mir geht?",
+   "link": "https://www.impulse.de/personal/schicksalsschlaege-plus/7640239.html",
+   "quelle": "impulse",
+   "bereich": "Unternehmer",
+   "datum": "2026-09-28T13:08:29+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Zeigt, wie Unternehmerinnen persönliche Krisen offen gegenüber dem Team kommunizieren – Vorbild für eigene Führung.",
+   "tun": "Überlege, wie offen du mit persönlichen Krisen im Team umgehen willst.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Neue Termine für „Sarnafil“-Verlegerschulungen",
@@ -1188,6 +1188,25 @@
    ]
   },
   {
+   "titel": "Befangenheit = Vergütungsverlust?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316432",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-05T00:00:06+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Befangenheit eines Entscheiders im Vergabeverfahren kann zum Verlust von Vergütungsansprüchen führen.",
+   "tun": "Dokumentiere Auftragsvergaben sauber, um Befangenheitsvorwürfe zu vermeiden.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Neues Schulungsprogramm für die Saison 2026/27",
    "link": "https://www.kka-online.info/news/neues-schulungsprogramm-fuer-die-saison-202627-4432514.html",
    "quelle": "KKA",
@@ -1225,25 +1244,6 @@
    "tun": "Vergleiche aktuelle Bankkonditionen vor der nächsten Finanzierung.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Auftraggeber ist kein Steuerrechtsfachmann!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316006",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-02T04:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Das Gericht stellt klar, dass Auftraggeber bei Steuerfragen in Vergabeverfahren nicht als Fachleute gelten müssen – wichtig für Angebotsprüfung.",
-   "tun": "Prüfe eigene Angebote auf steuerliche Klarheit, verlasse dich nicht auf Auftraggeberwissen.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Plus für dt. Fenstermarkt",
@@ -1399,6 +1399,25 @@
    "gewicht": 2
   },
   {
+   "titel": "Teilschussrechnung kann Schlussrechnung ersetzen!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316381",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-02T06:27:58+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Laut OLG Hamm kann eine Teilschlussrechnung die Schlussrechnung rechtlich ersetzen – wichtig für Abrechnungspraxis.",
+   "tun": "Prüfe mit deinem Steuerberater, ob Teilschlussrechnungen künftig genutzt werden können.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Lattuada präsentiert vollautomatische Roboterlinie",
    "link": "https://www.gff-magazin.de/lattuada-praesentiert-vollautomatische-roboterlinie-336503/",
    "quelle": "GFF",
@@ -1437,25 +1456,6 @@
    "gewicht": 3
   },
   {
-   "titel": "Fallbeispiele für Leasing: Wie Sie investieren und Liquidität schonen",
-   "link": "https://www.handwerk-magazin.de/leasing-investieren-und-die-liquiditaet-schonen-351102/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-01T08:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Markt",
-   "was": "Leasing kann Liquidität schonen, wenn Maschinen oder Fahrzeuge finanziert werden müssen.",
-   "tun": "Prüfe Leasingangebote als Alternative zum Kauf für anstehende Investitionen.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
    "link": "https://iph-academy.learningsuite.io/student/courses",
    "quelle": "IPH Academy",
@@ -1474,22 +1474,21 @@
    ]
   },
   {
-   "titel": "Bürohochhaus mit Nebengebäuden: Ein oder mehrere Gebäude?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315655",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-01T05:38:26+00:00",
+   "titel": "Fallbeispiele für Leasing: Wie Sie investieren und Liquidität schonen",
+   "link": "https://www.handwerk-magazin.de/leasing-investieren-und-die-liquiditaet-schonen-351102/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-01T08:00:00+00:00",
    "gewerke": [
-    "Hochbau/Rohbau",
-    "Architektur/Planung"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung",
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "VOB & Verträge",
-   "was": "Ob mehrere Gebäude als eins gelten, beeinflusst Fristen und Mängelrechte bei Komplexbauten.",
-   "tun": "Prüfe bei Mehrgebäude-Projekten die vertragliche Abgrenzung genau.",
+   "thema": "Markt",
+   "was": "Leasing kann Liquidität schonen, wenn Maschinen oder Fahrzeuge finanziert werden müssen.",
+   "tun": "Prüfe Leasingangebote als Alternative zum Kauf für anstehende Investitionen.",
    "frist": null,
    "gewicht": 2
   },
@@ -1512,6 +1511,63 @@
    "tun": "Verfolge die Einschätzung der Stiftung Umweltenergierecht zu Folgen für Kleinanlagen.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Auftraggeber ist kein Steuerrechtsfachmann!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316006",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-02T04:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Das Gericht stellt klar, dass Auftraggeber bei Steuerfragen in Vergabeverfahren nicht als Fachleute gelten müssen – wichtig für Angebotsprüfung.",
+   "tun": "Prüfe eigene Angebote auf steuerliche Klarheit, verlasse dich nicht auf Auftraggeberwissen.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Bürohochhaus mit Nebengebäuden: Ein oder mehrere Gebäude?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315655",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-01T05:38:26+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Ob mehrere Gebäude als eins gelten, beeinflusst Fristen und Mängelrechte bei Komplexbauten.",
+   "tun": "Prüfe bei Mehrgebäude-Projekten die vertragliche Abgrenzung genau.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Mitteilung in Vergabeportal eingestellt: Zugang spätestens am Folgetag!",
@@ -1550,64 +1606,6 @@
    "thema": "VOB & Verträge",
    "was": "Schadensberechnung über fiktive Mängelkosten beeinflusst, wie Gerichte Wertminderungen bei Baumängeln ansetzen.",
    "tun": "Beachte bei Mängelstreit, dass fiktive Kosten als Schätzgrundlage dienen können.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "Gemeinschaft kann Streetart-Fassadengemälde beschließen",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316351",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-09-29T08:49:38+00:00",
-   "gewerke": [
-    "Stuckateur/Fassade",
-    "Maler und Lackierer",
-    "Werbetechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "WEG-Gemeinschaften dürfen künftig auch Fassadenkunst beschließen, das eröffnet neue Auftragschancen bei Sanierungen.",
-   "tun": "Sprich Eigentümergemeinschaften gezielt auf Fassadengestaltung als Zusatzauftrag an.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Besteller unterlässt Mitwirkung: Unternehmer kann kündigen und Entschädigung verlangen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316270",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-09-29T06:10:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Fehlt die Mitwirkung des Bestellers, kannst du kündigen und zusätzlich Entschädigung verlangen.",
-   "tun": "Dokumentiere fehlende Mitwirkung des Auftraggebers konsequent für eine mögliche Kündigung.",
    "frist": null,
    "gewicht": 2
   }
