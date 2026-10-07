@@ -6276,5 +6276,501 @@
   "frist": null,
   "gewicht": 2,
   "gesehen": "2026-10-06"
+ },
+ "https://allgemeinebauzeitung.de/hkl-untersucht-bau-neuer-sternbruecke-hamburg/": {
+  "id": "879d6172bb7b",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.elektro.net/129872/hoher-sicherheitsstandard-bei-fernzugriff-auf-brand-und-einbruchmeldeanlagen/": {
+  "id": "3cead9d85e90",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Erste VdS-Zertifizierung nach DIN EN 50710 für Fernzugriff auf Brand-/Einbruchmeldeanlagen setzt neuen Sicherheitsstandard.",
+  "tun": "Prüfe bei Angeboten für Fernwartung, ob die neue Norm erfüllt wird.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/steigende-zinsen-wie-handwerker-ihre-kreditkosten-senken-koennen": {
+  "id": "b42b6b0f35e8",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Steigende Zinsen auf Geschäftskonten belasten die Liquidität, günstigere Finanzierungsalternativen gibt es aber.",
+  "tun": "Vergleiche Kontokorrent- und Kreditangebote mit deiner Hausbank.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.pv-magazine.de/2026/10/07/direktvermarktung-smart-meter-steuerung-was-deutschland-von-oesterreich-lernen-kann/": {
+  "id": "6d5afa4f8a54",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Förderung",
+  "was": "Die geplante EEG-Novelle soll Direktvermarktung für kleine PV-Anlagen stärken, wie es in Österreich schon läuft.",
+  "tun": "Beobachte die EEG-Novelle und prüfe Direktvermarktungsmodelle für Kunden.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.ikz.de/detail/news/detail/waermewende-im-gebaeudebestand-enercube-und-panasonic-gehen-strategische-partnerschaft-ein/": {
+  "id": "eb4d324dc092",
+  "relevant": true,
+  "gewerke": [
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Neue Wärmepumpen-Heizzentralen für Großgebäude kommen 2027 auf den Markt – relevant für größere Sanierungsprojekte.",
+  "tun": "Beobachte das Produkt für künftige Gewerbe- und Kommunalprojekte.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://vergabeblog.de/2026-10-07/uba-veroeffentlicht-kurzexpertise-zu-regionalitaet-in-der-beschaffung/": {
+  "id": "8643c6dd4b0d",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Pauschale Regionalitätsvorgaben bei öffentlichen Ausschreibungen sind vergaberechtlich riskant – kann Chancen für dich eröffnen.",
+  "tun": "Prüfe Ausschreibungen auf unzulässige Regionalklauseln und reklamiere sie ggf.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.handwerk-magazin.de/geruestbau-die-betriebe-liefern-wohnungsbau-und-politik-nicht-351589/": {
+  "id": "eb48fecf681b",
+  "relevant": true,
+  "gewerke": [
+   "Gerüstbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Schwacher Wohnungsbau und hohe Materialpreise bremsen die Erholung der Gerüstbau-Branche trotz eigener Fortschritte.",
+  "tun": "Plane Kapazitäten und Investitionen vorsichtig angesichts der Marktlage.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.solarserver.de/2026/10/07/bipv-weiteres-solardach-fuer-denkmalgeschuetztes-palais-in-deggendorf/": {
+  "id": "bc45792a24f1",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.mittelstandswiki.de/2026/10/praxis-check-zero-trust-offenbart-typische-stolperfallen/": {
+  "id": "b5dbcb370c41",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Zero-Trust-Sicherheitskonzepte scheitern in der Praxis oft an denselben Stellen – relevant für IT-Sicherheit im Betrieb.",
+  "tun": "Prüfe deine IT-Zugriffsregeln auf typische Zero-Trust-Fehler.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.boden-wand-decke.de/mapei-neuer-gebietsleiter-in-bayern-357234/": {
+  "id": "a15fdeede5a9",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.gff-magazin.de/lumseo-kontrollieren-statt-abtippen-336847/": {
+  "id": "f08049b87107",
+  "relevant": true,
+  "gewerke": [
+   "Fensterbau/Glas"
+  ],
+  "rollen": [
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "KI-Software automatisiert die Auftragserfassung in der Flachglasindustrie und reduziert manuelle Fehler im Vertriebsinnendienst.",
+  "tun": "Informiere dich auf der glasstec über die Software für deinen Vertrieb.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.shk-profi.de/news/fgk-zwei-neue-vorstandsmitglieder-4433719.html": {
+  "id": "21920c717ad9",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.kka-online.info/news/weiterbildung-fuer-die-ausbildung-von-morgen-4433609.html": {
+  "id": "347bda64a90b",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.handwerksblatt.de/handwerkspolitik/wechsel-in-der-geschaeftsfuehrung-von-holzbau-deutschland": {
+  "id": "cadb18fa8a25",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.pv-magazine.de/2026/10/07/wenn-der-geldhahn-zugedreht-wird-was-die-photovoltaik-insolvenzen-ueber-die-solarbranche-verraten/": {
+  "id": "dae4ee5c0302",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Insolvenzen von investorenfinanzierten PV-Anbietern zeigen Risiken solcher Geschäftsmodelle für Partnerbetriebe.",
+  "tun": "Prüfe die Bonität von PV-Großkunden und Investorenmodellen vor Kooperationen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-07"
+ },
+ "https://allgemeinebauzeitung.de/ast-safety-summit-2026-kii-transformiert-arbeitssicherheit/": {
+  "id": "050c9ff30086",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Arbeitsschutz",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.elektro.net/129880/grossspeicher-soll-netzinfrastruktur-am-windpark-kloddram-entlasten/": {
+  "id": "0cb9f359fb1b",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://vergabeblog.de/2026-10-07/nrw-neue-wertgrenze-fuer-die-verhandlungsvergabe-und-freihaendige-vergabe/": {
+  "id": "c8e82bd45fb0",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "NRW erlaubt bei öffentlichen Aufträgen jetzt öfter Verhandlungs- statt Ausschreibungsverfahren bis EU-Schwelle.",
+  "tun": "Prüfe bei NRW-Ausschreibungen, ob Verhandlungsvergabe statt Submission möglich ist.",
+  "frist": "2026-10-01",
+  "gewicht": 2,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.ikz.de/detail/news/detail/neues-partnerprogramm-fuer-das-shk-fachhandwerk/": {
+  "id": "fc33e57270c0",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-munster/e-mail-sicherheit-risiken-reduzieren": {
+  "id": "a6d9cb12444e",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "E-Mails sind Haupteinfallstor für Ransomware – Betriebsdaten und Kundendaten sind gefährdet.",
+  "tun": "Schule dein Team zu Phishing und richte E-Mail-Filter sowie 2FA ein.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-07"
+ },
+ "https://allgemeinebauzeitung.de/markus-hoppe-duotherm-key-account-manager/": {
+  "id": "f8b851f44c28",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://vergabeblog.de/2026-10-07/seminarempfehlungen-der-dvnw-akademie-52/": {
+  "id": "9c905f4ee299",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://allgemeinebauzeitung.de/galabau-2026-innovationen-gruenbranche/": {
+  "id": "aa713339914f",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/mitarbeiter-aus-dem-ausland-erfolgreich-integrieren": {
+  "id": "8073e89d8ecc",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Die HwK Koblenz bietet Praxiswissen zur Integration ausländischer Fachkräfte im Betrieb.",
+  "tun": "Melde dich zur Online-Veranstaltung am 10. November an.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/recht-auf-reparatur-neue-regeln-fuer-das-handwerk": {
+  "id": "7f4c776dde75",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Neue Vorgaben zum Recht auf Reparatur ändern, was dein Betrieb bei Reparaturaufträgen beachten muss.",
+  "tun": "Lies das Infoblatt der HwK Koblenz und passe Reparaturprozesse an.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-07"
+ },
+ "https://allgemeinebauzeitung.de/steinwolle-damming-photovoltaikanlagen-schuldachern/": {
+  "id": "af79ad08b99e",
+  "relevant": true,
+  "gewerke": [
+   "Dachdecker",
+   "Photovoltaik/Solartechnik",
+   "Stuckateur/Fassade"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Zeigt, wie Steinwolle-Dämmung Brand- und Wärmeschutz mit PV-Montage auf Flachdächern kombiniert.",
+  "tun": "Prüfe Solarrock oder vergleichbare Dämmsysteme für PV-Dachprojekte.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/tag-der-elektromobilitaet": {
+  "id": "243b0e6eba3b",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-07"
  }
 }
