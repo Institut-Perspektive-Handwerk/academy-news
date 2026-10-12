@@ -10145,5 +10145,76 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-12"
+ },
+ "https://www.lto.de/recht/hintergruende/h/bundesverfassungsgericht-erbschaftssteuer-bayern-allein-regionalisierung-teil1?r=rss": {
+  "id": "f306a82a405c",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-12"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316486": {
+  "id": "de501f0fcb0a",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Ein Mängelanerkenntnis bindet dich nur in dem Umfang, den du konkret erklärst, nicht automatisch weitergehend.",
+  "tun": "Formuliere Mängelanerkenntnisse schriftlich und eng begrenzt.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-12"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316489": {
+  "id": "9da7699fa402",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Schreibt ein Auftraggeber ein bestimmtes Produkt vor, muss er das nachvollziehbar begründen - sonst ist die Ausschreibung angreifbar.",
+  "tun": "Prüfe produktspezifische Vorgaben in Ausschreibungen und rüge unbegründete Festlegungen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-12"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316579": {
+  "id": "cd85ccb83420",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Verursacht deine Reparatur Folgeschäden, klärt das Urteil, ob die Wohngebäudeversicherung oder dein Betrieb dafür haftet.",
+  "tun": "Prüfe deine Betriebshaftpflicht auf Deckung von Zweitschäden bei Reparaturen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-12"
  }
 }
