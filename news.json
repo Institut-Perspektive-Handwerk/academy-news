@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-11T23:40+00:00",
- "anzahl": 78,
+ "stand": "2026-10-12T05:59+00:00",
+ "anzahl": 77,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -358,61 +358,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Envirofalk: Glasqualität beginnt beim Wasser",
-   "link": "https://www.gff-magazin.de/envirofalk-glasqualitaet-beginnt-beim-wasser-336872/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-10-09T05:00:00+00:00",
-   "gewerke": [
-    "Fensterbau/Glas"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Preise & Material",
-   "was": "Saubere, reproduzierbare Glasqualität hängt stark von der Wasseraufbereitung im Betrieb ab.",
-   "tun": "Prüfe deine Wasserkreislauftechnik für die Glasverarbeitung.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Nach der Montage ist vor der Bewertung",
-   "link": "https://www.shk-profi.de/news/nach-der-montage-ist-vor-der-bewertung-4434084.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-10-07T14:30:34+00:00",
-   "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Automatisierte Nachfass-Anrufe nach der Montage können fehlende Bewertungen und Folgeaufträge sichern.",
-   "tun": "Prüfe, ob automatisierte Nachbetreuung Bewertungen und Empfehlungen bringt.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Leitfaden für Feststellanlagen",
    "link": "https://www.metallbau-magazin.de/news/leitfaden-fuer-feststellanlagen-4432087.html",
    "quelle": "Metallbau",
@@ -450,6 +395,24 @@
    "tun": "Stelle rechtzeitig den Antrag auf Energiesteuererstattung.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Tankrabatt: Wie viel kommt bei den Kunden an?",
@@ -491,24 +454,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Auswirkungen eines PFAS-Verbots auf die Kälte-, Klima- und Wärmepumpenwirtschaft berücksichtigen",
    "link": "https://www.kka-online.info/news/auswirkungen-eines-pfas-verbots-auf-die-kaelte-klima-und-waermepumpenwirtschaft-beruecksichtigen-4434299.html",
    "quelle": "KKA",
@@ -525,6 +470,43 @@
    "tun": "Informiere dich über Alternativen zu PFAS-haltigen Kältemitteln und Materialien.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Envirofalk: Glasqualität beginnt beim Wasser",
+   "link": "https://www.gff-magazin.de/envirofalk-glasqualitaet-beginnt-beim-wasser-336872/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-10-09T05:00:00+00:00",
+   "gewerke": [
+    "Fensterbau/Glas"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Preise & Material",
+   "was": "Saubere, reproduzierbare Glasqualität hängt stark von der Wasseraufbereitung im Betrieb ab.",
+   "tun": "Prüfe deine Wasserkreislauftechnik für die Glasverarbeitung.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "KI-Governance: Wie auch kleine Betriebe IT und KI sicher managen",
@@ -563,6 +545,24 @@
    "tun": "Prüfe Brandschutzdetails vor der Abnahme besonders sorgfältig.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Nach der Montage ist vor der Bewertung",
+   "link": "https://www.shk-profi.de/news/nach-der-montage-ist-vor-der-bewertung-4434084.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-10-07T14:30:34+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Automatisierte Nachfass-Anrufe nach der Montage können fehlende Bewertungen und Folgeaufträge sichern.",
+   "tun": "Prüfe, ob automatisierte Nachbetreuung Bewertungen und Empfehlungen bringt.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Webinar-Reihe zur Dämmung von Ursa",
@@ -735,23 +735,24 @@
    "gewicht": 1
   },
   {
-   "titel": "Glaston: Weniger Handgriffe, mehr Glasqualität",
-   "link": "https://www.gff-magazin.de/glaston-weniger-handgriffe-mehr-glasqualitaet-336851/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-10-08T05:00:00+00:00",
+   "titel": "Neues Weiterbildungsprogramm 2027 und 75 Jahre Karlsruher Kältekurse",
+   "link": "https://www.kka-online.info/news/neues-weiterbildungsprogramm-2027-und-75-jahre-karlsruher-kaeltekurse-4434205.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-10-08T10:04:19+00:00",
    "gewerke": [
-    "Fensterbau/Glas"
+    "Kälte- und Klimatechnik"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Ausbildung",
+    "Monteur/Facharbeiter"
    ],
-   "thema": "Normen & Technik",
-   "was": "Automatisierung in Glasvorspannung und -laminierung kann Fertigungsprozesse in Glasbetrieben beschleunigen.",
-   "tun": "Prüfe Automatisierungspotenzial in der eigenen Fertigung.",
+   "thema": "Personal & Ausbildung",
+   "was": "Neues Weiterbildungsangebot für Kälte-/Klimatechniker ab 2027 verfügbar, nutzbar für Mitarbeiterqualifizierung.",
+   "tun": "Prüfe das TWK-Programm 2027 für passende Kurse deiner Monteure.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "UBA veröffentlicht Kurzexpertise zu Regionalität in der Beschaffung",
@@ -906,26 +907,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Qualifizierungen im Betonbohr- und Sägebereich 2027",
-   "link": "https://allgemeinebauzeitung.de/betonbohr-saege-qualifizierung-modul-theorie-praxis-zertifikat/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-09T10:39:48+00:00",
-   "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Ausbildung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Ab Januar 2027 gibt es in Hamm praxisnahe Seminare zum Geprüften Betonbohr- und Sägefachmann.",
-   "tun": "Melde Fachkräfte für die Qualifizierung an.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Effizienzhaus-55-Plus-Förderung: Mittel aufgestockt",
    "link": "https://www.solarserver.de/2026/10/09/effizienzhaus-55-plus-foerderung-mittel-aufgestockt/",
    "quelle": "Solarserver",
@@ -963,24 +944,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Diese neuen E-Transporter sollten Handwerker kennen",
    "link": "https://handwerk.com/betriebsfuehrung/diese-neuen-e-transporter-sollten-handwerker-kennen",
    "quelle": "handwerk.com",
@@ -999,6 +962,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "VdS-Anerkennung für funkbasierte Einbruchmeldetechnik",
    "link": "https://www.elektro.net/129875/vds-anerkennung-fuer-funkbasierte-einbruchmeldetechnik/",
    "quelle": "elektro.net",
@@ -1014,6 +995,25 @@
    "thema": "Normen & Technik",
    "was": "Erste VdS-anerkannte Funk-Einbruchmeldetechnik erweitert das Angebot für zertifizierte Sicherheitslösungen.",
    "tun": "Prüfe das System für Angebote mit VdS-Anforderung.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Glaston: Weniger Handgriffe, mehr Glasqualität",
+   "link": "https://www.gff-magazin.de/glaston-weniger-handgriffe-mehr-glasqualitaet-336851/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-10-08T05:00:00+00:00",
+   "gewerke": [
+    "Fensterbau/Glas"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Automatisierung in Glasvorspannung und -laminierung kann Fertigungsprozesse in Glasbetrieben beschleunigen.",
+   "tun": "Prüfe Automatisierungspotenzial in der eigenen Fertigung.",
    "frist": null,
    "gewicht": 1
   },
@@ -1037,20 +1037,21 @@
    "gewicht": 2
   },
   {
-   "titel": "Lumeso: Kontrollieren statt abtippen",
-   "link": "https://www.gff-magazin.de/lumeso-kontrollieren-statt-abtippen-336847/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-10-07T05:00:00+00:00",
+   "titel": "Mitarbeiterwohnungen: Wie Sie Fachkräfte gewinnen und Steuern sparen",
+   "link": "https://www.handwerk-magazin.de/immobilien-wohnungen-mit-steuervorteilen-zu-vermieten-233708/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-06T07:00:00+00:00",
    "gewerke": [
-    "Fensterbau/Glas"
+    "Alle Gewerke"
    ],
    "rollen": [
+    "Inhaber/Geschäftsführung",
     "Büro/Kalkulation"
    ],
-   "thema": "KI & Digitales",
-   "was": "KI-gestützte Auftragserfassung kann manuelle Dateneingabe im Vertriebsinnendienst deutlich reduzieren.",
-   "tun": "Teste die Software für die eigene Auftragserfassung in der Flachglasfertigung.",
+   "thema": "Personal & Ausbildung",
+   "was": "Mitarbeiterwohnungen helfen bei Fachkräftegewinnung und können steuerlich vorteilhaft gestaltet werden.",
+   "tun": "Prüfe lohnsteuerfreie Gestaltung von Mitarbeiterwohnungen für dein Recruiting.",
    "frist": null,
    "gewicht": 2
   },
@@ -1071,25 +1072,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Mitarbeiterwohnungen: Wie Sie Fachkräfte gewinnen und Steuern sparen",
-   "link": "https://www.handwerk-magazin.de/immobilien-wohnungen-mit-steuervorteilen-zu-vermieten-233708/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-06T07:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Mitarbeiterwohnungen helfen bei Fachkräftegewinnung und können steuerlich vorteilhaft gestaltet werden.",
-   "tun": "Prüfe lohnsteuerfreie Gestaltung von Mitarbeiterwohnungen für dein Recruiting.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Plus für dt. Fenstermarkt",
@@ -1148,24 +1130,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Die Abrissbirne von CDU/CSU am EEG verdoppelt den Börsenstrompreis",
    "link": "https://www.pv-magazine.de/2026/10/09/die-abrissbirne-von-cdu-csu-am-eeg-verdoppelt-den-boersenstrompreis/",
    "quelle": "pv magazine",
@@ -1182,6 +1146,24 @@
    "tun": "Beobachte die Entwicklung der Börsenstrompreise für Projektkalkulationen.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Kleiner KNX-Präsenzmelder",
@@ -1241,24 +1223,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Vernetzte Sicherheit für zukunftsfähige Gebäudetechnik",
    "link": "https://www.tga-praxis.de/news/vernetzte-sicherheit-fuer-zukunftsfaehige-gebaeudetechnik.html",
    "quelle": "TGA-Praxis",
@@ -1276,6 +1240,24 @@
    "tun": "",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Schadensträchtige Bauteile müssen genauer untersucht werden!",
@@ -1297,23 +1279,22 @@
    "gewicht": 2
   },
   {
-   "titel": "Schütz Energy Systems: Inhouse-WHG-Schulungen für Heizölverbraucheranlagen",
-   "link": "https://www.shk-profi.de/news/schuetz-energy-systems-inhouse-whg-schulungen-fuer-heizoelverbraucheranlagen-4433578.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-10-06T06:38:02+00:00",
+   "titel": "Lumeso: Kontrollieren statt abtippen",
+   "link": "https://www.gff-magazin.de/lumeso-kontrollieren-statt-abtippen-336847/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-10-07T05:00:00+00:00",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)"
+    "Fensterbau/Glas"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Ausbildung"
+    "Büro/Kalkulation"
    ],
-   "thema": "Personal & Ausbildung",
-   "was": "Fachbetriebe für Heizölverbraucheranlagen können per Inhouse-Schulung die geforderte WHG-Sachkunde nach AwSV aufbauen.",
-   "tun": "Prüfe, ob deine verantwortlichen Mitarbeiter die WHG-Qualifikation brauchen.",
+   "thema": "KI & Digitales",
+   "was": "KI-gestützte Auftragserfassung kann manuelle Dateneingabe im Vertriebsinnendienst deutlich reduzieren.",
+   "tun": "Teste die Software für die eigene Auftragserfassung in der Flachglasfertigung.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Handwerker-Software: Michael Kessler über die Zukunft mit KI",
@@ -1335,24 +1316,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Effizientere Abläufe beim Wärmepumpen-Einbau",
    "link": "https://kaelte-luft-klima.de/praxis-und-handwerk/effizientere-ablaeufe-beim-waermepumpen-einbau",
    "quelle": "Kälte Luft Klima",
@@ -1370,6 +1333,24 @@
    "tun": "Nutze den Online-Check, um eigene Einbauabläufe zu optimieren.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Darf mein Team wissen, wie schlecht es mir geht?",
@@ -1427,24 +1408,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Kampfmittelbelastung ist erkennbar: Auftragnehmer trägt das Baugrundrisiko!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316435",
    "quelle": "IBR-Online",
@@ -1464,6 +1427,24 @@
    "tun": "Prüfe Vertragsklauseln zum Baugrundrisiko bei erkennbarer Kampfmittelgefahr genau.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Nur eine bindende Anordnung befreit von der Mangelhaftung!",
