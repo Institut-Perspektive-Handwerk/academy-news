@@ -11028,5 +11028,622 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-13"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-munster/gruendungstage-muenster-hwk-bietet-workshops-an": {
+  "id": "2a5c0644fa65",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.elektro.net/129921/bueroprozesse-strukturieren-und-zeitverluste-im-betrieb-reduzieren/": {
+  "id": "8403750b5231",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Klare Prozesse bei Ablage und Fristenmanagement sparen dir Zeit und reduzieren Fehler im Büro.",
+  "tun": "Prüfe eure Büroabläufe auf Zeitfresser und vereinheitliche sie.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.tga-praxis.de/news/deutschland-verschenkt-milliardenpotenzial-trotz-fachkraeftemangel.html": {
+  "id": "ea8bae93b34b",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://allgemeinebauzeitung.de/frankenthal-strandbad-liebherr-maschinen-digitalsteuerung/": {
+  "id": "1679b03f773a",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.pv-magazine.de/2026/10/13/finaler-countdown-fuer-batterie-investitionen-mit-bestandsschutz/": {
+  "id": "c5024daf1291",
+  "relevant": true,
+  "gewerke": [
+   "TGA/Energiedienstleister",
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Förderung",
+  "was": "Für große Batteriespeicherprojekte mit Bestandsschutz läuft die Frist zur finalen Investitionsentscheidung, Regeln bleiben unklar.",
+  "tun": "Verfolge die AgNes-Festlegung, bevor du Speicherprojekte final entscheidest.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-13"
+ },
+ "https://handwerk.com/gewerke/kantenanleimmaschine-dpu2407-fuer-feuchte-kanten": {
+  "id": "7e1b235ab826",
+  "relevant": true,
+  "gewerke": [
+   "Schreinerei/Tischlerei"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Neue Laserkanten-Technik mit Heißluftdüse verspricht feuchtigkeitsbeständige Nullfugen bei Möbelkanten.",
+  "tun": "Informiere dich über die neue Kantentechnik, falls sie für dein Sortiment passt.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.solarserver.de/2026/10/13/feilschen-um-die-eeg-novelle/": {
+  "id": "d9be6378a538",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Die Verzögerung der EEG-Novelle bringt Unsicherheit für Planung und Vergütung von PV-Projekten.",
+  "tun": "Verfolge den Verhandlungsstand, bevor du neue Förderzusagen fest einkalkulierst.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.impulse.de/personal/psychologische-sicherheit/7641694.html": {
+  "id": "0c90a73ec1bf",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Gut gemeinte, aber falsch gesetzte Führung kann Mitarbeitende ausbremsen statt Vertrauen aufzubauen.",
+  "tun": "Reflektiere deinen Führungsstil im Team, um echte Offenheit zu fördern.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.kka-online.info/news/daikin-applied-germany-uebernimmt-ganter-kaelte-und-waermetechnik-4435620.html": {
+  "id": "9dd08d7df80a",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-munster/designpreise-fuer-absolventen-der-akademie-fuer-gestaltung": {
+  "id": "2a24d6168929",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.tga-praxis.de/news/neue-erneuerbaren-anlagen-verursachen-deutlich-geringere-kosten.html": {
+  "id": "0a1dbc993079",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://handwerk.com/gewerke/digitalisierung-im-handwerk-aimi-von-ima-schelling": {
+  "id": "ad65fdfae4e6",
+  "relevant": true,
+  "gewerke": [
+   "Schreinerei/Tischlerei"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Neue Plattform soll Maschinensteuerung, Vernetzung und Sicherheit in der Möbelproduktion bündeln.",
+  "tun": "Prüfe, ob vernetzte Maschinensteuerung für deine Produktion sinnvoll ist.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://allgemeinebauzeitung.de/thueringer-einfamilienhaeuser-bau-genehmigungen-wohnungsbau/": {
+  "id": "c1cd3640f92c",
+  "relevant": true,
+  "gewerke": [
+   "Hochbau/Rohbau",
+   "Holzbau/Zimmerei"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Mehr genehmigte Einfamilienhäuser in Thüringen deuten auf steigende Auftragslage im privaten Hausbau hin.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.pv-magazine.de/2026/10/13/sunovis-und-statkraft-schliessen-hybrid-ppa-fuer-182-megawatt-photovoltaik-und-244-megawattstunden-speicher/": {
+  "id": "404ae94195da",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.elektro.net/129918/2-3-millionen-wohnungen-die-nie-gebaut-wurden/": {
+  "id": "1ecb65e1efc3",
+  "relevant": true,
+  "gewerke": [
+   "Hochbau/Rohbau",
+   "Tiefbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Der jahrzehntelange Produktivitätsrückstand am Bau zeigt enormen Nachholbedarf bei Prozessen und Digitalisierung.",
+  "tun": "Prüfe, wo du in deinem Betrieb Abläufe digitalisieren und effizienter machen kannst.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.kka-online.info/news/optimierte-waermepumpen-fuer-industrieprozesse-und-waermenetze-4434594.html": {
+  "id": "8b5bc88464f8",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)",
+   "TGA/Energiedienstleister",
+   "Kälte- und Klimatechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Hochtemperatur-Wärmepumpen für Industrieprozesse werden technisch reifer – relevant für Angebote im Gewerbekundenbereich.",
+  "tun": "Beobachte die Entwicklung für mögliche Projekte bei Industriekunden.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/sicherer-status-fuer-auslaendische-arbeitskraefte": {
+  "id": "525c9692e6e2",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Unklarer Aufenthaltsstatus ausländischer Mitarbeiter kann zu Betriebsrisiken führen, wenn er nicht geprüft wird.",
+  "tun": "Lass den Aufenthaltsstatus deiner internationalen Mitarbeiter von der HwK prüfen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-13"
+ },
+ "https://allgemeinebauzeitung.de/cat-radlader-garten-landschaftsbau-maschinenbetreuung-telematik/": {
+  "id": "947ab83b7e3b",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.solarserver.de/2026/10/13/aurora-solar-und-k2-base-ermoeglichen-direkten-datenimport/": {
+  "id": "3ac70f6d5c13",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Neue Schnittstelle spart Doppelerfassung von Dach- und Moduldaten bei der Montageplanung von PV-Anlagen.",
+  "tun": "Prüfe, ob die Aurora-K2-Integration deine Planungsprozesse beschleunigt.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.elektro.net/129868/neuer-ceo-bei-zumtobel/": {
+  "id": "4b87bb5db4e7",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://handwerk.com/betriebsfuehrung/ein-handwerksunternehmer-packt-aus-gehaltstipps-vom-arbeitgeber": {
+  "id": "a87cc6485a21",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Offene Gehaltskommunikation kann ein Ansatz sein, um Mitarbeiter zu binden und Fachkräfte zu halten.",
+  "tun": "Überlege, ob mehr Transparenz bei Gehaltsentwicklung zu deinem Betrieb passt.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.pv-magazine.de/2026/10/13/vdma-und-fvee-warnen-vor-kuerzungen-bei-der-energieforschungsfoerderung/": {
+  "id": "d17f630aa908",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Förderung",
+  "was": "Geplante Kürzungen bei der Energieforschungsförderung könnten langfristig Technik- und Preisentwicklung in der PV-Branche bremsen.",
+  "tun": "Verfolge die Haushaltsdebatte, falls du von Forschungsförderung profitierst.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-trier/handwerk-in-der-region-trier-robust-geschaeftslage-verbessert": {
+  "id": "6f969090ad86",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Die verbesserte Geschäftslage im Handwerk der Region Trier zeigt eine leichte Erholung der Auftragslage.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.solarserver.de/2026/10/13/neu-solarthemen-ausgabe-604-ist-heute-erschienen/": {
+  "id": "732bcb88753c",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://allgemeinebauzeitung.de/softbauware-enventa-construct-solutions-baustoff-industrie/": {
+  "id": "907717826b90",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.elektro.net/129860/trilux-investiert-am-standort-arnsberg/": {
+  "id": "2426ff02f8d7",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.handwerksblatt.de/themen-specials/kolumne-werkbank-wandel/kolumne-es-sind-die-babyschritte": {
+  "id": "4282b8b33c5b",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.solarserver.de/2026/10/13/elektrifizierung-mit-erneuerbaren-irena-nennt-ausbauziele/": {
+  "id": "891a45b3b81d",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://allgemeinebauzeitung.de/doka-schalung-central-business-tower-frankfurt/": {
+  "id": "0d9c49c934d2",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/neues-handout-zum-schutz-vor-cyberangriffen-1": {
+  "id": "7a55f7348e36",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "KI-gestützte Cyberangriffe nehmen laut Studie auch bei Handwerksbetrieben zu – IT-Schutz wird wichtiger.",
+  "tun": "Lade den kostenlosen Leitfaden herunter und prüfe deine IT-Sicherheit.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.solarserver.de/2026/10/13/hybrider-ppa-sunovis-und-statkraft-vereinbaren-stromabnahme/": {
+  "id": "28085007cf2f",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://allgemeinebauzeitung.de/system-65-klinkerfassaden-materialeinsatz-co2/": {
+  "id": "aac809d18d2f",
+  "relevant": true,
+  "gewerke": [
+   "Stuckateur/Fassade",
+   "Hochbau/Rohbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Neues Klinkerformat spart Material und CO2 bei gleicher Optik – relevant für Kalkulation und Ausschreibung.",
+  "tun": "Prüfe das Format für kommende Fassadenprojekte auf Material- und Kostenvorteile.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316558": {
+  "id": "d9e855ce62c8",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
  }
 }
