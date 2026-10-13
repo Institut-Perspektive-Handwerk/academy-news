@@ -192,6 +192,14 @@
       "bereich": "Recht",
       "url": "https://www.lto.de/feed.xml",
       "nur_mit": "Bau|Handwerk|Werkvertrag|Arbeitsrecht|Arbeitszeit|Mindestlohn|Urlaub|Kündigung|Betriebsrat|Scheinselbst|E-Rechnung|Datenschutz|DSGVO|Steuer|Azubi|Ausbildung"
+    },
+    {
+      "name": "bauprofessor",
+      "bereich": "Normen & Baurecht",
+      "typ": "bauprofessor",
+      "url": "https://www.bauprofessor.de/news/{jahr}/",
+      "je_quelle": 4,
+      "max_alter_tage": 45
     }
   ]
 }

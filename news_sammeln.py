@@ -54,7 +54,31 @@ def sauber(t):
     return re.sub(r'\s+', ' ', t).strip()
 
 
+def bauprofessor_lesen(q):
+    """Bauprofessor hat keinen Feed. Die News-Übersicht des Jahres ist öffentlich: je Beitrag Link, Datum | Rubrik, Titel,
+    Anriss. Login wird dafür nicht gebraucht (Zugang liegt als Secret BAUPROFESSOR_* bereit, falls später Volltexte nötig)."""
+    url = q['url'].replace('{jahr}', str(datetime.now(timezone.utc).year))
+    try:
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=20) as r:
+            seite = r.read(3_000_000).decode(r.headers.get_content_charset() or 'utf-8', 'replace')
+    except Exception as e:
+        return q, [], f'{type(e).__name__}: {e}'[:120]
+    eintraege = []
+    muster = re.compile(r'<a class="block-item" href=[\'"]([^\'"]+)[\'"]>\s*<div class="teaser-categorie">\s*(\d{2})\.(\d{2})\.(\d{4})\s*\|?\s*([^<]*)</div>'
+                        r'\s*<h2 class="teaser-h2">(.*?)</h2>(.*?)</a>', re.S)
+    for link, tag, monat, jahr, rubrik, titel, rest in muster.findall(seite):
+        anriss = re.search(r'<div class="teaser-txt">(.*?)</div>', rest, re.S)
+        d = datetime(int(jahr), int(monat), int(tag), 10, 0, tzinfo=timezone(timedelta(hours=2))).astimezone(timezone.utc)
+        eintraege.append({'titel': sauber(titel), 'link': urllib.parse.urljoin(url, link.strip()), 'quelle': q['name'],
+                          'bereich': q['bereich'], 'datum': d.isoformat(),
+                          'anriss': (sauber(rubrik) + ': ' + sauber(anriss.group(1) if anriss else ''))[:300]})
+    return q, eintraege, None
+
+
 def feed_lesen(q):
+    if q.get('typ') == 'bauprofessor':
+        return bauprofessor_lesen(q)
     try:
         req = urllib.request.Request(q['url'], headers=UA)
         with urllib.request.urlopen(req, timeout=20) as r:
@@ -94,7 +118,9 @@ def main():
     alle, protokoll = [], []
     with cf.ThreadPoolExecutor(8) as ex:
         for q, eintraege, fehler in ex.map(feed_lesen, cfg['quellen']):
-            frisch = [e for e in eintraege if e['datum'] and grenze <= datum_lesen(e['datum']) <= jetzt + timedelta(hours=6)]
+            # Quellen, die selten schreiben (Bauprofessor etwa monatlich), dürfen ein eigenes Höchstalter haben
+            g = jetzt - timedelta(days=q['max_alter_tage']) if q.get('max_alter_tage') else grenze
+            frisch = [e for e in eintraege if e['datum'] and g <= datum_lesen(e['datum']) <= jetzt + timedelta(hours=6)]
             frisch.sort(key=lambda e: e['datum'], reverse=True)
             alle += frisch[:q.get('je_quelle', cfg.get('je_quelle', 5))]  # Quellen mit viel Fremdem (z. B. IBR) holen mehr
             protokoll.append(f"{q['name']}: {len(eintraege)} gelesen, {len(frisch)} frisch" + (f' - FEHLER {fehler}' if fehler else ''))
