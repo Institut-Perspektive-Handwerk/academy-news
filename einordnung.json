@@ -11645,5 +11645,41 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-13"
+ },
+ "https://www.gff-magazin.de/um-statt-neubau-wie-gelingt-die-bestandstransformation-336933/": {
+  "id": "daf5ccfec4f4",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-13"
+ },
+ "https://www.lto.de/recht/hintergruende/h/bverfg-1bvr80422-erbschaftssteuer-firmenerben-ungleichbehandlung?r=rss": {
+  "id": "8618aeac1f50",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Die Verschonungsregeln für Firmenerben bei der Erbschaftsteuer bleiben wohl im Kern bestehen.",
+  "tun": "Beobachte das Urteil, bevor du eine Nachfolge final planst.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-13"
  }
 }
