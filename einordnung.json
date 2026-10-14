@@ -11681,5 +11681,78 @@
   "frist": null,
   "gewicht": 2,
   "gesehen": "2026-10-13"
+ },
+ "https://www.handwerksblatt.de/themen-specials/digitales-handwerk/onboarding-und-mentoring-digital-gestalten": {
+  "id": "f20b9816381f",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Digitales Onboarding hilft, neue Mitarbeiter schneller einzubinden und Fluktuation zu senken.",
+  "tun": "Prüfe digitale Tools für Einarbeitung neuer Mitarbeiter.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-14"
+ },
+ "https://www.handwerksblatt.de/themen-specials/gruendernavi-fuer-gruender/ich-freue-mich-ueber-den-mut-in-diesen-zeiten-zu-gruenden": {
+  "id": "07f98bd185af",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Förderung",
+  "was": "Die Investitionsbank Brandenburg bietet gezielte Finanzierungshilfen für kleine und mittlere Handwerksbetriebe.",
+  "tun": "Informiere dich bei der ILB über Förderprogramme für deinen Betrieb.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-14"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/brandenburg-kammern-und-verbaende-wollen-enger-zusammenarbeiten": {
+  "id": "c23b9fc323b2",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-14"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/it-sicherheitstag-wildau-cybersicherheit-fuer-unternehmen": {
+  "id": "632f55d76365",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-14"
  }
 }
