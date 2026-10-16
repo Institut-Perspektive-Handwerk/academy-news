@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-15T21:23+00:00",
- "anzahl": 83,
+ "stand": "2026-10-16T00:24+00:00",
+ "anzahl": 81,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -225,24 +225,6 @@
    ]
   },
   {
-   "titel": "BAU 2027: Klimaschutz und Klimaanpassung im Gebäudebestand",
-   "link": "https://www.bft-international.com/de/news/bau-2027-klimaschutz-und-klimaanpassung-im-gebaeudebestand-4434611.html",
-   "quelle": "BFT",
-   "bereich": "Bau",
-   "datum": "2026-10-12T11:54:53+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Künftige Bauvorgaben müssen Klimaschutz und Anpassung an Hitze/Starkregen stärker berücksichtigen – betrifft Planung und Ausführung.",
-   "tun": "Verfolge kommende Normänderungen zu Klimaanpassung im Baubestand.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Die Monatsinfo 10/2026 ist erschienen.",
    "link": "https://forum-vergabe.de/monatsinfo-news/die-monatsinfo-10-2026-ist-erschienen/",
    "quelle": "forum vergabe",
@@ -302,24 +284,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Hydrostatischer Schienenradantrieb für Bahnbau-Arbeiten",
    "link": "https://allgemeinebauzeitung.de/hydrostatischer-schienenradantrieb-bahnbau-indusi-magnete/",
    "quelle": "Allgemeine Bauzeitung",
@@ -337,6 +301,24 @@
    "tun": "Prüfe die Technik für anstehende Bahnbauprojekte als Standardausrüstung.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Gewerbespeicher-Projekte brauchen starke Partner",
@@ -398,24 +380,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Nachunternehmer oder nur \"Gehilfe\"?",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316585",
    "quelle": "IBR-Online",
@@ -434,6 +398,24 @@
    "tun": "Prüfe bei Nachunternehmereinsatz, ob die Abgrenzung für eure Vergabeunterlagen passt.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Heizungsförderung: Was bei Wärmepumpenprojekten gilt",
@@ -491,24 +473,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Gut gemeint, schlecht geführt? Diese Muster verhindern Offenheit im Team",
    "link": "https://www.impulse.de/personal/psychologische-sicherheit/7641694.html",
    "quelle": "impulse",
@@ -528,6 +492,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Windmöller: Bodenbelag-Hersteller sucht Rettung unter dem Schutzschirm",
    "link": "https://www.boden-wand-decke.de/bodenbelag-hersteller-windmoeller-sucht-rettung-unter-dem-schutzschirm-357256/",
    "quelle": "Boden Wand Decke",
@@ -543,6 +525,24 @@
    "thema": "Preise & Material",
    "was": "Ein wichtiger Bodenbelag-Hersteller ist in Sanierung – Lieferfähigkeit und Preise bei wineo-Produkten im Blick behalten.",
    "tun": "Prüfe Alternativlieferanten für wineo-Produkte vorsorglich.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "BAU 2027: Klimaschutz und Klimaanpassung im Gebäudebestand",
+   "link": "https://www.bft-international.com/de/news/bau-2027-klimaschutz-und-klimaanpassung-im-gebaeudebestand-4434611.html",
+   "quelle": "BFT",
+   "bereich": "Bau",
+   "datum": "2026-10-12T11:54:53+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Künftige Bauvorgaben müssen Klimaschutz und Anpassung an Hitze/Starkregen stärker berücksichtigen – betrifft Planung und Ausführung.",
+   "tun": "Verfolge kommende Normänderungen zu Klimaanpassung im Baubestand.",
    "frist": null,
    "gewicht": 2
   },
@@ -886,24 +886,6 @@
    ]
   },
   {
-   "titel": "Handwerk warnt vor neuen Steuern und Erbschaftsteuer-Debatte",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/handwerk-warnt-vor-neuen-steuern-und-erbschaftsteuer-debatte",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-14T15:05:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Neue Steuerpläne und die Erbschaftsteuer-Debatte könnten künftig auf Betriebsübergaben und Kosten wirken.",
-   "tun": "Verfolge die Debatte, falls eine Betriebsübergabe ansteht.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Erbschaftsteuer: Karlsruhe prüft Steuervorteile für Firmenerben",
    "link": "https://handwerk.com/recht/erbschaftsteuer-steuervorteile-fuer-firmenerben-auf-dem-pruefstand",
    "quelle": "handwerk.com",
@@ -959,24 +941,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Kälte-Klima-Branche warnt vor Kürzungen bei der Förderung der beruflichen Bildung",
    "link": "https://www.kka-online.info/news/kaelte-klima-branche-warnt-vor-kuerzungen-bei-der-foerderung-der-beruflichen-bildung-4434524.html",
    "quelle": "KKA",
@@ -995,6 +959,24 @@
    "tun": "Informiere dich über aktuelle Fördertöpfe für Ausbildung und Weiterbildung.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Zunehmender wirtschaftlicher Druck in der Klebstoffindustrie",
@@ -1055,24 +1037,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Matter-Beleuchtung für lokale Smart-Home-Steuerung",
    "link": "https://www.elektro.net/129929/matter-beleuchtung-fuer-lokale-smart-home-steuerung/",
    "quelle": "elektro.net",
@@ -1092,23 +1056,22 @@
    "gewicht": 1
   },
   {
-   "titel": "Stromsteuer: Keine Entlastung für das Handwerk",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/stromsteuer-keine-entlastung-fuer-das-handwerk",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-14T14:45:00+00:00",
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Der Antrag auf Stromsteuer-Entlastung für Handwerksbetriebe wurde abgelehnt, die Stromkosten bleiben hoch.",
-   "tun": "Kalkuliere weiterhin mit den aktuellen Stromkosten ohne Entlastung.",
-   "frist": null,
-   "gewicht": 2
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Sicherheitsverlangen eines Vertreters kann zurückgewiesen werden!",
@@ -1150,24 +1113,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Greift China nach Deutschlands Wärmepumpenmarkt?",
    "link": "https://www.ikz.de/detail/news/detail/greift-china-nach-deutschlands-waermepumpenmarkt/",
    "quelle": "IKZ",
@@ -1202,6 +1147,24 @@
    "tun": "Hinterfrage deine eigenen Arbeitsbedingungen im Vergleich zum Wettbewerb.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Rechenzentren: Wie der Schutz der Kälte- und Lüftungsanlagen vor Cyberangriffen gelingen kann",
@@ -1243,24 +1206,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Webinar-Reihe zur Dämmung von Ursa",
    "link": "https://www.bauhandwerk.de/news/webinar-reihe-zur-daemmung-von-ursa-im-herbst-4433807.html",
    "quelle": "bauhandwerk",
@@ -1298,6 +1243,24 @@
    "tun": "Prüfe eigene Liquiditätsplanung bei größeren PV-Projekten.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Prosumer-Aufschlag: Elf Verbände wenden sich gegen Netzgebühr",
@@ -1338,29 +1301,11 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "Petitionsausschuss: Keine Aktivrente für Selbstständige",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/petitionsausschuss-keine-aktivrente-fuer-selbststaendige",
+   "titel": "Handwerk warnt vor neuen Steuern und Erbschaftsteuer-Debatte",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/handwerk-warnt-vor-neuen-steuern-und-erbschaftsteuer-debatte",
    "quelle": "handwerksblatt",
    "bereich": "Handwerk",
-   "datum": "2026-10-14T12:00:00+00:00",
+   "datum": "2026-10-14T15:05:00+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
@@ -1368,10 +1313,10 @@
     "Inhaber/Geschäftsführung"
    ],
    "thema": "Recht & Pflichten",
-   "was": "Selbstständige bleiben vorerst von der geplanten Aktivrente ausgeschlossen – keine zusätzliche Steuerentlastung im Alter.",
-   "tun": "",
+   "was": "Neue Steuerpläne und die Erbschaftsteuer-Debatte könnten künftig auf Betriebsübergaben und Kosten wirken.",
+   "tun": "Verfolge die Debatte, falls eine Betriebsübergabe ansteht.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Die Kreislaufwirtschaft nimmt Fahrt auf",
@@ -1391,6 +1336,24 @@
    "tun": "Informiere dich über CO2-reduzierte Glasprodukte für Ausschreibungen.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Holding-Gesellschaft als Sektorenauftraggeber?",
@@ -1431,24 +1394,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Bremen: Änderung des Tariftreue- und Vergabegesetze – Direktauftrag stark angehoben",
    "link": "https://vergabeblog.de/2026-10-13/bremen-aenderung-des-tariftreue-und-vergabegesetze-direktauftrag-stark-angehoben/",
    "quelle": "vergabeblog",
@@ -1484,6 +1429,24 @@
    "tun": "Verfolge den Gesetzgebungsprozess, falls du in Hessen tätig bist.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Nach der Montage ist vor der Bewertung",
@@ -1523,24 +1486,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "\"Interessenneutralität\" ist kein zulässiges Eignungskriterium!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316492",
    "quelle": "IBR-Online",
@@ -1576,6 +1521,24 @@
    "tun": "Prüfe deinen Gesellschaftsvertrag auf Regelungen zur Auflösung und Nachfolge.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Prozessvergleich wegen Irrtums unwirksam?",
