@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-17T00:29+00:00",
- "anzahl": 85,
+ "stand": "2026-10-17T06:58+00:00",
+ "anzahl": 83,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -809,26 +809,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Zweitägiges Symposium: Natürliche Kältemittel für die Kälte- und Wärmeversorgung",
-   "link": "https://www.kka-online.info/news/zweitaegiges-symposium-natuerliche-kaeltemittel-fuer-die-kaelte-und-waermeversorgung-4434655.html",
-   "quelle": "KKA",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-10-12T12:55:01+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Die F-Gase-Verordnung schränkt fluorierte Kältemittel weiter ein, natürliche Kältemittel werden relevanter für dein Angebot.",
-   "tun": "Informiere dich auf dem Symposium über Umstieg auf natürliche Kältemittel.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Oberflächenveredelung: Fehler, Pflege, Trends",
    "link": "https://www.boden-wand-decke.de/oberflaechenveredelung-anforderungen-fehler-pflege-trends-357247/",
    "quelle": "Boden Wand Decke",
@@ -867,24 +847,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Energieeffizienz fachgerecht planen und beraten",
    "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/energieeffizienz-fachgerecht-planen-und-beraten",
    "quelle": "handwerksblatt",
@@ -902,6 +864,24 @@
    "tun": "Melde Mitarbeiter für die Weiterbildung an.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Intelligente Beleuchtungssteuerung in teilbarer Sporthalle",
@@ -960,24 +940,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Rottler und Rüdiger: Vision wird Wirklichkeit",
    "link": "https://www.gff-magazin.de/rottler-und-ruediger-vision-wird-wirklichkeit-336943/",
    "quelle": "GFF",
@@ -996,6 +958,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "KGM Actyon Hybrid: „Sehr hochwertig verarbeitet, aber zu groß“",
    "link": "https://www.handwerk-magazin.de/kgm-actyon-hybrid-sehr-hochwertig-verarbeitet-aber-zu-gross-351526/",
    "quelle": "handwerk magazin",
@@ -1012,6 +992,26 @@
    "tun": "Vergleiche Fahrzeugmaße und Ladehöhe mit deinem Einsatzbedarf.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Zweitägiges Symposium: Natürliche Kältemittel für die Kälte- und Wärmeversorgung",
+   "link": "https://www.kka-online.info/news/zweitaegiges-symposium-natuerliche-kaeltemittel-fuer-die-kaelte-und-waermeversorgung-4434655.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-10-12T12:55:01+00:00",
+   "gewerke": [
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Die F-Gase-Verordnung schränkt fluorierte Kältemittel weiter ein, natürliche Kältemittel werden relevanter für dein Angebot.",
+   "tun": "Informiere dich auf dem Symposium über Umstieg auf natürliche Kältemittel.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Zunehmender wirtschaftlicher Druck in der Klebstoffindustrie",
@@ -1260,27 +1260,6 @@
    ]
   },
   {
-   "titel": "Optimierte Wärmepumpen für Industrieprozesse und Wärmenetze: Forschungsaktivitäten und Ergebnisse auf der Chillventa zu sehen",
-   "link": "https://www.kka-online.info/news/optimierte-waermepumpen-fuer-industrieprozesse-und-waermenetze-4434594.html",
-   "quelle": "KKA",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-10-12T11:06:42+00:00",
-   "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "TGA/Energiedienstleister",
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Hochtemperatur-Wärmepumpen für Industrieprozesse werden technisch reifer – relevant für Angebote im Gewerbekundenbereich.",
-   "tun": "Beobachte die Entwicklung für mögliche Projekte bei Industriekunden.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Rechenzentren: Wie der Schutz der Kälte- und Lüftungsanlagen vor Cyberangriffen gelingen kann",
    "link": "https://kaelte-luft-klima.de/praxis-und-handwerk/rechenzentren-wie-der-schutz-der-kaelte-und-lueftungsanlagen-vor-cyberangriffen-gelingen-kann",
    "quelle": "Kälte Luft Klima",
@@ -1339,24 +1318,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Die Kreislaufwirtschaft nimmt Fahrt auf",
    "link": "https://www.gff-magazin.de/die-kreislaufwirtschaft-nimmt-fahrt-auf-336623/",
    "quelle": "GFF",
@@ -1374,6 +1335,24 @@
    "tun": "Informiere dich über CO2-reduzierte Glasprodukte für Ausschreibungen.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Holding-Gesellschaft als Sektorenauftraggeber?",
@@ -1432,6 +1411,27 @@
    "gewicht": 2
   },
   {
+   "titel": "Optimierte Wärmepumpen für Industrieprozesse und Wärmenetze: Forschungsaktivitäten und Ergebnisse auf der Chillventa zu sehen",
+   "link": "https://www.kka-online.info/news/optimierte-waermepumpen-fuer-industrieprozesse-und-waermenetze-4434594.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-10-12T11:06:42+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister",
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Hochtemperatur-Wärmepumpen für Industrieprozesse werden technisch reifer – relevant für Angebote im Gewerbekundenbereich.",
+   "tun": "Beobachte die Entwicklung für mögliche Projekte bei Industriekunden.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
    "link": "https://iph-academy.learningsuite.io/student/courses",
    "quelle": "IPH Academy",
@@ -1448,26 +1448,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Kälte-Klima-Branche warnt vor Kürzungen bei der Förderung der beruflichen Bildung",
-   "link": "https://www.kka-online.info/news/kaelte-klima-branche-warnt-vor-kuerzungen-bei-der-foerderung-der-beruflichen-bildung-4434524.html",
-   "quelle": "KKA",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-10-12T08:07:14+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Ausbildung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Geplante Kürzungen bei der Bildungsförderung könnten Ausbildungskosten für Kälte-Klima-Betriebe erhöhen.",
-   "tun": "Informiere dich über aktuelle Fördertöpfe für Ausbildung und Weiterbildung.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Fachkräftemangel: Liegt es an Arbeitsbedingungen im Handwerk?",
@@ -1528,24 +1508,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "\"Verrechnungsabrede\" = Ohne-Rechnung-Abrede?",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316012",
    "quelle": "IBR-Online",
@@ -1563,6 +1525,24 @@
    "tun": "Lass Zahlungsvereinbarungen rechtlich prüfen, bevor du sie nutzt.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "\"Interessenneutralität\" ist kein zulässiges Eignungskriterium!",
@@ -1619,24 +1599,6 @@
    "tun": "Prüfe Vergleichsvereinbarungen genau, bevor du sie unterschreibst.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   }
  ]
 }
