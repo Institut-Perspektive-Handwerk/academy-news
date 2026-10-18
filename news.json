@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-18T11:06+00:00",
+ "stand": "2026-10-18T15:53+00:00",
  "anzahl": 82,
  "gewerke": [
   "Alle Gewerke",
@@ -544,25 +544,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Studie: Grenznahe Elektrolyseure könnten deutschen Strom verteuern",
-   "link": "https://www.solarserver.de/2026/10/16/studie-grenznahe-elektrolyseure-koennten-deutschen-strom-verteuern/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-16T12:20:27+00:00",
-   "gewerke": [
-    "TGA/Energiedienstleister",
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Grenznahe Elektrolyseure könnten den Strompreis in Deutschland ab 2030 leicht erhöhen.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Sonntag Energy baut nachgeführte Agri-Photovoltaik-Anlage über Erdbeeren",
    "link": "https://www.pv-magazine.de/2026/10/16/sonntag-energy-baut-nachgefuehrte-agri-photovoltaik-anlage-ueber-erdbeeren/",
    "quelle": "pv magazine",
@@ -583,24 +564,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Baugenehmigungen steigen kräftig im ersten Halbjahr 2024",
    "link": "https://allgemeinebauzeitung.de/baugenehmigungen-steigen-kraeftig-einfamilien-mehrfamilien/",
    "quelle": "Allgemeine Bauzeitung",
@@ -619,6 +582,24 @@
    "tun": "Plane Kapazitäten für mögliche Auftragszuwächse ein.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Dokumente sicher und effizient verwalten",
@@ -679,24 +660,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "ISO 9001: Warum Betriebe ihr Qualitätsmanagement jetzt anpassen müssen",
    "link": "https://www.handwerk-magazin.de/iso-9001-neue-norm-zum-qualitaetsmanagement-176915/",
    "quelle": "handwerk magazin",
@@ -714,6 +677,24 @@
    "tun": "Plane die Anpassung deines QM-Systems an die neue ISO 9001.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Laseranlage, Isolierglaslinie, Software & Services von Lisec",
@@ -773,6 +754,25 @@
    "gewicht": 2
   },
   {
+   "titel": "Studie: Grenznahe Elektrolyseure könnten deutschen Strom verteuern",
+   "link": "https://www.solarserver.de/2026/10/16/studie-grenznahe-elektrolyseure-koennten-deutschen-strom-verteuern/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-16T12:20:27+00:00",
+   "gewerke": [
+    "TGA/Energiedienstleister",
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Grenznahe Elektrolyseure könnten den Strompreis in Deutschland ab 2030 leicht erhöhen.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
    "link": "https://iph-academy.learningsuite.io/student/event-plan",
    "quelle": "IPH Academy",
@@ -808,25 +808,6 @@
    "tun": "Prüfe Marktchancen in der Region für Modernisierungsaufträge.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Wie PV in Landschaftsschutzgebieten Strom erzeugen darf",
-   "link": "https://www.solarserver.de/2026/10/16/wie-pv-in-landschaftsschutzgebieten-strom-erzeugen-darf/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-16T10:35:02+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Leitfaden erklärt, wie PV-Anlagen in BW-Landschaftsschutzgebieten rechtssicher geplant werden können.",
-   "tun": "Lade den Leitfaden für Projekte in Schutzgebieten herunter.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Energieeffizienz fachgerecht planen und beraten",
@@ -867,24 +848,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Warum Handwerker ihren Minijobbern 2027 mehr zahlen müssen",
    "link": "https://handwerk.com/politik-und-wirtschaft/warum-handwerker-ihren-minijobbern-2027-mehr-zahlen-muessen",
    "quelle": "handwerk.com",
@@ -902,6 +865,24 @@
    "tun": "Plane höhere Lohnkosten für Minijobber ab 2027 ein.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Betriebsübergabe: Wenn der Sohn anders führen will als der Vater",
@@ -958,24 +939,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Zweitägiges Symposium: Natürliche Kältemittel für die Kälte- und Wärmeversorgung",
    "link": "https://www.kka-online.info/news/zweitaegiges-symposium-natuerliche-kaeltemittel-fuer-die-kaelte-und-waermeversorgung-4434655.html",
    "quelle": "KKA",
@@ -994,6 +957,24 @@
    "tun": "Informiere dich auf dem Symposium über Umstieg auf natürliche Kältemittel.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Zunehmender wirtschaftlicher Druck in der Klebstoffindustrie",
@@ -1015,6 +996,25 @@
    "tun": "Kalkuliere mit möglichen Preisschwankungen bei Klebstoffen und Bauchemie.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Wie PV in Landschaftsschutzgebieten Strom erzeugen darf",
+   "link": "https://www.solarserver.de/2026/10/16/wie-pv-in-landschaftsschutzgebieten-strom-erzeugen-darf/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-16T10:35:02+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Leitfaden erklärt, wie PV-Anlagen in BW-Landschaftsschutzgebieten rechtssicher geplant werden können.",
+   "tun": "Lade den Leitfaden für Projekte in Schutzgebieten herunter.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "BSI empfiehlt Schutzmaßnahmen für mit dem Internet verbundene Photovoltaik-Anlagen",
