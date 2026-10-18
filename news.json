@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-18T18:38+00:00",
+ "stand": "2026-10-18T22:26+00:00",
  "anzahl": 82,
  "gewerke": [
   "Alle Gewerke",
@@ -146,6 +146,26 @@
    "gewicht": 2
   },
   {
+   "titel": "(KI-)Halluzination macht Schriftsatz wertlos!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316672",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-15T23:30:03+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Nutzt du KI für Schriftsätze oder Stellungnahmen im Streitfall, haftest du für falsche KI-Inhalte vor Gericht.",
+   "tun": "Prüfe jeden KI-generierten Text vor Gericht auf echte Quellen und Fakten.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Gerichte bei Equal-Pay-Klagen zu lax mit Datenschutz: Wenn das Betriebsratsbüro Gehaltsdaten leakt",
    "link": "https://www.lto.de/recht/hintergruende/h/bag-lag-entgelttransparenz-equal-pay-datenschutz-betriebsrat-verwertungsverbot?r=rss",
    "quelle": "LTO",
@@ -161,26 +181,6 @@
    "thema": "Recht & Pflichten",
    "was": "Gehaltsdaten aus dem Betriebsratsbüro könnten in Equal-Pay-Klagen landen, auch ohne Zustimmung des Arbeitgebers.",
    "tun": "Sichere den Zugang zu Gehaltsdaten im Betrieb ab.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Pflasterklinker muss nicht besonders schmutzresistent sein!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315073",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-15T06:55:17+00:00",
-   "gewerke": [
-    "Garten- und Landschaftsbau",
-    "Fliesen- und Bodenleger"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht stellt klar: Pflasterklinker muss nicht übermäßig schmutzresistent sein, das mindert Mängelansprüche.",
-   "tun": "Beachte das Urteil bei Ausschreibungen und Mängelrügen zu Pflasterbelägen.",
    "frist": null,
    "gewicht": 1
   },
@@ -411,24 +411,24 @@
    ]
   },
   {
-   "titel": "Nachunternehmer oder nur \"Gehilfe\"?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316585",
+   "titel": "Pflasterklinker muss nicht besonders schmutzresistent sein!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315073",
    "quelle": "IBR-Online",
    "bereich": "Baurecht",
-   "datum": "2026-10-15T04:05:25+00:00",
+   "datum": "2026-10-15T06:55:17+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Garten- und Landschaftsbau",
+    "Fliesen- und Bodenleger"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung",
     "Büro/Kalkulation"
    ],
    "thema": "VOB & Verträge",
-   "was": "Gericht klärt, wann ein Subunternehmer als eigenständiger Nachunternehmer gilt statt als bloßer Erfüllungsgehilfe - relevant für Eignungsnachweise bei Ausschrei",
-   "tun": "Prüfe bei Nachunternehmereinsatz, ob die Abgrenzung für eure Vergabeunterlagen passt.",
+   "was": "Gericht stellt klar: Pflasterklinker muss nicht übermäßig schmutzresistent sein, das mindert Mängelansprüche.",
+   "tun": "Beachte das Urteil bei Ausschreibungen und Mängelrügen zu Pflasterbelägen.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Heizungsförderung: Was bei Wärmepumpenprojekten gilt",
@@ -697,6 +697,26 @@
    ]
   },
   {
+   "titel": "Nachunternehmer oder nur \"Gehilfe\"?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316585",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-15T04:05:25+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Gericht klärt, wann ein Subunternehmer als eigenständiger Nachunternehmer gilt statt als bloßer Erfüllungsgehilfe - relevant für Eignungsnachweise bei Ausschrei",
+   "tun": "Prüfe bei Nachunternehmereinsatz, ob die Abgrenzung für eure Vergabeunterlagen passt.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Laseranlage, Isolierglaslinie, Software & Services von Lisec",
    "link": "https://www.gff-magazin.de/laseranlage-isolierglaslinie-software-services-von-lisec-336495/",
    "quelle": "GFF",
@@ -754,6 +774,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Studie: Grenznahe Elektrolyseure könnten deutschen Strom verteuern",
    "link": "https://www.solarserver.de/2026/10/16/studie-grenznahe-elektrolyseure-koennten-deutschen-strom-verteuern/",
    "quelle": "Solarserver",
@@ -771,24 +809,6 @@
    "tun": "",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Größtes Potenzial für Wohneigentum in Rheinland-Pfalz und Saarland",
@@ -848,6 +868,24 @@
    "gewicht": 1
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Warum Handwerker ihren Minijobbern 2027 mehr zahlen müssen",
    "link": "https://handwerk.com/politik-und-wirtschaft/warum-handwerker-ihren-minijobbern-2027-mehr-zahlen-muessen",
    "quelle": "handwerk.com",
@@ -865,24 +903,6 @@
    "tun": "Plane höhere Lohnkosten für Minijobber ab 2027 ein.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Betriebsübergabe: Wenn der Sohn anders führen will als der Vater",
@@ -939,6 +959,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Zweitägiges Symposium: Natürliche Kältemittel für die Kälte- und Wärmeversorgung",
    "link": "https://www.kka-online.info/news/zweitaegiges-symposium-natuerliche-kaeltemittel-fuer-die-kaelte-und-waermeversorgung-4434655.html",
    "quelle": "KKA",
@@ -957,24 +995,6 @@
    "tun": "Informiere dich auf dem Symposium über Umstieg auf natürliche Kältemittel.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Zunehmender wirtschaftlicher Druck in der Klebstoffindustrie",
@@ -1036,6 +1056,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "HWK-Seminar: Outlook als Orgatool",
    "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/hwk-seminar-outlook-als-orgatool",
    "quelle": "handwerksblatt",
@@ -1053,24 +1091,6 @@
    "tun": "Melde dich oder dein Büro-Team für das Seminar an.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Mini-Unterputzgeräte mit Bluetooth-Vernetzung für jede Gerätedose",
@@ -1126,26 +1146,6 @@
    "thema": "Recht & Pflichten",
    "was": "Steuerprivilegien bei Betriebsübergabe stehen auf dem Prüfstand – das kann die Nachfolgeplanung teurer machen.",
    "tun": "Sprich mit deinem Steuerberater über mögliche Änderungen bei der Erbschaftsteuer.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Sicherheitsverlangen eines Vertreters kann zurückgewiesen werden!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316657",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-14T06:48:06+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Ein Gericht stärkt Auftragnehmer: Unberechtigte Sicherheitsforderungen eines Vertreters müssen nicht erfüllt werden.",
-   "tun": "Prüfe Sicherheitsverlangen rechtlich, bevor du zahlst oder bürgst.",
    "frist": null,
    "gewicht": 2
   },
@@ -1299,6 +1299,26 @@
    "gewicht": 1
   },
   {
+   "titel": "Sicherheitsverlangen eines Vertreters kann zurückgewiesen werden!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316657",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-14T06:48:06+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Ein Gericht stärkt Auftragnehmer: Unberechtigte Sicherheitsforderungen eines Vertreters müssen nicht erfüllt werden.",
+   "tun": "Prüfe Sicherheitsverlangen rechtlich, bevor du zahlst oder bürgst.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Hessenschau – Droht dem Uniklinikum Frankfurt ein „Vergabeskandal“",
    "link": "https://vergabeblog.de/2026-10-14/hessenschau-droht-dem-uniklinikum-frankfurt-ein-vergabeskandal/",
    "quelle": "vergabeblog",
@@ -1314,25 +1334,6 @@
    "thema": "Recht & Pflichten",
    "was": "Der Fall zeigt, wie Vergabeverstöße bei öffentlichen Aufträgen aufgedeckt werden und welche Risiken bestehen.",
    "tun": "Achte bei Vergabeverfahren auf transparente Dokumentation eurer Angebote.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Die Kreislaufwirtschaft nimmt Fahrt auf",
-   "link": "https://www.gff-magazin.de/die-kreislaufwirtschaft-nimmt-fahrt-auf-336623/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-10-14T04:21:00+00:00",
-   "gewerke": [
-    "Fensterbau/Glas"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Kreislauflösungen bei Glas (Recycling, Re-Use) könnten künftig Materialbeschaffung und Ausschreibungen beeinflussen.",
-   "tun": "Informiere dich über CO2-reduzierte Glasprodukte für Ausschreibungen.",
    "frist": null,
    "gewicht": 1
   },
@@ -1355,21 +1356,21 @@
    ]
   },
   {
-   "titel": "Holding-Gesellschaft als Sektorenauftraggeber?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316582",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-14T04:01:42+00:00",
+   "titel": "Die Kreislaufwirtschaft nimmt Fahrt auf",
+   "link": "https://www.gff-magazin.de/die-kreislaufwirtschaft-nimmt-fahrt-auf-336623/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-10-14T04:21:00+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Fensterbau/Glas"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
+    "Projektleitung/Bauleitung"
    ],
-   "thema": "VOB & Verträge",
-   "was": "Urteil klärt, wann eine Holding als Sektorenauftraggeber gilt und damit Vergaberecht greift.",
-   "tun": "Prüfe bei Ausschreibungen von Holdingstrukturen, ob Vergaberecht anwendbar ist.",
+   "thema": "Normen & Technik",
+   "was": "Kreislauflösungen bei Glas (Recycling, Re-Use) könnten künftig Materialbeschaffung und Ausschreibungen beeinflussen.",
+   "tun": "Informiere dich über CO2-reduzierte Glasprodukte für Ausschreibungen.",
    "frist": null,
    "gewicht": 1
   },
@@ -1490,6 +1491,25 @@
    "gewicht": 1
   },
   {
+   "titel": "Holding-Gesellschaft als Sektorenauftraggeber?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316582",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-14T04:01:42+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Urteil klärt, wann eine Holding als Sektorenauftraggeber gilt und damit Vergaberecht greift.",
+   "tun": "Prüfe bei Ausschreibungen von Holdingstrukturen, ob Vergaberecht anwendbar ist.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "\"Verrechnungsabrede\" = Ohne-Rechnung-Abrede?",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316012",
    "quelle": "IBR-Online",
@@ -1505,25 +1525,6 @@
    "thema": "Recht & Pflichten",
    "was": "Gericht klärt, wann eine Verrechnungsabrede als unzulässige Schwarzgeldabrede gilt – Risiko für Vertragsnichtigkeit.",
    "tun": "Lass Zahlungsvereinbarungen rechtlich prüfen, bevor du sie nutzt.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "\"Interessenneutralität\" ist kein zulässiges Eignungskriterium!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316492",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-13T04:13:13+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht kippt „Interessenneutralität“ als Eignungskriterium bei Ausschreibungen - das schafft mehr Chancen für Bieter.",
-   "tun": "Prüfe bei abgelehnten Angeboten, ob unzulässige Eignungskriterien angewendet wurden.",
    "frist": null,
    "gewicht": 2
   },
@@ -1546,6 +1547,25 @@
    ]
   },
   {
+   "titel": "\"Interessenneutralität\" ist kein zulässiges Eignungskriterium!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316492",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-13T04:13:13+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Gericht kippt „Interessenneutralität“ als Eignungskriterium bei Ausschreibungen - das schafft mehr Chancen für Bieter.",
+   "tun": "Prüfe bei abgelehnten Angeboten, ob unzulässige Eignungskriterien angewendet wurden.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Auflösung einer Personengesellschaft: Letzter Gesellschafter wird Verwalter",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316597",
    "quelle": "IBR-Online",
@@ -1560,25 +1580,6 @@
    "thema": "Recht & Pflichten",
    "was": "Löst sich deine Personengesellschaft auf, wird automatisch der letzte verbleibende Gesellschafter zum Abwickler bestellt.",
    "tun": "Prüfe deinen Gesellschaftsvertrag auf Regelungen zur Auflösung und Nachfolge.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Prozessvergleich wegen Irrtums unwirksam?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316546",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-12T22:24:51+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Ein Prozessvergleich kann wegen Irrtums unwirksam sein – das betrifft auch Baustreitigkeiten mit Vergleichsabschluss.",
-   "tun": "Prüfe Vergleichsvereinbarungen genau, bevor du sie unterschreibst.",
    "frist": null,
    "gewicht": 2
   }

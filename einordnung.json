@@ -15291,5 +15291,23 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-18"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316672": {
+  "id": "b760e5e6725d",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Nutzt du KI für Schriftsätze oder Stellungnahmen im Streitfall, haftest du für falsche KI-Inhalte vor Gericht.",
+  "tun": "Prüfe jeden KI-generierten Text vor Gericht auf echte Quellen und Fakten.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-18"
  }
 }
