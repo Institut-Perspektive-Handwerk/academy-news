@@ -16013,5 +16013,264 @@
   "frist": null,
   "gewicht": 2,
   "gesehen": "2026-10-19"
+ },
+ "https://www.gff-magazin.de/kid-werkstatt-gemeinsam-prompten-lernen-337076/": {
+  "id": "a433855c18a5",
+  "relevant": true,
+  "gewerke": [
+   "Dachdecker",
+   "Schreinerei/Tischlerei"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Ausbildung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Zeigt praxisnah, wie KI-Prompting den Arbeitsalltag im Betrieb erleichtern kann.",
+  "tun": "Melde dich für die KID-Werkstatt in Karlstadt an.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://allgemeinebauzeitung.de/wko-zentrum-graz-handwerk-gbaudetechnik-sichtbar/": {
+  "id": "dab6b5b5ffbf",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://www.pv-magazine.de/2026/10/19/netze-bw-verbindliche-netzanschlusszusagen-fuer-kleine-photovoltaik-anlagen-in-5-minuten/": {
+  "id": "cccea33a22c8",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "Elektro"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Netzanschlüsse für kleine PV-Anlagen gehen jetzt oft automatisiert und schneller durch.",
+  "tun": "Prüfe das neue Online-Verfahren bei Netze BW für deine PV-Projekte.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-19"
+ },
+ "https://www.lto.de/recht/nachrichten/n/ag-muenchen-112c287023-hecke-nachbarschaftsstreit-baumschutz?r=rss": {
+  "id": "342af3870502",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://handwerk.com/politik-und-wirtschaft/umfrage-zur-erbschaftsteuer-warum-betriebe-teilnehmen-sollten": {
+  "id": "b0f58e86e02c",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Eine Erbschaftsteuer-Reform kann die Unternehmensnachfolge im Betrieb erschweren oder verteuern.",
+  "tun": "Nimm an der ZDH-Umfrage zur Erbschaftsteuer teil.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://www.solarserver.de/2026/10/19/wie-kommunen-mit-biomasse-solar-und-wind-autark-werden/": {
+  "id": "a9445fb77790",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://baublatt.de/hydraulik-mit-neuer-energie/": {
+  "id": "15d94fd8eab4",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://www.elektro.net/129969/so-koennen-pv-anlagen-noch-gemaess-eeg-2023-in-betrieb-gehen/": {
+  "id": "61acf22bc6ed",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Förderung",
+  "was": "Nur Anlagen, die rechtzeitig in Betrieb gehen, sichern sich noch die EEG-2023-Vergütung.",
+  "tun": "Plane laufende PV-Projekte so, dass sie bis Ende 2026 ans Netz gehen.",
+  "frist": "2026-12-31",
+  "gewicht": 2,
+  "gesehen": "2026-10-19"
+ },
+ "https://vergabeblog.de/2026-10-19/podiumsdiskussion-im-programm-des-deutschen-vergabetags-zwischen-vergabebeschleunigungsgesetz-und-novelle-der-eu-vergaberichtlinien/": {
+  "id": "956c13d68649",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Vergaberecht ändert sich gerade mehrfach – das betrifft Angebote bei öffentlichen Aufträgen.",
+  "tun": "Verfolge die Änderungen beim Vergaberecht für deine Ausschreibungen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316606": {
+  "id": "d91b5ac5259a",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://allgemeinebauzeitung.de/3d-betondruck-serieller-wohnungsbau-haus-strata/": {
+  "id": "e0d46ee08f60",
+  "relevant": true,
+  "gewerke": [
+   "Hochbau/Rohbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "3D-Betondruck könnte seriellen Wohnungsbau künftig schneller und günstiger machen.",
+  "tun": "Beobachte, ob 3D-Druck-Verfahren für eigene Projekte interessant werden.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://www.pv-magazine.de/2026/10/19/densys-easyplan-photovoltaik-anlagen-in-weniger-als-zwei-minuten-planen/": {
+  "id": "38298eb1667a",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Schnellere Angebotserstellung für PV-Anlagen kann Kalkulationszeit im Betrieb sparen.",
+  "tun": "Teste das EasyPlan-Tool für deine PV-Angebote.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-19"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316678": {
+  "id": "c5ed07dcecbf",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-19"
+ },
+ "https://allgemeinebauzeitung.de/kerto-lvl-wand-elektroinstallation-tragfahigkeit/": {
+  "id": "68a4ababef0e",
+  "relevant": true,
+  "gewerke": [
+   "Holzbau/Zimmerei",
+   "Elektro"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Neue schlanke Holzwände mit integrierter Elektroinstallation sparen Platz und Arbeitsschritte.",
+  "tun": "Prüfe die Kerto-LVL-Wände für kommende Holzbauprojekte mit Elektroinstallation.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-19"
  }
 }
