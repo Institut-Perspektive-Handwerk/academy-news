@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-18T22:26+00:00",
+ "stand": "2026-10-19T04:41+00:00",
  "anzahl": 82,
  "gewerke": [
   "Alle Gewerke",
@@ -54,25 +54,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fachrechnen für die Meisterprüfung",
-   "link": "https://www.elektro.net/129951/fachrechnen-fuer-die-meisterpruefung/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-16T12:49:50+00:00",
-   "gewerke": [
-    "Elektro"
-   ],
-   "rollen": [
-    "Ausbildung",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Neues Übungsbuch hilft angehenden Elektro-Meistern bei der Prüfungsvorbereitung.",
-   "tun": "Empfehle das Buch deinen Meisterschülern im Betrieb.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Nicht jeder Streit am Arbeitsplatz ist Mobbing",
    "link": "https://handwerk.com/recht/nicht-jeder-streit-am-arbeitsplatz-ist-mobbing",
    "quelle": "handwerk.com",
@@ -109,24 +90,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "KI klaut den Job? So wird dein Team fit für die Zukunft",
    "link": "https://www.impulse.de/personal/reskilling-plus/7640510.html",
    "quelle": "impulse",
@@ -144,6 +107,24 @@
    "tun": "Starte ein Reskilling-Projekt mit dem verlinkten Leitfaden.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "(KI-)Halluzination macht Schriftsatz wertlos!",
@@ -204,24 +185,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Die Monatsinfo 10/2026 ist erschienen.",
    "link": "https://forum-vergabe.de/monatsinfo-news/die-monatsinfo-10-2026-ist-erschienen/",
    "quelle": "forum vergabe",
@@ -239,6 +202,24 @@
    "tun": "Verfolge die Entwürfe, falls du öffentliche Aufträge annimmst.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Wirtschaftlicher Ressourceneinsatz im Bau-SOLL und Bau-IST",
@@ -259,6 +240,25 @@
    "tun": "Plane Ressourcen schon in der Kalkulationsphase realistisch durch.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fachrechnen für die Meisterprüfung",
+   "link": "https://www.elektro.net/129951/fachrechnen-fuer-die-meisterpruefung/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-16T12:49:50+00:00",
+   "gewerke": [
+    "Elektro"
+   ],
+   "rollen": [
+    "Ausbildung",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Neues Übungsbuch hilft angehenden Elektro-Meistern bei der Prüfungsvorbereitung.",
+   "tun": "Empfehle das Buch deinen Meisterschülern im Betrieb.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Erbschaftsteuer: ZDH startet Umfrage unter Betrieben",
@@ -849,23 +849,23 @@
    "gewicht": 1
   },
   {
-   "titel": "Intelligente Beleuchtungssteuerung in teilbarer Sporthalle",
-   "link": "https://www.elektro.net/129936/intelligente-beleuchtungssteuerung-in-der-sporthalle/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-16T06:00:00+00:00",
+   "titel": "Warum Handwerker ihren Minijobbern 2027 mehr zahlen müssen",
+   "link": "https://handwerk.com/politik-und-wirtschaft/warum-handwerker-ihren-minijobbern-2027-mehr-zahlen-muessen",
+   "quelle": "handwerk.com",
+   "bereich": "Handwerk",
+   "datum": "2026-10-14T14:06:24+00:00",
    "gewerke": [
-    "Elektro"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung",
-    "Monteur/Facharbeiter"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "Normen & Technik",
-   "was": "Vernetzbare IR-Sensoren ermöglichen automatische Lichtsteuerung in großen, teilbaren Hallen ohne separate Schaltkreise je Segment.",
-   "tun": "Prüfe den Sensor für Ausschreibungen von Sporthallen-Elektroinstallationen.",
+   "thema": "Personal & Ausbildung",
+   "was": "Steigt der Mindestlohn weiter, erhöht sich automatisch auch die Verdienstgrenze für Minijobber in deinem Betrieb.",
+   "tun": "Plane höhere Lohnkosten für Minijobber ab 2027 ein.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
@@ -884,25 +884,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Warum Handwerker ihren Minijobbern 2027 mehr zahlen müssen",
-   "link": "https://handwerk.com/politik-und-wirtschaft/warum-handwerker-ihren-minijobbern-2027-mehr-zahlen-muessen",
-   "quelle": "handwerk.com",
-   "bereich": "Handwerk",
-   "datum": "2026-10-14T14:06:24+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Steigt der Mindestlohn weiter, erhöht sich automatisch auch die Verdienstgrenze für Minijobber in deinem Betrieb.",
-   "tun": "Plane höhere Lohnkosten für Minijobber ab 2027 ein.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Betriebsübergabe: Wenn der Sohn anders führen will als der Vater",
@@ -959,24 +940,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Zweitägiges Symposium: Natürliche Kältemittel für die Kälte- und Wärmeversorgung",
    "link": "https://www.kka-online.info/news/zweitaegiges-symposium-natuerliche-kaeltemittel-fuer-die-kaelte-und-waermeversorgung-4434655.html",
    "quelle": "KKA",
@@ -995,6 +958,24 @@
    "tun": "Informiere dich auf dem Symposium über Umstieg auf natürliche Kältemittel.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Zunehmender wirtschaftlicher Druck in der Klebstoffindustrie",
@@ -1056,24 +1037,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "HWK-Seminar: Outlook als Orgatool",
    "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/hwk-seminar-outlook-als-orgatool",
    "quelle": "handwerksblatt",
@@ -1093,21 +1056,39 @@
    "gewicht": 1
   },
   {
-   "titel": "Mini-Unterputzgeräte mit Bluetooth-Vernetzung für jede Gerätedose",
-   "link": "https://www.elektro.net/129935/mini-unterputzgeraete-mit-bluetooth-vernetzung-fuer-jede-geraetedose/",
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Intelligente Beleuchtungssteuerung in teilbarer Sporthalle",
+   "link": "https://www.elektro.net/129936/intelligente-beleuchtungssteuerung-in-der-sporthalle/",
    "quelle": "elektro.net",
    "bereich": "Elektro",
-   "datum": "2026-10-15T15:04:00+00:00",
+   "datum": "2026-10-16T06:00:00+00:00",
    "gewerke": [
     "Elektro"
    ],
    "rollen": [
-    "Monteur/Facharbeiter",
-    "Projektleitung/Bauleitung"
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
    ],
    "thema": "Normen & Technik",
-   "was": "Neue Mini-UP-Geräte passen in enge Dosen und lassen sich per Bluetooth Mesh vernetzen – nützlich bei Nachrüstung.",
-   "tun": "Prüfe die Geräte für Sanierungsprojekte mit wenig Platz in der Dose.",
+   "was": "Vernetzbare IR-Sensoren ermöglichen automatische Lichtsteuerung in großen, teilbaren Hallen ohne separate Schaltkreise je Segment.",
+   "tun": "Prüfe den Sensor für Ausschreibungen von Sporthallen-Elektroinstallationen.",
    "frist": null,
    "gewicht": 1
   },
@@ -1150,24 +1131,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "SHK NRW installiert neue Fachbetriebssuche",
    "link": "https://www.shk-profi.de/news/shk-nrw-installiert-neue-fachbetriebssuche-4435661.html",
    "quelle": "SHK-Profi",
@@ -1184,6 +1147,24 @@
    "tun": "Trage deinen Betrieb in die neue SHK-Fachbetriebssuche ein.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "KGM Actyon Hybrid: „Sehr hochwertig verarbeitet, aber zu groß“",
@@ -1243,24 +1224,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Prämie für Eingliederungsmanagement",
    "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/praemie-fuer-eingliederungsmanagement",
    "quelle": "handwerksblatt",
@@ -1280,6 +1243,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Smart Compact Pro misst Asphaltdichte in Echtzeit",
    "link": "https://allgemeinebauzeitung.de/smart-compact-pro-asphaltdichte-echtzeit-verdichtung/",
    "quelle": "Allgemeine Bauzeitung",
@@ -1295,6 +1276,25 @@
    "thema": "Normen & Technik",
    "was": "Echtzeit-Dichtemessung beim Walzen kann Nacharbeit und Reklamationen bei Asphaltdeckschichten reduzieren.",
    "tun": "Informiere dich über Verfügbarkeit und Einsatz von Smart Compact Pro bei Walzenanbietern.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Mini-Unterputzgeräte mit Bluetooth-Vernetzung für jede Gerätedose",
+   "link": "https://www.elektro.net/129935/mini-unterputzgeraete-mit-bluetooth-vernetzung-fuer-jede-geraetedose/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-15T15:04:00+00:00",
+   "gewerke": [
+    "Elektro"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Neue Mini-UP-Geräte passen in enge Dosen und lassen sich per Bluetooth Mesh vernetzen – nützlich bei Nachrüstung.",
+   "tun": "Prüfe die Geräte für Sanierungsprojekte mit wenig Platz in der Dose.",
    "frist": null,
    "gewicht": 1
   },
