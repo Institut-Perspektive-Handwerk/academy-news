@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-19T23:43+00:00",
+ "stand": "2026-10-20T04:51+00:00",
  "anzahl": 90,
  "gewerke": [
   "Alle Gewerke",
@@ -175,24 +175,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Kreislaufgerecht bauen - jetzt auch mit TGA",
-   "link": "https://www.tga-praxis.de/news/kreislaufgerecht-bauen-jetzt-auch-mit-tga.html",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-10-19T11:16:52+00:00",
-   "gewerke": [
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Kreislaufgerechtes Bauen wird jetzt auch für TGA-Gewerke relevant und könnte Planungsanforderungen ändern.",
-   "tun": "Informiere dich über kommende Vorgaben zur Kreislaufwirtschaft in der TGA.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "BlackRock Future Builders: 15 Millionen Euro gegen den Fachkräftemangel im Handwerk",
    "link": "https://www.handwerk-magazin.de/blackrock-future-builders-15-millionen-euro-gegen-den-fachkraeftemangel-im-handwerk-352360/",
    "quelle": "handwerk magazin",
@@ -208,6 +190,24 @@
    "thema": "Personal & Ausbildung",
    "was": "Neue Förderinitiative will über 5.000 Menschen in Handwerksausbildung bringen, auch für dich als Ausbildungsbetrieb relevant.",
    "tun": "Informiere dich über Kooperationsmöglichkeiten mit JOBLINGE für Azubi-Gewinnung.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "VDMA ALT zieht Bilanz: Hohe Exporte, Regularien verunsichern",
+   "link": "https://kaelte-luft-klima.de/branche-und-markt/vdma-alt-zieht-bilanz-hohe-exporte-regularien-verunsichern",
+   "quelle": "Kälte Luft Klima",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-10-19T07:00:23+00:00",
+   "gewerke": [
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Trotz Exportwachstum sorgen regulatorische Unsicherheiten für Handlungsbedarf in der Kältebranche.",
+   "tun": "Verfolge Regularien-Updates des VDMA zur Planungssicherheit.",
    "frist": null,
    "gewicht": 2
   },
@@ -228,24 +228,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "VDMA ALT zieht Bilanz: Hohe Exporte, Regularien verunsichern",
-   "link": "https://kaelte-luft-klima.de/branche-und-markt/vdma-alt-zieht-bilanz-hohe-exporte-regularien-verunsichern",
-   "quelle": "Kälte Luft Klima",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-10-19T07:00:23+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Trotz Exportwachstum sorgen regulatorische Unsicherheiten für Handlungsbedarf in der Kältebranche.",
-   "tun": "Verfolge Regularien-Updates des VDMA zur Planungssicherheit.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Rechenzentren: Flüssigkeitskühlung ersetzt die klassische Luftkühlung",
@@ -307,24 +289,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Die Monatsinfo 10/2026 ist erschienen.",
    "link": "https://forum-vergabe.de/monatsinfo-news/die-monatsinfo-10-2026-ist-erschienen/",
    "quelle": "forum vergabe",
@@ -342,6 +306,24 @@
    "tun": "Verfolge die Entwürfe, falls du öffentliche Aufträge annimmst.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Wirtschaftlicher Ressourceneinsatz im Bau-SOLL und Bau-IST",
@@ -402,24 +384,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Heizung verhindert Vereisung von Wärmetauschern in Lüftungsanlagen",
    "link": "https://www.elektro.net/129968/heizung-verhindert-vereisung-von-waermetauschern-in-lueftungsanlagen/",
    "quelle": "elektro.net",
@@ -438,6 +402,24 @@
    "tun": "Prüfe das Feature bei anstehenden Lüftungsprojekten im Außenbereich.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "BSI fordert mehr Cybersicherheit von Betreibern regenerativer Energien",
@@ -480,41 +462,22 @@
    "gewicht": 2
   },
   {
-   "titel": "Heizungsbranche fordert verlässliche Investitionsbedingungen für eine nachhaltige Wärmeversorgung",
-   "link": "https://www.tga-praxis.de/news/heizungsbranche-fordert-verlaessliche-investitionsbedingungen-fuer-eine-nachhaltige-waermeversorgung.html",
+   "titel": "Kreislaufgerecht bauen - jetzt auch mit TGA",
+   "link": "https://www.tga-praxis.de/news/kreislaufgerecht-bauen-jetzt-auch-mit-tga.html",
    "quelle": "TGA-Praxis",
    "bereich": "TGA",
-   "datum": "2026-10-19T08:37:18+00:00",
+   "datum": "2026-10-19T11:16:52+00:00",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
     "TGA/Energiedienstleister"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Projektleitung/Bauleitung"
    ],
-   "thema": "Markt",
-   "was": "Branchenverbände fordern stabile Rahmenbedingungen für Wärmewende-Investitionen, das betrifft Planungssicherheit für Heizungsbaubetriebe.",
-   "tun": "",
+   "thema": "Normen & Technik",
+   "was": "Kreislaufgerechtes Bauen wird jetzt auch für TGA-Gewerke relevant und könnte Planungsanforderungen ändern.",
+   "tun": "Informiere dich über kommende Vorgaben zur Kreislaufwirtschaft in der TGA.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "E-Rechnung: Handwerksverband fordert Verschiebung auf 2028",
@@ -534,6 +497,24 @@
    "tun": "Bereite die E-Rechnung trotzdem vor, falls die Pflicht 2027 bleibt.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Aufmaß mit KI generieren: Interview mit Chris Höllerer",
@@ -592,24 +573,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Parkettrestaurierung im Palais Chotek",
    "link": "https://www.boden-wand-decke.de/parkettrestaurierung-im-palais-chotek-357267/",
    "quelle": "Boden Wand Decke",
@@ -627,6 +590,24 @@
    "tun": "Prüfe das Verfahren als Referenz für eigene Restaurierungsaufträge.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Vergütungskürzung nach Kündigung und verweigerter Mängelbeseitigung",
@@ -683,6 +664,25 @@
    ],
    "thema": "Normen & Technik",
    "was": "Neue Solarzellentechnologie mit 28% Wirkungsgrad könnte künftige Modulgeneration beeinflussen.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Heizungsbranche fordert verlässliche Investitionsbedingungen für eine nachhaltige Wärmeversorgung",
+   "link": "https://www.tga-praxis.de/news/heizungsbranche-fordert-verlaessliche-investitionsbedingungen-fuer-eine-nachhaltige-waermeversorgung.html",
+   "quelle": "TGA-Praxis",
+   "bereich": "TGA",
+   "datum": "2026-10-19T08:37:18+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Branchenverbände fordern stabile Rahmenbedingungen für Wärmewende-Investitionen, das betrifft Planungssicherheit für Heizungsbaubetriebe.",
    "tun": "",
    "frist": null,
    "gewicht": 1
@@ -1219,26 +1219,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Verbände warnen vor neuer Netzgebühr für Solaranlagen",
-   "link": "https://www.tga-praxis.de/news/verbaende-warnen-vor-neuer-netzgebuehr-fuer-solaranlagen.html",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-10-16T05:33:24+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Eine neue Netzgebühr könnte Solaranlagen für Kunden teurer und damit für dich schwerer verkäuflich machen.",
-   "tun": "Verfolge die Verbändewarnung und kalkuliere mögliche Mehrkosten für PV-Projekte ein.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "ISO 9001: Warum Betriebe ihr Qualitätsmanagement jetzt anpassen müssen",
    "link": "https://www.handwerk-magazin.de/iso-9001-neue-norm-zum-qualitaetsmanagement-176915/",
    "quelle": "handwerk magazin",
@@ -1256,24 +1236,6 @@
    "tun": "Plane die Anpassung deines QM-Systems an die neue ISO 9001.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Pflasterklinker muss nicht besonders schmutzresistent sein!",
@@ -1294,6 +1256,24 @@
    "tun": "Beachte das Urteil bei Ausschreibungen und Mängelrügen zu Pflasterbelägen.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Vaillant bietet digitalen BEG-Förderrechner an",
@@ -1351,24 +1331,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Zunehmender wirtschaftlicher Druck in der Klebstoffindustrie",
    "link": "https://www.boden-wand-decke.de/zunehmender-wirtschaftlicher-druck-in-der-klebstoffindustrie-357238/",
    "quelle": "Boden Wand Decke",
@@ -1388,6 +1350,24 @@
    "tun": "Kalkuliere mit möglichen Preisschwankungen bei Klebstoffen und Bauchemie.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Photovoltaik-Anlage steuerfrei – und jetzt?",
@@ -1445,6 +1425,26 @@
    "tun": "Prüfe Antragsvoraussetzungen beim saarländischen Inklusionsamt.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Verbände warnen vor neuer Netzgebühr für Solaranlagen",
+   "link": "https://www.tga-praxis.de/news/verbaende-warnen-vor-neuer-netzgebuehr-fuer-solaranlagen.html",
+   "quelle": "TGA-Praxis",
+   "bereich": "TGA",
+   "datum": "2026-10-16T05:33:24+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Eine neue Netzgebühr könnte Solaranlagen für Kunden teurer und damit für dich schwerer verkäuflich machen.",
+   "tun": "Verfolge die Verbändewarnung und kalkuliere mögliche Mehrkosten für PV-Projekte ein.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
