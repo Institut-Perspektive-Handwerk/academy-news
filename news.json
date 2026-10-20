@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-20T11:38+00:00",
- "anzahl": 92,
+ "stand": "2026-10-20T17:07+00:00",
+ "anzahl": 88,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -49,43 +49,21 @@
  ],
  "news": [
   {
-   "titel": "Emaldo und KKI wollen 500 Gewerbespeicher in Europa realisieren",
-   "link": "https://www.pv-magazine.de/2026/10/20/emaldo-und-kki-wollen-500-gewerbespeicher-in-europa-realisieren/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-20T10:28:55+00:00",
+   "titel": "Neues Netzwerk der Mittelstand-Digital-Zentren",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/neues-netzwerk-der-mittelstand-digital-zentren",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-20T13:19:00+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister",
-    "Elektro"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Markt",
-   "was": "Großausbau von Gewerbespeichern schafft neue Aufträge für Installation und Wartung in Europa.",
-   "tun": "Prüfe Kontakt zu Emaldo/KKI für Installationspartnerschaften.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Baukosten bremsen Wohnungsbau in Brandenburg deutlich",
-   "link": "https://allgemeinebauzeitung.de/baukosten-wohnungsbau-brandenburg-investitionen/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-20T10:20:31+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Büro/Kalkulation"
    ],
-   "thema": "Markt",
-   "was": "Stark gestiegene Baukosten bremsen Investitionen und Auftragsvolumen im Wohnungsbau spürbar.",
-   "tun": "Kalkuliere Aufschläge und prüfe Auftragslage für 2027 neu.",
+   "thema": "KI & Digitales",
+   "was": "Neue staatlich geförderte Beratungsstellen helfen KMU bei Digitalisierung und KI-Einführung im Betrieb.",
+   "tun": "Prüfe, ob ein Mittelstand-Digital-Zentrum in deiner Region Beratung anbietet.",
    "frist": null,
    "gewicht": 2
   },
@@ -129,25 +107,7 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "Raumklimaqualität verbindlich in Bauvorschriften verankern",
+   "titel": "Raumklimaqualität gehört in die Bauvorschriften",
    "link": "https://www.tga-praxis.de/news/raumklimaqualitaet-verbindlich-bauvorschriften-verankern.html",
    "quelle": "TGA-Praxis",
    "bereich": "TGA",
@@ -164,6 +124,24 @@
    "tun": "Verfolge die Entwicklung der Bauvorschriften zur Raumluftqualität.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Infrarot-Kamera mit Wifi-Anbindung",
@@ -202,6 +180,26 @@
    "thema": "VOB & Verträge",
    "was": "Gericht stellt klar: Mängel rechtfertigen nicht automatisch eine Minderung der Vergütung.",
    "tun": "Prüfe Mängelrügen künftig im Einzelfall vor Einbehalt.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Raumklimaqualität verbindlich in Bauvorschriften verankern",
+   "link": "https://www.kka-online.info/news/raumklimaqualitaet-verbindlich-in-bauvorschriften-verankern-4438765.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-10-20T06:36:01+00:00",
+   "gewerke": [
+    "TGA/Energiedienstleister",
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Raumluftqualität könnte künftig verbindlicher Teil der Bauvorschriften werden – betrifft Planung von Lüftungskonzepten.",
+   "tun": "Verfolge die Entwicklung, um Angebote frühzeitig anzupassen.",
    "frist": null,
    "gewicht": 2
   },
@@ -340,98 +338,23 @@
    ]
   },
   {
-   "titel": "Rabot Energy plant ab 2027 Direktvermarktung kleiner PV-Anlagen",
-   "link": "https://www.solarserver.de/2026/10/20/rabot-energy-plant-ab-2027-direktvermarktung-kleiner-pv-anlagen/",
+   "titel": "Bund: zehn Punkte und 1,5 Milliarden Euro für Wasserstoff",
+   "link": "https://www.solarserver.de/2026/10/20/bund-zehn-punkte-und-15-milliarden-euro-fuer-wasserstoff/",
    "quelle": "Solarserver",
    "bereich": "Photovoltaik",
-   "datum": "2026-10-20T10:30:00+00:00",
+   "datum": "2026-10-20T12:44:43+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Ab 2027 kommt ein neues Direktvermarktungsmodell für Kleinanlagen, das du Kunden anbieten kannst.",
-   "tun": "Informiere dich über die Konditionen für deine PV-Kunden.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Deutsche Unternehmen zögern bei KI-Einsatz",
-   "link": "https://allgemeinebauzeitung.de/ki-einsatz-deutsche-unternehmen-fachkraefte-daten-it/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-20T10:20:09+00:00",
-   "gewerke": [
+    "TGA/Energiedienstleister",
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung"
    ],
-   "thema": "KI & Digitales",
-   "was": "Zwei Drittel der Betriebe scheuen KI wegen fehlender Fachkräfte und IT – das betrifft auch dich.",
-   "tun": "Prüfe, welche Hürden dich bei KI-Einsatz bremsen.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Update: Höhbauer sucht einen Investor",
-   "link": "https://www.gff-magazin.de/update-hoehbauer-sucht-einen-investor-337083/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-10-20T09:26:00+00:00",
-   "gewerke": [
-    "Fensterbau/Glas",
-    "Metallbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Markt",
-   "was": "Der insolvente Bauelemente-Hersteller könnte Lieferengpässe bei Fenstern und Bauelementen verursachen.",
-   "tun": "Prüfe Alternativlieferanten für betroffene Bauelemente.",
+   "thema": "Förderung",
+   "was": "Der Bund legt neue Fördermittel für Wasserstoffprojekte auf – relevant für Betriebe mit Energie- oder Heiztechnik-Angeboten.",
+   "tun": "Prüfe, ob dein Betrieb von Wasserstoff-Förderprogrammen profitieren kann.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Rabot Energy startet im November sein Direktvermarktungsangebot für kleine Photovoltaik-Anlagen",
-   "link": "https://www.pv-magazine.de/2026/10/20/rabot-energy-startet-im-november-sein-direktvermarktungsangebot-fuer-kleine-photovoltaik-anlagen/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-20T09:22:13+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Ab November gibt es ein Festpreisangebot mit höherer Vergütung als die EEG-Einspeisevergütung für kleine PV-Anlagen.",
-   "tun": "Prüfe das Angebot für Kunden mit Speicher und Energiemanagement.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Steuerbarer elektrischer Heizstab",
@@ -494,6 +417,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Umfrage zur Erbschaftsteuer: Warum Betriebe teilnehmen sollten",
    "link": "https://handwerk.com/politik-und-wirtschaft/umfrage-zur-erbschaftsteuer-warum-betriebe-teilnehmen-sollten",
    "quelle": "handwerk.com",
@@ -510,24 +451,6 @@
    "tun": "Nimm an der ZDH-Umfrage zur Erbschaftsteuer teil.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "BlackRock Future Builders: 15 Millionen Euro gegen den Fachkräftemangel im Handwerk",
@@ -587,26 +510,8 @@
    "gewicht": 2
   },
   {
-   "titel": "Erbschaftsteuer: ZDH startet Umfrage unter Betrieben",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/bundesverfassungsgericht-zur-erbschaftsteuer-zdh-benoetigt-daten-aus-dem-handwerk",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-16T09:26:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "ZDH sammelt Betriebsdaten zur Erbschaftsteuer - Ergebnis kann künftige Nachfolgeregelungen beeinflussen.",
-   "tun": "Nimm an der ZDH-Umfrage teil, um Nachfolgeinteressen einzubringen.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
    "quelle": "IPH Academy",
    "aktiv": true,
    "bereich": "IPH",
@@ -662,45 +567,49 @@
    "gewicht": 2
   },
   {
-   "titel": "Sächsische Industrie droht weiterem Personalabbau",
-   "link": "https://allgemeinebauzeitung.de/sachsen-industrie-personalabbau-konjunktur/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-20T10:19:25+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Schwache Industriekonjunktur in Sachsen kann Aufträge aus dem Gewerbebau dort belasten.",
-   "tun": "Beobachte die Auftragslage bei Industriekunden in der Region.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Adolf Götzberger-Preis 2027: Bewerbungsphase gestartet",
-   "link": "https://www.solarserver.de/2026/10/20/adolf-goetzberger-preis-2027-bewerbungsphase-gestartet/",
+   "titel": "Wie Beton Solarenergie speichert und für Energieautarkie sorgt",
+   "link": "https://www.solarserver.de/2026/10/20/wie-beton-pv-speichert-und-fuer-energieautarkie-sorgt/",
    "quelle": "Solarserver",
    "bereich": "Photovoltaik",
-   "datum": "2026-10-20T09:15:45+00:00",
+   "datum": "2026-10-20T12:00:00+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik"
+    "Hochbau/Rohbau",
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Projektleitung/Bauleitung"
    ],
-   "thema": "Förderung",
-   "was": "Für innovative Solar- und Speicherlösungen gibt es einen Preis, der Sichtbarkeit und Anerkennung bringt.",
-   "tun": "Bewirb dich mit einer eigenen Innovation, falls vorhanden.",
+   "thema": "Normen & Technik",
+   "was": "Betonhülle als Solarspeicher zeigt neue Möglichkeiten für energieautarke Gewerbebauten – als Referenz für eigene Projekte nutzbar.",
+   "tun": "Informiere dich über das Bauprinzip für vergleichbare Projekte.",
    "frist": null,
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
+   "titel": "Update: Höhbauer sucht einen Investor",
+   "link": "https://www.gff-magazin.de/update-hoehbauer-sucht-einen-investor-337083/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-10-20T09:26:00+00:00",
+   "gewerke": [
+    "Fensterbau/Glas",
+    "Metallbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Der insolvente Bauelemente-Hersteller könnte Lieferengpässe bei Fenstern und Bauelementen verursachen.",
+   "tun": "Prüfe Alternativlieferanten für betroffene Bauelemente.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
    "aktiv": true,
    "bereich": "IPH",
    "thema": "IPH",
@@ -794,9 +703,9 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
    "aktiv": true,
    "bereich": "IPH",
    "thema": "IPH",
@@ -831,42 +740,22 @@
    "gewicht": 2
   },
   {
-   "titel": "Keine Mängelhaftung bei Drittverantwortlichkeit!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316609",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-19T06:50:40+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht entlastet Betrieb von Mängelhaftung, wenn Dritte für den Mangel verantwortlich sind.",
-   "tun": "Prüfe bei Mängelrügen, ob Drittverschulden die Haftung ausschließt.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Dokumente sicher und effizient verwalten",
-   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/dokumente-sicher-und-effizient-verwalten",
+   "titel": "Erbschaftsteuer: ZDH startet Umfrage unter Betrieben",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/bundesverfassungsgericht-zur-erbschaftsteuer-zdh-benoetigt-daten-aus-dem-handwerk",
    "quelle": "handwerksblatt",
    "bereich": "Handwerk",
-   "datum": "2026-10-16T07:28:24+00:00",
+   "datum": "2026-10-16T09:26:00+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "KI & Digitales",
-   "was": "Seminar zeigt, wie du Geschäftsunterlagen rechtssicher und strukturiert digital ablegst.",
-   "tun": "Melde dich bei der HWK für das Seminar an.",
+   "thema": "Recht & Pflichten",
+   "was": "ZDH sammelt Betriebsdaten zur Erbschaftsteuer - Ergebnis kann künftige Nachfolgeregelungen beeinflussen.",
+   "tun": "Nimm an der ZDH-Umfrage teil, um Nachfolgeinteressen einzubringen.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Parkettrestaurierung im Palais Chotek",
@@ -888,24 +777,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "BAU 2027: Klimaschutz und Klimaanpassung im Gebäudebestand",
    "link": "https://www.bft-international.com/de/news/bau-2027-klimaschutz-und-klimaanpassung-im-gebaeudebestand-4434611.html",
    "quelle": "BFT",
@@ -922,6 +793,24 @@
    "tun": "Verfolge kommende Normänderungen zu Klimaanpassung im Baubestand.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Praxis-Check: Zero Trust offenbart typische Stolperfallen",
@@ -943,61 +832,45 @@
    "gewicht": 1
   },
   {
-   "titel": "Wie Roto die Reparatur alter Türen vereinfacht",
-   "link": "https://www.gff-magazin.de/wie-roto-die-reparatur-alter-tueren-vereinfacht-337080/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-10-20T05:43:00+00:00",
-   "gewerke": [
-    "Fensterbau/Glas"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Neue modulare Verriegelung passt auf viele Hersteller und vereinfacht die Reparatur alter Türen.",
-   "tun": "Teste das System bei der nächsten Türreparatur statt Spezialteile zu bestellen.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Netze BW: Verbindliche Netzanschlusszusagen für kleine Photovoltaik-Anlagen in 5 Minuten",
-   "link": "https://www.pv-magazine.de/2026/10/19/netze-bw-verbindliche-netzanschlusszusagen-fuer-kleine-photovoltaik-anlagen-in-5-minuten/",
+   "titel": "Emaldo und KKI wollen 500 Gewerbespeicher in Europa realisieren",
+   "link": "https://www.pv-magazine.de/2026/10/20/emaldo-und-kki-wollen-500-gewerbespeicher-in-europa-realisieren/",
    "quelle": "pv magazine",
    "bereich": "Photovoltaik",
-   "datum": "2026-10-19T15:31:46+00:00",
+   "datum": "2026-10-20T10:28:55+00:00",
    "gewerke": [
     "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister",
     "Elektro"
    ],
    "rollen": [
-    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "Recht & Pflichten",
-   "was": "Netzanschlüsse für kleine PV-Anlagen gehen jetzt oft automatisiert und schneller durch.",
-   "tun": "Prüfe das neue Online-Verfahren bei Netze BW für deine PV-Projekte.",
+   "thema": "Markt",
+   "was": "Großausbau von Gewerbespeichern schafft neue Aufträge für Installation und Wartung in Europa.",
+   "tun": "Prüfe Kontakt zu Emaldo/KKI für Installationspartnerschaften.",
    "frist": null,
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
+   "titel": "\"Ramschkauf\" widerlegt Schwarzgeldabrede nicht!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316759",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-20T02:01:29+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Gericht entscheidet, dass ein günstiger Kaufpreis allein keine Schwarzgeldabrede ausschließt und Folgen für Gewährleistung haben kann.",
+   "tun": "Prüfe bestehende Verträge auf unklare Zahlungsvereinbarungen.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Podiumsdiskussion im Programm des Deutschen Vergabetags: Zwischen Vergabebeschleunigungsgesetz und Novelle der EU-Vergaberichtlinien",
@@ -1017,6 +890,24 @@
    "tun": "Verfolge die Änderungen beim Vergaberecht für deine Ausschreibungen.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Propan-Wärmepumpen: Warum Sicherheit die Kaufentscheidung leiten sollte",
@@ -1075,24 +966,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Kostenfreie Veranstaltungsreihe zur Personalentwicklung in SHK-Betrieben",
    "link": "https://www.shk-profi.de/news/kostenfreie-veranstaltungsreihe-zur-personalentwicklung-in-shk-betrieben-4437483.html",
    "quelle": "SHK-Profi",
@@ -1112,21 +985,39 @@
    "gewicht": 2
   },
   {
-   "titel": "Energieeffizienz fachgerecht planen und beraten",
-   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/energieeffizienz-fachgerecht-planen-und-beraten",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-16T07:21:00+00:00",
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
    "gewerke": [
-    "TGA/Energiedienstleister"
+    "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Dokumente sicher und effizient verwalten",
+   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/dokumente-sicher-und-effizient-verwalten",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-16T07:28:24+00:00",
+   "gewerke": [
+    "Alle Gewerke"
    ],
-   "thema": "Personal & Ausbildung",
-   "was": "Weiterbildung vermittelt Wissen zur energetischen Gebäudebewertung für Beratung und Angebote.",
-   "tun": "Melde Mitarbeiter für die Weiterbildung an.",
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Seminar zeigt, wie du Geschäftsunterlagen rechtssicher und strukturiert digital ablegst.",
+   "tun": "Melde dich bei der HWK für das Seminar an.",
    "frist": null,
    "gewicht": 1
   },
@@ -1170,24 +1061,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Gut gemeint, schlecht geführt? Diese Muster verhindern Offenheit im Team",
    "link": "https://www.impulse.de/personal/psychologische-sicherheit/7641694.html",
    "quelle": "impulse",
@@ -1205,6 +1078,24 @@
    "tun": "Reflektiere deinen Führungsstil im Team, um echte Offenheit zu fördern.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Windmöller: Bodenbelag-Hersteller sucht Rettung unter dem Schutzschirm",
@@ -1226,48 +1117,67 @@
    "gewicht": 2
   },
   {
-   "titel": "KID-Werkstatt: Gemeinsam prompten lernen",
-   "link": "https://www.gff-magazin.de/kid-werkstatt-gemeinsam-prompten-lernen-337076/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-10-19T17:34:52+00:00",
+   "titel": "Rabot Energy plant ab 2027 Direktvermarktung kleiner PV-Anlagen",
+   "link": "https://www.solarserver.de/2026/10/20/rabot-energy-plant-ab-2027-direktvermarktung-kleiner-pv-anlagen/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-20T10:30:00+00:00",
    "gewerke": [
-    "Dachdecker",
-    "Schreinerei/Tischlerei"
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Ausbildung"
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "KI & Digitales",
-   "was": "Zeigt praxisnah, wie KI-Prompting den Arbeitsalltag im Betrieb erleichtern kann.",
-   "tun": "Melde dich für die KID-Werkstatt in Karlstadt an.",
+   "thema": "Markt",
+   "was": "Ab 2027 kommt ein neues Direktvermarktungsmodell für Kleinanlagen, das du Kunden anbieten kannst.",
+   "tun": "Informiere dich über die Konditionen für deine PV-Kunden.",
    "frist": null,
    "gewicht": 1
   },
   {
-   "titel": "Densys „EasyPlan“: Photovoltaik-Anlagen in weniger als zwei Minuten planen",
-   "link": "https://www.pv-magazine.de/2026/10/19/densys-easyplan-photovoltaik-anlagen-in-weniger-als-zwei-minuten-planen/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-19T14:13:17+00:00",
+   "titel": "Baukosten bremsen Wohnungsbau in Brandenburg deutlich",
+   "link": "https://allgemeinebauzeitung.de/baukosten-wohnungsbau-brandenburg-investitionen/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-20T10:20:31+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik"
+    "Hochbau/Rohbau",
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Büro/Kalkulation",
-    "Projektleitung/Bauleitung"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "KI & Digitales",
-   "was": "Schnellere Angebotserstellung für PV-Anlagen kann Kalkulationszeit im Betrieb sparen.",
-   "tun": "Teste das EasyPlan-Tool für deine PV-Angebote.",
+   "thema": "Markt",
+   "was": "Stark gestiegene Baukosten bremsen Investitionen und Auftragsvolumen im Wohnungsbau spürbar.",
+   "tun": "Kalkuliere Aufschläge und prüfe Auftragslage für 2027 neu.",
    "frist": null,
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
+   "titel": "Rabot Energy startet im November sein Direktvermarktungsangebot für kleine Photovoltaik-Anlagen",
+   "link": "https://www.pv-magazine.de/2026/10/20/rabot-energy-startet-im-november-sein-direktvermarktungsangebot-fuer-kleine-photovoltaik-anlagen/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-20T09:22:13+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Ab November gibt es ein Festpreisangebot mit höherer Vergütung als die EEG-Einspeisevergütung für kleine PV-Anlagen.",
+   "tun": "Prüfe das Angebot für Kunden mit Speicher und Energiemanagement.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
    "aktiv": true,
    "bereich": "IPH",
    "thema": "IPH",
@@ -1281,6 +1191,25 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Wie Roto die Reparatur alter Türen vereinfacht",
+   "link": "https://www.gff-magazin.de/wie-roto-die-reparatur-alter-tueren-vereinfacht-337080/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-10-20T05:43:00+00:00",
+   "gewerke": [
+    "Fensterbau/Glas"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Neue modulare Verriegelung passt auf viele Hersteller und vereinfacht die Reparatur alter Türen.",
+   "tun": "Teste das System bei der nächsten Türreparatur statt Spezialteile zu bestellen.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "So können PV-Anlagen noch gemäß EEG 2023 in Betrieb gehen",
@@ -1341,28 +1270,9 @@
    "gewicht": 1
   },
   {
-   "titel": "HWK-Seminar: Outlook als Orgatool",
-   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/hwk-seminar-outlook-als-orgatool",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-16T07:16:46+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Seminar zeigt, wie Outlook effizienter für Terminplanung und Büroorganisation genutzt wird.",
-   "tun": "Melde dich oder dein Büro-Team für das Seminar an.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
    "aktiv": true,
    "bereich": "IPH",
    "thema": "IPH",
@@ -1376,6 +1286,25 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Energieeffizienz fachgerecht planen und beraten",
+   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/energieeffizienz-fachgerecht-planen-und-beraten",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-16T07:21:00+00:00",
+   "gewerke": [
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Weiterbildung vermittelt Wissen zur energetischen Gebäudebewertung für Beratung und Angebote.",
+   "tun": "Melde Mitarbeiter für die Weiterbildung an.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Gehaltsumwandlung für Firmenwagen: 3 gängige Modelle im Check",
@@ -1435,28 +1364,8 @@
    "gewicht": 2
   },
   {
-   "titel": "Recyclingmaterial in Betonherstellung integriert",
-   "link": "https://allgemeinebauzeitung.de/recyclingmaterial-betonherstellung-gravelmix-wiederverwertung/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-20T09:05:28+00:00",
-   "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Preise & Material",
-   "was": "Recycling-Verfahren senkt Transportkosten und erhöht Wiederverwertung von Baustoffen deutlich.",
-   "tun": "Erkundige dich bei Lieferanten nach Recyclingmaterial für Betonmischungen.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
    "quelle": "IPH Academy",
    "aktiv": true,
    "bereich": "IPH",
@@ -1471,6 +1380,62 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Deutsche Unternehmen zögern bei KI-Einsatz",
+   "link": "https://allgemeinebauzeitung.de/ki-einsatz-deutsche-unternehmen-fachkraefte-daten-it/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-10-20T10:20:09+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Zwei Drittel der Betriebe scheuen KI wegen fehlender Fachkräfte und IT – das betrifft auch dich.",
+   "tun": "Prüfe, welche Hürden dich bei KI-Einsatz bremsen.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Adolf Götzberger-Preis 2027: Bewerbungsphase gestartet",
+   "link": "https://www.solarserver.de/2026/10/20/adolf-goetzberger-preis-2027-bewerbungsphase-gestartet/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-20T09:15:45+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Förderung",
+   "was": "Für innovative Solar- und Speicherlösungen gibt es einen Preis, der Sichtbarkeit und Anerkennung bringt.",
+   "tun": "Bewirb dich mit einer eigenen Innovation, falls vorhanden.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "KID-Werkstatt: Gemeinsam prompten lernen",
+   "link": "https://www.gff-magazin.de/kid-werkstatt-gemeinsam-prompten-lernen-337076/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-10-19T17:34:52+00:00",
+   "gewerke": [
+    "Dachdecker",
+    "Schreinerei/Tischlerei"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Ausbildung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Zeigt praxisnah, wie KI-Prompting den Arbeitsalltag im Betrieb erleichtern kann.",
+   "tun": "Melde dich für die KID-Werkstatt in Karlstadt an.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Heizung verhindert Vereisung von Wärmetauschern in Lüftungsanlagen",
@@ -1493,67 +1458,9 @@
    "gewicht": 1
   },
   {
-   "titel": "BSI fordert mehr Cybersicherheit von Betreibern regenerativer Energien",
-   "link": "https://www.solarserver.de/2026/10/19/bsi-fordert-mehr-cybersicherheit-von-betreibern-regenerativer-energien/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-19T11:45:19+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "KI & Digitales",
-   "was": "BSI warnt vor Hackerangriffen auf PV- und Windanlagen, auch kleine Systeme sind betroffen.",
-   "tun": "Sichere Anlagen mit starken Passwörtern und kappe unnötige Internetverbindungen.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Jinkosolar stellt eine Topcon-Solarzelle mit Rückkontakt und einem Wirkungsgrad von 28 Prozent sowie einer Heteroübergangspassivierung aus amorphem Silizium vor",
-   "link": "https://www.pv-magazine.de/2026/10/19/jinkosolar-stellt-eine-topcon-solarzelle-mit-rueckkontakt-und-einem-wirkungsgrad-von-28-prozent-sowie-einer-heterouebergangspassivierung-aus-amorphem-silizium-vor/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-19T10:15:00+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Neue Solarzellentechnologie mit 28% Wirkungsgrad könnte künftige Modulgeneration beeinflussen.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Prämie für Eingliederungsmanagement",
-   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/praemie-fuer-eingliederungsmanagement",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-16T07:10:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Förderung",
-   "was": "Saarländische Betriebe mit funktionierendem BEM können sich eine 10.000-Euro-Prämie sichern.",
-   "tun": "Prüfe Antragsvoraussetzungen beim saarländischen Inklusionsamt.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
    "aktiv": true,
    "bereich": "IPH",
    "thema": "IPH",
@@ -1569,24 +1476,42 @@
    ]
   },
   {
-   "titel": "(KI-)Halluzination macht Schriftsatz wertlos!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316672",
+   "titel": "Keine Mängelhaftung bei Drittverantwortlichkeit!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316609",
    "quelle": "IBR-Online",
    "bereich": "Baurecht",
-   "datum": "2026-10-15T23:30:03+00:00",
+   "datum": "2026-10-19T06:50:40+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
+    "Projektleitung/Bauleitung"
    ],
-   "thema": "KI & Digitales",
-   "was": "Nutzt du KI für Schriftsätze oder Stellungnahmen im Streitfall, haftest du für falsche KI-Inhalte vor Gericht.",
-   "tun": "Prüfe jeden KI-generierten Text vor Gericht auf echte Quellen und Fakten.",
+   "thema": "VOB & Verträge",
+   "was": "Gericht entlastet Betrieb von Mängelhaftung, wenn Dritte für den Mangel verantwortlich sind.",
+   "tun": "Prüfe bei Mängelrügen, ob Drittverschulden die Haftung ausschließt.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "HWK-Seminar: Outlook als Orgatool",
+   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/hwk-seminar-outlook-als-orgatool",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-16T07:16:46+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Seminar zeigt, wie Outlook effizienter für Terminplanung und Büroorganisation genutzt wird.",
+   "tun": "Melde dich oder dein Büro-Team für das Seminar an.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "ISO 9001: Warum Betriebe ihr Qualitätsmanagement jetzt anpassen müssen",
@@ -1626,6 +1551,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Acht HR-Tools, die dir Zeit und Nerven sparen",
    "link": "https://www.impulse.de/personal/personalsoftware-im-vergleich-plus/7640971.html",
    "quelle": "impulse",
@@ -1643,24 +1586,6 @@
    "tun": "Vergleiche die vorgestellten Tools mit deinem aktuellen Büroaufwand.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Zunehmender wirtschaftlicher Druck in der Klebstoffindustrie",
@@ -1684,6 +1609,26 @@
    "gewicht": 1
   },
   {
+   "titel": "(KI-)Halluzination macht Schriftsatz wertlos!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316672",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-15T23:30:03+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Nutzt du KI für Schriftsätze oder Stellungnahmen im Streitfall, haftest du für falsche KI-Inhalte vor Gericht.",
+   "tun": "Prüfe jeden KI-generierten Text vor Gericht auf echte Quellen und Fakten.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Pflasterklinker muss nicht besonders schmutzresistent sein!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315073",
    "quelle": "IBR-Online",
@@ -1702,6 +1647,24 @@
    "tun": "Beachte das Urteil bei Ausschreibungen und Mängelrügen zu Pflasterbelägen.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Nachunternehmer oder nur \"Gehilfe\"?",
@@ -1744,24 +1707,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Holding-Gesellschaft als Sektorenauftraggeber?",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316582",
    "quelle": "IBR-Online",
@@ -1779,25 +1724,6 @@
    "tun": "Prüfe bei Ausschreibungen von Holdingstrukturen, ob Vergaberecht anwendbar ist.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "\"Verrechnungsabrede\" = Ohne-Rechnung-Abrede?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316012",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-13T06:15:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Gericht klärt, wann eine Verrechnungsabrede als unzulässige Schwarzgeldabrede gilt – Risiko für Vertragsnichtigkeit.",
-   "tun": "Lass Zahlungsvereinbarungen rechtlich prüfen, bevor du sie nutzt.",
-   "frist": null,
-   "gewicht": 2
   }
  ]
 }
