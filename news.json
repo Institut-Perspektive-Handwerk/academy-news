@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-21T18:39+00:00",
- "anzahl": 60,
+ "stand": "2026-10-21T23:20+00:00",
+ "anzahl": 51,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -61,6 +61,27 @@
    "gewicht": 2
   },
   {
+   "titel": "App Cat Central im Porträt",
+   "link": "https://baublatt.de/app-cat-central-im-portraet/",
+   "quelle": "Baublatt",
+   "bereich": "Bau",
+   "datum": "2026-10-21T13:34:18+00:00",
+   "gewerke": [
+    "Tiefbau",
+    "Hochbau/Rohbau",
+    "Garten- und Landschaftsbau"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Neue App soll Maschinenfehler auf der Baustelle schneller diagnostizieren und Stillstandzeiten verkürzen.",
+   "tun": "Prüfe, ob die App für eure Cat-Maschinen im Fuhrpark nutzbar ist.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Branchentreff: Zwei Tage geballtes Bodenwissen",
    "link": "https://www.boden-wand-decke.de/zwei-tage-geballtes-bodenwissen-branchentreff-357321/",
    "quelle": "Boden Wand Decke",
@@ -102,24 +123,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Betriebliche Krankenversicherung: Mit Top-Policen das Team binden",
-   "link": "https://www.handwerk-magazin.de/mehr-wert-als-geld-so-werden-ihre-mitarbeiter-zu-privat-krankenversicherten-351852/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-21T07:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Eine betriebliche Krankenversicherung kann helfen, Mitarbeiter trotz GKV-Kürzungen zu halten.",
-   "tun": "Vergleiche Angebote für eine bKV als Bindungsinstrument.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -138,6 +141,24 @@
    ]
   },
   {
+   "titel": "Betriebliche Krankenversicherung: Mit Top-Policen das Team binden",
+   "link": "https://www.handwerk-magazin.de/mehr-wert-als-geld-so-werden-ihre-mitarbeiter-zu-privat-krankenversicherten-351852/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-21T07:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Eine betriebliche Krankenversicherung kann helfen, Mitarbeiter trotz GKV-Kürzungen zu halten.",
+   "tun": "Vergleiche Angebote für eine bKV als Bindungsinstrument.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Agentische KI: Schatten-IT bedroht die Firmeninfrastruktur",
    "link": "https://www.mittelstandswiki.de/2026/10/agentische-ki-schatten-it-bedroht-die-firmeninfrastruktur/",
    "quelle": "Mittelstandswiki",
@@ -153,26 +174,6 @@
    "thema": "KI & Digitales",
    "was": "Unkontrollierte KI-Tools im Betrieb öffnen Sicherheitslücken, die klassische IT-Schutzkonzepte nicht abdecken.",
    "tun": "Kläre im Betrieb, welche KI-Tools genutzt werden und sichere Zugänge ab.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Wer Planungsleistungen verwertet, der muss auch dafür bezahlen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316783",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-21T06:08:03+00:00",
-   "gewerke": [
-    "Architektur/Planung",
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht bestätigt: Wer Planungsleistungen nutzt, muss sie auch dann bezahlen, wenn kein fester Vertrag bestand.",
-   "tun": "Prüfe laufende Projekte auf ungeklärte Planungsvergütung.",
    "frist": null,
    "gewicht": 2
   },
@@ -272,25 +273,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Holzhybridbeton mit mineralisierten Holzspänen",
-   "link": "https://allgemeinebauzeitung.de/holzhybridbeton-mineralisierte-holzspaene/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-21T14:21:45+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Neuer CO2-reduzierter Beton könnte als Alternative in Ausschreibungen und Nachhaltigkeitsnachweisen interessant werden.",
-   "tun": "Informiere dich über Verfügbarkeit und Einsatzmöglichkeiten des Holzhybridbetons.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Aktionstag mahnt zum Schutz vor Wohnungseinbrüchen",
    "link": "https://www.elektro.net/129971/aktionstag-mahnt-zum-schutz-vor-wohnungseinbruechen/",
    "quelle": "elektro.net",
@@ -306,6 +288,26 @@
    "thema": "Markt",
    "was": "Die dunkle Jahreszeit erhöht die Nachfrage nach Einbruchschutz – nutze das als Verkaufsargument bei Kunden.",
    "tun": "Sprich Bestandskunden aktiv auf Einbruchschutz-Nachrüstung an.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Digitales Gehirn für die Baustelle",
+   "link": "https://baublatt.de/digitales-gehirn-fuer-die-baustelle/",
+   "quelle": "Baublatt",
+   "bereich": "Bau",
+   "datum": "2026-10-21T11:26:38+00:00",
+   "gewerke": [
+    "Tiefbau",
+    "Hochbau/Rohbau"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Caterpillar und FieldAI entwickeln KI-Systeme, die Baustellenrisiken und Maschineneinsatz künftig automatisch erkennen sollen.",
+   "tun": "",
    "frist": null,
    "gewicht": 1
   },
@@ -463,62 +465,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Knieschutz im Arbeitsalltag: Ergonomie und Materialtechnologie",
-   "link": "https://allgemeinebauzeitung.de/knieschutz-arbeitsalltag-ergonomie-materialtechnologie/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-21T13:00:15+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Arbeitsschutz",
-   "was": "Neue Arbeitshosen mit integriertem Knieschutz können die Belastung bei Kniearbeiten spürbar senken.",
-   "tun": "Teste die Hosen für Monteure mit viel Boden- und Kniearbeit.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Mängel führen nicht \"automatisch\" zur Minderung!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316345",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-20T07:02:59+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht stellt klar: Mängel rechtfertigen nicht automatisch eine Minderung der Vergütung.",
-   "tun": "Prüfe Mängelrügen künftig im Einzelfall vor Einbehalt.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Umfrage zur Erbschaftsteuer: Warum Betriebe teilnehmen sollten",
    "link": "https://handwerk.com/politik-und-wirtschaft/umfrage-zur-erbschaftsteuer-warum-betriebe-teilnehmen-sollten",
    "quelle": "handwerk.com",
@@ -556,6 +502,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "VDMA ALT zieht Bilanz: Hohe Exporte, Regularien verunsichern",
    "link": "https://kaelte-luft-klima.de/branche-und-markt/vdma-alt-zieht-bilanz-hohe-exporte-regularien-verunsichern",
    "quelle": "Kälte Luft Klima",
@@ -572,43 +536,6 @@
    "tun": "Verfolge Regularien-Updates des VDMA zur Planungssicherheit.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Fremdüberwachung sichert Qualität von Deponieabdichtung",
-   "link": "https://allgemeinebauzeitung.de/fremdueberwachung-sichert-qualitaet-von-deponieabdichtung-abz/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-21T12:39:00+00:00",
-   "gewerke": [
-    "Tiefbau"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Fremdüberwachung mit Labortests zeigt, welchen Qualitätsnachweis Auftraggeber bei Abdichtungsarbeiten erwarten.",
-   "tun": "Kläre bei Deponie- und Abdichtungsprojekten frühzeitig die Prüfanforderungen.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Zonierte Beleuchtung: Mehr Sehkomfort bei geringerer Leistungsdichte im Büro",
@@ -669,6 +596,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Parkettrestaurierung im Palais Chotek",
    "link": "https://www.boden-wand-decke.de/parkettrestaurierung-im-palais-chotek-357267/",
    "quelle": "Boden Wand Decke",
@@ -688,24 +633,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Gut gemeint, schlecht geführt? Diese Muster verhindern Offenheit im Team",
    "link": "https://www.impulse.de/personal/psychologische-sicherheit/7641694.html",
    "quelle": "impulse",
@@ -721,6 +648,26 @@
    "thema": "Personal & Ausbildung",
    "was": "Gut gemeinte, aber falsch gesetzte Führung kann Mitarbeitende ausbremsen statt Vertrauen aufzubauen.",
    "tun": "Reflektiere deinen Führungsstil im Team, um echte Offenheit zu fördern.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Neuer Cat Mikrobagger 301 CR: Kraft für wenig Raum",
+   "link": "https://baublatt.de/neuer-cat-mikrobagger-301-cr-kraft-fuer-wenig-raum/",
+   "quelle": "Baublatt",
+   "bereich": "Bau",
+   "datum": "2026-10-21T07:53:51+00:00",
+   "gewerke": [
+    "Tiefbau",
+    "Garten- und Landschaftsbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Preise & Material",
+   "was": "Ein extrem schmaler Mikrobagger ermöglicht Aushubarbeiten auch bei sehr engen Zufahrten.",
+   "tun": "Prüfe, ob der Mikrobagger für beengte Baustellen in deinem Betrieb sinnvoll ist.",
    "frist": null,
    "gewicht": 1
   },
@@ -743,6 +690,24 @@
    "tun": "Prüfe Alternativlieferanten für betroffene Bauelemente.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Infrarot-Kamera mit Wifi-Anbindung",
@@ -786,24 +751,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Nicht jeder Streit am Arbeitsplatz ist Mobbing",
    "link": "https://handwerk.com/recht/nicht-jeder-streit-am-arbeitsplatz-ist-mobbing",
    "quelle": "handwerk.com",
@@ -839,6 +786,24 @@
    "tun": "Nutze den Förderrechner zur Kundenberatung bei Wärmepumpenprojekten.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Windmöller: Bodenbelag-Hersteller sucht Rettung unter dem Schutzschirm",
@@ -881,24 +846,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Mehr Zeit, weniger Verwaltung: Digitale Büroprozesse",
    "link": "https://www.handwerksblatt.de/betriebsfuehrung/mehr-zeit-weniger-verwaltung-digitale-bueroprozesse",
    "quelle": "handwerksblatt",
@@ -939,6 +886,24 @@
    "gewicht": 1
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Bundeswehr: Investitions- und Bauvolumen erneut erhöht",
    "link": "https://vergabeblog.de/2026-10-20/bundeswehr-investitions-und-bauvolumen-erneut-erhoeht/",
    "quelle": "vergabeblog",
@@ -957,44 +922,6 @@
    "tun": "Prüfe aktuelle Ausschreibungen der Bundeswehr.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "\"Ramschkauf\" widerlegt Schwarzgeldabrede nicht!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316759",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-20T02:01:29+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht entscheidet, dass ein günstiger Kaufpreis allein keine Schwarzgeldabrede ausschließt und Folgen für Gewährleistung haben kann.",
-   "tun": "Prüfe bestehende Verträge auf unklare Zahlungsvereinbarungen.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Gehaltsumwandlung für Firmenwagen: 3 gängige Modelle im Check",
@@ -1054,6 +981,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Oberflächenveredelung: Fehler, Pflege, Trends",
    "link": "https://www.boden-wand-decke.de/oberflaechenveredelung-anforderungen-fehler-pflege-trends-357247/",
    "quelle": "Boden Wand Decke",
@@ -1071,121 +1016,6 @@
    "tun": "Schule dein Team zu Untergrundvorbereitung und biete Kunden eine klare Pflegeanleitung an.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "Keine Mängelhaftung bei Drittverantwortlichkeit!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316609",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-19T06:50:40+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht entlastet Betrieb von Mängelhaftung, wenn Dritte für den Mangel verantwortlich sind.",
-   "tun": "Prüfe bei Mängelrügen, ob Drittverschulden die Haftung ausschließt.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "(KI-)Halluzination macht Schriftsatz wertlos!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316672",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-15T23:30:03+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Nutzt du KI für Schriftsätze oder Stellungnahmen im Streitfall, haftest du für falsche KI-Inhalte vor Gericht.",
-   "tun": "Prüfe jeden KI-generierten Text vor Gericht auf echte Quellen und Fakten.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Pflasterklinker muss nicht besonders schmutzresistent sein!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315073",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-15T06:55:17+00:00",
-   "gewerke": [
-    "Garten- und Landschaftsbau",
-    "Fliesen- und Bodenleger"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht stellt klar: Pflasterklinker muss nicht übermäßig schmutzresistent sein, das mindert Mängelansprüche.",
-   "tun": "Beachte das Urteil bei Ausschreibungen und Mängelrügen zu Pflasterbelägen.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Nachunternehmer oder nur \"Gehilfe\"?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316585",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-15T04:05:25+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht klärt, wann ein Subunternehmer als eigenständiger Nachunternehmer gilt statt als bloßer Erfüllungsgehilfe - relevant für Eignungsnachweise bei Ausschrei",
-   "tun": "Prüfe bei Nachunternehmereinsatz, ob die Abgrenzung für eure Vergabeunterlagen passt.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   }
  ]
 }
