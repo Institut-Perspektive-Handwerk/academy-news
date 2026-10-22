@@ -19042,5 +19042,306 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-22"
+ },
+ "https://www.elektro.net/129977/speicherhersteller-sonnen-ist-insolvent/": {
+  "id": "6c2691b73046",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)",
+   "Photovoltaik/Solartechnik",
+   "Elektro"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Ein großer Speicherhersteller ist insolvent – prüfe laufende Aufträge, Garantien und Ersatzteilversorgung bei Sonnen-Produkten.",
+  "tun": "Prüfe offene Bestellungen und Gewährleistungsfälle mit Sonnen-Produkten.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.handwerk-magazin.de/soraya-romen-mir-macht-es-viel-spass-neue-wege-zu-erkunden-351741/": {
+  "id": "e58c82a4e0b4",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.impulse.de/strategie/prozesse-mit-ki-automatisieren-plus/7641496.html": {
+  "id": "6d9c5e861354",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Zeigt, wie Digitalisierung interner Prozesse zu neuen Geschäftsfeldern führen kann – als Denkanstoß fürs eigene Geschäftsmodell.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/expertenforum-zum-laserstrahlhandschweissen": {
+  "id": "83aeb61ddfe6",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.solarserver.de/2026/10/22/bidirex-kapital-fuer-photovoltaik-batteriespeicher-und-ladeparks/": {
+  "id": "1d3f289dbab4",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://handwerk.com/gewerke/aus-holzresten-wird-waerme-wie-eine-schreinerei-energiekosten-senkt": {
+  "id": "cb2bac699acd",
+  "titel_check": "",
+  "relevant": true,
+  "gewerke": [
+   "Schreinerei/Tischlerei"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Zeigt eine Lösung, wie Holzreste aus der Produktion zur Wärmeerzeugung genutzt werden und Energiekosten senken.",
+  "tun": "Prüfe, ob eine Holzreste-Verwertung im eigenen Betrieb machbar ist.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.gff-magazin.de/ludwig-scheck-ist-fugen-champion-2026-337194/": {
+  "id": "33e97114a702",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.pv-magazine.de/2026/10/22/solarmonitor-2026-schweizer-photovoltaik-ausbau-bleibt-hinter-politischen-zielen-zurueck/": {
+  "id": "3132b6275df2",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://allgemeinebauzeitung.de/fertigung-logistik-investition-wpc-dielen-co-extrusion/": {
+  "id": "19abbc38ceec",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Preise & Material",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.boden-wand-decke.de/generationswechsel-im-bodenlegerbetrieb-fliessend-statt-abrupt-357339/": {
+  "id": "d5b4bce58c70",
+  "relevant": true,
+  "gewerke": [
+   "Fliesen- und Bodenleger"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Beispiel für einen fließenden Generationswechsel ohne abrupten Bruch – als Vorbild für die eigene Nachfolgeplanung.",
+  "tun": "Plane den eigenen Generationswechsel frühzeitig und schrittweise.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.handwerk-magazin.de/landesverband-ufh-mecklenburg-vorpommern-steht-in-den-startloechern-manchmal-muss-man-einfach-machen-351337/": {
+  "id": "6bde81efc4d3",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/ueber-35-jahre-mit-herz-und-verstand-geprueft": {
+  "id": "d00a1259e582",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.solarserver.de/2026/10/22/sungrow-neue-powertitan-speicher-widerstehen-brandschutz-test/": {
+  "id": "2f31bbff68ce",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Bestandener Brandschutz-Test zeigt höhere Sicherheitsstandards bei Großspeichern – relevant für Auswahl und Angebotserstellung.",
+  "tun": "Berücksichtige Brandschutz-Testergebnisse bei der Speicherauswahl für Projekte.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.elektro.net/129976/jeder-zweite-handwerksbetrieb-verbirgt-sein-team-im-netz/": {
+  "id": "4f78538d0a97",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Fehlende Team-Fotos auf der Website schrecken potenzielle Bewerber und Kunden ab – eigene Webseite prüfen.",
+  "tun": "Prüfe die eigene Website auf Team-Fotos und ergänze sie bei Bedarf.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.handwerk-magazin.de/wo-ich-hin-will-mike-griesch-setzt-auf-24-7-shop-und-restaurant-mit-neuem-food-konzept-351293/": {
+  "id": "59d52d38edaf",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-trier/standortfaktor-schulnote-voll-befriedigend": {
+  "id": "d55e5b554d58",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
  }
 }
