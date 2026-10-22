@@ -18498,5 +18498,549 @@
   "frist": "2025-11-12",
   "gewicht": 2,
   "gesehen": "2026-10-21"
+ },
+ "https://www.solarserver.de/2026/10/22/enercity-blaest-tiefengeothermie-projekt-in-hannover-ab/": {
+  "id": "a2bd8608f426",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.pv-magazine.de/2026/10/22/sonnen-meldet-insolvenz-an/": {
+  "id": "c490a1a328b0",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Garantie- und Ersatzteilversorgung von Sonnen-Speichern ist unsicher, Kunden fragen dich dazu.",
+  "tun": "Kläre mit Sonnen-Kontakten Garantiestatus für laufende Projekte ab.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.boden-wand-decke.de/regeln-der-technik-das-aendert-die-bauo-nrw-357330/": {
+  "id": "ded02538d74f",
+  "relevant": true,
+  "gewerke": [
+   "Fliesen- und Bodenleger"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "In NRW entfällt der Gesetzesverweis auf Regeln der Technik, im Werkvertrag bleibt die DIN-Vermutung aber bestehen.",
+  "tun": "Prüfe Verträge weiterhin nach DIN-Normen als Stand der Technik.",
+  "frist": "2026-09-01",
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.elektro.net/129975/neue-app-erleichtert-die-einrichtung-von-komponenten-zur-eigenverbrauchsoptimierung/": {
+  "id": "4741a71784aa",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Neue kostenlose App vereinfacht die Inbetriebnahme von my-PV-Komponenten im Netzwerk.",
+  "tun": "Teste die App bei der nächsten my-PV-Installation.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://allgemeinebauzeitung.de/antikollisionssystem-raupenbagger-serie-9-develon/": {
+  "id": "640ea4e23ed7",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau",
+   "Hochbau/Rohbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Arbeitsschutz",
+  "was": "Neues Antikollisionssystem für Develon-Bagger erkennt Personen und kann Unfälle auf der Baustelle verhindern.",
+  "tun": "Frage beim Händler nach Nachrüstung für eigene Geräte.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://baublatt.de/zeppelin-rental-bringt-energie-auf-die-letzte-meile/": {
+  "id": "0236f024ea1f",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://handwerk.com/betriebsfuehrung/umfrage-sorgt-die-eau-fuer-entlastung-in-betrieben": {
+  "id": "5324b486570b",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Eine Umfrage sammelt Praxiserfahrungen zur eAU, Ergebnisse können den eigenen Prozess verbessern helfen.",
+  "tun": "Nimm an der Umfrage teil und teile eure eAU-Erfahrungen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.kka-online.info/news/ki-agenten-im-praxistest-die-10-punkte-checkliste-fuer-den-mittelstand-4439690.html": {
+  "id": "6c09090c6526",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Checkliste hilft einzuschätzen, ob sich KI-Einsatz im eigenen Betrieb wirtschaftlich lohnt.",
+  "tun": "Gehe die Checkliste für dein Unternehmen durch.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://kaelte-luft-klima.de/kaeltetechnik/cyberangriff-kaeltetechnik-sicherheit-massnahmen": {
+  "id": "f1ed5cff2f58",
+  "relevant": true,
+  "gewerke": [
+   "Kälte- und Klimatechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Arbeitsschutz",
+  "was": "Fernzugänge zu Kälteanlagen sind ein reales Angriffsziel, wie Vorfälle in Frankreich zeigen.",
+  "tun": "Prüfe Fernwartungszugänge eurer Anlagen auf Absicherung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.handwerk-magazin.de/elektrotransporter-aus-china-marktuebersicht-der-aktuellen-modelle-352038/": {
+  "id": "4246b2d1b598",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Preise & Material",
+  "was": "Neun chinesische Marken bringen zusätzliche Elektrotransporter-Optionen für den Fuhrpark auf den Markt.",
+  "tun": "Vergleiche Preise und Lieferzeiten vor der nächsten Fahrzeuganschaffung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://vergabeblog.de/2026-10-22/deutsche-marine-vier-weitere-meko-fregatten/": {
+  "id": "6fd74d2cd265",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.shk-profi.de/news/vorsicht-vor-veralteten-standardwerten-4439620.html": {
+  "id": "91769dd8984c",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Veraltete Standardwerte lassen Lüftungsanlagen mit Wärmerückgewinnung in Berechnungen schlechter aussehen als sie sind.",
+  "tun": "Nutze aktuelle Herstellerwerte statt Standardwerte bei der Auslegung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.pv-magazine.de/2026/10/22/mova-steigt-in-den-deutschen-markt-fuer-photovoltaik-heimspeicher-ein/": {
+  "id": "3e46c7af0e94",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Preise & Material",
+  "was": "Mit Mova kommt ein weiterer Heimspeicher-Anbieter mit Plug-and-play-System auf den deutschen Markt.",
+  "tun": "Vergleiche das Angebot mit bestehenden Speicherlösungen im Portfolio.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.solarserver.de/2026/10/22/solarstrom-deckt-17-prozent-des-endverbrauchs-der-schweiz/": {
+  "id": "1c7b6fff3db0",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://allgemeinebauzeitung.de/pci-augsburg-sika-deutschland-integration-jahreswechsel/": {
+  "id": "b694d78b0418",
+  "relevant": true,
+  "gewerke": [
+   "Fliesen- und Bodenleger",
+   "Stuckateur/Fassade"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "PCI/Thomsit gehen in Sika auf, Produkte und Konditionen sollen vorerst gleich bleiben.",
+  "tun": "Beobachte künftige Preis- und Lieferkonditionen nach der Integration.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.elektro.net/129974/batteriespeicher-zubau-in-deutschland-steigt-um-91-prozent/": {
+  "id": "c114324694ab",
+  "titel": "Batteriespeicher-Zubau",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Großspeicher-Boom treibt Nachfrage nach Installations- und Wartungskapazität weiter an.",
+  "tun": "Prüfe Kapazitäten für Speicher-Montageaufträge im kommenden Jahr.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://baublatt.de/komplettservice-fuer-giga-baustelle/": {
+  "id": "8999f2305f3e",
+  "titel": "Komplettservice Giga-Baustelle",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.solarserver.de/2026/10/22/zubau-von-batteriespeichern-in-ersten-neun-monaten-2026-fast-verdoppelt/": {
+  "id": "47737c4bdab5",
+  "titel": "Zubau Batteriespeicher BSW-Positionspapier",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Verband fordert Abbau von Hemmnissen – könnte Genehmigungen und Förderbedingungen ändern.",
+  "tun": "Verfolge Positionspapier, relevant für Förderanträge und Netzanschluss.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://allgemeinebauzeitung.de/hafencity-sportlerhaus-heller-klinker-architektur-flexible-wohnungen/": {
+  "id": "f46cc84a3c9f",
+  "titel": "Sportlerhaus HafenCity",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.pv-magazine.de/2026/10/22/level-ten-energy-sieht-deutlichen-preisrueckgang-bei-hybrid-ppas-in-deutschland/": {
+  "id": "8320cd65eb9d",
+  "titel": "Hybrid-PPA Preisrückgang",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://baublatt.de/wenn-windraeder-weichen/": {
+  "id": "9f1bfcfcb6d2",
+  "titel": "Windräder-Rückbau",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://allgemeinebauzeitung.de/dashboard-footgangererkennung-staplern-durch-hyster/": {
+  "id": "7951c781a992",
+  "titel": "Dashboard Fußgängererkennung Stapler",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Arbeitsschutz",
+  "was": "Neue Sicherheitstechnik für Stapler kann Unfälle auf dem Betriebsgelände oder der Baustelle verhindern.",
+  "tun": "Informiere dich über Nachrüstoptionen für eigene Stapler.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.pv-magazine.de/2026/10/22/rabot-energy-rund-zwei-drittel-der-verteilnetzbetreiber-erhoehen-2027-die-entgelte/": {
+  "id": "fdd3b0d4827c",
+  "titel": "Netzentgelte steigen 2027",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Zwei Drittel der Netzbetreiber erhöhen 2027 die Entgelte – höhere Stromkosten im Betrieb einplanen.",
+  "tun": "Kalkuliere steigende Energiekosten für 2027 in die Planung ein.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://baublatt.de/cat-kettenbagger-neues-kaliber-fuer-den-rueckbau/": {
+  "id": "5fe0a493a609",
+  "titel": "Cat Kettenbagger neues Modell",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.solarserver.de/2026/10/22/forschungsprojekt-fokuslfm-will-flexibilitaet-in-elektrogeraeten-nutzen/": {
+  "id": "7e26b3b0b116",
+  "titel": "Forschungsprojekt Fokus:LFM",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
+ },
+ "https://baublatt.de/keine-zahlen-kein-erfolg/": {
+  "id": "bcb4bde8369c",
+  "titel": "Maschinendaten nutzen",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau",
+   "Hochbau/Rohbau",
+   "Garten- und Landschaftsbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Ungenutzte Maschinendaten bedeuten verschenktes Einsparpotenzial bei Kosten und Auslastung.",
+  "tun": "Prüfe, ob eure Maschinendaten systematisch ausgewertet werden.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.pv-magazine.de/2026/10/22/bsw-solar-batteriespeicher-zubau-in-deutschland-erreicht-in-ersten-neun-monaten-82-gigawattstunden/": {
+  "id": "e7e119fc071b",
+  "titel": "BSW-Solar Batteriespeicher 8,2 GWh",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Großspeicher wachsen stark – Nachfrage nach Fachbetrieben für Installation steigt weiter.",
+  "tun": "Plane Kapazitäten für Großspeicher-Projekte ein.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://baublatt.de/resilienz-der-infrastruktur/": {
+  "id": "b5aebf9e6596",
+  "titel": "Resilienz der Infrastruktur",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Niedrigwasser zeigt, dass Lieferketten und Materialverfügbarkeit durch Klimafolgen gefährdet sind.",
+  "tun": "Baue Puffer für Material- und Lieferzeiten bei Extremwetter ein.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-22"
+ },
+ "https://www.pv-magazine.de/2026/10/22/envelio-setzt-beschleunigte-stromnetzberechnungen-bei-tschechischem-netzbetreiber-ein/": {
+  "id": "26d850dc11dc",
+  "titel": "Envelio Stromnetzberechnungen",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-22"
  }
 }
