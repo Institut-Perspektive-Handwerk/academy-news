@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-23T13:27+00:00",
- "anzahl": 73,
+ "stand": "2026-10-23T18:22+00:00",
+ "anzahl": 76,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -42,24 +42,23 @@
  ],
  "news": [
   {
-   "titel": "Sanierungspflicht für Behördenbauten mit dem ÖffEGSanG: Vorteil für Wärmepumpe und Wärmenetze",
-   "link": "https://www.solarserver.de/2026/10/23/sanierungspflicht-fuer-behoerdenbauten-mit-dem-oeffegsang-vorteil-fuer-waermepumpe-und-waermenetze/",
+   "titel": "Wärmepumpen: Thermondo expandiert ins Mehrfamilienhaus",
+   "link": "https://www.solarserver.de/2026/10/23/waermepumpen-thermondo-expandiert-ins-mehrfamilienhaus/",
    "quelle": "Solarserver",
    "bereich": "Photovoltaik",
-   "datum": "2026-10-23T12:54:30+00:00",
+   "datum": "2026-10-23T14:30:00+00:00",
    "gewerke": [
     "Sanitär/Heizung/Klima (SHK)",
     "TGA/Energiedienstleister"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Inhaber/Geschäftsführung"
    ],
    "thema": "Markt",
-   "was": "Öffentliche Bauten müssen ab 2027 jährlich energetisch saniert werden – das schafft Aufträge für Wärmepumpen und Wärmenetz-Anschlüsse.",
-   "tun": "Sprich frühzeitig mit Kommunen über anstehende Sanierungsprojekte.",
+   "was": "Großanbieter drängt mit Wärmepumpen in Mehrfamilienhäuser – mehr Wettbewerb im Bestandsgeschäft.",
+   "tun": "Prüfe dein Angebot für Mehrfamilienhaus-Sanierungen im Bestand.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Werkzeuglose Energie- und Signalverteilung mit steckbarem Installationssystem",
@@ -267,6 +266,26 @@
    "gewicht": 2
   },
   {
+   "titel": "Sanierungspflicht für Behördenbauten mit dem ÖffEGSanG: Vorteil für Wärmepumpe und Wärmenetze",
+   "link": "https://www.solarserver.de/2026/10/23/sanierungspflicht-fuer-behoerdenbauten-mit-dem-oeffegsang-vorteil-fuer-waermepumpe-und-waermenetze/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-23T12:54:30+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Markt",
+   "was": "Öffentliche Bauten müssen ab 2027 jährlich energetisch saniert werden – das schafft Aufträge für Wärmepumpen und Wärmenetz-Anschlüsse.",
+   "tun": "Sprich frühzeitig mit Kommunen über anstehende Sanierungsprojekte.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "PHP-Sicherheitslücke: Das ist wichtig für Ihre Webseite",
    "link": "https://www.boden-wand-decke.de/php-sicherheitsluecke-das-ist-wichtig-fuer-ihre-webseite-357379/",
    "quelle": "Boden Wand Decke",
@@ -282,26 +301,6 @@
    "thema": "KI & Digitales",
    "was": "Die PHP-Sicherheitslücke betrifft auch Firmenwebsites von Handwerksbetrieben und kann Daten gefährden.",
    "tun": "Prüfe deine Website-Software auf die betroffene PHP-Version und aktualisiere sie sofort.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Gebaut heißt nicht betreut: Die stille Baustelle nach der Inbetriebnahme",
-   "link": "https://www.pv-magazine.de/2026/10/23/gebaut-heisst-nicht-betreut-die-stille-baustelle-nach-der-inbetriebnahme/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-23T11:05:00+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "Elektro"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Markt",
-   "was": "Monitoring und Wartung von Bestandsanlagen können ein eigenes, lukratives Geschäftsfeld werden.",
-   "tun": "Prüfe, ob du Wartungsverträge für deine installierten PV-Anlagen anbietest.",
    "frist": null,
    "gewicht": 2
   },
@@ -322,6 +321,26 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Gebaut heißt nicht betreut: Die stille Baustelle nach der Inbetriebnahme",
+   "link": "https://www.pv-magazine.de/2026/10/23/gebaut-heisst-nicht-betreut-die-stille-baustelle-nach-der-inbetriebnahme/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-23T11:05:00+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "Elektro"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Markt",
+   "was": "Monitoring und Wartung von Bestandsanlagen können ein eigenes, lukratives Geschäftsfeld werden.",
+   "tun": "Prüfe, ob du Wartungsverträge für deine installierten PV-Anlagen anbietest.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Saubere Montage von Schaltern und Steckdosen",
@@ -378,6 +397,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Wie Fernzugänge zum Sicherheitsrisiko werden können",
    "link": "https://kaelte-luft-klima.de/kaeltetechnik/cyberangriff-kaeltetechnik-sicherheit-massnahmen",
    "quelle": "Kälte Luft Klima",
@@ -395,24 +432,6 @@
    "tun": "Prüfe Fernwartungszugänge eurer Anlagen auf Absicherung.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "8,5 %-iger Einbehalt kann \"geringfügig\" sein!",
@@ -474,26 +493,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Vergütungskürzung nach Kündigung und verweigerter Mängelbeseitigung",
-   "link": "https://www.bauprofessor.de/news/verguetungskuerzung-nach-kuendigung-und-verweigerter-maengelbeseitigung/",
-   "quelle": "bauprofessor",
-   "bereich": "Normen & Baurecht",
-   "datum": "2026-10-01T08:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Bei mangelhafter Teilleistung und fehlender Sicherheit kann der Auftraggeber die Vergütung nach Kündigung kürzen.",
-   "tun": "Prüfe Sicherheitsvereinbarungen und Mängeldokumentation vor einer Kündigung.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
    "link": "https://iph-academy.learningsuite.io/student/event-plan",
    "quelle": "IPH Academy",
@@ -512,20 +511,42 @@
    ]
   },
   {
-   "titel": "Sigenergy: Speicher schaffen für PV-Strom zweistellige Zusatzerlöse",
-   "link": "https://www.solarserver.de/2026/10/23/sigenergy-speicher-schaffen-fuer-pv-strom-zweistellige-zusatzerloese/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-23T12:00:00+00:00",
+   "titel": "Mehr Baugenehmigungen im Wohnungsneubau",
+   "link": "https://www.ikz.de/detail/news/detail/mehr-baugenehmigungen-im-wohnungsneubau/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-10-20T05:45:00+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik"
+    "Hochbau/Rohbau",
+    "Architektur/Planung"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
    ],
    "thema": "Markt",
-   "was": "Speicher mit Direktvermarktung können Zusatzerlöse bringen und Kunden künftig unabhängiger vom EEG machen.",
-   "tun": "Informiere Kunden über Speicher- und Direktvermarktungsoptionen bei PV-Projekten.",
+   "was": "Steigende Baugenehmigungen deuten auf anziehende Auftragslage im Wohnungsneubau hin.",
+   "tun": "Beobachte regionale Genehmigungszahlen für Kapazitätsplanung.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Vergütungskürzung nach Kündigung und verweigerter Mängelbeseitigung",
+   "link": "https://www.bauprofessor.de/news/verguetungskuerzung-nach-kuendigung-und-verweigerter-maengelbeseitigung/",
+   "quelle": "bauprofessor",
+   "bereich": "Normen & Baurecht",
+   "datum": "2026-10-01T08:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Bei mangelhafter Teilleistung und fehlender Sicherheit kann der Auftraggeber die Vergütung nach Kündigung kürzen.",
+   "tun": "Prüfe Sicherheitsvereinbarungen und Mängeldokumentation vor einer Kündigung.",
    "frist": null,
    "gewicht": 2
   },
@@ -567,24 +588,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Generationswechsel im Bodenlegerbetrieb: fließend statt abrupt",
-   "link": "https://www.boden-wand-decke.de/generationswechsel-im-bodenlegerbetrieb-fliessend-statt-abrupt-357339/",
-   "quelle": "Boden Wand Decke",
-   "bereich": "Ausbau & Maler",
-   "datum": "2026-10-22T11:58:18+00:00",
-   "gewerke": [
-    "Fliesen- und Bodenleger"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Beispiel für einen fließenden Generationswechsel ohne abrupten Bruch – als Vorbild für die eigene Nachfolgeplanung.",
-   "tun": "Plane den eigenen Generationswechsel frühzeitig und schrittweise.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
    "link": "https://iph-academy.learningsuite.io/student/courses",
    "quelle": "IPH Academy",
@@ -601,6 +604,24 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Generationswechsel im Bodenlegerbetrieb: fließend statt abrupt",
+   "link": "https://www.boden-wand-decke.de/generationswechsel-im-bodenlegerbetrieb-fliessend-statt-abrupt-357339/",
+   "quelle": "Boden Wand Decke",
+   "bereich": "Ausbau & Maler",
+   "datum": "2026-10-22T11:58:18+00:00",
+   "gewerke": [
+    "Fliesen- und Bodenleger"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Beispiel für einen fließenden Generationswechsel ohne abrupten Bruch – als Vorbild für die eigene Nachfolgeplanung.",
+   "tun": "Plane den eigenen Generationswechsel frühzeitig und schrittweise.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Akteneinsicht auch in den Angebotspreis des Bestbieters?",
@@ -662,6 +683,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Qualitätssicherung von Mehrscheiben-Isolierglas",
    "link": "https://www.gff-magazin.de/qualitaetssicherung-von-mehrscheiben-isolierglas-336616/",
    "quelle": "GFF",
@@ -679,24 +718,6 @@
    "tun": "Prüfe eigene Qualitätssicherungsprozesse beim Isolierglaseinbau.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Rechenzentren: Flüssigkeitskühlung ersetzt die klassische Luftkühlung",
@@ -739,24 +760,40 @@
    "gewicht": 2
   },
   {
-   "titel": "Heizungsgesetz: Im Blindflug in die Grüngas- und -heizölquote?",
-   "link": "https://www.solarserver.de/2026/10/23/heizungsgesetz-im-blindflug-in-die-gruengas-und-heizoelquote/",
+   "titel": "Sigenergy: Speicher schaffen für PV-Strom zweistellige Zusatzerlöse",
+   "link": "https://www.solarserver.de/2026/10/23/sigenergy-speicher-schaffen-fuer-pv-strom-zweistellige-zusatzerloese/",
    "quelle": "Solarserver",
    "bereich": "Photovoltaik",
-   "datum": "2026-10-23T11:18:06+00:00",
+   "datum": "2026-10-23T12:00:00+00:00",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "TGA/Energiedienstleister"
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Speicher mit Direktvermarktung können Zusatzerlöse bringen und Kunden künftig unabhängiger vom EEG machen.",
+   "tun": "Informiere Kunden über Speicher- und Direktvermarktungsoptionen bei PV-Projekten.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Die geplante Grüngas- und Heizölquote im Heizungsgesetz ist mengenmäßig noch unklar, das erschwert Planungssicherheit für Heizungsbauer.",
-   "tun": "Verfolge die Eckpunkte, bevor du Kunden zu Brennstoffoptionen berätst.",
-   "frist": null,
-   "gewicht": 2
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Bis zu 25 % Energie sparen mit Wärmerückgewinnung",
@@ -777,24 +814,6 @@
    "tun": "Prüfe das Einsparpotenzial bei anstehenden Lüftungs- oder Heizungsprojekten.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Aus Holzresten wird Wärme: Wie eine Schreinerei Energiekosten senkt",
@@ -854,6 +873,24 @@
    "gewicht": 1
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "KI klaut den Job? So wird dein Team fit für die Zukunft",
    "link": "https://www.impulse.de/personal/reskilling-plus/7640510.html",
    "quelle": "impulse",
@@ -873,24 +910,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "BAU 2027: Klimaschutz und Klimaanpassung im Gebäudebestand",
    "link": "https://www.bft-international.com/de/news/bau-2027-klimaschutz-und-klimaanpassung-im-gebaeudebestand-4434611.html",
    "quelle": "BFT",
@@ -905,6 +924,26 @@
    "thema": "Normen & Technik",
    "was": "Künftige Bauvorgaben müssen Klimaschutz und Anpassung an Hitze/Starkregen stärker berücksichtigen – betrifft Planung und Ausführung.",
    "tun": "Verfolge kommende Normänderungen zu Klimaanpassung im Baubestand.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Heizungsgesetz: Im Blindflug in die Grüngas- und -heizölquote?",
+   "link": "https://www.solarserver.de/2026/10/23/heizungsgesetz-im-blindflug-in-die-gruengas-und-heizoelquote/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-23T11:18:06+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Die geplante Grüngas- und Heizölquote im Heizungsgesetz ist mengenmäßig noch unklar, das erschwert Planungssicherheit für Heizungsbauer.",
+   "tun": "Verfolge die Eckpunkte, bevor du Kunden zu Brennstoffoptionen berätst.",
    "frist": null,
    "gewicht": 2
   },
@@ -927,6 +966,24 @@
    "tun": "Berücksichtige Preisentwicklung und Zählertechnik in der Kundenberatung.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Keine Zahlen, kein Erfolg",
@@ -969,24 +1026,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Branchentreff: Zwei Tage geballtes Bodenwissen",
    "link": "https://www.boden-wand-decke.de/zwei-tage-geballtes-bodenwissen-branchentreff-357321/",
    "quelle": "Boden Wand Decke",
@@ -1027,6 +1066,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Raumklimaqualität verbindlich in Bauvorschriften verankern",
    "link": "https://www.kka-online.info/news/raumklimaqualitaet-verbindlich-in-bauvorschriften-verankern-4438765.html",
    "quelle": "KKA",
@@ -1065,39 +1122,22 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
+   "titel": "SFA: Kondensat normgerecht ableiten",
+   "link": "https://www.ikz.de/heizungstechnik/news/detail/sfa-kondensat-normgerecht-ableiten/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-10-15T10:12:00+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Sanitär/Heizung/Klima (SHK)",
+    "Kälte- und Klimatechnik"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
     "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "Netzentgelte steigen 2027 auch bei viel Solar und Wind",
-   "link": "https://www.solarserver.de/2026/10/23/netzentgelte-steigen-2027-auch-bei-viel-solar-und-wind/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-23T09:23:16+00:00",
-   "gewerke": [
-    "Alle Gewerke"
+    "Projektleitung/Bauleitung"
    ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Markt",
-   "was": "Steigende Netzentgelte 2027 erhöhen die Betriebskosten, auch bei Standorten mit viel Solar- und Windstrom.",
-   "tun": "Kalkuliere steigende Energiekosten für 2027 in deine Planung ein.",
+   "thema": "Normen & Technik",
+   "was": "Kondensat aus Brennwertgeräten und Klimaanlagen muss vor Einleitung neutralisiert oder verdünnt werden.",
+   "tun": "Prüfe bestehende Anlagen auf normgerechte Kondensatableitung.",
    "frist": null,
    "gewicht": 2
   },
@@ -1119,6 +1159,24 @@
    "tun": "Kläre mit dem Netzbetreiber, ob eure Anlagendaten rechtzeitig erfasst werden.",
    "frist": "2027-04-01",
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "CNC-Heidenhain iTNC 530: Kenntnisse vertiefen",
@@ -1159,24 +1217,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Resilienz der Infrastruktur",
    "link": "https://baublatt.de/resilienz-der-infrastruktur/",
    "quelle": "Baublatt",
@@ -1212,6 +1252,24 @@
    "tun": "Vergleiche Preise und Lieferzeiten vor der nächsten Fahrzeuganschaffung.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Betriebsarzt-Pflicht für Arbeitgeber: Was gilt im Handwerk?",
@@ -1250,24 +1308,6 @@
    "tun": "Prüfe Schulungsangebote für Wärmepumpen-Wartung im Team.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Wer Planungsleistungen verwertet, der muss auch dafür bezahlen!",
@@ -1310,6 +1350,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "EnerCube und Panasonic fixieren strategische Partnerschaft",
    "link": "https://www.kka-online.info/news/enercube-und-panasonic-fixieren-strategische-partnerschaft-4438736.html",
    "quelle": "KKA",
@@ -1346,24 +1404,6 @@
    "tun": "Reflektiere deinen Führungsstil im Team, um echte Offenheit zu fördern.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Mängel führen nicht \"automatisch\" zur Minderung!",
@@ -1403,6 +1443,24 @@
    "tun": "Prüfe bestehende Verträge auf unklare Zahlungsvereinbarungen.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Keine Mängelhaftung bei Drittverantwortlichkeit!",
