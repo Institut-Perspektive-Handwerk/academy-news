@@ -20461,5 +20461,43 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-23"
+ },
+ "https://allgemeinebauzeitung.de/vibrodrill-technologie-auf-fachveranstaltungen-vorgestellt-abz/": {
+  "id": "fd1841194993",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-24"
+ },
+ "https://www.solarserver.de/2026/10/24/die-richtige-energie-fuers-waermenetz/": {
+  "id": "f9de546042ce",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Kommunale Wärmeplanung entscheidet über Heiztechnik vor Ort und damit über künftige Aufträge.",
+  "tun": "Verfolge die Wärmeplanung deiner Kommune für Planungssicherheit.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-24"
  }
 }
