@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-24T22:29+00:00",
- "anzahl": 75,
+ "stand": "2026-10-25T04:42+00:00",
+ "anzahl": 77,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -511,6 +511,26 @@
    ]
   },
   {
+   "titel": "Mehr Baugenehmigungen im Wohnungsneubau",
+   "link": "https://www.ikz.de/detail/news/detail/mehr-baugenehmigungen-im-wohnungsneubau/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-10-20T05:45:00+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Markt",
+   "was": "Steigende Baugenehmigungen deuten auf anziehende Auftragslage im Wohnungsneubau hin.",
+   "tun": "Beobachte regionale Genehmigungszahlen für Kapazitätsplanung.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Vergütungskürzung nach Kündigung und verweigerter Mängelbeseitigung",
    "link": "https://www.bauprofessor.de/news/verguetungskuerzung-nach-kuendigung-und-verweigerter-maengelbeseitigung/",
    "quelle": "bauprofessor",
@@ -569,6 +589,24 @@
    "gewicht": 1
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Hubtische in der Schreinerei: Warum Ergonomie zum Erfolgsfaktor wird",
    "link": "https://handwerk.com/gewerke/hubtische-in-der-schreinerei-warum-ergonomie-zum-erfolgsfaktor-wird",
    "quelle": "handwerk.com",
@@ -586,24 +624,6 @@
    "tun": "Prüfe den Einsatz von Hubtischen für ergonomischere Arbeitsplätze.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Generationswechsel im Bodenlegerbetrieb: fließend statt abrupt",
@@ -664,6 +684,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Autobahn: Kreditfinanzierte Investitionen und ÖPP sollen kommen",
    "link": "https://vergabeblog.de/2026-10-21/autobahn-kreditfinanzierte-investitionen-und-oepp-sollen-kommen/",
    "quelle": "vergabeblog",
@@ -681,24 +719,6 @@
    "tun": "",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Qualitätssicherung von Mehrscheiben-Isolierglas",
@@ -760,6 +780,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Bis zu 25 % Energie sparen mit Wärmerückgewinnung",
    "link": "https://www.tga-praxis.de/news/bis-zu-25-energie-sparen-mit-waermerueckgewinnung.html",
    "quelle": "TGA-Praxis",
@@ -778,24 +816,6 @@
    "tun": "Prüfe das Einsparpotenzial bei anstehenden Lüftungs- oder Heizungsprojekten.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Aus Holzresten wird Wärme: Wie eine Schreinerei Energiekosten senkt",
@@ -855,6 +875,24 @@
    "gewicht": 1
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "KI klaut den Job? So wird dein Team fit für die Zukunft",
    "link": "https://www.impulse.de/personal/reskilling-plus/7640510.html",
    "quelle": "impulse",
@@ -872,24 +910,6 @@
    "tun": "Starte ein Reskilling-Projekt mit dem verlinkten Leitfaden.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "BAU 2027: Klimaschutz und Klimaanpassung im Gebäudebestand",
@@ -948,6 +968,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Keine Zahlen, kein Erfolg",
    "link": "https://baublatt.de/keine-zahlen-kein-erfolg/",
    "quelle": "Baublatt",
@@ -967,24 +1005,6 @@
    "tun": "Prüfe, ob eure Maschinendaten systematisch ausgewertet werden.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Umfrage: Sorgt die eAU für Entlastung in Betrieben?",
@@ -1046,6 +1066,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Raumklimaqualität verbindlich in Bauvorschriften verankern",
    "link": "https://www.kka-online.info/news/raumklimaqualitaet-verbindlich-in-bauvorschriften-verankern-4438765.html",
    "quelle": "KKA",
@@ -1066,24 +1104,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "VDMA ALT zieht Bilanz: Hohe Exporte, Regularien verunsichern",
    "link": "https://kaelte-luft-klima.de/branche-und-markt/vdma-alt-zieht-bilanz-hohe-exporte-regularien-verunsichern",
    "quelle": "Kälte Luft Klima",
@@ -1098,6 +1118,26 @@
    "thema": "Markt",
    "was": "Trotz Exportwachstum sorgen regulatorische Unsicherheiten für Handlungsbedarf in der Kältebranche.",
    "tun": "Verfolge Regularien-Updates des VDMA zur Planungssicherheit.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "SFA: Kondensat normgerecht ableiten",
+   "link": "https://www.ikz.de/heizungstechnik/news/detail/sfa-kondensat-normgerecht-ableiten/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-10-15T10:12:00+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Kondensat aus Brennwertgeräten und Klimaanlagen muss vor Einleitung neutralisiert oder verdünnt werden.",
+   "tun": "Prüfe bestehende Anlagen auf normgerechte Kondensatableitung.",
    "frist": null,
    "gewicht": 2
   },
@@ -1120,6 +1160,24 @@
    "tun": "Verfolge die Eckpunkte, bevor du Kunden zu Brennstoffoptionen berätst.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "ZEREZ-IDs werden ab April 2027 Pflichtangabe im Marktstammdatenregister",
@@ -1160,24 +1218,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Perimeterschutz als umfassendes Konzept",
    "link": "https://www.elektro.net/129500/perimeterschutz-als-umfassendes-konzept/",
    "quelle": "elektro.net",
@@ -1216,6 +1256,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Elektrotransporter aus China: Marktübersicht der aktuellen Modelle",
    "link": "https://www.handwerk-magazin.de/elektrotransporter-aus-china-marktuebersicht-der-aktuellen-modelle-352038/",
    "quelle": "handwerk magazin",
@@ -1251,24 +1309,6 @@
    "tun": "Prüfe, ob dein Betrieb die passende Betriebsarzt-Betreuung organisiert hat.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Wärmepumpen- und Service-Kompetenz",
@@ -1310,6 +1350,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Interview: 98-Prozent-Lieferquote trotz geopolitischen Krisen",
    "link": "https://www.boden-wand-decke.de/interview-98-prozent-lieferquote-trotz-geopolitischen-krisen-357298/",
    "quelle": "Boden Wand Decke",
@@ -1347,24 +1405,6 @@
    "tun": "",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Gut gemeint, schlecht geführt? Diese Muster verhindern Offenheit im Team",
@@ -1405,6 +1445,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "\"Ramschkauf\" widerlegt Schwarzgeldabrede nicht!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316759",
    "quelle": "IBR-Online",
@@ -1442,24 +1500,6 @@
    "tun": "Prüfe bei Mängelrügen, ob Drittverschulden die Haftung ausschließt.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   }
  ]
 }
