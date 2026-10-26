@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-26T00:23+00:00",
+ "stand": "2026-10-26T07:48+00:00",
  "anzahl": 77,
  "gewerke": [
   "Alle Gewerke",
@@ -41,6 +41,26 @@
   }
  ],
  "news": [
+  {
+   "titel": "Abnahmeklausel unwirksam: Mängelansprüche nach 15 Jahren verwirkt?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316930",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-26T07:27:26+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Ist deine Abnahmeklausel unwirksam, können Mängelansprüche des Kunden auch nach Jahren noch bestehen.",
+   "tun": "Prüfe deine Abnahmeklauseln in Verträgen und AGB auf Wirksamkeit.",
+   "frist": null,
+   "gewicht": 2
+  },
   {
    "titel": "Digitale Sichtbarkeit und GEO: Warum findet die KI meinen Betrieb nicht, Frau Eigel?",
    "link": "https://www.handwerk-magazin.de/digitale-sichtbarkeit-warum-findet-die-ki-meinen-betrieb-nicht-frau-eigel-347114/",
@@ -100,6 +120,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Drei Triflex-Systeme mit 40 Jahren Nutzungsdauer bestätigt",
    "link": "https://www.bauhandwerk.de/news/drei-triflex-systeme-mit-40-jahren-nutzungsdauer-bestaetigt-4440029.html",
    "quelle": "bauhandwerk",
@@ -117,24 +155,6 @@
    "tun": "Nutze die Zertifizierung als Argument bei Angeboten.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Neue KI-Engineering-Software",
@@ -188,25 +208,6 @@
    "thema": "Recht & Pflichten",
    "was": "Ein pauschales PFAS-Verbot könnte Kältemittel und Bauteile in der Kälte- und Klimatechnik stark einschränken.",
    "tun": "Verfolge die PFAS-Debatte und informiere dich über mögliche Ausnahmeregelungen.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Wann verjähren die Mängelansprüche aus einem Kulanzvertrag?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316786",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-23T06:00:24+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Das Urteil klärt, wie lange Mängelansprüche aus einer Kulanzvereinbarung bestehen bleiben – wichtig für Gewährleistungsfälle.",
-   "tun": "Prüfe laufende Kulanzzusagen auf Verjährungsfristen.",
    "frist": null,
    "gewicht": 2
   },
@@ -286,23 +287,23 @@
    "gewicht": 2
   },
   {
-   "titel": "Wärmepumpen: Thermondo expandiert ins Mehrfamilienhaus",
-   "link": "https://www.solarserver.de/2026/10/23/waermepumpen-thermondo-expandiert-ins-mehrfamilienhaus/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-10-23T14:30:00+00:00",
+   "titel": "Aufrechnung mit Kündigungsmehrkosten insolvenzrechtlich unzulässig?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316357",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-26T06:50:00+00:00",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "TGA/Energiedienstleister"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "Markt",
-   "was": "Großanbieter drängt mit Wärmepumpen in Mehrfamilienhäuser – mehr Wettbewerb im Bestandsgeschäft.",
-   "tun": "Prüfe dein Angebot für Mehrfamilienhaus-Sanierungen im Bestand.",
+   "thema": "VOB & Verträge",
+   "was": "Bei Insolvenz des Auftraggebers kannst du Kündigungsmehrkosten nicht einfach mit offenen Forderungen verrechnen.",
+   "tun": "Lass offene Forderungen bei Kündigung und Insolvenzfällen anwaltlich prüfen.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
@@ -321,6 +322,25 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Wärmepumpen: Thermondo expandiert ins Mehrfamilienhaus",
+   "link": "https://www.solarserver.de/2026/10/23/waermepumpen-thermondo-expandiert-ins-mehrfamilienhaus/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-10-23T14:30:00+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Großanbieter drängt mit Wärmepumpen in Mehrfamilienhäuser – mehr Wettbewerb im Bestandsgeschäft.",
+   "tun": "Prüfe dein Angebot für Mehrfamilienhaus-Sanierungen im Bestand.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "PHP-Sicherheitslücke: Das ist wichtig für Ihre Webseite",
@@ -380,24 +400,6 @@
    "gewicht": 1
   },
   {
-   "titel": "So wurde aus einem internen Problem ein Geschäftsmodell",
-   "link": "https://www.impulse.de/strategie/prozesse-mit-ki-automatisieren-plus/7641496.html",
-   "quelle": "impulse",
-   "bereich": "Unternehmer",
-   "datum": "2026-10-22T15:10:44+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Zeigt, wie Digitalisierung interner Prozesse zu neuen Geschäftsfeldern führen kann – als Denkanstoß fürs eigene Geschäftsmodell.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -414,6 +416,24 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "So wurde aus einem internen Problem ein Geschäftsmodell",
+   "link": "https://www.impulse.de/strategie/prozesse-mit-ki-automatisieren-plus/7641496.html",
+   "quelle": "impulse",
+   "bereich": "Unternehmer",
+   "datum": "2026-10-22T15:10:44+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Zeigt, wie Digitalisierung interner Prozesse zu neuen Geschäftsfeldern führen kann – als Denkanstoß fürs eigene Geschäftsmodell.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "KI-Agenten im Praxistest: Die 10-Punkte-Checkliste für den Mittelstand",
@@ -453,42 +473,21 @@
    "gewicht": 2
   },
   {
-   "titel": "8,5 %-iger Einbehalt kann \"geringfügig\" sein!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316804",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-22T06:10:25+00:00",
+   "titel": "Agentische KI: Schatten-IT bedroht die Firmeninfrastruktur",
+   "link": "https://www.mittelstandswiki.de/2026/10/agentische-ki-schatten-it-bedroht-die-firmeninfrastruktur/",
+   "quelle": "Mittelstandswiki",
+   "bereich": "KI & Digitales",
+   "datum": "2026-10-21T07:00:00+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht stuft 8,5 % Sicherheitseinbehalt als zulässig geringfügig ein – wichtig für Vertragsgestaltung.",
-   "tun": "Prüfe deine Einbehalt-Klauseln auf Vereinbarkeit mit diesem Urteil.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Vorsicht vor veralteten Standardwerten",
-   "link": "https://www.shk-profi.de/news/vorsicht-vor-veralteten-standardwerten-4439620.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-10-21T13:03:39+00:00",
-   "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Veraltete Standardwerte lassen Lüftungsanlagen mit Wärmerückgewinnung in Berechnungen schlechter aussehen als sie sind.",
-   "tun": "Nutze aktuelle Herstellerwerte statt Standardwerte bei der Auslegung.",
+   "thema": "KI & Digitales",
+   "was": "Unkontrollierte KI-Tools im Betrieb öffnen Sicherheitslücken, die klassische IT-Schutzkonzepte nicht abdecken.",
+   "tun": "Kläre im Betrieb, welche KI-Tools genutzt werden und sichere Zugänge ab.",
    "frist": null,
    "gewicht": 2
   },
@@ -509,45 +508,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Agentische KI: Schatten-IT bedroht die Firmeninfrastruktur",
-   "link": "https://www.mittelstandswiki.de/2026/10/agentische-ki-schatten-it-bedroht-die-firmeninfrastruktur/",
-   "quelle": "Mittelstandswiki",
-   "bereich": "KI & Digitales",
-   "datum": "2026-10-21T07:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Unkontrollierte KI-Tools im Betrieb öffnen Sicherheitslücken, die klassische IT-Schutzkonzepte nicht abdecken.",
-   "tun": "Kläre im Betrieb, welche KI-Tools genutzt werden und sichere Zugänge ab.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Mehr Baugenehmigungen im Wohnungsneubau",
-   "link": "https://www.ikz.de/detail/news/detail/mehr-baugenehmigungen-im-wohnungsneubau/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-10-20T05:45:00+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
-    "Architektur/Planung"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Markt",
-   "was": "Steigende Baugenehmigungen deuten auf anziehende Auftragslage im Wohnungsneubau hin.",
-   "tun": "Beobachte regionale Genehmigungszahlen für Kapazitätsplanung.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Vergütungskürzung nach Kündigung und verweigerter Mängelbeseitigung",
@@ -590,24 +550,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Photovoltaik-Projektierer fordern bei Ausschreibungen 2027 Höchstwert von mindestens sieben Cent pro Kilowattstunde",
    "link": "https://www.pv-magazine.de/2026/10/23/photovoltaik-projektierer-fordern-bei-ausschreibungen-2027-hoechstwert-von-mindestens-sieben-cent-pro-kilowattstunde/",
    "quelle": "pv magazine",
@@ -645,6 +587,43 @@
    "gewicht": 1
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Wann verjähren die Mängelansprüche aus einem Kulanzvertrag?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316786",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-23T06:00:24+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Das Urteil klärt, wie lange Mängelansprüche aus einer Kulanzvereinbarung bestehen bleiben – wichtig für Gewährleistungsfälle.",
+   "tun": "Prüfe laufende Kulanzzusagen auf Verjährungsfristen.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Generationswechsel im Bodenlegerbetrieb: fließend statt abrupt",
    "link": "https://www.boden-wand-decke.de/generationswechsel-im-bodenlegerbetrieb-fliessend-statt-abrupt-357339/",
    "quelle": "Boden Wand Decke",
@@ -663,41 +642,24 @@
    "gewicht": 1
   },
   {
-   "titel": "Akteneinsicht auch in den Angebotspreis des Bestbieters?",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316015",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-22T04:07:55+00:00",
+   "titel": "Vorsicht vor veralteten Standardwerten",
+   "link": "https://www.shk-profi.de/news/vorsicht-vor-veralteten-standardwerten-4439620.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-10-21T13:03:39+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Bei öffentlichen Ausschreibungen kann Akteneinsicht auch den Angebotspreis des Bestbieters offenlegen.",
-   "tun": "Prüfe bei Vergabeverfahren deine Rechte auf Akteneinsicht.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
     "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Veraltete Standardwerte lassen Lüftungsanlagen mit Wärmerückgewinnung in Berechnungen schlechter aussehen als sie sind.",
+   "tun": "Nutze aktuelle Herstellerwerte statt Standardwerte bei der Auslegung.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Wärmepumpe für bis zu 78 °C",
@@ -721,23 +683,22 @@
    "gewicht": 1
   },
   {
-   "titel": "Autobahn: Kreditfinanzierte Investitionen und ÖPP sollen kommen",
-   "link": "https://vergabeblog.de/2026-10-21/autobahn-kreditfinanzierte-investitionen-und-oepp-sollen-kommen/",
-   "quelle": "vergabeblog",
-   "bereich": "Vergabe",
-   "datum": "2026-10-21T06:00:42+00:00",
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
    "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Neue Finanzierung der Autobahn GmbH über Kredite und ÖPP kann künftige Ausschreibungen und Projektvolumen verändern.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Qualitätssicherung von Mehrscheiben-Isolierglas",
@@ -777,24 +738,6 @@
    "tun": "Prüfe Qualifizierung für Flüssigkeitskühlungsprojekte in Rechenzentren.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Sichere Verankerung der Fassaden der ehemaligen Textilfabrik Kümpers in Rheine",
@@ -837,6 +780,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Aus Holzresten wird Wärme: Wie eine Schreinerei Energiekosten senkt",
    "link": "https://handwerk.com/gewerke/aus-holzresten-wird-waerme-wie-eine-schreinerei-energiekosten-senkt",
    "quelle": "handwerk.com",
@@ -874,22 +835,24 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
+   "titel": "8,5 %-iger Einbehalt kann \"geringfügig\" sein!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316804",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-22T06:10:25+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung",
     "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Gericht stuft 8,5 % Sicherheitseinbehalt als zulässig geringfügig ein – wichtig für Vertragsgestaltung.",
+   "tun": "Prüfe deine Einbehalt-Klauseln auf Vereinbarkeit mit diesem Urteil.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Mehr Sicherheit für Retrofit-Projekte",
@@ -908,6 +871,43 @@
    "thema": "Normen & Technik",
    "was": "Bei Retrofit-Projekten an HVAC-Anlagen braucht es verlässlichere Prognosen zu erzielbaren Einsparungen.",
    "tun": "Kalkuliere Einsparpotenziale bei Modernisierungen vorsichtig und transparent.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Autobahn: Kreditfinanzierte Investitionen und ÖPP sollen kommen",
+   "link": "https://vergabeblog.de/2026-10-21/autobahn-kreditfinanzierte-investitionen-und-oepp-sollen-kommen/",
+   "quelle": "vergabeblog",
+   "bereich": "Vergabe",
+   "datum": "2026-10-21T06:00:42+00:00",
+   "gewerke": [
+    "Tiefbau",
+    "Hochbau/Rohbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Neue Finanzierung der Autobahn GmbH über Kredite und ÖPP kann künftige Ausschreibungen und Projektvolumen verändern.",
+   "tun": "",
    "frist": null,
    "gewicht": 1
   },
@@ -1045,24 +1045,23 @@
    "gewicht": 1
   },
   {
-   "titel": "Branchentreff: Zwei Tage geballtes Bodenwissen",
-   "link": "https://www.boden-wand-decke.de/zwei-tage-geballtes-bodenwissen-branchentreff-357321/",
-   "quelle": "Boden Wand Decke",
-   "bereich": "Ausbau & Maler",
-   "datum": "2026-10-21T10:41:52+00:00",
+   "titel": "Akteneinsicht auch in den Angebotspreis des Bestbieters?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316015",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-22T04:07:55+00:00",
    "gewerke": [
-    "Fliesen- und Bodenleger",
-    "Innenausbau/Trockenbau"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung",
+    "Inhaber/Geschäftsführung",
     "Büro/Kalkulation"
    ],
-   "thema": "Normen & Technik",
-   "was": "Überarbeitete DIN 68702 und ein neuer Leitfaden für Bodenbeläge in Arztpraxen betreffen eure Ausschreibungen und Verlegearbeiten.",
-   "tun": "Informiere dich über die aktualisierte DIN 68702 für laufende Projekte.",
+   "thema": "VOB & Verträge",
+   "was": "Bei öffentlichen Ausschreibungen kann Akteneinsicht auch den Angebotspreis des Bestbieters offenlegen.",
+   "tun": "Prüfe bei Vergabeverfahren deine Rechte auf Akteneinsicht.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
@@ -1081,6 +1080,26 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Branchentreff: Zwei Tage geballtes Bodenwissen",
+   "link": "https://www.boden-wand-decke.de/zwei-tage-geballtes-bodenwissen-branchentreff-357321/",
+   "quelle": "Boden Wand Decke",
+   "bereich": "Ausbau & Maler",
+   "datum": "2026-10-21T10:41:52+00:00",
+   "gewerke": [
+    "Fliesen- und Bodenleger",
+    "Innenausbau/Trockenbau"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Überarbeitete DIN 68702 und ein neuer Leitfaden für Bodenbeläge in Arztpraxen betreffen eure Ausschreibungen und Verlegearbeiten.",
+   "tun": "Informiere dich über die aktualisierte DIN 68702 für laufende Projekte.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Berufspraxis und Hochschullehre driften auseinander",
@@ -1137,26 +1156,6 @@
    "thema": "Markt",
    "was": "Trotz Exportwachstum sorgen regulatorische Unsicherheiten für Handlungsbedarf in der Kältebranche.",
    "tun": "Verfolge Regularien-Updates des VDMA zur Planungssicherheit.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "SFA: Kondensat normgerecht ableiten",
-   "link": "https://www.ikz.de/heizungstechnik/news/detail/sfa-kondensat-normgerecht-ableiten/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-10-15T10:12:00+00:00",
-   "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Kondensat aus Brennwertgeräten und Klimaanlagen muss vor Einleitung neutralisiert oder verdünnt werden.",
-   "tun": "Prüfe bestehende Anlagen auf normgerechte Kondensatableitung.",
    "frist": null,
    "gewicht": 2
   },
@@ -1331,44 +1330,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Wer Planungsleistungen verwertet, der muss auch dafür bezahlen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316783",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-21T06:08:03+00:00",
-   "gewerke": [
-    "Architektur/Planung",
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Gericht bestätigt: Wer Planungsleistungen nutzt, muss sie auch dann bezahlen, wenn kein fester Vertrag bestand.",
-   "tun": "Prüfe laufende Projekte auf ungeklärte Planungsvergütung.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Interview: 98-Prozent-Lieferquote trotz geopolitischen Krisen",
    "link": "https://www.boden-wand-decke.de/interview-98-prozent-lieferquote-trotz-geopolitischen-krisen-357298/",
    "quelle": "Boden Wand Decke",
@@ -1387,6 +1348,24 @@
    "tun": "Vergleiche Lieferzeiten mit aktuellen Bestellungen bei Prinz.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "EnerCube und Panasonic fixieren strategische Partnerschaft",
@@ -1425,6 +1404,26 @@
    "tun": "Reflektiere deinen Führungsstil im Team, um echte Offenheit zu fördern.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Wer Planungsleistungen verwertet, der muss auch dafür bezahlen!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316783",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-10-21T06:08:03+00:00",
+   "gewerke": [
+    "Architektur/Planung",
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Gericht bestätigt: Wer Planungsleistungen nutzt, muss sie auch dann bezahlen, wenn kein fester Vertrag bestand.",
+   "tun": "Prüfe laufende Projekte auf ungeklärte Planungsvergütung.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Mängel führen nicht \"automatisch\" zur Minderung!",

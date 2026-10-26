@@ -20516,5 +20516,80 @@
   "frist": null,
   "gewicht": 2,
   "gesehen": "2026-10-25"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316930": {
+  "id": "ef692674fa73",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Ist deine Abnahmeklausel unwirksam, können Mängelansprüche des Kunden auch nach Jahren noch bestehen.",
+  "tun": "Prüfe deine Abnahmeklauseln in Verträgen und AGB auf Wirksamkeit.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-26"
+ },
+ "https://vergabeblog.de/2026-10-26/cloud-vertraege-und-digitale-souveraenitaet-teil-2-digitale-souveraenitaet-braucht-organisation/": {
+  "id": "b379c29d912f",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-26"
+ },
+ "https://www.shk-profi.de/news/zvshk-schreibt-award-zur-ish-2027-aus-4439985.html": {
+  "id": "5aaa2933eaed",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-26"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316357": {
+  "id": "44bf1a5ffa0b",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Bei Insolvenz des Auftraggebers kannst du Kündigungsmehrkosten nicht einfach mit offenen Forderungen verrechnen.",
+  "tun": "Lass offene Forderungen bei Kündigung und Insolvenzfällen anwaltlich prüfen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-26"
  }
 }
