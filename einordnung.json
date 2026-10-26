@@ -21564,5 +21564,97 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-26"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/drillinge-aus-hamm-lernen-im-handwerk-drei-zukunftswege": {
+  "id": "eabf8a4228c7",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-26"
+ },
+ "https://www.impulse.de/personal/wenn-mitarbeitende-funktionieren-aber-unter-ihrer-arbeit-leiden/7642349.html": {
+  "id": "4557aa76d258",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Schleichende Erschöpfung bei Mitarbeitern erkennen, bevor gute Leute innerlich kündigen oder krank werden.",
+  "tun": "Achte auf Anzeichen und sprich Betroffene frühzeitig an.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-26"
+ },
+ "https://www.elektro.net/129399/kritis-dachgesetz-bei-anspruchsvollen-gebaeudekomplexen-umsetzen/": {
+  "id": "8ac43aae8ccd",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "Metallbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Bei Flucht- und Rettungswegtechnik in Kritis-Gebäuden steigen die Anforderungen, das betrifft Planung und Ausführung.",
+  "tun": "Informiere dich über neue Anforderungen bei Kritis-Objekten.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-26"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/urteil-des-europaeischen-gerichtshofs-banken-muessen-kontobetrugs-opfern-geld-zunaechst-erstatten": {
+  "id": "7eae267d23c9",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-26"
+ },
+ "https://www.elektro.net/129955/diamantscheiben-fuer-stein-und-beton/": {
+  "id": "fb88e306554f",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Preise & Material",
+  "was": "Neue Diamantscheibe erleichtert das Schlitzen für Elektro- und Datenleitungen in Stein und Beton.",
+  "tun": "Prüfe das Werkzeug für anstehende Schlitzarbeiten.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-26"
  }
 }
