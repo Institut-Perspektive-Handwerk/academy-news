@@ -22602,5 +22602,169 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-27"
+ },
+ "https://handwerk.com/betriebsfuehrung/so-fand-dieser-elektromeister-seine-gewinnfresser": {
+  "id": "0323de2b8c21",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Preise & Material",
+  "was": "Ein Meister deckt durch genaue Kalkulationsprüfung versteckte Gewinnverluste auf und passt Prozesse an.",
+  "tun": "Prüfe deine eigene Kalkulation auf versteckte Verlustquellen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-27"
+ },
+ "https://www.handwerksblatt.de/themen-specials/was-sie-als-chef-im-handwerk-wissen-muessen/insolvenz-verschleppt-geschaeftsfuehrer-muss-1-millionen-euro-zahlen-1": {
+  "id": "c511f097cc46",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Als GmbH-Geschäftsführer haftest du persönlich, wenn du Insolvenzreife nicht rechtzeitig prüfst.",
+  "tun": "Prüfe bei Liquiditätsproblemen sofort auf Insolvenzreife und dokumentiere es.",
+  "frist": null,
+  "gewicht": 3,
+  "gesehen": "2026-10-27"
+ },
+ "https://www.impulse.de/strategie/beratung-skalieren-mit-ki-plus/7641973.html": {
+  "id": "a809135cdfc7",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-27"
+ },
+ "https://www.pv-magazine.de/2026/10/27/chinesische-neuinstallationen-sinken-in-den-ersten-drei-quartalen-2026-trotz-erholung-im-september-um-54-prozent/": {
+  "id": "54dc96f03356",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Sinkender PV-Zubau in China kann Modulpreise und Lieferzeiten in Deutschland beeinflussen.",
+  "tun": "Beobachte Modulpreise und Lieferzeiten für deine Projektplanung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-27"
+ },
+ "https://www.elektro.net/129960/vollelektrischer-transporter/": {
+  "id": "e210a42eafb1",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-27"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316906": {
+  "id": "3312abadbfde",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-27"
+ },
+ "https://www.handwerksblatt.de/handwerkspolitik/hackathon-mit-auszubildenden": {
+  "id": "3df7580f945b",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-27"
+ },
+ "https://www.elektro.net/129886/von-der-arena-in-die-sporthalle/": {
+  "id": "ebcf249ca384",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Hohe Anforderungen an Stadionbeleuchtung zeigen, wie präzise Lichtplanung auch für Sporthallen aussehen kann.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-27"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316897": {
+  "id": "28b731efbbca",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Urteil stellt klar, dass eine Versorgungssperre bei Zahlungsverzug keine strafbare Besitzstörung ist.",
+  "tun": "Prüfe rechtliche Voraussetzungen, bevor du Versorgung bei Zahlungsverzug einstellst.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-27"
  }
 }
