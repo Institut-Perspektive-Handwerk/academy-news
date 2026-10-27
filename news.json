@@ -1,6 +1,6 @@
 {
- "stand": "2026-10-27T01:29+00:00",
- "anzahl": 82,
+ "stand": "2026-10-27T07:52+00:00",
+ "anzahl": 78,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -42,6 +42,102 @@
  ],
  "news": [
   {
+   "titel": "UBA veröffentlicht Ausschreibungshinweise für Gründächer",
+   "link": "https://vergabeblog.de/2026-10-27/uba-veroeffentlicht-ausschreibungshinweise-fuer-gruendaecher/",
+   "quelle": "vergabeblog",
+   "bereich": "Vergabe",
+   "datum": "2026-10-27T07:30:50+00:00",
+   "gewerke": [
+    "Dachdecker",
+    "Garten- und Landschaftsbau",
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Normen & Technik",
+   "was": "UBA-Hinweise helfen bei Ausschreibungen für Gründächer – wichtig für Angebote an öffentliche Auftraggeber.",
+   "tun": "Prüfe die Hinweise bei Ausschreibungen mit Gründach-Anteil.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Aus der Telefonistin wird eine vielseitige Bürokraft",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/aus-der-ki-telefonistin-von-hallopetra-wird-eine-vielseitige-buerokraft",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-27T07:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "KI & Digitales",
+   "was": "KI-Assistenzen übernehmen zunehmend Büroaufgaben wie Mail, Bautagebuch und Website-Pflege.",
+   "tun": "Teste, ob so ein Tool dein Büro entlasten könnte.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "ZVSHK-Herbstumfrage: bessere Geschäftserwartungen bei Heizung und Klima – Badgeschäft bleibt zurück",
+   "link": "https://www.ikz.de/detail/news/detail/zvshk-herbstumfrage-bessere-geschaeftserwartungen-bei-heizung-und-klima-badgeschaeft-bleibt-zurueck/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-10-27T06:47:27+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Heizung und Klima laufen besser als erwartet, das Badgeschäft bleibt dagegen schwach.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Alarmanlagen – Einbruch- und Überfallmeldeanlagen",
+   "link": "https://www.elektro.net/129844/alarmanlagen-einbruch-und-ueberfallmeldeanlagen/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-27T06:00:00+00:00",
+   "gewerke": [
+    "Elektro",
+    "Metallbau"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Neue Norm legt Anforderungen an Erschütterungsmelder bei Einbruchmeldeanlagen fest.",
+   "tun": "Prüfe deine Montagepraxis gegen die neue Normvorgabe.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Wenn Mitarbeitende funktionieren, aber unter ihrer Arbeit leiden",
    "link": "https://www.impulse.de/personal/wenn-mitarbeitende-funktionieren-aber-unter-ihrer-arbeit-leiden/7642349.html",
    "quelle": "impulse",
@@ -57,26 +153,6 @@
    "thema": "Personal & Ausbildung",
    "was": "Schleichende Erschöpfung bei Mitarbeitern erkennen, bevor gute Leute innerlich kündigen oder krank werden.",
    "tun": "Achte auf Anzeichen und sprich Betroffene frühzeitig an.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Flucht- und Rettungswege sichern, dabei Zutritt ermöglichen",
-   "link": "https://www.elektro.net/129399/kritis-dachgesetz-bei-anspruchsvollen-gebaeudekomplexen-umsetzen/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-26T14:53:57+00:00",
-   "gewerke": [
-    "Elektro",
-    "Metallbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Bei Flucht- und Rettungswegtechnik in Kritis-Gebäuden steigen die Anforderungen, das betrifft Planung und Ausführung.",
-   "tun": "Informiere dich über neue Anforderungen bei Kritis-Objekten.",
    "frist": null,
    "gewicht": 2
   },
@@ -119,24 +195,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Übertragungsnetzbetreiber erstellen Prognose zum EEG-Finanzierungsbedarf 2027",
    "link": "https://www.solarserver.de/2026/10/26/prognose-zum-eeg-finanzierungsbedarf-2027-vorgelegt/",
    "quelle": "Solarserver",
@@ -154,6 +212,24 @@
    "tun": "",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Boom von Rechenzentren: Was auf die Bauwirtschaft zukommt",
@@ -214,8 +290,28 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "titel": "Heizspiegel: Preise steigen 2026",
+   "link": "https://www.shk-profi.de/news/heizspiegel-preise-steigen-2026-4440232.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-10-26T08:43:15+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Preise & Material",
+   "was": "Heizkosten steigen 2026 wieder spürbar – relevant für Beratungsgespräche mit Kunden zu Modernisierung.",
+   "tun": "Nutze die Zahlen als Argument für Effizienzmaßnahmen beim Kunden.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
    "quelle": "IPH Academy",
    "aktiv": true,
    "bereich": "IPH",
@@ -291,43 +387,6 @@
    "gewicht": 2
   },
   {
-   "titel": "EU-Zoll für Online-Bestellungen aus Drittländern",
-   "link": "https://www.ikz.de/detail/news/detail/eu-zoll-fuer-online-bestellungen-aus-drittlaendern/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-10-26T07:25:08+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Preise & Material",
-   "was": "Neue EU-Zollregeln für Online-Bestellungen aus Drittländern können den Materialeinkauf verteuern.",
-   "tun": "Prüfe mögliche Zollkosten bei Bestellungen aus Drittländern vorab.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Drei Triflex-Systeme mit 40 Jahren Nutzungsdauer bestätigt",
    "link": "https://www.bauhandwerk.de/news/drei-triflex-systeme-mit-40-jahren-nutzungsdauer-bestaetigt-4440029.html",
    "quelle": "bauhandwerk",
@@ -345,6 +404,24 @@
    "tun": "Nutze die Zertifizierung als Argument bei Angeboten.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Westfalen-Gruppe investiert Millionenbetrag in die Produktion natürlicher Kältemittel",
@@ -385,41 +462,24 @@
    "gewicht": 2
   },
   {
-   "titel": "Diamantscheiben für Stein und Beton",
-   "link": "https://www.elektro.net/129955/diamantscheiben-fuer-stein-und-beton/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-26T14:23:00+00:00",
+   "titel": "Schräder: Abgasreinigung und Wärmerückgewinnung kombiniert",
+   "link": "https://www.ikz.de/heizungstechnik/news/detail/schraeder-abgasreinigung-und-waermerueckgewinnung-kombiniert/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-10-27T06:07:00+00:00",
    "gewerke": [
-    "Elektro"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Preise & Material",
-   "was": "Neue Diamantscheibe erleichtert das Schlitzen für Elektro- und Datenleitungen in Stein und Beton.",
-   "tun": "Prüfe das Werkzeug für anstehende Schlitzarbeiten.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Neues System kombiniert Abgasreinigung und Wärmerückgewinnung bei Kleinfeuerungsanlagen – noch in Erprobung.",
+   "tun": "Beobachte die Entwicklung für künftige Modernisierungsangebote.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Übertragungsnetzbetreiber erwarten 17,5 Milliarden Euro EEG-Finanzierungsbedarf für 2027",
@@ -441,6 +501,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Clamex-P-14-Verbinder: Stärken, Schwächen und Grenzen",
    "link": "https://handwerk.com/gewerke/clamex-p-14-verbinder-staerken-schwaechen-und-grenzen",
    "quelle": "handwerk.com",
@@ -458,61 +536,6 @@
    "tun": "Prüfe Einsatzgrenzen des Systems vor Projektplanung.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "NRW beschließt Tarifentgeltsicherungsgesetz: Neue Anforderungen für öffentliche Vergaben",
-   "link": "https://vergabeblog.de/2026-10-26/nrw-beschliesst-tarifentgeltsicherungsgesetz-neue-anforderungen-fuer-oeffentliche-vergaben-2/",
-   "quelle": "vergabeblog",
-   "bereich": "Vergabe",
-   "datum": "2026-10-26T10:30:37+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "NRW verlangt bei öffentlichen Aufträgen künftig Nachweis tarifgerechter Entlohnung – betrifft Angebote für öffentliche Vergaben.",
-   "tun": "Prüfe Tarifbindung und Lohnnachweise vor Angeboten für öffentliche Aufträge in NRW.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Baukonjunktur legt etwas zu",
-   "link": "https://www.tga-praxis.de/news/baukonjunktur-legt-etwas-zu.html",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-10-26T08:37:31+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Leichte Erholung der Baukonjunktur kann Auftragslage und Planungssicherheit verbessern.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Aufrechnung mit Kündigungsmehrkosten insolvenzrechtlich unzulässig?",
@@ -571,6 +594,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Remote Access: Ein VPN allein schützt kein Firmennetz",
    "link": "https://www.mittelstandswiki.de/2026/10/remote-access-ein-vpn-allein-schuetzt-kein-firmennetz/",
    "quelle": "Mittelstandswiki",
@@ -588,24 +629,6 @@
    "tun": "Prüfe die IT-Sicherheitsmaßnahmen für Homeoffice-Zugänge im Betrieb.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "KI-Agenten im Praxistest: Die 10-Punkte-Checkliste für den Mittelstand",
@@ -664,25 +687,6 @@
    "gewicht": 2
   },
   {
-   "titel": "So schützen Sie sich vor Betrug bei Online-Bezahldiensten",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/so-schuetzen-sie-sich-vor-betrug-bei-online-bezahldiensten",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-26T12:45:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Phishing und Fake-Shops bei Online-Bezahldiensten können auch Betriebe finanziell treffen.",
-   "tun": "Schärfe im Büro das Bewusstsein für Zahlungsbetrug.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -699,6 +703,26 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Fluchtwege und Rettungswege sichern, dabei Zutritt ermöglichen",
+   "link": "https://www.elektro.net/129399/kritis-dachgesetz-bei-anspruchsvollen-gebaeudekomplexen-umsetzen/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-26T14:53:00+00:00",
+   "gewerke": [
+    "Elektro",
+    "Metallbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Bei Flucht- und Rettungswegtechnik in Kritis-Gebäuden steigen die Anforderungen, das betrifft Planung und Ausführung.",
+   "tun": "Informiere dich über neue Anforderungen bei Kritis-Objekten.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Gebäudeintegrierte Photovoltaik: Solardach auf dem Hafenwirt am Chiemsee",
@@ -759,24 +783,6 @@
    "gewicht": 2
   },
   {
-   "titel": "So wurde aus einem internen Problem ein Geschäftsmodell",
-   "link": "https://www.impulse.de/strategie/prozesse-mit-ki-automatisieren-plus/7641496.html",
-   "quelle": "impulse",
-   "bereich": "Unternehmer",
-   "datum": "2026-10-22T15:10:44+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Zeigt, wie Digitalisierung interner Prozesse zu neuen Geschäftsfeldern führen kann – als Denkanstoß fürs eigene Geschäftsmodell.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
    "link": "https://iph-academy.learningsuite.io/student/event-plan",
    "quelle": "IPH Academy",
@@ -795,6 +801,43 @@
    ]
   },
   {
+   "titel": "EU-Zoll für Online-Bestellungen aus Drittländern",
+   "link": "https://www.ikz.de/detail/news/detail/eu-zoll-fuer-online-bestellungen-aus-drittlaendern/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-10-26T07:25:08+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Preise & Material",
+   "was": "Neue EU-Zollregeln für Online-Bestellungen aus Drittländern können den Materialeinkauf verteuern.",
+   "tun": "Prüfe mögliche Zollkosten bei Bestellungen aus Drittländern vorab.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "So wurde aus einem internen Problem ein Geschäftsmodell",
+   "link": "https://www.impulse.de/strategie/prozesse-mit-ki-automatisieren-plus/7641496.html",
+   "quelle": "impulse",
+   "bereich": "Unternehmer",
+   "datum": "2026-10-22T15:10:44+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Zeigt, wie Digitalisierung interner Prozesse zu neuen Geschäftsfeldern führen kann – als Denkanstoß fürs eigene Geschäftsmodell.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Wie Fernzugänge zum Sicherheitsrisiko werden können",
    "link": "https://kaelte-luft-klima.de/kaeltetechnik/cyberangriff-kaeltetechnik-sicherheit-massnahmen",
    "quelle": "Kälte Luft Klima",
@@ -810,26 +853,6 @@
    "thema": "Arbeitsschutz",
    "was": "Fernzugänge zu Kälteanlagen sind ein reales Angriffsziel, wie Vorfälle in Frankreich zeigen.",
    "tun": "Prüfe Fernwartungszugänge eurer Anlagen auf Absicherung.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Vorsicht vor veralteten Standardwerten",
-   "link": "https://www.shk-profi.de/news/vorsicht-vor-veralteten-standardwerten-4439620.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-10-21T13:03:39+00:00",
-   "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Veraltete Standardwerte lassen Lüftungsanlagen mit Wärmerückgewinnung in Berechnungen schlechter aussehen als sie sind.",
-   "tun": "Nutze aktuelle Herstellerwerte statt Standardwerte bei der Auslegung.",
    "frist": null,
    "gewicht": 2
   },
@@ -853,6 +876,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Sichere Verankerung der Fassaden der ehemaligen Textilfabrik Kümpers in Rheine",
    "link": "https://www.bauhandwerk.de/news/sichere-verankerung-der-fassaden-der-ehemaligen-textilfabrik-kuempers-in-rheine-4437938.html",
    "quelle": "bauhandwerk",
@@ -873,40 +914,40 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
+   "titel": "Diamantscheiben für Stein und Beton",
+   "link": "https://www.elektro.net/129955/diamantscheiben-fuer-stein-und-beton/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-26T14:23:00+00:00",
+   "gewerke": [
+    "Elektro"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Preise & Material",
+   "was": "Neue Diamantscheibe erleichtert das Schlitzen für Elektro- und Datenleitungen in Stein und Beton.",
+   "tun": "Prüfe das Werkzeug für anstehende Schlitzarbeiten.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "So schützen Sie sich vor Betrug bei Online-Bezahldiensten",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/so-schuetzen-sie-sich-vor-betrug-bei-online-bezahldiensten",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-26T12:45:00+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
     "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "Baugewerbe: Gebäudetyp E kann Baukosten senken",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/baugewerbe-gebaeudetyp-e-kann-baukosten-senken",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-26T11:50:00+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
-    "Architektur/Planung"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Inhaber/Geschäftsführung"
    ],
    "thema": "Recht & Pflichten",
-   "was": "Gebäudetyp E soll vereinfachte Standards ermöglichen und Baukosten senken – Umsetzung hängt jetzt von den Ländern ab.",
-   "tun": "Verfolge die Länderumsetzung, um neue Bauoptionen frühzeitig zu nutzen.",
+   "was": "Phishing und Fake-Shops bei Online-Bezahldiensten können auch Betriebe finanziell treffen.",
+   "tun": "Schärfe im Büro das Bewusstsein für Zahlungsbetrug.",
    "frist": null,
    "gewicht": 2
   },
@@ -931,23 +972,22 @@
    "gewicht": 2
   },
   {
-   "titel": "Smart Quarry Site vernetzt herstellerübergreifende Maschinenflotten",
-   "link": "https://allgemeinebauzeitung.de/smart-quarry-site-vernetzt-herstelleruebergreifende-maschinenflotten-abz/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-26T10:46:34+00:00",
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
    "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Herstellerübergreifende Vernetzung von Maschinen kann Stillstandszeiten auf Großbaustellen senken.",
-   "tun": "Informiere dich über digitale Flottenmanagement-Lösungen für deine Baustellen.",
-   "frist": null,
-   "gewicht": 1
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Estrich-Nenndicke berechnen: schwimmender Estrich und Heizestrich",
@@ -969,59 +1009,23 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
+   "titel": "NRW beschließt Tarifentgeltsicherungsgesetz: Neue Anforderungen für öffentliche Vergaben",
+   "link": "https://vergabeblog.de/2026-10-26/nrw-beschliesst-tarifentgeltsicherungsgesetz-neue-anforderungen-fuer-oeffentliche-vergaben-2/",
+   "quelle": "vergabeblog",
+   "bereich": "Vergabe",
+   "datum": "2026-10-26T10:30:37+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "Mit Ladeinfrastruktur ein dauerhaft stabiles Servicegeschäft aufbauen",
-   "link": "https://www.elektro.net/129795/mit-ladeinfrastruktur-ein-dauerhaft-stabiles-servicegeschaeft-aufbauen/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-26T09:50:00+00:00",
-   "gewerke": [
-    "Elektro"
+    "Büro/Kalkulation"
    ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Betrieb von Ladeinfrastruktur als Service bringt wiederkehrende Einnahmen statt nur Installationsauftrag.",
-   "tun": "Prüfe Betreibermodelle für Ladeinfrastruktur als Zusatzgeschäft.",
+   "thema": "Recht & Pflichten",
+   "was": "NRW verlangt bei öffentlichen Aufträgen künftig Nachweis tarifgerechter Entlohnung – betrifft Angebote für öffentliche Vergaben.",
+   "tun": "Prüfe Tarifbindung und Lohnnachweise vor Angeboten für öffentliche Aufträge in NRW.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Neue KI-Engineering-Software",
-   "link": "https://www.tga-praxis.de/news/neue-ki-engineering-software.html",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-10-23T09:49:10+00:00",
-   "gewerke": [
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Neue KI-gestützte Engineering-Software kann Planungsprozesse in der TGA beschleunigen.",
-   "tun": "Prüfe, ob die Software deine Planungsabläufe vereinfacht.",
-   "frist": null,
-   "gewicht": 1
   },
   {
    "titel": "Wann verjähren die Mängelansprüche aus einem Kulanzvertrag?",
@@ -1041,6 +1045,44 @@
    "tun": "Prüfe laufende Kulanzzusagen auf Verjährungsfristen.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Vorsicht vor veralteten Standardwerten",
+   "link": "https://www.shk-profi.de/news/vorsicht-vor-veralteten-standardwerten-4439620.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-10-21T13:03:39+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Veraltete Standardwerte lassen Lüftungsanlagen mit Wärmerückgewinnung in Berechnungen schlechter aussehen als sie sind.",
+   "tun": "Nutze aktuelle Herstellerwerte statt Standardwerte bei der Auslegung.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Wärmepumpe für bis zu 78 °C",
@@ -1064,24 +1106,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Mehr Sicherheit für Retrofit-Projekte",
    "link": "https://www.kka-online.info/news/mehr-sicherheit-fuer-retrofit-projekte-4439501.html",
    "quelle": "KKA",
@@ -1100,26 +1124,6 @@
    "tun": "Kalkuliere Einsparpotenziale bei Modernisierungen vorsichtig und transparent.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Mehr Baugenehmigungen im Wohnungsneubau",
-   "link": "https://www.ikz.de/detail/news/detail/mehr-baugenehmigungen-im-wohnungsneubau/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-10-20T05:45:00+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
-    "Architektur/Planung"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Markt",
-   "was": "Steigende Baugenehmigungen deuten auf anziehende Auftragslage im Wohnungsneubau hin.",
-   "tun": "Beobachte regionale Genehmigungszahlen für Kapazitätsplanung.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Rechenzentren: Flüssigkeitskühlung ersetzt die klassische Luftkühlung",
@@ -1142,20 +1146,22 @@
    "gewicht": 1
   },
   {
-   "titel": "Estrichmenge berechnen: Volumen, Trockenmörtel und Gebinde",
-   "link": "https://www.boden-wand-decke.de/estrichmenge-berechnen-357393/",
-   "quelle": "Boden Wand Decke",
-   "bereich": "Ausbau & Maler",
-   "datum": "2026-10-26T10:41:58+00:00",
+   "titel": "Baugewerbe: Gebäudetyp E kann Baukosten senken",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/baugewerbe-gebaeudetyp-e-kann-baukosten-senken",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-26T11:50:00+00:00",
    "gewerke": [
-    "Fliesen- und Bodenleger"
+    "Hochbau/Rohbau",
+    "Architektur/Planung"
    ],
    "rollen": [
-    "Büro/Kalkulation"
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
    ],
-   "thema": "Normen & Technik",
-   "was": "Rechner hilft, Estrichmenge inkl. Rohrabzug bei Heizestrich korrekt zu bestellen.",
-   "tun": "Verwende das Tool zur genauen Materialbestellung.",
+   "thema": "Recht & Pflichten",
+   "was": "Gebäudetyp E soll vereinfachte Standards ermöglichen und Baukosten senken – Umsetzung hängt jetzt von den Ländern ab.",
+   "tun": "Verfolge die Länderumsetzung, um neue Bauoptionen frühzeitig zu nutzen.",
    "frist": null,
    "gewicht": 2
   },
@@ -1178,22 +1184,22 @@
    ]
   },
   {
-   "titel": "Finanzministerium rechnet mit höheren Steuereinnahmen",
-   "link": "https://www.handwerksblatt.de/handwerkspolitik/finanzministerium-rechnet-mit-hoeheren-steuereinnahmen",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-26T10:33:00+00:00",
+   "titel": "Estrichmenge berechnen: Volumen, Trockenmörtel und Gebinde",
+   "link": "https://www.boden-wand-decke.de/estrichmenge-berechnen-357393/",
+   "quelle": "Boden Wand Decke",
+   "bereich": "Ausbau & Maler",
+   "datum": "2026-10-26T10:41:58+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Fliesen- und Bodenleger"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Büro/Kalkulation"
    ],
-   "thema": "Markt",
-   "was": "Mehr Steuereinnahmen könnten politischen Spielraum für Entlastungen wie die Stromsteuer schaffen – noch offen.",
-   "tun": "",
+   "thema": "Normen & Technik",
+   "was": "Rechner hilft, Estrichmenge inkl. Rohrabzug bei Heizestrich korrekt zu bestellen.",
+   "tun": "Verwende das Tool zur genauen Materialbestellung.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Vergabe: „Prozesskosten würden sinken“",
@@ -1213,25 +1219,6 @@
    "tun": "Beobachte Ausschreibungen auf geänderte Vergabekriterien.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Webinar Not- und Sicherheitsbeleuchtung 2026",
-   "link": "https://www.elektro.net/129981/webinar-not-und-sicherheitsbeleuchtung-2026/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-26T08:50:34+00:00",
-   "gewerke": [
-    "Elektro"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Neue Normen und Arbeitsstättenrichtlinien zur Sicherheitsbeleuchtung werden vorgestellt.",
-   "tun": "Melde dich fürs Webinar an, um aktuelle Normänderungen zu kennen.",
-   "frist": null,
-   "gewicht": 1
   },
   {
    "titel": "8,5 %-iger Einbehalt kann \"geringfügig\" sein!",
@@ -1254,24 +1241,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Raumklimaqualität verbindlich in Bauvorschriften verankern",
    "link": "https://www.kka-online.info/news/raumklimaqualitaet-verbindlich-in-bauvorschriften-verankern-4438765.html",
    "quelle": "KKA",
@@ -1290,6 +1259,24 @@
    "tun": "Verfolge die Entwicklung, um Angebote frühzeitig anzupassen.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "KI klaut den Job? So wird dein Team fit für die Zukunft",
@@ -1330,22 +1317,40 @@
    "gewicht": 2
   },
   {
-   "titel": "Baugewerbe warnt vor neuen ÖPP-Projekten im Autobahnbau",
-   "link": "https://allgemeinebauzeitung.de/autobahn-baugewerbe-opp-projekte-mittelstand-wirtschaftlichkeit/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-10-26T10:27:55+00:00",
+   "titel": "Finanzministerium rechnet mit höheren Steuereinnahmen",
+   "link": "https://www.handwerksblatt.de/handwerkspolitik/finanzministerium-rechnet-mit-hoeheren-steuereinnahmen",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-26T10:33:00+00:00",
    "gewerke": [
-    "Tiefbau"
+    "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung"
    ],
    "thema": "Markt",
-   "was": "Neue ÖPP-Modelle im Autobahnbau könnten Vergabestrukturen und Chancen für mittelständische Baubetriebe verändern.",
+   "was": "Mehr Steuereinnahmen könnten politischen Spielraum für Entlastungen wie die Stromsteuer schaffen – noch offen.",
    "tun": "",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Mit Ladeinfrastruktur ein dauerhaft stabiles Servicegeschäft aufbauen",
+   "link": "https://www.elektro.net/129795/mit-ladeinfrastruktur-ein-dauerhaft-stabiles-servicegeschaeft-aufbauen/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-10-26T09:50:00+00:00",
+   "gewerke": [
+    "Elektro"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Betrieb von Ladeinfrastruktur als Service bringt wiederkehrende Einnahmen statt nur Installationsauftrag.",
+   "tun": "Prüfe Betreibermodelle für Ladeinfrastruktur als Zusatzgeschäft.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
@@ -1364,44 +1369,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Rauchwarnmelder: Vorsicht bei der Auswahl",
-   "link": "https://www.handwerksblatt.de/panorama/rauchwarnmelder-vorsicht-bei-der-auswahl",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-26T09:35:00+00:00",
-   "gewerke": [
-    "Elektro"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Normen & Technik",
-   "was": "ADAC-Test zeigt Qualitätsunterschiede bei Rauchwarnmeldern – wichtig für Einbau-Empfehlungen.",
-   "tun": "Prüfe, welche Modelle du aktuell verbaust, und vergleiche mit Testergebnis.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Werkzeuglose Energie- und Signalverteilung mit steckbarem Installationssystem",
-   "link": "https://www.elektro.net/129822/werkzeuglose-energie-und-signalverteilung-mit-steckbarem-installationssystem/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-10-23T12:00:00+00:00",
-   "gewerke": [
-    "Elektro"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Steckbare Installationssysteme sparen Verdrahtungszeit und funktionieren auch im Außen- und Feuchtbereich.",
-   "tun": "Teste das System bei der nächsten Installation auf Zeitersparnis.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Keine Zahlen, kein Erfolg",
@@ -1444,62 +1411,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "Autobahn: Kreditfinanzierte Investitionen und ÖPP sollen kommen",
-   "link": "https://vergabeblog.de/2026-10-21/autobahn-kreditfinanzierte-investitionen-und-oepp-sollen-kommen/",
-   "quelle": "vergabeblog",
-   "bereich": "Vergabe",
-   "datum": "2026-10-21T06:00:42+00:00",
-   "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Neue Finanzierung der Autobahn GmbH über Kredite und ÖPP kann künftige Ausschreibungen und Projektvolumen verändern.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Qualitätssicherung von Mehrscheiben-Isolierglas",
-   "link": "https://www.gff-magazin.de/qualitaetssicherung-von-mehrscheiben-isolierglas-336616/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-10-21T04:48:00+00:00",
-   "gewerke": [
-    "Fensterbau/Glas"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Regelmäßige Eigen- und Fremdüberwachung sichert die Qualität von Mehrscheiben-Isolierglas für Gütezeichen-Betriebe.",
-   "tun": "Prüfe eigene Qualitätssicherungsprozesse beim Isolierglaseinbau.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "EnerCube und Panasonic fixieren strategische Partnerschaft",
    "link": "https://www.kka-online.info/news/enercube-und-panasonic-fixieren-strategische-partnerschaft-4438736.html",
    "quelle": "KKA",
@@ -1519,6 +1430,44 @@
    "gewicht": 1
   },
   {
+   "titel": "Mehr Baugenehmigungen im Wohnungsneubau",
+   "link": "https://www.ikz.de/detail/news/detail/mehr-baugenehmigungen-im-wohnungsneubau/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-10-20T05:45:00+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Markt",
+   "was": "Steigende Baugenehmigungen deuten auf anziehende Auftragslage im Wohnungsneubau hin.",
+   "tun": "Beobachte regionale Genehmigungszahlen für Kapazitätsplanung.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "VDMA ALT zieht Bilanz: Hohe Exporte, Regularien verunsichern",
    "link": "https://kaelte-luft-klima.de/branche-und-markt/vdma-alt-zieht-bilanz-hohe-exporte-regularien-verunsichern",
    "quelle": "Kälte Luft Klima",
@@ -1535,24 +1484,6 @@
    "tun": "Verfolge Regularien-Updates des VDMA zur Planungssicherheit.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Wer Planungsleistungen verwertet, der muss auch dafür bezahlen!",
