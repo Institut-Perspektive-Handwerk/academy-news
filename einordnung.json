@@ -23236,5 +23236,636 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-28"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/mehr-geld-fuer-junge-familien": {
+  "id": "2b2842e68f7d",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Neue Elterngeldregeln beeinflussen Personalplanung bei Elternzeiten deiner Mitarbeiter.",
+  "tun": "Informiere dich über die neuen Elterngeld-Regeln für die Personalplanung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://allgemeinebauzeitung.de/uv-schutz-psa-macht-freien-sinn/": {
+  "id": "59591a6bd79a",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Arbeitsschutz",
+  "was": "UV-Schutzkleidung mit UPF-Wert schützt deine Außenmitarbeiter wirksamer vor Sonnenschäden.",
+  "tun": "Prüfe die PSA-Ausstattung auf UV-Schutz mit UPF-Kennzeichnung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://handwerk.com/gewerke/bestatter-ausbildung-boomt-so-viele-azubis-wie-nie": {
+  "id": "38c3add5cfe8",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.pv-magazine.de/2026/10/28/ads-tec-energy-plant-bau-eines-vier-gigawattstunden-speichers-in-baden-wuerttemberg/": {
+  "id": "69ac4f1a07ab",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.solarserver.de/2026/10/28/kommunale-photovoltaik-freibad-hoheneck-nutzt-sonnenstrom/": {
+  "id": "ac18676b021a",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Zeigt, wie PV-Anlagen bei Objekten mit hohem Tagesverbrauch wirtschaftlich besonders sinnvoll sind.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://vergabeblog.de/2026-10-28/dvnw-regionalgruppe-frankfurt-sitzung-am-4-november-2026/": {
+  "id": "d114790cb2ed",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.elektro.net/129828/gute-vorplanung-weniger-aufwand-auf-der-baustelle/": {
+  "id": "eedb5532fe8a",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Vorkonfektionierte Systeme und digitale Planung können Montagezeiten verkürzen, außer bei vielen Sonderlösungen.",
+  "tun": "Prüfe, wo vorgefertigte Systeme in deinen Projekten Zeit sparen können.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.boden-wand-decke.de/lausitzer-oberflaechentage-2026-praxiswissen-fuer-parkettleger-357487/": {
+  "id": "c90ab789818d",
+  "relevant": true,
+  "gewerke": [
+   "Fliesen- und Bodenleger"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Fachtagung thematisierte Gewährleistungsfallen und Restaurierungstechniken für Parkett- und Bodenleger.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.ikz.de/sanitaertechnik/news/detail/aschl-robuste-bodenablaeufe-fuer-eine-leistungsstarke-entwaesserung/": {
+  "id": "f6c6fc3104d3",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.tga-praxis.de/news/deutschland-ist-eu-schlusslicht-bei-smart-metern.html": {
+  "id": "d8e0470d3602",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Verzögerter Smart-Meter-Rollout in Deutschland bremst Digitalisierung von Energieprojekten im Betrieb.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317017": {
+  "id": "eda08564cede",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "BGH-Urteil klärt, ob trotz unwirksamer Abnahmeklausel eine schlüssige Abnahme vorliegen kann.",
+  "tun": "Prüfe deine Abnahmeklauseln in Verträgen auf Wirksamkeit.",
+  "frist": null,
+  "gewicht": 3,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.handwerk-magazin.de/diskussion-sind-die-arbeitsbedingungen-im-handwerk-ein-wesentlicher-grund-fuer-den-fachkraeftemangel-352259/": {
+  "id": "c109caff1821",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://allgemeinebauzeitung.de/technik-muss-maschinenlebensdauer-rechnen/": {
+  "id": "f9cc36621540",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau",
+   "Hochbau/Rohbau",
+   "Gerüstbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Digitale Assistenzsysteme an Maschinen können bei Fachkräftemangel die Produktivität über die Nutzungsdauer steigern.",
+  "tun": "Kalkuliere den Nutzen neuer Maschinentechnik über die Gesamtlaufzeit, nicht nur den Kaufpreis.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.pv-magazine.de/2026/10/28/zahl-neuer-gewerbespeicher-hat-sich-in-den-ersten-drei-quartalen-verdreifacht/": {
+  "id": "4f26f61ca162",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Starker Zuwachs bei Gewerbespeichern zeigt wachsende Nachfrage, während PV-Gewerbeanlagen zurückgehen.",
+  "tun": "Beobachte die Nachfrageverschiebung hin zu Speicherlösungen bei Gewerbekunden.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.solarserver.de/2026/10/28/atomenergie-und-ccs-als-ersatz-fuer-erneuerbare-energien/": {
+  "id": "a2aeb0c13270",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.elektro.net/129959/hebesystem-fuer-pv-module/": {
+  "id": "4c750956f602",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "Dachdecker"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Arbeitsschutz",
+  "was": "Ein Hebesystem erleichtert den Modultransport aufs Dach und senkt die körperliche Belastung deiner Monteure.",
+  "tun": "Prüfe das Hebesystem für den Modultransport auf euren Baustellen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.boden-wand-decke.de/fliessestrichforum-2026-impulse-fuer-die-branche-357472/": {
+  "id": "fea6a127b69a",
+  "relevant": true,
+  "gewerke": [
+   "Fliesen- und Bodenleger"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Der Estrichmörtel-Absatz sinkt weiter, Calciumsulfatestrich punktet dafür mit besserer CO2-Bilanz als Argument im Kundengespräch.",
+  "tun": "Nutze die CO2-Zahlen als Verkaufsargument gegenüber Bauherren.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316825": {
+  "id": "69589fa6c8b2",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke",
+   "Architektur/Planung"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Ohne Widerrufsbelehrung bei Verbraucherverträgen kann der komplette Honoraranspruch entfallen, wie das Urteil zeigt.",
+  "tun": "Prüfe eure Vertragsunterlagen auf eine korrekte Widerrufsbelehrung bei Verbraucheraufträgen.",
+  "frist": null,
+  "gewicht": 3,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.pv-magazine.de/2026/10/28/aufschwung-am-grosshandelsmarkt-batterieerloese-im-september/": {
+  "id": "45dafd8c03d7",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Steigende Strompreise und größere Preisspannen machen Batteriespeicher-Projekte für Kunden wieder wirtschaftlich attraktiver.",
+  "tun": "Sprich Kunden mit Speicherinteresse auf die verbesserte Wirtschaftlichkeit an.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.solarserver.de/2026/10/28/freie-waehler-in-bayern-staatliche-freiflaechen-parkplaetze-fuer-photovoltaik-nutzen/": {
+  "id": "9de02aa895c9",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://allgemeinebauzeitung.de/zecon-elektrische-baumaschinen-einsatzprofil-wirtschaftlichkeit/": {
+  "id": "c1c6cbf7e3d1",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau",
+   "Hochbau/Rohbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Elektrische Baumaschinen werden gezielt auf Betriebszeiten und Lastprofile abgestimmt, um auf emissionsfreien Baustellen wirtschaftlich zu bleiben.",
+  "tun": "Kläre bei E-Baumaschinen vorab Lastprofil und Ladezeiten mit dem Anbieter.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.elektro.net/129999/modulare-notleuchten-und-loesung-fuer-den-aussenbereich/": {
+  "id": "e771b9f941b0",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.boden-wand-decke.de/bau-wohnen-im-zeichen-von-veraenderung-357479/": {
+  "id": "18364fa8837c",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.tga-praxis.de/news/gesetzentwurf-zum-gebaeudetyp-e-wirft-fragen-auf.html": {
+  "id": "5bebd8db3d53",
+  "relevant": true,
+  "gewerke": [
+   "Architektur/Planung",
+   "Hochbau/Rohbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Der neue Gebäudetyp E soll vereinfachtes Bauen ermöglichen, der Gesetzentwurf lässt aber noch offene Fragen zur Haftung.",
+  "tun": "Verfolge die Diskussion zum Gebäudetyp E, bevor du ihn in Verträgen nutzt.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.pv-magazine.de/2026/10/28/bne-redispatch-vorbehalt-koennte-gesamte-redispatch-systematik-ins-wanken-bringen/": {
+  "id": "e0c7f181cea3",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Ein geplanter Redispatch-Vorbehalt könnte die gesamte Netzsteuerungspraxis juristisch angreifbar machen und Projekte verzögern.",
+  "tun": "Beobachte die Entwicklung, wenn du große PV- oder Speicheranlagen ans Netz bringst.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://allgemeinebauzeitung.de/troisdorf-wiesbaden-korridorsanierung-gleis-steinwerke-etcs/": {
+  "id": "08a5abad8ff3",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.solarserver.de/2026/10/28/redispatch-verfahren-in-deutschland-bundesnetzagentur-bessert-nach/": {
+  "id": "4c28bf28b637",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Die Bundesnetzagentur will Redispatch-Regeln nachbessern, technische Defizite bleiben laut Verband aber bestehen.",
+  "tun": "Verfolge die Festlegung, wenn Netzanschluss und Einspeisemanagement euch betreffen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.elektro.net/129920/kombiniertes-system-fuer-sicherheitsbeleuchtung/": {
+  "id": "0232c8767fff",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://allgemeinebauzeitung.de/erlangen-schleuse-zublin-bauer-masshaltigkeit-technik/": {
+  "id": "b9192ee3d9ee",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.pv-magazine.de/2026/10/28/maxsolar-und-sap-schliessen-solarstrom-ppa/": {
+  "id": "899c0f0aadd5",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.solarserver.de/2026/10/28/roter-pvt-kollektor-von-twl-technologie-fuer-historische-gebaeude/": {
+  "id": "26fe25eb7e7e",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)",
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Neuer PVT-Kollektor kombiniert Strom- und Wärmeerzeugung, speziell für Sanierung historischer Gebäude mit Sole-Wärmepumpe.",
+  "tun": "Prüfe das Produkt für Sanierungsprojekte mit Denkmalschutz-Auflagen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316846": {
+  "id": "38c2b81038c5",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Gericht bestätigt: Hersteller können die Verwaltungsvorschrift Technische Baubestimmungen nicht gerichtlich angreifen, sie bleibt verbindlich.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://allgemeinebauzeitung.de/cedral-lap-paneele-pultdach-bungalow/": {
+  "id": "cd0d61c6246d",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-28"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316813": {
+  "id": "28c6df5238d5",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Vergabekammer stuft bestimmte Bietergemeinschaften als wettbewerbswidrig ein, Risiko für Ausschluss vom Vergabeverfahren.",
+  "tun": "Prüfe Bietergemeinschaften vor Angebotsabgabe auf Wettbewerbskonformität.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-28"
  }
 }
