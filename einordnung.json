@@ -25180,5 +25180,66 @@
   "frist": null,
   "gewicht": 2,
   "gesehen": "2026-10-29"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=315679": {
+  "id": "450bc5762440",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.elektro.net/129845/drehende-elektrische-maschinen/": {
+  "id": "bff35a9ea663",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "TGA/Energiedienstleister",
+   "Sanitär/Heizung/Klima (SHK)",
+   "Kälte- und Klimatechnik"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Neue Wirkungsgradklassen für Drehstrommotoren betreffen Auswahl und Ausschreibung von Antrieben in Anlagen.",
+  "tun": "Prüfe eingesetzte Motoren auf Konformität mit neuer Klassifizierung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.bft-international.com/de/news/bau-preview-2027-produktivitaet-bestand-und-bezahlbares-bauen-im-fokus-4443243.html": {
+  "id": "a7d75709a984",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
  }
 }
