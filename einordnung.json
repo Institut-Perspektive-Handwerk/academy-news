@@ -25241,5 +25241,729 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-30"
+ },
+ "https://allgemeinebauzeitung.de/daimler-umfrage-elektro-lkw-wirtschaftlicher-diesel/": {
+  "id": "da5bea640fbb",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau",
+   "Gerüstbau",
+   "Garten- und Landschaftsbau"
+  ],
+  "thema": "Markt",
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "was": "Bei der nächsten Fuhrpark-Investition kann ein E-Lkw über die Gesamtkosten günstiger sein als Diesel.",
+  "tun": "Prüfe TCO-Vergleich für die nächste Nutzfahrzeug-Anschaffung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.solarserver.de/2026/10/30/stromversorgung-von-ki-rechenzentren-1komma5-und-2g-energy-kooperieren/": {
+  "id": "c7da50c11d31",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Markt",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.tga-praxis.de/news/kuehlung-mit-kaeltemitteln-aus-festen-materialien.html": {
+  "id": "e18ce9b1f323",
+  "relevant": true,
+  "gewerke": [
+   "Kälte- und Klimatechnik"
+  ],
+  "thema": "Normen & Technik",
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "was": "Neue Festkörper-Kältemittel könnten künftig eine Alternative zu klassischen Kältemitteln in Kälteanlagen werden.",
+  "tun": "Beobachte die Entwicklung für künftige Anlagenplanung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.pv-magazine.de/2026/10/30/uniper-und-stadtwerke-lippstadt-schliessen-tolling-vertrag-fuer-42-megawattstunden-speicher/": {
+  "id": "eac621e5859e",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Markt",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.boden-wand-decke.de/parkettforum-baden-wuerttemberg-bewerber-da-ausbilder-fehlen-357637/": {
+  "id": "b1f5339d824c",
+  "relevant": true,
+  "gewerke": [
+   "Fliesen- und Bodenleger"
+  ],
+  "thema": "Personal & Ausbildung",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Ausbildung"
+  ],
+  "was": "Trotz vorhandener Bewerber fehlen Ausbildungsbetriebe im Parkett-/Bodenbereich – Nachwuchssicherung wird schwieriger.",
+  "tun": "Prüfe, ob du als Ausbildungsbetrieb aktiv werben kannst.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.ikz.de/heizungstechnik/news/detail/zehnder-design-heizkoerper-fuer-moderne-baeder/": {
+  "id": "10f25fa34949",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Normen & Technik",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.elektro.net/129856/led-schreibtischleuchte/": {
+  "id": "dabc53575580",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Normen & Technik",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/tabellen-effizient-erstellen-daten-sicher-bearbeiten": {
+  "id": "18f84b63fad4",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Personal & Ausbildung",
+  "rollen": [
+   "Büro/Kalkulation"
+  ],
+  "was": "Excel-Grundkenntnisse im Büro erleichtern Kalkulation und Dokumentation im Betriebsalltag.",
+  "tun": "Melde Büromitarbeiter bei Bedarf zum Excel-Seminar an.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://kaelte-luft-klima.de/branche-und-markt/bewaehrte-qualitaet-neue-perspektiven-mehr-moeglichkeiten": {
+  "id": "42f7eaf6451d",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Markt",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316780": {
+  "id": "a8a40dd13544",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "thema": "VOB & Verträge",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "was": "Ein Gericht bestätigt, dass eine 20-jährige Vertragslaufzeit für Solaranlagen-Betrieb rechtlich zulässig ist.",
+  "tun": "Prüfe eigene Solaranlagen-Verträge auf vergleichbare Laufzeitklauseln.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.handwerk-magazin.de/cannabis-wird-legal-darf-jetzt-bei-der-arbeit-gekifft-werden-306712/": {
+  "id": "8d45273a4801",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Recht & Pflichten",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "was": "Trotz Cannabis-Legalisierung gilt am Arbeitsplatz weiterhin das Verbot bei Beeinträchtigung der Arbeitssicherheit.",
+  "tun": "Regle den Umgang mit Cannabiskonsum klar in der Betriebsordnung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.shk-profi.de/news/neuausrichtung-bei-panasonic-heating-und-cooling-4443321.html": {
+  "id": "51fe3c8f442d",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Markt",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.solarserver.de/2026/10/30/stuttgarts-groesste-photovoltaik-anlage-entsteht-als-faltdach-ueber-dem-hauptklaerwerk/": {
+  "id": "d9b77f9eaa8c",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Markt",
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://allgemeinebauzeitung.de/erwerbstaeitige-stabil-jaerschaftsvergleich-erwerbslosenquote/": {
+  "id": "a405e72ad6e9",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "thema": "Markt",
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "was": "Stabile Beschäftigtenzahlen bei leicht steigender Erwerbslosigkeit deuten auf einen angespannten, aber ruhigen Arbeitsmarkt hin.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.pv-magazine.de/2026/10/30/photovoltaik-fassade-fuer-bestand-und-neubau/": {
+  "id": "7c9532bd27e7",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "Stuckateur/Fassade"
+  ],
+  "thema": "Normen & Technik",
+  "rollen": [
+   "Projektleitung/Bauleitung"
+  ],
+  "was": "Neue PV-Fassadensysteme ermöglichen Nachrüstung bestehender Fassaden mit geringem baulichen Eingriff.",
+  "tun": "Prüfe das System als Option für Fassadensanierungen mit PV-Wunsch.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.elektro.net/129903/karriereweg-gebaeudesystemintegration/": {
+  "id": "bbbadd74ce53",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Ausbildung",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Schulkooperationen zu Gebäudesystemintegration können helfen, frühzeitig Azubis für Elektrobetriebe zu gewinnen.",
+  "tun": "Prüfe Kontakt zu Schulen in deiner Region für ähnliche Praxistage.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/sicher-auftreten-ueberzeugend-kommunizieren": {
+  "id": "b5ecebb4d032",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.tga-praxis.de/news/mehr-sicherheit-fuer-retrofit-projekte.html": {
+  "id": "da54652692c7",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.boden-wand-decke.de/fep-maerkte-uneinheitlich-357633/": {
+  "id": "630f5971af50",
+  "relevant": true,
+  "gewerke": [
+   "Fliesen- und Bodenleger"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Der Parkettmarkt zeigt erste positive Signale – gute Auftragslage könnte sich stabilisieren.",
+  "tun": "Beobachte Auftragseingänge und plane Kapazitäten entsprechend.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.solarserver.de/2026/10/30/weniger-emissionen-wie-man-pelletsoefen-und-holzpellets-optimiert/": {
+  "id": "a187f097d09b",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Neue Erkenntnisse zu Pelletsqualität und Ofendesign können Emissionen bei Holzheizungen senken.",
+  "tun": "Informiere dich über optimierte Pelletsqualität für Kundeninstallationen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://allgemeinebauzeitung.de/blaustein-zentrum-wohnen-einkaufen-arbeiten-mitte/": {
+  "id": "78bce08edd97",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.pv-magazine.de/2026/10/30/ep-cube-bereitet-batteriespeicher-auf-direktvermarktung-in-der-eeg-novelle-vor/": {
+  "id": "571b684dc8a1",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Förderung",
+  "was": "Mit der EEG-Novelle wird Direktvermarktung auch für kleine PV-Anlagen zum Standard – Kunden brauchen passende Speicherlösungen.",
+  "tun": "Informiere Kunden frühzeitig über Direktvermarktungspflicht und Speicheroptionen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/kostenlose-infoveranstaltung-digital-detox": {
+  "id": "99319ed1d3f5",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.ikz.de/detail/news/detail/oneqrew-stellt-ki-gestuetzte-handwerkersoftware-vor/": {
+  "id": "ac32aef32792",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.elektro.net/129823/vollmachten-im-vertretungsfall/": {
+  "id": "a02cec59065f",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Ohne Vollmachtsregelung steht der Betrieb bei Ausfall des Chefs schnell still – rechtlich und organisatorisch.",
+  "tun": "Erstelle oder aktualisiere Vollmachten für den Vertretungsfall.",
+  "frist": null,
+  "gewicht": 3,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317062": {
+  "id": "65410bf5745b",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Mehrere Obliegenheitsverletzungen können zur vollständigen Leistungskürzung der Versicherung führen.",
+  "tun": "Prüfe deine Meldepflichten gegenüber der Betriebs- oder Bauleistungsversicherung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.solarserver.de/2026/10/30/wie-geht-es-mit-der-photovoltaik-foerderung-in-oesterreich-weiter/": {
+  "id": "0cbffd7b9fbb",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Förderung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://allgemeinebauzeitung.de/allison-markenarchitektur-dana-off-highway-produkte/": {
+  "id": "a4748b40d944",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/42-jahre-azubi-austausch-handwerk-verbindet": {
+  "id": "38d3dfb10579",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.pv-magazine.de/2026/10/30/branchenstillstand-pvb-austria-fordert-klarheit-zur-photovoltaik-foerderung/": {
+  "id": "6ee4ca333152",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Förderung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.elektro.net/129937/24-tuerchen-mit-werkzeugen/": {
+  "id": "b1d1e8cab409",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Preise & Material",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317052": {
+  "id": "4958f08d54ac",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.solarserver.de/2026/10/30/wasserstoff-langzeitspeicher-fuer-photovoltaik-in-privathaushalten/": {
+  "id": "1d419823658d",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "Sanitär/Heizung/Klima (SHK)"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Wasserstoff-Speicher könnten künftig Saisonspeicherung für PV-Anlagen ergänzen, noch Nischentechnik.",
+  "tun": "Beobachte die Entwicklung für künftige Kundenanfragen zu Langzeitspeichern.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/jetzt-um-auslandsstipendium-bewerben": {
+  "id": "5820fd5f51bd",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Ausbildung",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Meister können sich für ein gefördertes Auslandsstipendium bewerben, gut für Mitarbeiterbindung und Qualifikation.",
+  "tun": "Informiere deine Meister über die Bewerbungsfrist zum Stipendium.",
+  "frist": "2027-01-15",
+  "gewicht": 2,
+  "gesehen": "2026-10-30"
+ },
+ "https://allgemeinebauzeitung.de/makineo-makin-maschinensteuerung-kteg-copilot-one/": {
+  "id": "d49fcd0274b7",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau",
+   "Hochbau/Rohbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Neue Maschinensteuerungssoftware verspricht geräteübergreifende Bedienung und geringere Installationskosten.",
+  "tun": "Prüfe, ob die Software für deinen Maschinenpark Kosten spart.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.solarserver.de/2026/10/30/simulationsstudie-vergleicht-agri-pv-konzepte/": {
+  "id": "5b1801172a08",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "Garten- und Landschaftsbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Vertikale bifaziale Ost-West-Agri-PV-Systeme schneiden in der Studie am besten ab, relevant für Planung solcher Projekte.",
+  "tun": "Ziehe das Ost-West-Konzept bei Agri-PV-Angeboten in Betracht.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/gewinner-des-denkmalpflegepreises-stehen-fest": {
+  "id": "3a1d26b6dc25",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://allgemeinebauzeitung.de/doll-direktvertrieb-polen-tiefbettauflieger-technologie-service/": {
+  "id": "8eddeeb03f89",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Preise & Material",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-30"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316618": {
+  "id": "bf841b6b7bb5",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Ein Wechsel des Auftragnehmers gilt als wesentliche Vertragsänderung, wichtig bei Nachunternehmer- oder Konsortialwechseln.",
+  "tun": "Prüfe Verträge vor einem Auftragnehmerwechsel auf vergaberechtliche Risiken.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-10-30"
  }
 }
