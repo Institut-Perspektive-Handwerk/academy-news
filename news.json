@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-31T05:42+00:00",
+ "stand": "2026-10-31T12:31+00:00",
  "anzahl": 83,
  "gewerke": [
   "Alle Gewerke",
@@ -48,6 +48,25 @@
   }
  ],
  "news": [
+  {
+   "titel": "VOB: Schwache Planung, volles Honorar – so hilft die Bedenkenanzeige",
+   "link": "https://www.handwerk-magazin.de/vob-schwache-planung-volles-honorar-so-hilft-die-bedenkenanzeige-352727/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-31T09:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Ohne schriftliche Bedenkenanzeige haftest du für Planungsfehler, die nicht von dir stammen.",
+   "tun": "Melde Planungsmängel schriftlich und vor Ausführung an den Auftraggeber.",
+   "frist": null,
+   "gewicht": 3
+  },
   {
    "titel": "Jetzt noch Projekte für den Brillux Design Award 2027 bis Jahresende einreichen",
    "link": "https://www.bauhandwerk.de/news/jetzt-noch-projekte-fuer-den-brillux-design-award-2927-bis-jahresende-einreichen-4444006.html",
@@ -102,24 +121,6 @@
    "thema": "Recht & Pflichten",
    "was": "Praxisbeispiel zeigt, wie sich Betriebe konkret auf die E-Rechnungspflicht vorbereiten können.",
    "tun": "Prüfe, ob deine Buchhaltungssoftware E-Rechnungen empfangen kann",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Zeitmanagement im Handwerk: So setzen Sie als Chef Prioritäten",
-   "link": "https://www.handwerk-magazin.de/zeitmanagement-im-handwerk-so-setzen-sie-als-chef-prioritaeten-344760/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-30T13:01:10+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Serie zeigt, wie Chefs sich aus dem Tagesgeschäft lösen und klare Prioritäten setzen.",
-   "tun": "Plane feste Zeitblöcke für strategische Aufgaben ein",
    "frist": null,
    "gewicht": 2
   },
@@ -333,6 +334,24 @@
    ]
   },
   {
+   "titel": "Zeitmanagement im Handwerk: So setzen Sie als Chef Prioritäten",
+   "link": "https://www.handwerk-magazin.de/zeitmanagement-im-handwerk-so-setzen-sie-als-chef-prioritaeten-344760/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-30T13:01:10+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Serie zeigt, wie Chefs sich aus dem Tagesgeschäft lösen und klare Prioritäten setzen.",
+   "tun": "Plane feste Zeitblöcke für strategische Aufgaben ein",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Daimler-Umfrage: Elektro-Lkw sind wirtschaftlicher als Diesel",
    "link": "https://allgemeinebauzeitung.de/daimler-umfrage-elektro-lkw-wirtschaftlicher-diesel/",
    "quelle": "Allgemeine Bauzeitung",
@@ -391,24 +410,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tabellen effizient erstellen, Daten sicher bearbeiten",
-   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/tabellen-effizient-erstellen-daten-sicher-bearbeiten",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-10-30T08:52:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Büro/Kalkulation"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Excel-Grundkenntnisse im Büro erleichtern Kalkulation und Dokumentation im Betriebsalltag.",
-   "tun": "Melde Büromitarbeiter bei Bedarf zum Excel-Seminar an.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -427,6 +428,24 @@
    ]
   },
   {
+   "titel": "Tabellen effizient erstellen, Daten sicher bearbeiten",
+   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/tabellen-effizient-erstellen-daten-sicher-bearbeiten",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-10-30T08:52:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Büro/Kalkulation"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Excel-Grundkenntnisse im Büro erleichtern Kalkulation und Dokumentation im Betriebsalltag.",
+   "tun": "Melde Büromitarbeiter bei Bedarf zum Excel-Seminar an.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "FEP: Märkte uneinheitlich",
    "link": "https://www.boden-wand-decke.de/fep-maerkte-uneinheitlich-357633/",
    "quelle": "Boden Wand Decke",
@@ -443,44 +462,6 @@
    "tun": "Beobachte Auftragseingänge und plane Kapazitäten entsprechend.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Cannabis ist legal: Darf jetzt bei der Arbeit gekifft werden?",
-   "link": "https://www.handwerk-magazin.de/cannabis-wird-legal-darf-jetzt-bei-der-arbeit-gekifft-werden-306712/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-30T06:28:42+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Trotz Cannabis-Legalisierung gilt am Arbeitsplatz weiterhin das Verbot bei Beeinträchtigung der Arbeitssicherheit.",
-   "tun": "Regle den Umgang mit Cannabiskonsum klar in der Betriebsordnung.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Wenn Mitarbeitende funktionieren, aber unter ihrer Arbeit leiden",
-   "link": "https://www.impulse.de/personal/wenn-mitarbeitende-funktionieren-aber-unter-ihrer-arbeit-leiden/7642349.html",
-   "quelle": "impulse",
-   "bereich": "Unternehmer",
-   "datum": "2026-10-26T15:46:50+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Schleichende Erschöpfung bei Mitarbeitern erkennen, bevor gute Leute innerlich kündigen oder krank werden.",
-   "tun": "Achte auf Anzeichen und sprich Betroffene frühzeitig an.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Drei Triflex-Systeme mit 40 Jahren Nutzungsdauer bestätigt",
@@ -502,24 +483,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Remote Access: Ein VPN allein schützt kein Firmennetz",
    "link": "https://www.mittelstandswiki.de/2026/10/remote-access-ein-vpn-allein-schuetzt-kein-firmennetz/",
    "quelle": "Mittelstandswiki",
@@ -537,6 +500,24 @@
    "tun": "Prüfe die IT-Sicherheitsmaßnahmen für Homeoffice-Zugänge im Betrieb.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Vergütungskürzung nach Kündigung und verweigerter Mängelbeseitigung",
@@ -593,6 +574,25 @@
    "tun": "Erstelle oder aktualisiere Vollmachten für den Vertretungsfall.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Cannabis ist legal: Darf jetzt bei der Arbeit gekifft werden?",
+   "link": "https://www.handwerk-magazin.de/cannabis-wird-legal-darf-jetzt-bei-der-arbeit-gekifft-werden-306712/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-30T06:28:42+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Trotz Cannabis-Legalisierung gilt am Arbeitsplatz weiterhin das Verbot bei Beeinträchtigung der Arbeitssicherheit.",
+   "tun": "Regle den Umgang mit Cannabiskonsum klar in der Betriebsordnung.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
@@ -652,25 +652,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Praktikum im Handwerk: Grundregeln für die Nachwuchsförderung",
-   "link": "https://www.handwerk-magazin.de/schuelerpraktika-welche-regeln-sie-beachten-muessen-172113/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-29T08:33:46+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Ausbildung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Für Praktika im Handwerk gelten klare Regeln bei Vertrag, Vergütung und Versicherung - wichtig für Nachwuchsgewinnung.",
-   "tun": "Nutze den Mustervertrag für dein nächstes Praktikum.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "SHK-Handwerk: Stimmung deutlich verbessert",
    "link": "https://www.shk-profi.de/news/shk-handwerk-stimmung-deutlich-verbessert-4440941.html",
    "quelle": "SHK-Profi",
@@ -687,6 +668,25 @@
    "tun": "",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Wenn Mitarbeitende funktionieren, aber unter ihrer Arbeit leiden",
+   "link": "https://www.impulse.de/personal/wenn-mitarbeitende-funktionieren-aber-unter-ihrer-arbeit-leiden/7642349.html",
+   "quelle": "impulse",
+   "bereich": "Unternehmer",
+   "datum": "2026-10-26T15:46:50+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Schleichende Erschöpfung bei Mitarbeitern erkennen, bevor gute Leute innerlich kündigen oder krank werden.",
+   "tun": "Achte auf Anzeichen und sprich Betroffene frühzeitig an.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
@@ -799,6 +799,25 @@
    ]
   },
   {
+   "titel": "Praktikum im Handwerk: Grundregeln für die Nachwuchsförderung",
+   "link": "https://www.handwerk-magazin.de/schuelerpraktika-welche-regeln-sie-beachten-muessen-172113/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-29T08:33:46+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Ausbildung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Für Praktika im Handwerk gelten klare Regeln bei Vertrag, Vergütung und Versicherung - wichtig für Nachwuchsgewinnung.",
+   "tun": "Nutze den Mustervertrag für dein nächstes Praktikum.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "UBA: Erweiterung des Tools zur Berechnung von Lebenszyklus- und CO2-Kosten",
    "link": "https://vergabeblog.de/2026-10-29/uba-erweiterung-des-tools-zur-berechnung-von-lebenszyklus-und-co2-kosten/",
    "quelle": "vergabeblog",
@@ -857,26 +876,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Heizspiegel: Preise steigen 2026",
-   "link": "https://www.shk-profi.de/news/heizspiegel-preise-steigen-2026-4440232.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-10-26T08:43:15+00:00",
-   "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Preise & Material",
-   "was": "Heizkosten steigen 2026 wieder spürbar – relevant für Beratungsgespräche mit Kunden zu Modernisierung.",
-   "tun": "Nutze die Zahlen als Argument für Effizienzmaßnahmen beim Kunden.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
    "link": "https://iph-academy.learningsuite.io/student/courses",
    "quelle": "IPH Academy",
@@ -895,22 +894,24 @@
    ]
   },
   {
-   "titel": "So wurde aus einem internen Problem ein Geschäftsmodell",
-   "link": "https://www.impulse.de/strategie/prozesse-mit-ki-automatisieren-plus/7641496.html",
-   "quelle": "impulse",
-   "bereich": "Unternehmer",
-   "datum": "2026-10-22T15:10:44+00:00",
+   "titel": "Heizspiegel: Preise steigen 2026",
+   "link": "https://www.shk-profi.de/news/heizspiegel-preise-steigen-2026-4440232.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-10-26T08:43:15+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik"
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
    ],
-   "thema": "KI & Digitales",
-   "was": "Zeigt, wie Digitalisierung interner Prozesse zu neuen Geschäftsfeldern führen kann – als Denkanstoß fürs eigene Geschäftsmodell.",
-   "tun": "",
+   "thema": "Preise & Material",
+   "was": "Heizkosten steigen 2026 wieder spürbar – relevant für Beratungsgespräche mit Kunden zu Modernisierung.",
+   "tun": "Nutze die Zahlen als Argument für Effizienzmaßnahmen beim Kunden.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Rechenzentren: Flüssigkeitskühlung ersetzt die klassische Luftkühlung",
@@ -1107,25 +1108,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Bausoftware mit KI: Fix zu Kalkulation, Vertragsprüfung und Aufmaß",
-   "link": "https://www.handwerk-magazin.de/bausoftware-mit-ki-praxis-anwendungen-kosten-352109/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-27T09:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "KI & Digitales",
-   "was": "KI-Tools verkürzen Kalkulation und Vertragsprüfung erheblich, ersetzen aber nicht den Kalkulator.",
-   "tun": "Teste KI-gestützte Kalkulationssoftware für dein Büro.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Wärmepumpen als flexible Stromverbraucher vernetzen",
    "link": "https://kaelte-luft-klima.de/klimatechnik/waermepumpen-als-flexible-stromverbraucher-vernetzen",
    "quelle": "Kälte Luft Klima",
@@ -1159,6 +1141,24 @@
    ],
    "thema": "Markt",
    "was": "Ein großer Kältemittel-Lieferant baut Kapazitäten für natürliche Kältemittel aus, das kann Verfügbarkeit und Preise beeinflussen.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "So wurde aus einem internen Problem ein Geschäftsmodell",
+   "link": "https://www.impulse.de/strategie/prozesse-mit-ki-automatisieren-plus/7641496.html",
+   "quelle": "impulse",
+   "bereich": "Unternehmer",
+   "datum": "2026-10-22T15:10:44+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Zeigt, wie Digitalisierung interner Prozesse zu neuen Geschäftsfeldern führen kann – als Denkanstoß fürs eigene Geschäftsmodell.",
    "tun": "",
    "frist": null,
    "gewicht": 1
@@ -1392,22 +1392,23 @@
    "gewicht": 1
   },
   {
-   "titel": "Innovationsmuffel: Appell an Digitalisierungsgegner und KI-Feinde",
-   "link": "https://www.handwerk-magazin.de/die-innovationsmuffel-folge-352570/",
+   "titel": "Bausoftware mit KI: Fix zu Kalkulation, Vertragsprüfung und Aufmaß",
+   "link": "https://www.handwerk-magazin.de/bausoftware-mit-ki-praxis-anwendungen-kosten-352109/",
    "quelle": "handwerk magazin",
    "bereich": "Handwerk",
-   "datum": "2026-10-26T09:00:00+00:00",
+   "datum": "2026-10-27T09:00:00+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
+    "Büro/Kalkulation",
     "Inhaber/Geschäftsführung"
    ],
    "thema": "KI & Digitales",
-   "was": "Nur 2 Prozent der Handwerksbetriebe nutzen KI täglich – wer früh einsteigt, verschafft sich einen Vorteil.",
-   "tun": "Teste eine KI-Anwendung für eine wiederkehrende Büroaufgabe.",
+   "was": "KI-Tools verkürzen Kalkulation und Vertragsprüfung erheblich, ersetzen aber nicht den Kalkulator.",
+   "tun": "Teste KI-gestützte Kalkulationssoftware für dein Büro.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Branchenverbände fordern differenzierte PFAS-Regulierung",

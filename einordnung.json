@@ -26146,5 +26146,42 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-10-30"
+ },
+ "https://www.handwerk-magazin.de/vob-schwache-planung-volles-honorar-so-hilft-die-bedenkenanzeige-352727/": {
+  "id": "0415bb5c4382",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Ohne schriftliche Bedenkenanzeige haftest du für Planungsfehler, die nicht von dir stammen.",
+  "tun": "Melde Planungsmängel schriftlich und vor Ausführung an den Auftraggeber.",
+  "frist": null,
+  "gewicht": 3,
+  "gesehen": "2026-10-31"
+ },
+ "https://www.impulse.de/finanzen/burnout-mit-47-privatier-mit-52/7642328.html": {
+  "id": "903573511c65",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-10-31"
  }
 }
