@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-01T18:56+00:00",
- "anzahl": 80,
+ "stand": "2026-11-01T23:36+00:00",
+ "anzahl": 81,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -664,22 +664,22 @@
    "gewicht": 2
   },
   {
-   "titel": "Forschungsprojekt: ETH Zürich entwickelt Bauelemente aus bakteriengebundenem Sand",
-   "link": "https://www.bft-international.com/de/news/forschungsprojekt-eth-zuerich-entwickelt-bauelemente-aus-bakteriengebundenem-sand-4438028.html",
-   "quelle": "BFT",
-   "bereich": "Bau",
-   "datum": "2026-10-18T20:54:51+00:00",
+   "titel": "Zeitmanagement im Handwerk: So setzen Sie als Chef Prioritäten",
+   "link": "https://www.handwerk-magazin.de/zeitmanagement-im-handwerk-so-setzen-sie-als-chef-prioritaeten-344760/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-30T13:01:10+00:00",
    "gewerke": [
-    "Hochbau/Rohbau"
+    "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung"
    ],
-   "thema": "Normen & Technik",
-   "was": "Neue Fertigungstechnik mit Bio-Beton könnte langfristig Material und Verfahren im Rohbau verändern.",
-   "tun": "",
+   "thema": "Personal & Ausbildung",
+   "was": "Serie zeigt, wie Chefs sich aus dem Tagesgeschäft lösen und klare Prioritäten setzen.",
+   "tun": "Plane feste Zeitblöcke für strategische Aufgaben ein",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
@@ -698,24 +698,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Zeitmanagement im Handwerk: So setzen Sie als Chef Prioritäten",
-   "link": "https://www.handwerk-magazin.de/zeitmanagement-im-handwerk-so-setzen-sie-als-chef-prioritaeten-344760/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-30T13:01:10+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Serie zeigt, wie Chefs sich aus dem Tagesgeschäft lösen und klare Prioritäten setzen.",
-   "tun": "Plane feste Zeitblöcke für strategische Aufgaben ein",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Weniger Emissionen: Wie man Pelletsöfen und Holzpellets optimiert",
@@ -775,24 +757,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Charité modernisiert Lüftungsanlagen mit integrierter Kühlfunktion",
    "link": "https://kaelte-luft-klima.de/klimatechnik/charite-modernisiert-lueftungsanlagen-mit-integrierter-kuehlfunktion",
    "quelle": "Kälte Luft Klima",
@@ -811,6 +775,24 @@
    "tun": "Nutze das Projekt als Referenz für ähnliche Modernisierungen im Bestand.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Heizspiegel: Preise steigen 2026",
@@ -872,24 +854,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Cannabis ist legal: Darf jetzt bei der Arbeit gekifft werden?",
    "link": "https://www.handwerk-magazin.de/cannabis-wird-legal-darf-jetzt-bei-der-arbeit-gekifft-werden-306712/",
    "quelle": "handwerk magazin",
@@ -907,6 +871,24 @@
    "tun": "Regle den Umgang mit Cannabiskonsum klar in der Betriebsordnung.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Drehende elektrische Maschinen",
@@ -970,24 +952,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "ZVSHK wünscht klare Regeln und Rechtssicherheit für das Fachhandwerk",
    "link": "https://www.tga-praxis.de/news/zvshk-wuenscht-klare-regeln-und-rechtssicherheit-fuer-das-fachhandwerk.html",
    "quelle": "TGA-Praxis",
@@ -1004,6 +968,24 @@
    "tun": "Verfolge die weitere Berichterstattung zu diesem Vorstoß.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Lausitzer Oberflächentage 2026: Praxiswissen für Parkettleger",
@@ -1060,6 +1042,24 @@
    "thema": "Normen & Technik",
    "was": "Offene Schnittstellen sollen Wärmepumpen künftig steuerbar ins Stromnetz einbinden.",
    "tun": "Verfolge die Entwicklung offener Schnittstellen für Wärmepumpen.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Westfalen-Gruppe investiert Millionenbetrag in die Produktion natürlicher Kältemittel",
+   "link": "https://www.kka-online.info/news/westfalen-gruppe-investiert-millionenbetrag-in-die-produktion-natuerlicher-kaeltemittel-4439946.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-10-23T07:08:34+00:00",
+   "gewerke": [
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Ein großer Kältemittel-Lieferant baut Kapazitäten für natürliche Kältemittel aus, das kann Verfügbarkeit und Preise beeinflussen.",
+   "tun": "",
    "frist": null,
    "gewicht": 1
   },
@@ -1405,6 +1405,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Agenten im Praxistest: Die 10-Punkte-Checkliste für den Mittelstand",
+   "link": "https://www.kka-online.info/news/ki-agenten-im-praxistest-die-10-punkte-checkliste-fuer-den-mittelstand-4439690.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-10-22T07:07:40+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Checkliste hilft einzuschätzen, ob sich KI-Einsatz im eigenen Betrieb wirtschaftlich lohnt.",
+   "tun": "Gehe die Checkliste für dein Unternehmen durch.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Duldung eines Überbaus auch bei baurechtswidrigen Zuständen?",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316413",
    "quelle": "IBR-Online",
@@ -1425,6 +1443,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Schlüssige Abnahme bei unwirksamer Abnahmeklausel?",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317017",
    "quelle": "IBR-Online",
@@ -1442,24 +1478,6 @@
    "tun": "Prüfe deine Abnahmeklauseln in Verträgen auf Wirksamkeit.",
    "frist": null,
    "gewicht": 3
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Ein Fehler allein macht noch keinen Schaden ...",
@@ -1521,6 +1539,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Einzelner Gutachtenauftrag macht Sachverständigen nicht befangen!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316966",
    "quelle": "IBR-Online",
@@ -1538,24 +1574,6 @@
    "tun": "",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   }
  ]
 }
