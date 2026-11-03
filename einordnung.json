@@ -1,61 +1,4 @@
 {
- "https://handwerk.com/gewerke/das-sind-die-trendfrisuren-fuer-den-herbst-und-winter-20262027": {
-  "id": "eb2359599e9d",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Markt",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-03"
- },
- "https://www.kka-online.info/news/die-zukunft-der-zertifizierung-von-kaeltetechnikprodukten-gestalten-4432516.html": {
-  "id": "4f89fa01590c",
-  "relevant": true,
-  "gewerke": [
-   "Kälte- und Klimatechnik"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung"
-  ],
-  "thema": "Normen & Technik",
-  "was": "Änderungen bei der Produktzertifizierung können Auswahl und Nachweise für eingebaute Kältetechnik beeinflussen.",
-  "tun": "Beobachte die Entwicklung bei Eurovent für deine Lieferanten.",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-03"
- },
- "https://allgemeinebauzeitung.de/raumgeruest-bis-glasdach-kohlrabizirkus/": {
-  "id": "9d5ad519a73c",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Normen & Technik",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-03"
- },
  "https://allgemeinebauzeitung.de/neues-praesidium-buildingsmart-deutschland-gewaehlt/": {
   "id": "2f5615501f60",
   "relevant": false,
@@ -23497,5 +23440,134 @@
   "frist": null,
   "gewicht": 2,
   "gesehen": "2026-11-02"
+ },
+ "https://www.ikz.de/detail/news/detail/vdma-sanitaertechnik-und-design-startet-kampagne-innovationen-der-sanitaerindustrie/": {
+  "id": "50c40bc634e5",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-03"
+ },
+ "https://www.gff-magazin.de/aura-clean-von-mappi-spart-stunden-an-handarbeit-337519/": {
+  "id": "5be01a792431",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-03"
+ },
+ "https://www.tga-praxis.de/news/geschaeftsklima-der-haus-und-gebaeudetechnik-verbessert-sich-deutlich.html": {
+  "id": "b34a41d88a6f",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)",
+   "TGA/Energiedienstleister",
+   "Kälte- und Klimatechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Die Auftragslage in der Gebäudetechnik hellt sich auf, das kann die Nachfrage für deinen Betrieb spürbar steigern.",
+  "tun": "Prüfe deine Kapazitätsplanung für die nächsten Monate.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-03"
+ },
+ "https://www.elektro.net/129931/grundfunktionen-simulator-und-testhardware/": {
+  "id": "badf8262052b",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Mit der Logo! 9 und Soft Comfort V9 kannst du kleine Automatisierungsaufgaben im Betrieb selbst programmieren.",
+  "tun": "Teste die Software an einem eigenen Projekt.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-03"
+ },
+ "https://www.shk-profi.de/news/batteriespeicher-zubau-in-deutschland-steigt-4444165.html": {
+  "id": "34d52d7e4a29",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Mehr Batteriespeicher-Installationen bedeuten mehr Aufträge und Bedarf an Fachpersonal in diesem Bereich.",
+  "tun": "Baue dein Know-how und Kapazitäten für Speicherinstallationen aus.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-03"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316981": {
+  "id": "f17bb77a46f3",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Das Urteil zeigt: Wer mindert, kann nicht gleichzeitig vom Vertrag zurücktreten – wichtig bei Mängelansprüchen.",
+  "tun": "Kläre mit deinem Rechtsberater, wie sich das auf laufende Mängelfälle auswirkt.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-03"
+ },
+ "https://www.bauprofessor.de/news/wirtschaftlicher-ressourceneinsatz-beginnt-im-bau-soll/": {
+  "id": "385cd9feaae8",
+  "relevant": true,
+  "gewerke": [
+   "Hochbau/Rohbau",
+   "Tiefbau"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Wer Mengen, Personal und Geräte schon in der Planung sauber abstimmt, vermeidet teure Nachsteuerung auf der Baustelle.",
+  "tun": "Überprüfe deine Kalkulationsprozesse auf frühzeitige Ressourcenabstimmung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-03"
  }
 }
