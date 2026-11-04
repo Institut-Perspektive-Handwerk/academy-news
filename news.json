@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-04T02:20+00:00",
- "anzahl": 93,
+ "stand": "2026-11-04T12:09+00:00",
+ "anzahl": 95,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -33,11 +33,11 @@
  ],
  "fristen": [
   {
-   "titel": "Asbest-Arbeiten am Bau: Betriebe brauchen ab Dezember eine Genehmigung",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/asbest-arbeiten-am-bau-neue-genehmigungspflicht",
-   "quelle": "handwerksblatt",
-   "frist": "2026-12-20",
-   "tun": "Beantrage die Genehmigung rechtzeitig vor dem Stichtag."
+   "titel": "Genehmigungspflicht für Asbest-Abbrucharbeiten ab Dezember 2026",
+   "link": "https://allgemeinebauzeitung.de/asbest-abbrucharbeiten-genehmigungspflicht-dezember-2026/",
+   "quelle": "Allgemeine Bauzeitung",
+   "frist": "2026-12-01",
+   "tun": "Beantrage rechtzeitig die Genehmigung und sichere Fachkunde- sowie Vorsorgenachweise."
   },
   {
    "titel": "Asbest-Arbeiten",
@@ -47,100 +47,96 @@
    "tun": "Prüfe, ob deine geplanten Arbeiten im Bestand unter die neue Genehmigungspflicht fallen."
   },
   {
+   "titel": "Entlastung bei der Stromsteuer: Antrag bis 31. Dezember möglich",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/stromsteuer-entlastungsantrag-bis-31-dezember-moeglich",
+   "quelle": "handwerksblatt",
+   "frist": "2026-12-31",
+   "tun": "Stelle den Entlastungsantrag für 2025 rechtzeitig vor Fristende."
+  },
+  {
    "titel": "Jetzt noch Projekte für den Brillux Design Award 2027 bis Jahresende einreichen",
    "link": "https://www.bauhandwerk.de/news/jetzt-noch-projekte-fuer-den-brillux-design-award-2927-bis-jahresende-einreichen-4444006.html",
    "quelle": "bauhandwerk",
    "frist": "2026-12-31",
    "tun": "Reiche dein Projekt bis zum 31.12.2026 ein"
-  },
-  {
-   "titel": "Deutscher Holzbaupreis 2027: Projekte bis Januar einreichen",
-   "link": "https://www.handwerksblatt.de/themen-specials/interessante-wettbewerbe-fuer-handwerker/deutscher-holzbaupreis-2027-projekte-bis-januar-einreichen",
-   "quelle": "handwerksblatt",
-   "frist": "2027-01-17",
-   "tun": "Reiche dein Projekt bis zum Stichtag ein."
   }
  ],
  "news": [
   {
-   "titel": "Urteil: Rohreiniger muss SOKA-BAU-Beiträge nachzahlen",
-   "link": "https://handwerk.com/recht/urteil-rohreiniger-muss-soka-bau-beitraege-nachzahlen",
-   "quelle": "handwerk.com",
-   "bereich": "Handwerk",
-   "datum": "2026-11-03T15:38:56+00:00",
+   "titel": "Verwertungsquote mineralischer Bauabfälle steigt auf 90,9 Prozent",
+   "link": "https://allgemeinebauzeitung.de/verwertungsquote-mineralischer-bauabfaelle-steigt-909-prozent/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-11-04T11:32:46+00:00",
    "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Betriebe mit bauähnlichen Tätigkeiten können rückwirkend zu hohen SOKA-BAU-Nachzahlungen verpflichtet werden.",
-   "tun": "Prüfe deine Tätigkeiten auf SOKA-BAU-Pflicht und sichere dich vertraglich ab.",
-   "frist": null,
-   "gewicht": 3
-  },
-  {
-   "titel": "Asbest-Arbeiten am Bau: Betriebe brauchen ab Dezember eine Genehmigung",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/asbest-arbeiten-am-bau-neue-genehmigungspflicht",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-11-03T15:30:00+00:00",
-   "gewerke": [
-    "Dachdecker",
     "Hochbau/Rohbau",
-    "Innenausbau/Trockenbau",
-    "Stuckateur/Fassade"
+    "Tiefbau"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "Arbeitsschutz",
-   "was": "Abbrucharbeiten mit Asbest sind ohne vorherige Genehmigung dann nicht mehr erlaubt.",
-   "tun": "Beantrage die Genehmigung rechtzeitig vor dem Stichtag.",
-   "frist": "2026-12-20",
-   "gewicht": 3
-  },
-  {
-   "titel": "BVMB fordert verlässliche Finanzierung für Bundesfernstraßen",
-   "link": "https://allgemeinebauzeitung.de/bvm-bundesfernstrassen-finanzierung-maut-kreditfaehigkeit-oepp/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-11-03T14:23:43+00:00",
-   "gewerke": [
-    "Tiefbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
    "thema": "Markt",
-   "was": "Unsichere Straßenfinanzierung kann Ausschreibungsvolumen und Planungssicherheit für Tiefbaubetriebe beeinträchtigen.",
+   "was": "Recyclingquoten im Bau steigen – Entsorgungs- und Materialkreisläufe werden für Betriebe relevanter.",
    "tun": "",
    "frist": null,
    "gewicht": 1
   },
   {
-   "titel": "„Mehr Leistung für gleiches Geld ist eine Preissenkung“",
-   "link": "https://www.impulse.de/strategie/preisdruck-durch-ki/7642716.html",
-   "quelle": "impulse",
-   "bereich": "Unternehmer",
-   "datum": "2026-11-03T14:16:05+00:00",
+   "titel": "Entlastung bei der Stromsteuer: Antrag bis 31. Dezember möglich",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/stromsteuer-entlastungsantrag-bis-31-dezember-moeglich",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-11-04T11:21:00+00:00",
    "gewerke": [
-    "Architektur/Planung",
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Büro/Kalkulation"
    ],
-   "thema": "KI & Digitales",
-   "was": "Wenn KI Aufgaben beschleunigt, geraten Stundensätze und Pauschalpreise unter Druck.",
-   "tun": "Überdenke deine Preismodelle, bevor der Markt es für dich tut.",
+   "thema": "Förderung",
+   "was": "Produzierende Betriebe können sich die Stromsteuer für 2025 noch erstatten lassen.",
+   "tun": "Stelle den Entlastungsantrag für 2025 rechtzeitig vor Fristende.",
+   "frist": "2026-12-31",
+   "gewicht": 3
+  },
+  {
+   "titel": "Europas nächste Abhängigkeit entsteht jetzt. Und wir schauen zu.",
+   "link": "https://www.pv-magazine.de/2026/11/04/europas-naechste-abhaengigkeit-entsteht-jetzt-und-wir-schauen-zu/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-04T10:13:00+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Natrium-Ionen-Speichertechnik könnte Lieferabhängigkeiten bei PV-Speichern verringern.",
+   "tun": "",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
+  },
+  {
+   "titel": "Steuerreform 2027: Wenig Entlastung, mehr Kosten fürs Handwerk",
+   "link": "https://www.handwerk-magazin.de/steuerreform-2027-handwerk-352539/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-11-04T10:01:33+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Die Steuerreform 2027 bringt kaum Entlastung, aber neue Pflichten für Handwerksbetriebe.",
+   "tun": "Prüfe mit dem Steuerberater die aktuellen Neuregelungen vor Jahresende.",
+   "frist": null,
+   "gewicht": 3
   },
   {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
@@ -161,79 +157,77 @@
    ]
   },
   {
-   "titel": "LUVAQ: Einzelraumlüfter für ­innenliegende Bäder und WCs",
-   "link": "https://www.ikz.de/klima-lueftungstechnik/news/detail/luvaq-einzelraumluefter-fuer-innenliegende-baeder-und-wcs/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-11-03T11:12:00+00:00",
+   "titel": "Neue Daten zeigen, wie Städte Regenwasser besser bewirtschaften können",
+   "link": "https://www.tga-praxis.de/news/neue-daten-zeigen-wie-staedte-regenwasser-besser-bewirtschaften-koennen.html",
+   "quelle": "TGA-Praxis",
+   "bereich": "TGA",
+   "datum": "2026-11-04T10:00:00+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Tiefbau",
+    "Garten- und Landschaftsbau"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Neue Erkenntnisse zur Regenwasserbewirtschaftung können Planungsvorgaben für Tiefbau und GaLaBau beeinflussen.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Vorschriften für die Beleuchtung mit künstlichem Licht",
+   "link": "https://www.elektro.net/129818/vorschriften-fuer-die-beleuchtung-mit-kuenstlichem-licht/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-11-04T09:25:00+00:00",
+   "gewerke": [
+    "Elektro"
    ],
    "rollen": [
     "Projektleitung/Bauleitung",
     "Monteur/Facharbeiter"
    ],
    "thema": "Normen & Technik",
-   "was": "Neuer Einzelraumlüfter erfüllt DIN 18017-3 für innenliegende Bäder – praktisch bei Nachrüstung ohne Zuluftkanal.",
-   "tun": "Prüfe das Gerät für Projekte mit innenliegenden Bädern ohne Fensterlüftung.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Cyberangriff auf Kühlanlagen: Auch Edeka-Markt in Niederbayern betroffen",
-   "link": "https://kaelte-luft-klima.de/kaeltetechnik/cyberangriff-auf-kuehlanlagen-auch-edeka-markt-in-niederbayern-betroffen",
-   "quelle": "Kälte Luft Klima",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-11-03T11:00:23+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Fernwartungszugänge bei Kühlanlagen sind ein reales Angriffsziel – Ausfälle treffen am Ende deine Kunden.",
-   "tun": "Prüfe Fernzugänge deiner Anlagen auf Absicherung gegen Cyberangriffe.",
+   "was": "Überblick über Beleuchtungsvorschriften hilft bei korrekter Planung und Ausführung in Arbeitsstätten.",
+   "tun": "Prüfe laufende Projekte auf Einhaltung der genannten Beleuchtungsnormen.",
    "frist": null,
    "gewicht": 2
   },
   {
-   "titel": "Panzerglas ohne Polycarbonat von Vetrotech",
-   "link": "https://www.gff-magazin.de/panzerglas-ohne-polycarbonat-von-vetrotech-337586/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-11-03T10:13:32+00:00",
-   "gewerke": [
-    "Fensterbau/Glas"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Neues Sicherheitsglas ohne Polycarbonat kann Verarbeitung und Lagerung im Betrieb verändern.",
-   "tun": "Informiere dich bei Vetrotech über Verarbeitungsunterschiede zu klassischem Panzerglas.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Kostenlose Aufmaß-App vom Handwerker für Handwerker",
-   "link": "https://www.bauhandwerk.de/news/kostenlose-aufmass-app-vom-handwerker-fuer-handwerker-4449002.html",
-   "quelle": "bauhandwerk",
-   "bereich": "Bau",
-   "datum": "2026-11-03T10:04:25+00:00",
+   "titel": "\"Bauleiter\" bestellt Baumaterial nicht für sich!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317077",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-04T07:14:00+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter"
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "KI & Digitales",
-   "was": "Eine kostenlose, praxiserprobte Aufmaß-App kann Zeit bei Baustellenaufmaßen sparen.",
-   "tun": "Teste die LiDAR-App für dein nächstes Aufmaß.",
+   "thema": "VOB & Verträge",
+   "was": "Bauleiter haften nicht automatisch für eigenmächtig bestellte Materialien – Vollmachten klar regeln.",
+   "tun": "Kläre Bestellvollmachten der Bauleiter vertraglich eindeutig.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Tariftreuegesetz als Maßnahme zur Stärkung der Tarifbindung umstritten",
+   "link": "https://vergabeblog.de/2026-11-04/tariftreuegesetz-als-massnahme-zur-staerkung-der-tarifbindung-umstritten/",
+   "quelle": "vergabeblog",
+   "bereich": "Vergabe",
+   "datum": "2026-11-04T07:00:16+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Das geplante Tariftreuegesetz könnte Vergabebedingungen und Tarifpflichten für Betriebe verschärfen.",
+   "tun": "Verfolge den Gesetzgebungsprozess und prüfe Auswirkungen auf öffentliche Aufträge.",
    "frist": null,
    "gewicht": 2
   },
@@ -256,81 +250,80 @@
    ]
   },
   {
-   "titel": "Kommunale Wärmepläne lassen enormes Potenzial der Solarwärme unberücksichtigt",
-   "link": "https://www.tga-praxis.de/news/kommunale-waermeplaene-lassen-enormes-potenzial-der-solarwaerme-unberuecksichtigt.html",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-11-03T10:00:00+00:00",
+   "titel": "Was steckt wirklich in der Kältemittelflasche?",
+   "link": "https://www.kka-online.info/news/was-steckt-wirklich-in-der-kaeltemittelflasche-4449255.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-11-04T06:59:30+00:00",
    "gewerke": [
-    "TGA/Energiedienstleister",
-    "Photovoltaik/Solartechnik"
+    "Kälte- und Klimatechnik"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
+    "Monteur/Facharbeiter",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Falsch deklarierte Kältemittel aus dubiosen Quellen können zu Haftungs- und Sicherheitsproblemen führen.",
+   "tun": "Kaufe Kältemittel nur bei geprüften, zertifizierten Lieferanten.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Was Duo-Kanteln im Fensterbau leisten",
+   "link": "https://www.gff-magazin.de/was-duo-kanteln-im-fensterbau-leisten-337204/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-11-04T05:11:00+00:00",
+   "gewerke": [
+    "Fensterbau/Glas"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "Markt",
-   "was": "Kommunale Wärmepläne berücksichtigen Solarthermie oft zu wenig – das kann Chancen für eigene Angebote eröffnen.",
-   "tun": "Sprich aktiv mit Kommunen über Solarwärme-Optionen in deren Wärmeplanung.",
+   "thema": "Normen & Technik",
+   "was": "Duo-Kanteln verbessern Wärmedämmung und Haltbarkeit von Fenstern – relevant für Materialwahl.",
+   "tun": "",
    "frist": null,
    "gewicht": 1
   },
   {
-   "titel": "Abdichtung unter Estrich: Wo Feuchteschäden wirklich entstehen",
-   "link": "https://www.boden-wand-decke.de/abdichtung-unter-estrich-wo-feuchteschaeden-wirklich-entstehen-357666/",
-   "quelle": "Boden Wand Decke",
-   "bereich": "Ausbau & Maler",
-   "datum": "2026-11-03T09:02:52+00:00",
+   "titel": "Urteil: Rohreiniger muss SOKA-BAU-Beiträge nachzahlen",
+   "link": "https://handwerk.com/recht/urteil-rohreiniger-muss-soka-bau-beitraege-nachzahlen",
+   "quelle": "handwerk.com",
+   "bereich": "Handwerk",
+   "datum": "2026-11-03T15:38:56+00:00",
    "gewerke": [
-    "Fliesen- und Bodenleger",
+    "Tiefbau",
     "Hochbau/Rohbau"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung",
-    "Monteur/Facharbeiter"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "Normen & Technik",
-   "was": "Fehler bei der Abdichtung unter Estrich sind eine häufige, aber vermeidbare Ursache für teure Feuchteschäden.",
-   "tun": "Kontrolliere Material, Anschlüsse und Schutzlagen bei der Abdichtung vor dem Estrich.",
+   "thema": "Recht & Pflichten",
+   "was": "Betriebe mit bauähnlichen Tätigkeiten können rückwirkend zu hohen SOKA-BAU-Nachzahlungen verpflichtet werden.",
+   "tun": "Prüfe deine Tätigkeiten auf SOKA-BAU-Pflicht und sichere dich vertraglich ab.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 3
   },
   {
-   "titel": "Drohnen im Handwerk: So sparen Betriebe Zeit und holen Aufträge",
-   "link": "https://www.handwerk-magazin.de/drohnen-im-handwerk-einsatz-kosten-352654/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-11-03T09:00:00+00:00",
+   "titel": "„Mehr Leistung für gleiches Geld ist eine Preissenkung“",
+   "link": "https://www.impulse.de/strategie/preisdruck-durch-ki/7642716.html",
+   "quelle": "impulse",
+   "bereich": "Unternehmer",
+   "datum": "2026-11-03T14:16:05+00:00",
    "gewerke": [
-    "Dachdecker",
+    "Architektur/Planung",
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Büro/Kalkulation"
    ],
    "thema": "KI & Digitales",
-   "was": "Drohnen sparen bei Inspektion, Aufmaß und Dokumentation Zeit und können neue Aufträge bringen.",
-   "tun": "Prüfe Kosten und BG-Bau-Vorgaben für den Drohneneinsatz in deinem Betrieb.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Heizungsbauer muss TGA-Planung auf erkennbare Mängel überprüfen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317059",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-11-03T07:29:51+00:00",
-   "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Haftung kann auch Heizungsbauer treffen, wenn er erkennbare Fehler in TGA-Planung übernimmt.",
-   "tun": "Prüfe Planungsunterlagen auf offensichtliche Fehler vor Ausführung.",
+   "was": "Wenn KI Aufgaben beschleunigt, geraten Stundensätze und Pauschalpreise unter Druck.",
+   "tun": "Überdenke deine Preismodelle, bevor der Markt es für dich tut.",
    "frist": null,
    "gewicht": 2
   },
@@ -353,22 +346,42 @@
    ]
   },
   {
-   "titel": "Batteriespeicher-Zubau in Deutschland steigt",
-   "link": "https://www.shk-profi.de/news/batteriespeicher-zubau-in-deutschland-steigt-4444165.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-11-02T09:00:51+00:00",
+   "titel": "Kostenlose Aufmaß-App vom Handwerker für Handwerker",
+   "link": "https://www.bauhandwerk.de/news/kostenlose-aufmass-app-vom-handwerker-fuer-handwerker-4449002.html",
+   "quelle": "bauhandwerk",
+   "bereich": "Bau",
+   "datum": "2026-11-03T10:04:25+00:00",
    "gewerke": [
-    "Elektro",
-    "Photovoltaik/Solartechnik"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter"
    ],
-   "thema": "Markt",
-   "was": "Mehr Batteriespeicher-Installationen bedeuten mehr Aufträge und Bedarf an Fachpersonal in diesem Bereich.",
-   "tun": "Baue dein Know-how und Kapazitäten für Speicherinstallationen aus.",
+   "thema": "KI & Digitales",
+   "was": "Eine kostenlose, praxiserprobte Aufmaß-App kann Zeit bei Baustellenaufmaßen sparen.",
+   "tun": "Teste die LiDAR-App für dein nächstes Aufmaß.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Abdichtung unter Estrich: Wo Feuchteschäden wirklich entstehen",
+   "link": "https://www.boden-wand-decke.de/abdichtung-unter-estrich-wo-feuchteschaeden-wirklich-entstehen-357666/",
+   "quelle": "Boden Wand Decke",
+   "bereich": "Ausbau & Maler",
+   "datum": "2026-11-03T09:02:52+00:00",
+   "gewerke": [
+    "Fliesen- und Bodenleger",
+    "Hochbau/Rohbau"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Fehler bei der Abdichtung unter Estrich sind eine häufige, aber vermeidbare Ursache für teure Feuchteschäden.",
+   "tun": "Kontrolliere Material, Anschlüsse und Schutzlagen bei der Abdichtung vor dem Estrich.",
    "frist": null,
    "gewicht": 2
   },
@@ -414,6 +427,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "KI-Modelle: Passende Werkzeuge erleichtern den Arbeitsalltag",
    "link": "https://www.mittelstandswiki.de/2026/10/ki-modelle-passende-werkzeuge-entlasten-den-firmenalltag/",
    "quelle": "Mittelstandswiki",
@@ -431,24 +462,6 @@
    "tun": "Vergleiche KI-Tools nach Einsatzzweck und Datenschutz.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Wirtschaftlicher Ressourceneinsatz beginnt im Bau-SOLL",
@@ -471,60 +484,43 @@
    "gewicht": 2
   },
   {
-   "titel": "Sax Power meldet 60 Prozent mehr Umsatz und will Batteriespeicher-Produktion stark ausbauen",
-   "link": "https://www.pv-magazine.de/2026/11/03/sax-power-meldet-60-prozent-mehr-umsatz-und-will-batteriespeicher-produktion-stark-ausbauen/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-03T15:00:00+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Starke Nachfrage nach Batteriespeichern zeigt wachsenden Markt für PV-Betriebe.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Kommunen nutzen Bau-Turbo für schnelleres Wohnungsbau-Verfahren",
-   "link": "https://allgemeinebauzeitung.de/bauturbo-kommunen-wohnungen-schnell-verfahren-flaechenschonung/",
+   "titel": "Bau-Turbo reicht nicht aus für mehr Wohnungsbau in Ostdeutschland",
+   "link": "https://allgemeinebauzeitung.de/bauturbo-wohnungsbau-ostdeutschland-baukosten-finanzierung/",
    "quelle": "Allgemeine Bauzeitung",
    "bereich": "Bau",
-   "datum": "2026-11-03T14:23:13+00:00",
+   "datum": "2026-11-04T11:32:23+00:00",
    "gewerke": [
     "Hochbau/Rohbau",
-    "Architektur/Planung"
+    "Tiefbau"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
    "thema": "Markt",
-   "was": "Viele Kommunen nutzen den Bau-Turbo bereits erfolgreich für schnellere Baugenehmigungen.",
-   "tun": "Frag bei deiner Kommune nach, ob Bau-Turbo-Verfahren für dein Projekt greifen.",
+   "was": "Trotz Bau-Turbo bleibt Wohnungsbau im ländlichen Raum wegen hoher Kosten schwierig – Auftragslage dort nicht entspannt rechnen.",
+   "tun": "Prüfe Auftragsaussichten für ländliche Projekte realistisch.",
    "frist": null,
    "gewicht": 2
   },
   {
-   "titel": "Greenovative erwartet stabile Gewinne mit Solarparks",
-   "link": "https://www.solarserver.de/2026/11/03/greenovative-erwartet-stabile-gewinne-mit-solarparks/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-03T13:00:04+00:00",
+   "titel": "Solaranlage mit Kaufoption ist kein Kreditvertrag",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/solaranlage-mit-kaufoption-ist-kein-kreditvertrag",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-11-04T11:10:00+00:00",
    "gewerke": [
     "Photovoltaik/Solartechnik"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "Markt",
-   "was": "Solarpark-Markt bleibt trotz schwierigerem Umfeld stabil, Wettbewerber ziehen sich zurück.",
-   "tun": "",
+   "thema": "Recht & Pflichten",
+   "was": "Miet-Kauf-Modelle für PV-Anlagen unterliegen laut OLG Stuttgart nicht dem Verbraucherkreditrecht – weniger Formpflichten bei solchen Verträgen.",
+   "tun": "Prüfe eigene Miet-Kauf-Verträge auf diese Einordnung.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
@@ -545,78 +541,80 @@
    ]
   },
   {
-   "titel": "Baustelle steht still: Darf der Handwerker die Arbeit einstellen?",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/baustelle-steht-still-der-handwerker-die-arbeit-einstellen",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-11-03T11:25:00+00:00",
+   "titel": "Voltfang: Leitfaden für Co-Location von Solar-, Windparks und Batteriespeichern",
+   "link": "https://www.solarserver.de/2026/11/04/voltfang-leitfaden-fuer-co-location-von-solar-windparks-und-batteriespeichern/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-04T10:06:13+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "VOB & Verträge",
-   "was": "Arbeitseinstellung bei Bauverzögerung ist riskant – nur lückenlose Dokumentation schützt vor Vergütungsverlust.",
-   "tun": "Dokumentiere Verzögerungen und Behinderungen schriftlich, bevor du Arbeiten einstellst.",
+   "thema": "Normen & Technik",
+   "was": "Leitfaden zeigt, wie Batteriespeicher an bestehende Solar-/Windparks angebunden werden können – Anschluss in rund drei Monaten möglich.",
+   "tun": "Lies den Leitfaden für Co-Location-Projekte.",
    "frist": null,
-   "gewicht": 3
+   "gewicht": 1
   },
   {
-   "titel": "Swisspacer und Sika stellen Adhera Window Technology vor",
-   "link": "https://www.gff-magazin.de/swisspacer-und-sika-stellen-adhera-window-technology-vor-337512/",
+   "titel": "Gefährdungsbeurteilungen in der Elektrotechnik",
+   "link": "https://www.elektro.net/130020/gefaehrdungsbeurteilungen-in-der-elektrotechnik/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-11-04T06:00:00+00:00",
+   "gewerke": [
+    "Elektro"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Arbeitsschutz",
+   "was": "Gefährdungsbeurteilungen in der Elektrotechnik sind einfacher umsetzbar als oft gedacht – weniger Bürokratie nötig als angenommen.",
+   "tun": "Prüfe bestehende Gefährdungsbeurteilungen auf Vereinfachung.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "„Jetzt lohnt es sich, ganze Gestellflotten auszustatten“",
+   "link": "https://www.gff-magazin.de/jetzt-lohnt-es-sich-ganze-gestellflotten-auszustatten-337565/",
    "quelle": "GFF",
    "bereich": "Fenster & Glas",
-   "datum": "2026-11-03T10:00:00+00:00",
+   "datum": "2026-11-04T04:30:00+00:00",
    "gewerke": [
     "Fensterbau/Glas"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Büro/Kalkulation"
    ],
-   "thema": "Normen & Technik",
-   "was": "Neue Verklebungstechnik ermöglicht größere Glasflächen und schlankere Fensterrahmen bei weniger Materialeinsatz.",
-   "tun": "Prüfe mit deinem Glaslieferanten, ob die Technik für künftige Aufträge infrage kommt.",
+   "thema": "KI & Digitales",
+   "was": "Neue Trackinglösung für Transportgestelle soll günstiger als GPS-Tracker sein und lohnt sich laut Hersteller schon für kleinere Flotten.",
+   "tun": "Vergleiche Kosten mit bisherigem Gestell-Tracking.",
    "frist": null,
    "gewicht": 1
   },
   {
-   "titel": "Qualifikation sichtbar machen",
-   "link": "https://www.ikz.de/detail/news/detail/qualifikation-sichtbar-machen/",
+   "titel": "LUVAQ: Einzelraumlüfter für ­innenliegende Bäder und WCs",
+   "link": "https://www.ikz.de/klima-lueftungstechnik/news/detail/luvaq-einzelraumluefter-fuer-innenliegende-baeder-und-wcs/",
    "quelle": "IKZ",
    "bereich": "SHK",
-   "datum": "2026-11-03T08:09:00+00:00",
+   "datum": "2026-11-03T11:12:00+00:00",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
     "Monteur/Facharbeiter"
    ],
-   "thema": "Personal & Ausbildung",
-   "was": "Freiwillige Listung als „Fachkraft Heizung“ kann Kunden mehr Vertrauen in deine Qualifikation geben.",
-   "tun": "Prüfe, ob eine Eintragung in die Energieeffizienz-Expertenliste für dich Vorteile bringt.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Kältemittel aus Sicht der Normung – Technische Reinheit",
-   "link": "https://kaelte-luft-klima.de/normen-und-richtlinien/kaeltemittel-aus-sicht-der-normung-technische-reinheit",
-   "quelle": "Kälte Luft Klima",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-11-03T08:00:23+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Projektleitung/Bauleitung"
-   ],
    "thema": "Normen & Technik",
-   "was": "Reinheit von Kältemitteln hängt von Herstellung und Aufbereitung ab und wird normativ geregelt.",
-   "tun": "",
+   "was": "Neuer Einzelraumlüfter erfüllt DIN 18017-3 für innenliegende Bäder – praktisch bei Nachrüstung ohne Zuluftkanal.",
+   "tun": "Prüfe das Gerät für Projekte mit innenliegenden Bädern ohne Fensterlüftung.",
    "frist": null,
    "gewicht": 1
   },
@@ -639,43 +637,61 @@
    ]
   },
   {
-   "titel": "Beschleunigung von Infrastrukturvorhaben der Bundeswehr",
-   "link": "https://vergabeblog.de/2026-11-03/beschleunigung-von-infrastrukturvorhaben-der-bundeswehr/",
-   "quelle": "vergabeblog",
-   "bereich": "Vergabe",
-   "datum": "2026-11-03T07:00:59+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
-    "Tiefbau",
-    "Architektur/Planung"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Schnellere Vergabeverfahren bei Bundeswehr-Bauprojekten können mehr und zügigere Aufträge bedeuten.",
-   "tun": "Prüfe Ausschreibungschancen bei Bundeswehr-Infrastrukturprojekten.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Bachelor, Meister, Techniker – Starke Bildungswege für die Kälte- und Klimabranche",
-   "link": "https://www.kka-online.info/news/bachelor-meister-techniker-starke-bildungswege-fuer-die-kaelte-und-klimabranche-4448897.html",
-   "quelle": "KKA",
+   "titel": "Cyberangriff auf Kühlanlagen: Auch Edeka-Markt in Niederbayern betroffen",
+   "link": "https://kaelte-luft-klima.de/kaeltetechnik/cyberangriff-auf-kuehlanlagen-auch-edeka-markt-in-niederbayern-betroffen",
+   "quelle": "Kälte Luft Klima",
    "bereich": "Kälte & Klima",
-   "datum": "2026-11-02T12:42:35+00:00",
+   "datum": "2026-11-03T11:00:23+00:00",
    "gewerke": [
     "Kälte- und Klimatechnik"
    ],
    "rollen": [
-    "Ausbildung",
+    "Inhaber/Geschäftsführung",
     "Monteur/Facharbeiter"
    ],
-   "thema": "Personal & Ausbildung",
-   "was": "Mehrere Weiterbildungswege vom Meister bis Bachelor stärken Fachkräfte in der Kälte-/Klimabranche.",
-   "tun": "Informiere Mitarbeiter über Aufstiegsmöglichkeiten nach der Ausbildung.",
+   "thema": "KI & Digitales",
+   "was": "Fernwartungszugänge bei Kühlanlagen sind ein reales Angriffsziel – Ausfälle treffen am Ende deine Kunden.",
+   "tun": "Prüfe Fernzugänge deiner Anlagen auf Absicherung gegen Cyberangriffe.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Kommunale Wärmepläne lassen enormes Potenzial der Solarwärme unberücksichtigt",
+   "link": "https://www.tga-praxis.de/news/kommunale-waermeplaene-lassen-enormes-potenzial-der-solarwaerme-unberuecksichtigt.html",
+   "quelle": "TGA-Praxis",
+   "bereich": "TGA",
+   "datum": "2026-11-03T10:00:00+00:00",
+   "gewerke": [
+    "TGA/Energiedienstleister",
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Markt",
+   "was": "Kommunale Wärmepläne berücksichtigen Solarthermie oft zu wenig – das kann Chancen für eigene Angebote eröffnen.",
+   "tun": "Sprich aktiv mit Kommunen über Solarwärme-Optionen in deren Wärmeplanung.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Drohnen im Handwerk: So sparen Betriebe Zeit und holen Aufträge",
+   "link": "https://www.handwerk-magazin.de/drohnen-im-handwerk-einsatz-kosten-352654/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-11-03T09:00:00+00:00",
+   "gewerke": [
+    "Dachdecker",
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Drohnen sparen bei Inspektion, Aufmaß und Dokumentation Zeit und können neue Aufträge bringen.",
+   "tun": "Prüfe Kosten und BG-Bau-Vorgaben für den Drohneneinsatz in deinem Betrieb.",
    "frist": null,
    "gewicht": 2
   },
@@ -700,24 +716,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Chef als Engpass: Bernd Geropp über Wege aus der Falle",
-   "link": "https://www.handwerk-magazin.de/chef-als-engpass-bernd-geropp-ueber-wege-aus-der-falle-352718/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-11-02T09:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Wenn alle Entscheidungen beim Chef landen, bremst das den Betrieb – Delegation ist der Ausweg.",
-   "tun": "Überprüfe, welche Entscheidungen du an Mitarbeiter abgeben kannst.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -734,6 +732,26 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Batteriespeicher-Zubau in Deutschland steigt",
+   "link": "https://www.shk-profi.de/news/batteriespeicher-zubau-in-deutschland-steigt-4444165.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-11-02T09:00:51+00:00",
+   "gewerke": [
+    "Elektro",
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Markt",
+   "was": "Mehr Batteriespeicher-Installationen bedeuten mehr Aufträge und Bedarf an Fachpersonal in diesem Bereich.",
+   "tun": "Baue dein Know-how und Kapazitäten für Speicherinstallationen aus.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Jetzt noch Projekte für den Brillux Design Award 2027 bis Jahresende einreichen",
@@ -754,27 +772,6 @@
    "tun": "Reiche dein Projekt bis zum 31.12.2026 ein",
    "frist": "2026-12-31",
    "gewicht": 1
-  },
-  {
-   "titel": "ZVSHK: Chancen und Risiken beim Gebäudetyp E",
-   "link": "https://www.shk-profi.de/news/zvshk-sieht-chancen-und-risiken-beim-bauen-e-4443383.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-10-29T13:28:59+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau",
-    "Sanitär/Heizung/Klima (SHK)",
-    "Architektur/Planung"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Der neue Gebäudetyp E soll einfacheres Bauen ermöglichen, bringt laut ZVSHK aber auch neue Haftungs- und Gewährleistungsfragen mit sich.",
-   "tun": "Verfolge die Entwicklung des Gebäudetyp E und prüfe Auswirkungen auf Verträge und Haftung.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Remote Access: Ein VPN allein schützt kein Firmennetz",
@@ -834,23 +831,61 @@
    ]
   },
   {
-   "titel": "Biomethan: Einspeisung erreicht Höchstwert – Neuprojekte im Stau",
-   "link": "https://www.solarserver.de/2026/11/03/biomethan-einspeisung-erreicht-hoechstwert-neuprojekte-im-stau/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-03T12:00:00+00:00",
+   "titel": "Grabenlose Sanierung von 2500 Meter Vorflutkanal in Witten",
+   "link": "https://allgemeinebauzeitung.de/witten-vorflutkanal-grabenlose-sanierung-tip-lining/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-11-04T11:31:57+00:00",
    "gewerke": [
-    "TGA/Energiedienstleister"
+    "Tiefbau"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Normen & Technik",
+   "was": "TIP-Lining ermöglicht grabenlose Kanalsanierung über lange Strecken ohne große Baugruben – interessant für ähnliche Sanierungsprojekte.",
+   "tun": "Informiere dich über das TIP-Lining-Verfahren als Alternative zur offenen Bauweise.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Sanierung der Türkommunikation",
+   "link": "https://www.elektro.net/130002/sanierung-der-tuerkommunikation/",
+   "quelle": "elektro.net",
+   "bereich": "Elektro",
+   "datum": "2026-11-04T05:30:00+00:00",
+   "gewerke": [
+    "Elektro"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "Markt",
-   "was": "Netzanschlusshürden bremsen neue Biomethan-Projekte trotz steigender Nachfrage - relevant für Energieprojektplanung.",
-   "tun": "Prüfe Netzanschlusskapazitäten frühzeitig bei Biomethan-Vorhaben.",
+   "thema": "Normen & Technik",
+   "was": "Veraltete Türkommunikationssysteme werden bei Sanierungen oft übersehen – Chance für Elektrobetriebe, dieses Thema aktiv anzusprechen.",
+   "tun": "Biete Kunden bei Sanierungen auch Modernisierung der Türkommunikation an.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Kurzrubrum reicht für wirksame Streitverkündung!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317206",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-03T23:13:01+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "BGH bestätigt: Ein Kurzrubrum genügt für eine wirksame Streitverkündung im Bauprozess – wichtig bei Weitergabe von Gewährleistungsfällen an Nachunternehmer.",
+   "tun": "Prüfe Streitverkündungsschreiben künftig auf formale Mindestangaben.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Wann zahlen Hinterbliebene doppelt Steuern?",
@@ -867,45 +902,6 @@
    "thema": "Recht & Pflichten",
    "was": "Unverheiratete Paare zahlen bei Direktversicherungen im Todesfall doppelt Steuern - relevant für betriebliche Altersvorsorge.",
    "tun": "Informiere Mitarbeiter mit Direktversicherung über die Steuerfolgen.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Asbest-Arbeiten",
-   "link": "https://www.metallbau-magazin.de/news/asbest-arbeiten-4448979.html",
-   "quelle": "Metallbau",
-   "bereich": "Metallbau",
-   "datum": "2026-11-03T08:37:10+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Arbeitsschutz",
-   "was": "Ab Dezember 2026 brauchst du für bestimmte Asbestarbeiten im Baubestand eine behördliche Genehmigung.",
-   "tun": "Prüfe, ob deine geplanten Arbeiten im Bestand unter die neue Genehmigungspflicht fallen.",
-   "frist": "2026-12-20",
-   "gewicht": 3
-  },
-  {
-   "titel": "Cyberangriffe auf Kältetechnik - Handlungsbedarf auch in Deutschland",
-   "link": "https://www.tga-praxis.de/news/cyberangriffe-auf-kaeltetechnik-handlungsbedarf-auch-deutschland.html",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-11-03T03:00:00+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Vernetzte Kälteanlagen geraten ins Visier von Cyberangriffen - Sicherheitslücken bei Kundenanlagen prüfen.",
-   "tun": "Prüfe IT-Sicherheit vernetzter Kälte- und Klimaanlagen beim Kunden.",
    "frist": null,
    "gewicht": 2
   },
@@ -928,81 +924,83 @@
    ]
   },
   {
-   "titel": "TWK stellt Weiterbildungsprogramm für 2027 vor",
-   "link": "https://kaelte-luft-klima.de/kaeltetechnik/twk-stellt-weiterbildungsprogramm-fuer-2027-vor",
-   "quelle": "Kälte Luft Klima",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-11-02T08:00:23+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Ausbildung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Neues Kursprogramm 2027 deckt F-Gase, alternative Kältemittel und Wärmepumpen ab.",
-   "tun": "Melde Mitarbeiter für relevante Kältekurse 2027 an.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Zersplitterte öffentliche Beteiligung schützt nicht vor dem Sektorenvergaberecht: EuGH zur gemeinsamen Beherrschung öffentlicher Unternehmen",
-   "link": "https://vergabeblog.de/2026-11-02/zersplitterte-oeffentliche-beteiligung-schuetzt-nicht-vor-dem-sektorenvergaberecht-eugh-zur-gemeinsamen-beherrschung-oeffentlicher-unternehmen/",
-   "quelle": "vergabeblog",
-   "bereich": "Vergabe",
-   "datum": "2026-11-02T07:00:16+00:00",
-   "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Bei Ausschreibungen öffentlicher Versorger zählt gemeinsame Beherrschung auch bei verstreuten Kommunalanteilen – Vergaberecht greift trotzdem.",
-   "tun": "Prüfe bei Bietergemeinschaften, ob Sektorenvergaberecht anwendbar ist.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Drei Triflex-Systeme mit 40 Jahren Nutzungsdauer bestätigt",
-   "link": "https://www.bauhandwerk.de/news/drei-triflex-systeme-mit-40-jahren-nutzungsdauer-bestaetigt-4440029.html",
-   "quelle": "bauhandwerk",
-   "bereich": "Bau",
-   "datum": "2026-10-23T11:44:55+00:00",
-   "gewerke": [
-    "Dachdecker"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Drei Flüssigkunststoff-Abdichtungssysteme sind jetzt mit 40 Jahren Nutzungsdauer zertifiziert – gut für Ausschreibungen und Gewährleistung.",
-   "tun": "Nutze die Zertifizierung als Argument bei Angeboten.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Agentische KI: Schatten-IT bedroht die Firmeninfrastruktur",
-   "link": "https://www.mittelstandswiki.de/2026/10/agentische-ki-schatten-it-bedroht-die-firmeninfrastruktur/",
-   "quelle": "Mittelstandswiki",
-   "bereich": "KI & Digitales",
-   "datum": "2026-10-21T07:00:00+00:00",
+   "titel": "Asbest-Arbeiten",
+   "link": "https://www.metallbau-magazin.de/news/asbest-arbeiten-4448979.html",
+   "quelle": "Metallbau",
+   "bereich": "Metallbau",
+   "datum": "2026-11-03T08:37:10+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
+    "Projektleitung/Bauleitung"
    ],
-   "thema": "KI & Digitales",
-   "was": "Unkontrollierte KI-Tools im Betrieb öffnen Sicherheitslücken, die klassische IT-Schutzkonzepte nicht abdecken.",
-   "tun": "Kläre im Betrieb, welche KI-Tools genutzt werden und sichere Zugänge ab.",
+   "thema": "Arbeitsschutz",
+   "was": "Ab Dezember 2026 brauchst du für bestimmte Asbestarbeiten im Baubestand eine behördliche Genehmigung.",
+   "tun": "Prüfe, ob deine geplanten Arbeiten im Bestand unter die neue Genehmigungspflicht fallen.",
+   "frist": "2026-12-20",
+   "gewicht": 3
+  },
+  {
+   "titel": "Qualifikation sichtbar machen",
+   "link": "https://www.ikz.de/detail/news/detail/qualifikation-sichtbar-machen/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-11-03T08:09:00+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Freiwillige Listung als „Fachkraft Heizung“ kann Kunden mehr Vertrauen in deine Qualifikation geben.",
+   "tun": "Prüfe, ob eine Eintragung in die Energieeffizienz-Expertenliste für dich Vorteile bringt.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Kältemittel aus Sicht der Normung – Technische Reinheit",
+   "link": "https://kaelte-luft-klima.de/normen-und-richtlinien/kaeltemittel-aus-sicht-der-normung-technische-reinheit",
+   "quelle": "Kälte Luft Klima",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-11-03T08:00:23+00:00",
+   "gewerke": [
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Monteur/Facharbeiter",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Reinheit von Kältemitteln hängt von Herstellung und Aufbereitung ab und wird normativ geregelt.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Beschleunigung von Infrastrukturvorhaben der Bundeswehr",
+   "link": "https://vergabeblog.de/2026-11-03/beschleunigung-von-infrastrukturvorhaben-der-bundeswehr/",
+   "quelle": "vergabeblog",
+   "bereich": "Vergabe",
+   "datum": "2026-11-03T07:00:59+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Tiefbau",
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Schnellere Vergabeverfahren bei Bundeswehr-Bauprojekten können mehr und zügigere Aufträge bedeuten.",
+   "tun": "Prüfe Ausschreibungschancen bei Bundeswehr-Infrastrukturprojekten.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
@@ -1023,81 +1021,79 @@
    ]
   },
   {
-   "titel": "Jahresendrallye beim Photovoltaik-Zubau: Erste Engpässe zeichnen sich ab",
-   "link": "https://www.pv-magazine.de/2026/11/03/jahresendrallye-beim-photovoltaik-zubau-erste-engpaesse-zeichnen-sich-ab/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-03T12:50:00+00:00",
+   "titel": "Bachelor, Meister, Techniker – Starke Bildungswege für die Kälte- und Klimabranche",
+   "link": "https://www.kka-online.info/news/bachelor-meister-techniker-starke-bildungswege-fuer-die-kaelte-und-klimabranche-4448897.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-11-02T12:42:35+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik"
+    "Kälte- und Klimatechnik"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
+    "Ausbildung",
+    "Monteur/Facharbeiter"
    ],
-   "thema": "Markt",
-   "was": "PV-Markt zieht trotz geplanter Förderkürzungen stark an, Kapazitäten werden knapp - Lieferzeiten und Preise im Blick behalten.",
-   "tun": "Sichere frühzeitig Material- und Montagekapazitäten für Jahresende.",
+   "thema": "Personal & Ausbildung",
+   "was": "Mehrere Weiterbildungswege vom Meister bis Bachelor stärken Fachkräfte in der Kälte-/Klimabranche.",
+   "tun": "Informiere Mitarbeiter über Aufstiegsmöglichkeiten nach der Ausbildung.",
    "frist": null,
    "gewicht": 2
   },
   {
-   "titel": "Büchl entwickelt Recyclingprozess für technische Steinwolle",
-   "link": "https://allgemeinebauzeitung.de/steinwolle-recycling-buechl-basf-rockwool/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-11-03T12:22:50+00:00",
+   "titel": "Chef als Engpass: Bernd Geropp über Wege aus der Falle",
+   "link": "https://www.handwerk-magazin.de/chef-als-engpass-bernd-geropp-ueber-wege-aus-der-falle-352718/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-11-02T09:00:00+00:00",
    "gewerke": [
-    "Dachdecker",
-    "Stuckateur/Fassade",
-    "Innenausbau/Trockenbau"
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Wenn alle Entscheidungen beim Chef landen, bremst das den Betrieb – Delegation ist der Ausweg.",
+   "tun": "Überprüfe, welche Entscheidungen du an Mitarbeiter abgeben kannst.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "ZVSHK: Chancen und Risiken beim Gebäudetyp E",
+   "link": "https://www.shk-profi.de/news/zvshk-sieht-chancen-und-risiken-beim-bauen-e-4443383.html",
+   "quelle": "SHK-Profi",
+   "bereich": "SHK",
+   "datum": "2026-10-29T13:28:59+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Sanitär/Heizung/Klima (SHK)",
+    "Architektur/Planung"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "Normen & Technik",
-   "was": "Neuer Recyclingprozess für Steinwolle-Dämmstoffe eröffnet Kreislaufoptionen beim Rückbau.",
-   "tun": "Informiere dich über Rücknahme- und Recyclingmöglichkeiten für Dämmstoffabfälle.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Dach-Photovoltaik erhält bei Ausschreibung Oktober 9,67 Cent je kWh",
-   "link": "https://www.solarserver.de/2026/11/03/dach-photovoltaik-erhaelt-bei-ausschreibung-oktober-967-cent-je-kwh/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-03T11:00:00+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Förderung",
-   "was": "Zuschlagswert für Dach-PV-Ausschreibung liegt bei 9,67 Cent/kWh - Richtwert für eigene Kalkulationen.",
-   "tun": "Nutze den Wert als Vergleichsgröße bei Förderprojekt-Kalkulationen.",
+   "thema": "Recht & Pflichten",
+   "was": "Der neue Gebäudetyp E soll einfacheres Bauen ermöglichen, bringt laut ZVSHK aber auch neue Haftungs- und Gewährleistungsfragen mit sich.",
+   "tun": "Verfolge die Entwicklung des Gebäudetyp E und prüfe Auswirkungen auf Verträge und Haftung.",
    "frist": null,
    "gewicht": 2
   },
   {
-   "titel": "Ladepunkte nach Nutzergruppen abrechnen",
-   "link": "https://www.elektro.net/130018/zentrale-abrechnung-gewinnt-bei-wachsender-ladeinfrastruktur-an-bedeutung/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-11-03T08:56:00+00:00",
+   "titel": "Drei Triflex-Systeme mit 40 Jahren Nutzungsdauer bestätigt",
+   "link": "https://www.bauhandwerk.de/news/drei-triflex-systeme-mit-40-jahren-nutzungsdauer-bestaetigt-4440029.html",
+   "quelle": "bauhandwerk",
+   "bereich": "Bau",
+   "datum": "2026-10-23T11:44:55+00:00",
    "gewerke": [
-    "Elektro",
-    "TGA/Energiedienstleister"
+    "Dachdecker"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
     "Büro/Kalkulation"
    ],
    "thema": "Normen & Technik",
-   "was": "Neue Abrechnungsfunktion trennt Ladevorgänge nach Nutzergruppen - interessant für Ladeinfrastruktur-Projekte.",
-   "tun": "Prüfe die Lösung für Kundenprojekte mit mehreren Nutzergruppen an Ladepunkten.",
+   "was": "Drei Flüssigkunststoff-Abdichtungssysteme sind jetzt mit 40 Jahren Nutzungsdauer zertifiziert – gut für Ausschreibungen und Gewährleistung.",
+   "tun": "Nutze die Zertifizierung als Argument bei Angeboten.",
    "frist": null,
    "gewicht": 1
   },
@@ -1120,41 +1116,117 @@
    ]
   },
   {
-   "titel": "KI von Lumeso automatisiert Auftragserfassung bei Semco",
-   "link": "https://www.gff-magazin.de/ki-von-lumeso-automatisiert-auftragserfassung-bei-semco-337553/",
-   "quelle": "GFF",
-   "bereich": "Fenster & Glas",
-   "datum": "2026-11-03T06:39:00+00:00",
+   "titel": "Genehmigungspflicht für Asbest-Abbrucharbeiten ab Dezember 2026",
+   "link": "https://allgemeinebauzeitung.de/asbest-abbrucharbeiten-genehmigungspflicht-dezember-2026/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-11-04T11:31:19+00:00",
    "gewerke": [
-    "Fensterbau/Glas"
+    "Hochbau/Rohbau",
+    "Tiefbau",
+    "Dachdecker"
    ],
    "rollen": [
-    "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
    ],
-   "thema": "KI & Digitales",
-   "was": "KI-Auftragserfassung spart Zeit bei Angebots- und Auftragsabwicklung in der Glasbranche.",
-   "tun": "Prüfe, ob automatisierte Auftragserfassung für dein Büro passt.",
-   "frist": null,
-   "gewicht": 2
+   "thema": "Recht & Pflichten",
+   "was": "Ab Dezember 2026 brauchst du für Abbrucharbeiten an asbesthaltigen Materialien eine behördliche Genehmigung mit Fachkunde- und Vorsorgenachweis.",
+   "tun": "Beantrage rechtzeitig die Genehmigung und sichere Fachkunde- sowie Vorsorgenachweise.",
+   "frist": "2026-12-01",
+   "gewicht": 3
   },
   {
-   "titel": "Geschäftsklima in der Haus- und Gebäudetechnik verbessert sich deutlich",
-   "link": "https://www.tga-praxis.de/news/geschaeftsklima-der-haus-und-gebaeudetechnik-verbessert-sich-deutlich.html",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-11-02T17:00:00+00:00",
+   "titel": "Sax Power meldet 60 Prozent mehr Umsatz und will Batteriespeicher-Produktion stark ausbauen",
+   "link": "https://www.pv-magazine.de/2026/11/03/sax-power-meldet-60-prozent-mehr-umsatz-und-will-batteriespeicher-produktion-stark-ausbauen/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-03T15:00:00+00:00",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "TGA/Energiedienstleister",
-    "Kälte- und Klimatechnik"
+    "Photovoltaik/Solartechnik"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung"
    ],
    "thema": "Markt",
-   "was": "Die Auftragslage in der Gebäudetechnik hellt sich auf, das kann die Nachfrage für deinen Betrieb spürbar steigern.",
-   "tun": "Prüfe deine Kapazitätsplanung für die nächsten Monate.",
+   "was": "Starke Nachfrage nach Batteriespeichern zeigt wachsenden Markt für PV-Betriebe.",
+   "tun": "",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Panzerglas ohne Polycarbonat von Vetrotech",
+   "link": "https://www.gff-magazin.de/panzerglas-ohne-polycarbonat-von-vetrotech-337586/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-11-03T10:13:32+00:00",
+   "gewerke": [
+    "Fensterbau/Glas"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Neues Sicherheitsglas ohne Polycarbonat kann Verarbeitung und Lagerung im Betrieb verändern.",
+   "tun": "Informiere dich bei Vetrotech über Verarbeitungsunterschiede zu klassischem Panzerglas.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Heizungsbauer muss TGA-Planung auf erkennbare Mängel überprüfen!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317059",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-03T07:29:51+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Haftung kann auch Heizungsbauer treffen, wenn er erkennbare Fehler in TGA-Planung übernimmt.",
+   "tun": "Prüfe Planungsunterlagen auf offensichtliche Fehler vor Ausführung.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Cyberangriffe auf Kältetechnik - Handlungsbedarf auch in Deutschland",
+   "link": "https://www.tga-praxis.de/news/cyberangriffe-auf-kaeltetechnik-handlungsbedarf-auch-deutschland.html",
+   "quelle": "TGA-Praxis",
+   "bereich": "TGA",
+   "datum": "2026-11-03T03:00:00+00:00",
+   "gewerke": [
+    "Kälte- und Klimatechnik",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Vernetzte Kälteanlagen geraten ins Visier von Cyberangriffen - Sicherheitslücken bei Kundenanlagen prüfen.",
+   "tun": "Prüfe IT-Sicherheit vernetzter Kälte- und Klimaanlagen beim Kunden.",
    "frist": null,
    "gewicht": 2
   },
@@ -1196,9 +1268,28 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
+   "titel": "TWK stellt Weiterbildungsprogramm für 2027 vor",
+   "link": "https://kaelte-luft-klima.de/kaeltetechnik/twk-stellt-weiterbildungsprogramm-fuer-2027-vor",
+   "quelle": "Kälte Luft Klima",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-11-02T08:00:23+00:00",
+   "gewerke": [
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Ausbildung",
+    "Monteur/Facharbeiter"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Neues Kursprogramm 2027 deckt F-Gase, alternative Kältemittel und Wärmepumpen ab.",
+   "tun": "Melde Mitarbeiter für relevante Kältekurse 2027 an.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
    "aktiv": true,
    "bereich": "IPH",
    "thema": "IPH",
@@ -1214,21 +1305,22 @@
    ]
   },
   {
-   "titel": "Judo: Kombi-Messgerät für die Wasser­analyse im SHK-Alltag",
-   "link": "https://www.ikz.de/sanitaertechnik/news/detail/judo-kombi-messgeraet-fuer-die-wasseranalyse-im-shk-alltag/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-11-02T11:12:00+00:00",
+   "titel": "Zersplitterte öffentliche Beteiligung schützt nicht vor dem Sektorenvergaberecht: EuGH zur gemeinsamen Beherrschung öffentlicher Unternehmen",
+   "link": "https://vergabeblog.de/2026-11-02/zersplitterte-oeffentliche-beteiligung-schuetzt-nicht-vor-dem-sektorenvergaberecht-eugh-zur-gemeinsamen-beherrschung-oeffentlicher-unternehmen/",
+   "quelle": "vergabeblog",
+   "bereich": "Vergabe",
+   "datum": "2026-11-02T07:00:16+00:00",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "Kälte- und Klimatechnik"
+    "Tiefbau",
+    "Hochbau/Rohbau"
    ],
    "rollen": [
-    "Monteur/Facharbeiter"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "Normen & Technik",
-   "was": "Neues Kombi-Messgerät erleichtert die Wasseranalyse bei Heiz- und Kühlwasseraufbereitung vor Ort.",
-   "tun": "",
+   "thema": "Recht & Pflichten",
+   "was": "Bei Ausschreibungen öffentlicher Versorger zählt gemeinsame Beherrschung auch bei verstreuten Kommunalanteilen – Vergaberecht greift trotzdem.",
+   "tun": "Prüfe bei Bietergemeinschaften, ob Sektorenvergaberecht anwendbar ist.",
    "frist": null,
    "gewicht": 1
   },
@@ -1252,49 +1344,48 @@
    "gewicht": 2
   },
   {
-   "titel": "Marktübersicht elektrische Heizstäbe",
-   "link": "https://www.pv-magazine.de/2026/11/03/marktuebersicht-elektrische-heizstaebe/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-03T11:57:00+00:00",
+   "titel": "Swisspacer und Sika stellen Adhera Window Technology vor",
+   "link": "https://www.gff-magazin.de/swisspacer-und-sika-stellen-adhera-window-technology-vor-337512/",
+   "quelle": "GFF",
+   "bereich": "Fenster & Glas",
+   "datum": "2026-11-03T10:00:00+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Preise & Material",
-   "was": "Marktübersicht hilft, passende Heizstab-Kombinationen für PV-Eigenverbrauch auszuwählen.",
-   "tun": "Vergleiche die Marktübersicht vor der nächsten Heizstab-Auslegung.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Ylektra stellt Agri-PV-Atlas für Deutschland vor",
-   "link": "https://www.solarserver.de/2026/11/03/ylektra-stellt-agri-pv-atlas-fuer-deutschland-vor/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-03T09:59:16+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "Garten- und Landschaftsbau"
+    "Fensterbau/Glas"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "Markt",
-   "was": "Agri-PV wächst leicht, aber als Nische – Marktvolumen für Betriebe bisher überschaubar.",
-   "tun": "",
+   "thema": "Normen & Technik",
+   "was": "Neue Verklebungstechnik ermöglicht größere Glasflächen und schlankere Fensterrahmen bei weniger Materialeinsatz.",
+   "tun": "Prüfe mit deinem Glaslieferanten, ob die Technik für künftige Aufträge infrage kommt.",
    "frist": null,
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
+   "titel": "Geschäftsklima in der Haus- und Gebäudetechnik verbessert sich deutlich",
+   "link": "https://www.tga-praxis.de/news/geschaeftsklima-der-haus-und-gebaeudetechnik-verbessert-sich-deutlich.html",
+   "quelle": "TGA-Praxis",
+   "bereich": "TGA",
+   "datum": "2026-11-02T17:00:00+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister",
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Die Auftragslage in der Gebäudetechnik hellt sich auf, das kann die Nachfrage für deinen Betrieb spürbar steigern.",
+   "tun": "Prüfe deine Kapazitätsplanung für die nächsten Monate.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
    "aktiv": true,
    "bereich": "IPH",
    "thema": "IPH",
@@ -1308,43 +1399,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Neue Vergütungsstudie für das Handwerk räumt mit Vorurteilen auf",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/verguetung-mehr-differenzierung-statt-pauschaler-urteile-lfi",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-11-03T08:30:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Studie zeigt: gute Fachkräfte verdienen mehr als gedacht – wichtig für Lohnargumentation und Mitarbeiterbindung.",
-   "tun": "Nutze die Daten als Argument bei Gehaltsgesprächen oder Stellenausschreibungen.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Beleuchtung richtig messen und bewerten",
-   "link": "https://www.elektro.net/129930/beleuchtung-richtig-messen-und-bewerten/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-11-03T08:00:00+00:00",
-   "gewerke": [
-    "Elektro"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Normgerechte Messung von Beleuchtungsanlagen inkl. Blendbewertung wird Teil der Abnahmepraxis.",
-   "tun": "Lies die Serie, um Messverfahren korrekt anzuwenden.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Lobby für den Wohnbau",
@@ -1367,99 +1421,23 @@
    "gewicht": 1
   },
   {
-   "titel": "Neuer Campus für Kälte- und Klimatechnik",
-   "link": "https://www.tga-praxis.de/202604-726",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-11-02T09:40:11+00:00",
+   "titel": "Judo: Kombi-Messgerät für die Wasser­analyse im SHK-Alltag",
+   "link": "https://www.ikz.de/sanitaertechnik/news/detail/judo-kombi-messgeraet-fuer-die-wasseranalyse-im-shk-alltag/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-11-02T11:12:00+00:00",
    "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
     "Kälte- und Klimatechnik"
    ],
    "rollen": [
-    "Ausbildung",
-    "Inhaber/Geschäftsführung"
+    "Monteur/Facharbeiter"
    ],
-   "thema": "Personal & Ausbildung",
-   "was": "Ein neuer Campus bündelt Aus- und Weiterbildung für Kälte-Klima-Fachkräfte – relevant für Nachwuchsplanung.",
-   "tun": "Informiere dich über Ausbildungsangebote des neuen Campus.",
+   "thema": "Normen & Technik",
+   "was": "Neues Kombi-Messgerät erleichtert die Wasseranalyse bei Heiz- und Kühlwasseraufbereitung vor Ort.",
+   "tun": "",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "WWF veröffentlicht Studie „Hammer-Heizungs-Deal 3.0“",
-   "link": "https://www.ikz.de/detail/news/detail/wwf-veroeffentlicht-studie-hammer-heizungs-deal-30/",
-   "quelle": "IKZ",
-   "bereich": "SHK",
-   "datum": "2026-11-02T08:40:00+00:00",
-   "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Förderung",
-   "was": "Die Studie greift den Heizungs-Förderdeal erneut auf – mögliche Signale für künftige Förderanpassungen bei Heizungstausch.",
-   "tun": "Verfolge die Debatte, um Kunden bei Förderfragen aktuell beraten zu können.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Minderung erklärt: Rücktritt ausgeschlossen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316981",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-11-02T07:20:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Das Urteil zeigt: Wer mindert, kann nicht gleichzeitig vom Vertrag zurücktreten – wichtig bei Mängelansprüchen.",
-   "tun": "Kläre mit deinem Rechtsberater, wie sich das auf laufende Mängelfälle auswirkt.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "VOB: Schwache Planung, volles Honorar – so hilft die Bedenkenanzeige",
-   "link": "https://www.handwerk-magazin.de/vob-schwache-planung-volles-honorar-so-hilft-die-bedenkenanzeige-352727/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-31T09:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Ohne schriftliche Bedenkenanzeige haftest du für Planungsfehler, die nicht von dir stammen.",
-   "tun": "Melde Planungsmängel schriftlich und vor Ausführung an den Auftraggeber.",
-   "frist": null,
-   "gewicht": 3
   },
   {
    "titel": "„Zum Glück gibt es die E-Rechnung“",
@@ -1481,24 +1459,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "FEP: Märkte uneinheitlich",
    "link": "https://www.boden-wand-decke.de/fep-maerkte-uneinheitlich-357633/",
    "quelle": "Boden Wand Decke",
@@ -1517,22 +1477,22 @@
    "gewicht": 1
   },
   {
-   "titel": "SHK-Handwerk: Stimmung deutlich verbessert",
-   "link": "https://www.shk-profi.de/news/shk-handwerk-stimmung-deutlich-verbessert-4440941.html",
-   "quelle": "SHK-Profi",
-   "bereich": "SHK",
-   "datum": "2026-10-27T09:04:41+00:00",
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Die verbesserte Stimmung im SHK-Handwerk spiegelt wachsendes Auftragsvertrauen wider – ein Indikator für die eigene Planung.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Wenn Mitarbeitende funktionieren, aber unter ihrer Arbeit leiden",
@@ -1554,20 +1514,59 @@
    "gewicht": 2
   },
   {
-   "titel": "Ausschreibung für Photovoltaik-Dachanlagen mit mehr Geboten bei gleichbleibendem Kostenniveau",
-   "link": "https://www.pv-magazine.de/2026/11/03/ausschreibung-fuer-photovoltaik-dachanlagen-mit-mehr-geboten-bei-gleichbleibendem-kostenniveau/",
-   "quelle": "pv magazine",
+   "titel": "Liebherr Mobilbagger mit MiC 4.0 BUS Standard",
+   "link": "https://allgemeinebauzeitung.de/liebherr-mobilbagger-mic-40-bus-anbauteile-flexibilitaet/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-11-04T11:29:17+00:00",
+   "gewerke": [
+    "Tiefbau",
+    "Hochbau/Rohbau",
+    "Garten- und Landschaftsbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Neue Maschinen-Schnittstelle erleichtert Datenaustausch und Flottenmanagement bei Baggern.",
+   "tun": "Prüfe bei nächster Maschinenanschaffung, ob MiC 4.0 unterstützt wird.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Neues Förderprogramm für mehr Wirtschaftsflächen",
+   "link": "https://www.handwerksblatt.de/handwerkspolitik/neues-foerderprogramm-fuer-mehr-wirtschaftsflaechen",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-11-04T07:29:00+00:00",
+   "gewerke": [
+    "Tiefbau",
+    "Hochbau/Rohbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Mehr Gewerbeflächen in NRW könnten mittelfristig mehr Bauaufträge für Betriebe bedeuten.",
+   "tun": "Beobachte Ausschreibungen deiner Kommune zu neuen Gewerbegebieten.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Greenovative erwartet stabile Gewinne mit Solarparks",
+   "link": "https://www.solarserver.de/2026/11/03/greenovative-erwartet-stabile-gewinne-mit-solarparks/",
+   "quelle": "Solarserver",
    "bereich": "Photovoltaik",
-   "datum": "2026-11-03T11:15:21+00:00",
+   "datum": "2026-11-03T13:00:04+00:00",
    "gewerke": [
     "Photovoltaik/Solartechnik"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
+    "Inhaber/Geschäftsführung"
    ],
    "thema": "Markt",
-   "was": "Vergütungsniveau bei PV-Dachausschreibungen bleibt nahe am Höchstwert – Kalkulationsgrundlage bleibt stabil.",
+   "was": "Solarpark-Markt bleibt trotz schwierigerem Umfeld stabil, Wettbewerber ziehen sich zurück.",
    "tun": "",
    "frist": null,
    "gewicht": 1
@@ -1591,60 +1590,98 @@
    ]
   },
   {
-   "titel": "Deutscher Holzbaupreis 2027: Projekte bis Januar einreichen",
-   "link": "https://www.handwerksblatt.de/themen-specials/interessante-wettbewerbe-fuer-handwerker/deutscher-holzbaupreis-2027-projekte-bis-januar-einreichen",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-11-03T08:23:00+00:00",
+   "titel": "Jahresendrallye beim Photovoltaik-Zubau: Erste Engpässe zeichnen sich ab",
+   "link": "https://www.pv-magazine.de/2026/11/03/jahresendrallye-beim-photovoltaik-zubau-erste-engpaesse-zeichnen-sich-ab/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-03T12:50:00+00:00",
    "gewerke": [
-    "Holzbau/Zimmerei"
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "PV-Markt zieht trotz geplanter Förderkürzungen stark an, Kapazitäten werden knapp - Lieferzeiten und Preise im Blick behalten.",
+   "tun": "Sichere frühzeitig Material- und Montagekapazitäten für Jahresende.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Neuer Campus für Kälte- und Klimatechnik",
+   "link": "https://www.tga-praxis.de/202604-726",
+   "quelle": "TGA-Praxis",
+   "bereich": "TGA",
+   "datum": "2026-11-02T09:40:11+00:00",
+   "gewerke": [
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Ausbildung",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Ein neuer Campus bündelt Aus- und Weiterbildung für Kälte-Klima-Fachkräfte – relevant für Nachwuchsplanung.",
+   "tun": "Informiere dich über Ausbildungsangebote des neuen Campus.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "WWF veröffentlicht Studie „Hammer-Heizungs-Deal 3.0“",
+   "link": "https://www.ikz.de/detail/news/detail/wwf-veroeffentlicht-studie-hammer-heizungs-deal-30/",
+   "quelle": "IKZ",
+   "bereich": "SHK",
+   "datum": "2026-11-02T08:40:00+00:00",
+   "gewerke": [
+    "Sanitär/Heizung/Klima (SHK)",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Förderung",
+   "was": "Die Studie greift den Heizungs-Förderdeal erneut auf – mögliche Signale für künftige Förderanpassungen bei Heizungstausch.",
+   "tun": "Verfolge die Debatte, um Kunden bei Förderfragen aktuell beraten zu können.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "VOB: Schwache Planung, volles Honorar – so hilft die Bedenkenanzeige",
+   "link": "https://www.handwerk-magazin.de/vob-schwache-planung-volles-honorar-so-hilft-die-bedenkenanzeige-352727/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-10-31T09:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "Markt",
-   "was": "Chance auf Sichtbarkeit und Auszeichnung für eigene Holzbauprojekte bei rechtzeitiger Einreichung.",
-   "tun": "Reiche dein Projekt bis zum Stichtag ein.",
-   "frist": "2027-01-17",
-   "gewicht": 1
+   "thema": "VOB & Verträge",
+   "was": "Ohne schriftliche Bedenkenanzeige haftest du für Planungsfehler, die nicht von dir stammen.",
+   "tun": "Melde Planungsmängel schriftlich und vor Ausführung an den Auftraggeber.",
+   "frist": null,
+   "gewicht": 3
   },
   {
-   "titel": "Excel-Tool: Kalkulation für Kleinbetriebe",
-   "link": "https://www.elektro.net/130009/excel-tool-kalkulation-fuer-kleinbetriebe/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-11-03T06:00:00+00:00",
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
     "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Kostenloses Excel-Tool erleichtert Kleinbetrieben ohne Software die Angebotskalkulation.",
-   "tun": "Teste das Tool für deine nächste Angebotskalkulation.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Zeitmanagement im Handwerk: So setzen Sie als Chef Prioritäten",
-   "link": "https://www.handwerk-magazin.de/zeitmanagement-im-handwerk-so-setzen-sie-als-chef-prioritaeten-344760/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-10-30T13:01:10+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Serie zeigt, wie Chefs sich aus dem Tagesgeschäft lösen und klare Prioritäten setzen.",
-   "tun": "Plane feste Zeitblöcke für strategische Aufgaben ein",
-   "frist": null,
-   "gewicht": 2
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Schnellzementestrich im 23. Stock: 400 m² in zwei Nächten",
@@ -1667,42 +1704,22 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
-   "titel": "Heizspiegel: Preise steigen 2026",
-   "link": "https://www.shk-profi.de/news/heizspiegel-preise-steigen-2026-4440232.html",
+   "titel": "SHK-Handwerk: Stimmung deutlich verbessert",
+   "link": "https://www.shk-profi.de/news/shk-handwerk-stimmung-deutlich-verbessert-4440941.html",
    "quelle": "SHK-Profi",
    "bereich": "SHK",
-   "datum": "2026-10-26T08:43:15+00:00",
+   "datum": "2026-10-27T09:04:41+00:00",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "TGA/Energiedienstleister"
+    "Sanitär/Heizung/Klima (SHK)"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "Preise & Material",
-   "was": "Heizkosten steigen 2026 wieder spürbar – relevant für Beratungsgespräche mit Kunden zu Modernisierung.",
-   "tun": "Nutze die Zahlen als Argument für Effizienzmaßnahmen beim Kunden.",
+   "thema": "Markt",
+   "was": "Die verbesserte Stimmung im SHK-Handwerk spiegelt wachsendes Auftragsvertrauen wider – ein Indikator für die eigene Planung.",
+   "tun": "",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Keine Zahlen, kein Erfolg",
@@ -1724,6 +1741,44 @@
    "tun": "Prüfe, ob eure Maschinendaten systematisch ausgewertet werden.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Minderung erklärt: Rücktritt ausgeschlossen!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316981",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-02T07:20:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Das Urteil zeigt: Wer mindert, kann nicht gleichzeitig vom Vertrag zurücktreten – wichtig bei Mängelansprüchen.",
+   "tun": "Kläre mit deinem Rechtsberater, wie sich das auf laufende Mängelfälle auswirkt.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Verwertungskündigung ist nicht vom Baurisikoausschluss erfasst!",
@@ -1762,24 +1817,6 @@
    "tun": "Prüfe eigene Solaranlagen-Verträge auf vergleichbare Laufzeitklauseln.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Mehrere Obliegenheitsverletzungen: Leistungskürzung auf Null!",
@@ -1821,23 +1858,22 @@
    "gewicht": 2
   },
   {
-   "titel": "Keine Offenlegung von Preis und Konzeptinhalten im Absageschreiben!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316957",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-10-29T05:30:00+00:00",
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Vergabekammer bestätigt: Auftraggeber müssen Preise und Konzeptinhalte im Absageschreiben nicht offenlegen.",
-   "tun": "Beachte das bei Rügen gegen Vergabeabsagen.",
-   "frist": null,
-   "gewicht": 1
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   }
  ]
 }
