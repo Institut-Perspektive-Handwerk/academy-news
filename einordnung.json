@@ -25895,5 +25895,76 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-06"
+ },
+ "https://www.handwerk-magazin.de/investitionsquote-mit-augenmass-die-chancen-sehen-281285/": {
+  "id": "f1a15e484588",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Die Investitionsquote zeigt, ob dein Betrieb zukunftsfähig bleibt oder sich kaputtspart.",
+  "tun": "Berechne deine Investitionsquote und vergleiche sie mit den letzten Jahren.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-06"
+ },
+ "https://www.solarserver.de/2026/11/06/elektromobilitaetsgesetz-privilegien-fuer-e-fahrzeuge-bis-ende-2035/": {
+  "id": "c264240b53c2",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Vorteile für E-Fahrzeuge im Fuhrpark (z. B. bei Parken/Nutzung) bleiben bis 2035 erhalten.",
+  "tun": "Prüfe bei der nächsten Fuhrparkplanung die verlängerten E-Auto-Vorteile.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-06"
+ },
+ "https://www.solarserver.de/2026/11/06/mehr-geschaeft-mehr-marge-mehr-miteinander/": {
+  "id": "fac03239e8a9",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-06"
+ },
+ "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/": {
+  "id": "e9ee798e97d1",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Verluste aus PV- und Speicher-Direktinvestments können als Steuerstundungsmodell gelten und steuerlich anders behandelt werden.",
+  "tun": "Lass laufende oder geplante PV-Direktinvestments steuerlich gegenprüfen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-06"
  }
 }

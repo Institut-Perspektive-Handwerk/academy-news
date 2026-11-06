@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-06T15:55+00:00",
- "anzahl": 91,
+ "stand": "2026-11-06T21:29+00:00",
+ "anzahl": 90,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -63,6 +63,43 @@
  ],
  "news": [
   {
+   "titel": "Investitionsquote: Woran Sie einen Investitionsstau früh erkennen",
+   "link": "https://www.handwerk-magazin.de/investitionsquote-mit-augenmass-die-chancen-sehen-281285/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-11-06T20:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Die Investitionsquote zeigt, ob dein Betrieb zukunftsfähig bleibt oder sich kaputtspart.",
+   "tun": "Berechne deine Investitionsquote und vergleiche sie mit den letzten Jahren.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Elektromobilitätsgesetz: Privilegien für E-Fahrzeuge bis Ende 2035",
+   "link": "https://www.solarserver.de/2026/11/06/elektromobilitaetsgesetz-privilegien-fuer-e-fahrzeuge-bis-ende-2035/",
+   "quelle": "Solarserver",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-06T15:58:58+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Vorteile für E-Fahrzeuge im Fuhrpark (z. B. bei Parken/Nutzung) bleiben bis 2035 erhalten.",
+   "tun": "Prüfe bei der nächsten Fuhrparkplanung die verlängerten E-Auto-Vorteile.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "EEG-Novelle wohl erst im Dezember im Bundestag und Bundesrat",
    "link": "https://www.pv-magazine.de/2026/11/06/eeg-novelle-wohl-erst-im-dezember-im-bundestag-und-bundesrat/",
    "quelle": "pv magazine",
@@ -103,6 +140,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "5 Modelle, mit denen du bei der Übergabe der Firma Steuern sparst",
    "link": "https://www.impulse.de/finanzen/nachfolge-steuerlich-gestalten-plus/7642137.html",
    "quelle": "impulse",
@@ -139,24 +194,6 @@
    "tun": "Kläre jetzt, welche Arbeiten künftig genehmigungspflichtig sind.",
    "frist": "2026-12-20",
    "gewicht": 3
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Wenn Flüsse, Seen und Abwasserkanäle Gebäude beheizen",
@@ -199,6 +236,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Sind externe Projektleiter selbstständig oder abhängig beschäftigt?",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317296",
    "quelle": "IBR-Online",
@@ -238,24 +293,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Geschäftsklima verbessert sich deutlich",
    "link": "https://www.shk-profi.de/news/geschaeftsklima-verbessert-sich-deutlich-4449422.html",
    "quelle": "SHK-Profi",
@@ -290,6 +327,24 @@
    "tun": "Beobachte die PFAS-Regulierung, bevor du langfristig auf bestimmte Kältemittel setzt.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Umlageklauseln: Auf den zweiten Blick oft bares Geld wert",
@@ -329,24 +384,6 @@
    "tun": "Teste die LiDAR-App für dein nächstes Aufmaß.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Boom von Rechenzentren: Was auf die Bauwirtschaft zukommt",
@@ -389,44 +426,6 @@
    "gewicht": 1
   },
   {
-   "titel": "pv magazine Podcast: EEG, AgNes, Netzpaket: warum sollte man mit Projekten nicht bis 2027 warten?",
-   "link": "https://www.pv-magazine.de/2026/11/06/pv-magazine-podcast-eeg-agnes-netzpaket-warum-sollte-man-mit-projekten-nicht-bis-2027-warten/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-06T14:10:00+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Förderung",
-   "was": "Wer noch unter aktuellen Förderbedingungen bauen will, sollte PV-Projekte nicht bis zur EEG-Novelle 2027 aufschieben.",
-   "tun": "Plane laufende PV-Projekte noch in diesem Jahr zum Abschluss.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Wie die Photovoltaik mehr Wintersonne in Strom umwandelt",
-   "link": "https://www.solarserver.de/2026/11/06/wie-die-photovoltaik-mehr-wintersonne-in-strom-umwandelt/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-06T13:00:00+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Senkrecht montierte Module an Fassaden bringen im Winter deutlich mehr Ertrag als klassische Dachanlagen.",
-   "tun": "Prüfe vertikale Fassadenmodule als Option bei Winterertrags-Projekten.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -443,6 +442,26 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
+   "link": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-06T14:15:00+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Verluste aus PV- und Speicher-Direktinvestments können als Steuerstundungsmodell gelten und steuerlich anders behandelt werden.",
+   "tun": "Lass laufende oder geplante PV-Direktinvestments steuerlich gegenprüfen.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "Reklamation Bodenbelag: Unsichtbare Schadensursachen nachweisen",
@@ -479,24 +498,6 @@
    "thema": "Recht & Pflichten",
    "was": "Klagen gegen GbR-Gesellschafter dürfen nicht einfach über den Briefkasten der GbR zugestellt werden - wichtig für Betriebe in GbR-Form.",
    "tun": "Prüfe Zustelladresse und Vertretungsregelung in deinem GbR-Vertrag.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Altersvorsorgedepot: Alles, was Selbstständige wissen müssen",
-   "link": "https://www.handwerk-magazin.de/altersvorsorgedepot-faq-alles-was-selbststaendige-wissen-muessen-352662/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-11-05T09:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Förderung",
-   "was": "Neues staatlich gefördertes Altersvorsorgedepot löst Riester ab und betrifft auch Selbstständige im Betrieb.",
-   "tun": "Informiere dich rechtzeitig über die Konditionen vor Vertriebsstart.",
    "frist": null,
    "gewicht": 2
   },
@@ -631,22 +632,23 @@
    ]
   },
   {
-   "titel": "IEA erwartet Zubau der Photovoltaik bis 2031 um 3.600 Gigawatt",
-   "link": "https://www.solarserver.de/2026/11/06/iea-erwartet-zubau-der-photovoltaik-bis-2031-um-3-600-gigawatt/",
-   "quelle": "Solarserver",
+   "titel": "pv magazine Podcast: EEG, AgNes, Netzpaket: warum sollte man mit Projekten nicht bis 2027 warten?",
+   "link": "https://www.pv-magazine.de/2026/11/06/pv-magazine-podcast-eeg-agnes-netzpaket-warum-sollte-man-mit-projekten-nicht-bis-2027-warten/",
+   "quelle": "pv magazine",
    "bereich": "Photovoltaik",
-   "datum": "2026-11-06T12:00:00+00:00",
+   "datum": "2026-11-06T14:10:00+00:00",
    "gewerke": [
     "Photovoltaik/Solartechnik"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
    ],
-   "thema": "Markt",
-   "was": "Der weltweite PV-Zubau soll bis 2031 stark zulegen - ein Signal für anhaltende Nachfrage im Solargewerk.",
-   "tun": "",
+   "thema": "Förderung",
+   "was": "Wer noch unter aktuellen Förderbedingungen bauen will, sollte PV-Projekte nicht bis zur EEG-Novelle 2027 aufschieben.",
+   "tun": "Plane laufende PV-Projekte noch in diesem Jahr zum Abschluss.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Sportboden nach DIN 18032: Systeme, Bauarten, Marktchancen",
@@ -725,23 +727,22 @@
    ]
   },
   {
-   "titel": "Ausbildungs-Ass 2026: Diese Betriebe zeigen, wie gute Ausbildung heute funktioniert",
-   "link": "https://www.handwerk-magazin.de/ausbildungs-ass-2026-diese-betriebe-zeigen-wie-gute-ausbildung-heute-funktioniert-352934/",
+   "titel": "Altersvorsorgedepot: Alles, was Selbstständige wissen müssen",
+   "link": "https://www.handwerk-magazin.de/altersvorsorgedepot-faq-alles-was-selbststaendige-wissen-muessen-352662/",
    "quelle": "handwerk magazin",
    "bereich": "Handwerk",
-   "datum": "2026-11-05T08:30:08+00:00",
+   "datum": "2026-11-05T09:00:00+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Ausbildung"
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "Personal & Ausbildung",
-   "was": "Preisträger zeigen, wie Ausbildung mit Perspektive und Führungsrolle im Betrieb erfolgreich läuft.",
-   "tun": "Schau dir die Konzepte der Preisträger für eigene Ausbildungsideen an.",
+   "thema": "Förderung",
+   "was": "Neues staatlich gefördertes Altersvorsorgedepot löst Riester ab und betrifft auch Selbstständige im Betrieb.",
+   "tun": "Informiere dich rechtzeitig über die Konditionen vor Vertriebsstart.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Vertragsstrafe bei Fertigstellungsverzug: Bauträger muss sich entlasten!",
@@ -879,23 +880,21 @@
    "gewicht": 2
   },
   {
-   "titel": "E3/DC stellt bidirektionale Wallbox für Hauskraftwerk vor",
-   "link": "https://www.solarserver.de/2026/11/06/e3-dc-stellt-bidirektionale-wallbox-fuer-hauskraftwerk-vor/",
+   "titel": "Wie die Photovoltaik mehr Wintersonne in Strom umwandelt",
+   "link": "https://www.solarserver.de/2026/11/06/wie-die-photovoltaik-mehr-wintersonne-in-strom-umwandelt/",
    "quelle": "Solarserver",
    "bereich": "Photovoltaik",
-   "datum": "2026-11-06T11:00:00+00:00",
+   "datum": "2026-11-06T13:00:00+00:00",
    "gewerke": [
-    "Elektro",
-    "Photovoltaik/Solartechnik",
-    "Sanitär/Heizung/Klima (SHK)"
+    "Photovoltaik/Solartechnik"
    ],
    "rollen": [
     "Projektleitung/Bauleitung",
-    "Monteur/Facharbeiter"
+    "Büro/Kalkulation"
    ],
    "thema": "Normen & Technik",
-   "was": "Neue bidirektionale Wallbox reagiert auf aktuelle Vorschriften und kann Kundenprojekte mit PV-Speicher attraktiver machen.",
-   "tun": "Prüfe die neue Wallbox für laufende PV-Angebote",
+   "was": "Senkrecht montierte Module an Fassaden bringen im Winter deutlich mehr Ertrag als klassische Dachanlagen.",
+   "tun": "Prüfe vertikale Fassadenmodule als Option bei Winterertrags-Projekten.",
    "frist": null,
    "gewicht": 2
   },
@@ -1013,6 +1012,25 @@
    ]
   },
   {
+   "titel": "Ausbildungs-Ass 2026: Diese Betriebe zeigen, wie gute Ausbildung heute funktioniert",
+   "link": "https://www.handwerk-magazin.de/ausbildungs-ass-2026-diese-betriebe-zeigen-wie-gute-ausbildung-heute-funktioniert-352934/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-11-05T08:30:08+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Ausbildung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Preisträger zeigen, wie Ausbildung mit Perspektive und Führungsrolle im Betrieb erfolgreich läuft.",
+   "tun": "Schau dir die Konzepte der Preisträger für eigene Ausbildungsideen an.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Angabe eines falschen CPV-Codes ist kein Vergaberechtsverstoß!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317242",
    "quelle": "IBR-Online",
@@ -1030,25 +1048,6 @@
    "tun": "Prüfe bei Vergabeverfahren nicht nur CPV-Codes, sondern die Gesamtkonformität der Ausschreibung.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Steuerreform 2027: Wenig Entlastung, mehr Kosten fürs Handwerk",
-   "link": "https://www.handwerk-magazin.de/steuerreform-2027-handwerk-352539/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-11-04T10:01:33+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Die Steuerreform 2027 bringt kaum Entlastung, aber neue Pflichten für Handwerksbetriebe.",
-   "tun": "Prüfe mit dem Steuerberater die aktuellen Neuregelungen vor Jahresende.",
-   "frist": null,
-   "gewicht": 3
   },
   {
    "titel": "Was Duo-Kanteln im Fensterbau leisten",
@@ -1146,60 +1145,22 @@
    "gewicht": 2
   },
   {
-   "titel": "Soluxtec nimmt Produktion von Topcon-Modulen in Deutschland wieder auf",
-   "link": "https://www.pv-magazine.de/2026/11/06/soluxtec-nimmt-produktion-von-topcon-modulen-in-deutschland-wieder-auf/",
-   "quelle": "pv magazine",
+   "titel": "IEA erwartet Zubau der Photovoltaik bis 2031 um 3.600 Gigawatt",
+   "link": "https://www.solarserver.de/2026/11/06/iea-erwartet-zubau-der-photovoltaik-bis-2031-um-3-600-gigawatt/",
+   "quelle": "Solarserver",
    "bereich": "Photovoltaik",
-   "datum": "2026-11-06T11:07:51+00:00",
+   "datum": "2026-11-06T12:00:00+00:00",
    "gewerke": [
     "Photovoltaik/Solartechnik"
    ],
    "rollen": [
-    "Büro/Kalkulation",
     "Inhaber/Geschäftsführung"
    ],
    "thema": "Markt",
-   "was": "Wiederanlauf der Produktion kann Liefersituation für Topcon-Module in Deutschland verbessern.",
-   "tun": "Frag bei Lieferanten nach Verfügbarkeit der neuen Module",
+   "was": "Der weltweite PV-Zubau soll bis 2031 stark zulegen - ein Signal für anhaltende Nachfrage im Solargewerk.",
+   "tun": "",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Zukunft der kleinen PV-Anlagen im EEG 2027 wird noch verhandelt",
-   "link": "https://www.solarserver.de/2026/11/06/zukunft-der-kleinen-pv-anlagen-im-eeg-2027-wird-noch-verhandelt/",
-   "quelle": "Solarserver",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-06T10:29:47+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Förderung",
-   "was": "Die künftige Förderung kleiner PV-Anlagen ist noch offen und beeinflusst Kalkulation und Kundenberatung.",
-   "tun": "Verfolge die EEG-Verhandlungen und plane Angebote mit Puffer",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Murrbrücke in zehn Wochen erneuert durch Expressbauweise",
@@ -1219,6 +1180,24 @@
    "tun": "Informiere dich über das Verfahren für eigene Bauzeitplanung",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Holzfeuchte, Quellen und Schwinden: Fugen im Parkett vorhersagen",
@@ -1278,6 +1257,25 @@
    "gewicht": 2
   },
   {
+   "titel": "Anfahrtskosten 2026: Wie viel dürfen Handwerker verlangen?",
+   "link": "https://handwerk.com/betriebsfuehrung/anfahrtskosten-2026-wie-viel-duerfen-handwerker-verlangen",
+   "quelle": "handwerk.com",
+   "bereich": "Handwerk",
+   "datum": "2026-11-05T09:27:56+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Preise & Material",
+   "was": "Klärt, was 2026 rechtlich bei Anfahrtskosten gilt und wie du sie Kunden gegenüber begründest.",
+   "tun": "Prüfe deine Anfahrtskosten-Regelung und kommuniziere sie transparent im Angebot.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -1296,11 +1294,11 @@
    ]
   },
   {
-   "titel": "Anfahrtskosten 2026: Wie viel dürfen Handwerker verlangen?",
-   "link": "https://handwerk.com/betriebsfuehrung/anfahrtskosten-2026-wie-viel-duerfen-handwerker-verlangen",
-   "quelle": "handwerk.com",
+   "titel": "Steuerreform 2027: Wenig Entlastung, mehr Kosten fürs Handwerk",
+   "link": "https://www.handwerk-magazin.de/steuerreform-2027-handwerk-352539/",
+   "quelle": "handwerk magazin",
    "bereich": "Handwerk",
-   "datum": "2026-11-05T09:27:56+00:00",
+   "datum": "2026-11-04T10:01:33+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
@@ -1308,11 +1306,11 @@
     "Inhaber/Geschäftsführung",
     "Büro/Kalkulation"
    ],
-   "thema": "Preise & Material",
-   "was": "Klärt, was 2026 rechtlich bei Anfahrtskosten gilt und wie du sie Kunden gegenüber begründest.",
-   "tun": "Prüfe deine Anfahrtskosten-Regelung und kommuniziere sie transparent im Angebot.",
+   "thema": "Recht & Pflichten",
+   "was": "Die Steuerreform 2027 bringt kaum Entlastung, aber neue Pflichten für Handwerksbetriebe.",
+   "tun": "Prüfe mit dem Steuerberater die aktuellen Neuregelungen vor Jahresende.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 3
   },
   {
    "titel": "„Jetzt lohnt es sich, ganze Gestellflotten auszustatten“",
@@ -1353,24 +1351,23 @@
    "gewicht": 1
   },
   {
-   "titel": "Drohnen im Handwerk: So sparen Betriebe Zeit und holen Aufträge",
-   "link": "https://www.handwerk-magazin.de/drohnen-im-handwerk-einsatz-kosten-352654/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-11-03T09:00:00+00:00",
+   "titel": "Kältemittel aus Sicht der Normung – Technische Reinheit",
+   "link": "https://kaelte-luft-klima.de/normen-und-richtlinien/kaeltemittel-aus-sicht-der-normung-technische-reinheit",
+   "quelle": "Kälte Luft Klima",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-11-03T08:00:23+00:00",
    "gewerke": [
-    "Dachdecker",
-    "Alle Gewerke"
+    "Kälte- und Klimatechnik"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
+    "Monteur/Facharbeiter",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "KI & Digitales",
-   "was": "Drohnen sparen bei Inspektion, Aufmaß und Dokumentation Zeit und können neue Aufträge bringen.",
-   "tun": "Prüfe Kosten und BG-Bau-Vorgaben für den Drohneneinsatz in deinem Betrieb.",
+   "thema": "Normen & Technik",
+   "was": "Reinheit von Kältemitteln hängt von Herstellung und Aufbereitung ab und wird normativ geregelt.",
+   "tun": "",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
@@ -1389,25 +1386,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "Kältemittel aus Sicht der Normung – Technische Reinheit",
-   "link": "https://kaelte-luft-klima.de/normen-und-richtlinien/kaeltemittel-aus-sicht-der-normung-technische-reinheit",
-   "quelle": "Kälte Luft Klima",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-11-03T08:00:23+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Reinheit von Kältemitteln hängt von Herstellung und Aufbereitung ab und wird normativ geregelt.",
-   "tun": "",
-   "frist": null,
-   "gewicht": 1
   },
   {
    "titel": "Lobby für den Wohnbau",
@@ -1470,6 +1448,25 @@
    "gewicht": 2
   },
   {
+   "titel": "Soluxtec nimmt Produktion von Topcon-Modulen in Deutschland wieder auf",
+   "link": "https://www.pv-magazine.de/2026/11/06/soluxtec-nimmt-produktion-von-topcon-modulen-in-deutschland-wieder-auf/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-06T11:07:51+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Büro/Kalkulation",
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Wiederanlauf der Produktion kann Liefersituation für Topcon-Module in Deutschland verbessern.",
+   "tun": "Frag bei Lieferanten nach Verfügbarkeit der neuen Module",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
    "link": "https://iph-academy.learningsuite.io/student/courses",
    "quelle": "IPH Academy",
@@ -1488,40 +1485,23 @@
    ]
   },
   {
-   "titel": "Neustart für Modulproduktion von Soluxtec in Deutschland",
-   "link": "https://www.solarserver.de/2026/11/06/neustart-fuer-modulproduktion-von-soluxtec-in-deutschland/",
+   "titel": "E3/DC stellt bidirektionale Wallbox für Hauskraftwerk vor",
+   "link": "https://www.solarserver.de/2026/11/06/e3-dc-stellt-bidirektionale-wallbox-fuer-hauskraftwerk-vor/",
    "quelle": "Solarserver",
    "bereich": "Photovoltaik",
-   "datum": "2026-11-06T10:00:00+00:00",
+   "datum": "2026-11-06T11:00:00+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik"
+    "Elektro",
+    "Photovoltaik/Solartechnik",
+    "Sanitär/Heizung/Klima (SHK)"
    ],
    "rollen": [
-    "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
    ],
-   "thema": "Markt",
-   "was": "Wiederaufnahme der Modulproduktion in größeren Formaten kann die Materialverfügbarkeit verbessern.",
-   "tun": "Kläre mit Großhändlern die Verfügbarkeit der neuen Module",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Monatliches Energiemarkt-Update: Die europäischen Energiepreise gehen mit Höchstständen seit 2022 in den Winter",
-   "link": "https://www.pv-magazine.de/2026/11/06/monatliches-energiemarkt-update-die-europaeischen-energiepreise-gehen-mit-hoechststaenden-seit-2022-in-den-winter/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-06T09:55:32+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Markt",
-   "was": "Steigende Energiepreise erhöhen Betriebskosten und sollten in Kalkulationen eingepreist werden.",
-   "tun": "Kalkuliere höhere Energiekosten in neue Angebote ein",
+   "thema": "Normen & Technik",
+   "was": "Neue bidirektionale Wallbox reagiert auf aktuelle Vorschriften und kann Kundenprojekte mit PV-Speicher attraktiver machen.",
+   "tun": "Prüfe die neue Wallbox für laufende PV-Angebote",
    "frist": null,
    "gewicht": 2
   },
@@ -1567,24 +1547,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Sackgassen",
    "link": "https://allgemeinebauzeitung.de/sackgassen/",
    "quelle": "Allgemeine Bauzeitung",
@@ -1603,6 +1565,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Tariftreuegesetz als Maßnahme zur Stärkung der Tarifbindung umstritten",
    "link": "https://vergabeblog.de/2026-11-04/tariftreuegesetz-als-massnahme-zur-staerkung-der-tarifbindung-umstritten/",
    "quelle": "vergabeblog",
@@ -1617,6 +1597,26 @@
    "thema": "Recht & Pflichten",
    "was": "Das geplante Tariftreuegesetz könnte Vergabebedingungen und Tarifpflichten für Betriebe verschärfen.",
    "tun": "Verfolge den Gesetzgebungsprozess und prüfe Auswirkungen auf öffentliche Aufträge.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
+   "titel": "Drohnen im Handwerk: So sparen Betriebe Zeit und holen Aufträge",
+   "link": "https://www.handwerk-magazin.de/drohnen-im-handwerk-einsatz-kosten-352654/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-11-03T09:00:00+00:00",
+   "gewerke": [
+    "Dachdecker",
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "KI & Digitales",
+   "was": "Drohnen sparen bei Inspektion, Aufmaß und Dokumentation Zeit und können neue Aufträge bringen.",
+   "tun": "Prüfe Kosten und BG-Bau-Vorgaben für den Drohneneinsatz in deinem Betrieb.",
    "frist": null,
    "gewicht": 2
   },
@@ -1640,20 +1640,21 @@
    "gewicht": 2
   },
   {
-   "titel": "Chef als Engpass: Bernd Geropp über Wege aus der Falle",
-   "link": "https://www.handwerk-magazin.de/chef-als-engpass-bernd-geropp-ueber-wege-aus-der-falle-352718/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-11-02T09:00:00+00:00",
+   "titel": "TWK stellt Weiterbildungsprogramm für 2027 vor",
+   "link": "https://kaelte-luft-klima.de/kaeltetechnik/twk-stellt-weiterbildungsprogramm-fuer-2027-vor",
+   "quelle": "Kälte Luft Klima",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-11-02T08:00:23+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Kälte- und Klimatechnik"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Ausbildung",
+    "Monteur/Facharbeiter"
    ],
    "thema": "Personal & Ausbildung",
-   "was": "Wenn alle Entscheidungen beim Chef landen, bremst das den Betrieb – Delegation ist der Ausweg.",
-   "tun": "Überprüfe, welche Entscheidungen du an Mitarbeiter abgeben kannst.",
+   "was": "Neues Kursprogramm 2027 deckt F-Gase, alternative Kältemittel und Wärmepumpen ab.",
+   "tun": "Melde Mitarbeiter für relevante Kältekurse 2027 an.",
    "frist": null,
    "gewicht": 2
   },
@@ -1674,25 +1675,6 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
-  },
-  {
-   "titel": "TWK stellt Weiterbildungsprogramm für 2027 vor",
-   "link": "https://kaelte-luft-klima.de/kaeltetechnik/twk-stellt-weiterbildungsprogramm-fuer-2027-vor",
-   "quelle": "Kälte Luft Klima",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-11-02T08:00:23+00:00",
-   "gewerke": [
-    "Kälte- und Klimatechnik"
-   ],
-   "rollen": [
-    "Ausbildung",
-    "Monteur/Facharbeiter"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Neues Kursprogramm 2027 deckt F-Gase, alternative Kältemittel und Wärmepumpen ab.",
-   "tun": "Melde Mitarbeiter für relevante Kältekurse 2027 an.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "\"Bauleiter\" bestellt Baumaterial nicht für sich!",
@@ -1752,24 +1734,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Minderung erklärt: Rücktritt ausgeschlossen!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316981",
    "quelle": "IBR-Online",
@@ -1788,6 +1752,24 @@
    "tun": "Kläre mit deinem Rechtsberater, wie sich das auf laufende Mängelfälle auswirkt.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   }
  ]
 }
