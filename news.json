@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-07T08:47+00:00",
- "anzahl": 90,
+ "stand": "2026-11-07T16:27+00:00",
+ "anzahl": 87,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -82,6 +82,26 @@
    "gewicht": 2
   },
   {
+   "titel": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
+   "link": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-06T16:15:00+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Verluste aus PV- und Speicher-Direktinvestments können als Steuerstundungsmodell gelten und steuerlich anders behandelt werden.",
+   "tun": "Lass laufende oder geplante PV-Direktinvestments steuerlich gegenprüfen.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Elektromobilitätsgesetz: Privilegien für E-Fahrzeuge bis Ende 2035",
    "link": "https://www.solarserver.de/2026/11/06/elektromobilitaetsgesetz-privilegien-fuer-e-fahrzeuge-bis-ende-2035/",
    "quelle": "Solarserver",
@@ -98,27 +118,6 @@
    "tun": "Prüfe bei der nächsten Fuhrparkplanung die verlängerten E-Auto-Vorteile.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "EEG-Novelle wohl erst im Dezember im Bundestag und Bundesrat",
-   "link": "https://www.pv-magazine.de/2026/11/06/eeg-novelle-wohl-erst-im-dezember-im-bundestag-und-bundesrat/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-06T15:20:14+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister",
-    "Elektro"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Planungssicherheit für PV- und Speicherprojekte verschiebt sich weiter nach hinten.",
-   "tun": "Kalkuliere Angebote mit Puffer für offene EEG-Regelungen.",
-   "frist": null,
-   "gewicht": 2
   },
   {
    "titel": "Studie untersucht Verschattungstoleranz von PV-Modulen",
@@ -444,22 +443,23 @@
    ]
   },
   {
-   "titel": "Steuerstundungsmodell und Investitionsabzugsbetrag: Was Paragraf 15b EStG für Photovoltaik- und Batteriespeicher-Direktinvestments wirklich bedeutet",
-   "link": "https://www.pv-magazine.de/2026/11/06/steuerstundungsmodell-und-investitionsabzugsbetrag-was-paragraf-15b-estg-fuer-photovoltaik-und-batteriespeicher-direktinvestments-wirklich-bedeutet/",
+   "titel": "EEG-Novelle wohl erst im Dezember im Bundestag und Bundesrat",
+   "link": "https://www.pv-magazine.de/2026/11/06/eeg-novelle-wohl-erst-im-dezember-im-bundestag-und-bundesrat/",
    "quelle": "pv magazine",
    "bereich": "Photovoltaik",
-   "datum": "2026-11-06T14:15:00+00:00",
+   "datum": "2026-11-06T15:20:14+00:00",
    "gewerke": [
     "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
+    "TGA/Energiedienstleister",
+    "Elektro"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Büro/Kalkulation"
    ],
    "thema": "Recht & Pflichten",
-   "was": "Verluste aus PV- und Speicher-Direktinvestments können als Steuerstundungsmodell gelten und steuerlich anders behandelt werden.",
-   "tun": "Lass laufende oder geplante PV-Direktinvestments steuerlich gegenprüfen.",
+   "was": "Planungssicherheit für PV- und Speicherprojekte verschiebt sich weiter nach hinten.",
+   "tun": "Kalkuliere Angebote mit Puffer für offene EEG-Regelungen.",
    "frist": null,
    "gewicht": 2
   },
@@ -1163,43 +1163,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Murrbrücke in zehn Wochen erneuert durch Expressbauweise",
-   "link": "https://allgemeinebauzeitung.de/murrbruecke-expressbau-erneuerung-verkehrssicherheit/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-11-06T09:36:42+00:00",
-   "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Expressbauweise zeigt, wie sich Sperrzeiten bei Brückensanierungen deutlich verkürzen lassen.",
-   "tun": "Informiere dich über das Verfahren für eigene Bauzeitplanung",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Holzfeuchte, Quellen und Schwinden: Fugen im Parkett vorhersagen",
    "link": "https://www.boden-wand-decke.de/holzausgleichsfeuchte-berechnen-357868/",
    "quelle": "Boden Wand Decke",
@@ -1218,6 +1181,24 @@
    "tun": "Nutze die Quellmaß-Werte bei der Parkettplanung",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Kleine Dimmer für die UP-Dose",
@@ -1276,24 +1257,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Steuerreform 2027: Wenig Entlastung, mehr Kosten fürs Handwerk",
    "link": "https://www.handwerk-magazin.de/steuerreform-2027-handwerk-352539/",
    "quelle": "handwerk magazin",
@@ -1311,6 +1274,24 @@
    "tun": "Prüfe mit dem Steuerberater die aktuellen Neuregelungen vor Jahresende.",
    "frist": null,
    "gewicht": 3
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "„Jetzt lohnt es sich, ganze Gestellflotten auszustatten“",
@@ -1370,24 +1351,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Lobby für den Wohnbau",
    "link": "https://www.metallbau-magazin.de/news/lobby-fuer-den-wohnbau-4448899.html",
    "quelle": "Metallbau",
@@ -1406,6 +1369,24 @@
    "tun": "Beobachte politische Reaktionen auf die Forderungen.",
    "frist": null,
    "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Bachelor, Meister, Techniker – Starke Bildungswege für die Kälte- und Klimabranche",
@@ -1467,24 +1448,6 @@
    "gewicht": 1
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "E3/DC stellt bidirektionale Wallbox für Hauskraftwerk vor",
    "link": "https://www.solarserver.de/2026/11/06/e3-dc-stellt-bidirektionale-wallbox-fuer-hauskraftwerk-vor/",
    "quelle": "Solarserver",
@@ -1504,6 +1467,24 @@
    "tun": "Prüfe die neue Wallbox für laufende PV-Angebote",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Bodenbelag auf Fußbodenheizung: Wärmedurchlasswiderstand berechnen",
@@ -1547,42 +1528,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Sackgassen",
-   "link": "https://allgemeinebauzeitung.de/sackgassen/",
-   "quelle": "Allgemeine Bauzeitung",
-   "bereich": "Bau",
-   "datum": "2026-11-06T05:00:00+00:00",
-   "gewerke": [
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Trotz mehr Baugenehmigungen bleibt die Stimmung im Wohnungsbau gedrückt – Auftragslage genau beobachten.",
-   "tun": "Prüfe deine Auftragsbücher und Preiskalkulation für 2027.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Tariftreuegesetz als Maßnahme zur Stärkung der Tarifbindung umstritten",
    "link": "https://vergabeblog.de/2026-11-04/tariftreuegesetz-als-massnahme-zur-staerkung-der-tarifbindung-umstritten/",
    "quelle": "vergabeblog",
@@ -1619,6 +1564,24 @@
    "tun": "Prüfe Kosten und BG-Bau-Vorgaben für den Drohneneinsatz in deinem Betrieb.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Qualifikation sichtbar machen",
@@ -1659,24 +1622,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "\"Bauleiter\" bestellt Baumaterial nicht für sich!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317077",
    "quelle": "IBR-Online",
@@ -1713,6 +1658,24 @@
    "tun": "Prüfe Streitverkündungsschreiben künftig auf formale Mindestangaben.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Heizungsbauer muss TGA-Planung auf erkennbare Mängel überprüfen!",
@@ -1752,24 +1715,6 @@
    "tun": "Kläre mit deinem Rechtsberater, wie sich das auf laufende Mängelfälle auswirkt.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   }
  ]
 }

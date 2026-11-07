@@ -24770,5 +24770,45 @@
   "frist": null,
   "gewicht": 2,
   "gesehen": "2026-11-06"
+ },
+ "https://allgemeinebauzeitung.de/burg-trausnitz-kanalsanierung-brawolinier-45-grade-gefall/": {
+  "id": "6f0eb79e7725",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-07"
+ },
+ "https://allgemeinebauzeitung.de/digitalisierung-antriebswende-baubereich-maschinen-automatisierung/": {
+  "id": "93a8a57ee003",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-07"
  }
 }
