@@ -24870,5 +24870,42 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-08"
+ },
+ "https://allgemeinebauzeitung.de/daemelow-neuhof-strasse-saniert-november-2026/": {
+  "id": "a4175e7ac8c5",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-08"
+ },
+ "https://www.handwerk-magazin.de/tankrabatt-pro-contra-handwerk-352691/": {
+  "id": "13388cdaffbd",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Preise & Material",
+  "was": "Spritkosten für Fuhrpark und Monteure sinken bis Ende 2026 um rund 17 Cent je Liter.",
+  "tun": "Rechne die Entlastung in deine Fahrtkosten-Kalkulation ein.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-08"
  }
 }

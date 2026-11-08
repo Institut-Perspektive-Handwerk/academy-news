@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-08T08:59+00:00",
+ "stand": "2026-11-08T16:40+00:00",
  "anzahl": 87,
  "gewerke": [
   "Alle Gewerke",
@@ -63,11 +63,11 @@
  ],
  "news": [
   {
-   "titel": "Investitionsquote: Woran Sie einen Investitionsstau früh erkennen",
-   "link": "https://www.handwerk-magazin.de/investitionsquote-mit-augenmass-die-chancen-sehen-281285/",
+   "titel": "Tankrabatt: Schnelle Hilfe für Betriebe oder teures Strohfeuer?",
+   "link": "https://www.handwerk-magazin.de/tankrabatt-pro-contra-handwerk-352691/",
    "quelle": "handwerk magazin",
    "bereich": "Handwerk",
-   "datum": "2026-11-06T20:00:00+00:00",
+   "datum": "2026-11-08T09:00:00+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
@@ -75,9 +75,9 @@
     "Inhaber/Geschäftsführung",
     "Büro/Kalkulation"
    ],
-   "thema": "Markt",
-   "was": "Die Investitionsquote zeigt, ob dein Betrieb zukunftsfähig bleibt oder sich kaputtspart.",
-   "tun": "Berechne deine Investitionsquote und vergleiche sie mit den letzten Jahren.",
+   "thema": "Preise & Material",
+   "was": "Spritkosten für Fuhrpark und Monteure sinken bis Ende 2026 um rund 17 Cent je Liter.",
+   "tun": "Rechne die Entlastung in deine Fahrtkosten-Kalkulation ein.",
    "frist": null,
    "gewicht": 2
   },
@@ -443,6 +443,25 @@
    ]
   },
   {
+   "titel": "Investitionsquote: Woran Sie einen Investitionsstau früh erkennen",
+   "link": "https://www.handwerk-magazin.de/investitionsquote-mit-augenmass-die-chancen-sehen-281285/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-11-06T20:00:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Die Investitionsquote zeigt, ob dein Betrieb zukunftsfähig bleibt oder sich kaputtspart.",
+   "tun": "Berechne deine Investitionsquote und vergleiche sie mit den letzten Jahren.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "EEG-Novelle wohl erst im Dezember im Bundestag und Bundesrat",
    "link": "https://www.pv-magazine.de/2026/11/06/eeg-novelle-wohl-erst-im-dezember-im-bundestag-und-bundesrat/",
    "quelle": "pv magazine",
@@ -502,24 +521,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Nichtwohnbau bleibt wichtigster Investitionsmarkt",
-   "link": "https://www.kka-online.info/news/nichtwohnbau-bleibt-wichtigster-investitionsmarkt-4449408.html",
-   "quelle": "KKA",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-11-05T08:05:56+00:00",
-   "gewerke": [
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Nichtwohnbau bleibt laut Branchenbarometer wichtigstes Marktsegment für TGA-Investitionen.",
-   "tun": "Richte deine Akquise-Strategie auf Nichtwohnbau-Projekte aus.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
    "link": "https://iph-academy.learningsuite.io/student/event-plan",
    "quelle": "IPH Academy",
@@ -536,6 +537,24 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Nichtwohnbau bleibt wichtigster Investitionsmarkt",
+   "link": "https://www.kka-online.info/news/nichtwohnbau-bleibt-wichtigster-investitionsmarkt-4449408.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-11-05T08:05:56+00:00",
+   "gewerke": [
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Markt",
+   "was": "Nichtwohnbau bleibt laut Branchenbarometer wichtigstes Marktsegment für TGA-Investitionen.",
+   "tun": "Richte deine Akquise-Strategie auf Nichtwohnbau-Projekte aus.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Gute Fachbetriebe brauchen keine neue Liste",
@@ -594,6 +613,24 @@
    "gewicht": 1
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Wirtschaftlicher Ressourceneinsatz beginnt im Bau-SOLL",
    "link": "https://www.bauprofessor.de/news/wirtschaftlicher-ressourceneinsatz-beginnt-im-bau-soll/",
    "quelle": "bauprofessor",
@@ -612,24 +649,6 @@
    "tun": "Überprüfe deine Kalkulationsprozesse auf frühzeitige Ressourcenabstimmung.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "pv magazine Podcast: EEG, AgNes, Netzpaket: warum sollte man mit Projekten nicht bis 2027 warten?",
@@ -689,26 +708,6 @@
    "gewicht": 1
   },
   {
-   "titel": "3D-Druck: Von der Idee zum fertigen Produkt",
-   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/3d-druck-von-der-idee-zum-fertigen-produkt",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-11-06T06:41:51+00:00",
-   "gewerke": [
-    "Metallbau",
-    "Schreinerei/Tischlerei"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "3D-Druck-Kenntnisse erweitern Möglichkeiten im Prototypenbau und bei Sonderteilen.",
-   "tun": "Prüfe das Kursangebot für Mitarbeiter mit CNC- oder CAD-Bezug.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -727,22 +726,24 @@
    ]
   },
   {
-   "titel": "Altersvorsorgedepot: Alles, was Selbstständige wissen müssen",
-   "link": "https://www.handwerk-magazin.de/altersvorsorgedepot-faq-alles-was-selbststaendige-wissen-muessen-352662/",
-   "quelle": "handwerk magazin",
+   "titel": "3D-Druck: Von der Idee zum fertigen Produkt",
+   "link": "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/3d-druck-von-der-idee-zum-fertigen-produkt",
+   "quelle": "handwerksblatt",
    "bereich": "Handwerk",
-   "datum": "2026-11-05T09:00:00+00:00",
+   "datum": "2026-11-06T06:41:51+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Metallbau",
+    "Schreinerei/Tischlerei"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Monteur/Facharbeiter",
+    "Ausbildung"
    ],
-   "thema": "Förderung",
-   "was": "Neues staatlich gefördertes Altersvorsorgedepot löst Riester ab und betrifft auch Selbstständige im Betrieb.",
-   "tun": "Informiere dich rechtzeitig über die Konditionen vor Vertriebsstart.",
+   "thema": "Personal & Ausbildung",
+   "was": "3D-Druck-Kenntnisse erweitern Möglichkeiten im Prototypenbau und bei Sonderteilen.",
+   "tun": "Prüfe das Kursangebot für Mitarbeiter mit CNC- oder CAD-Bezug.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Vertragsstrafe bei Fertigstellungsverzug: Bauträger muss sich entlasten!",
@@ -975,23 +976,22 @@
    "gewicht": 2
   },
   {
-   "titel": "Hybride DALI- und Funknetzwerke",
-   "link": "https://www.tga-praxis.de/news/hybride-dali-und-funknetzwerke.html",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-11-05T08:42:15+00:00",
+   "titel": "Altersvorsorgedepot: Alles, was Selbstständige wissen müssen",
+   "link": "https://www.handwerk-magazin.de/altersvorsorgedepot-faq-alles-was-selbststaendige-wissen-muessen-352662/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-11-05T09:00:00+00:00",
    "gewerke": [
-    "Elektro"
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung",
-    "Monteur/Facharbeiter"
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "Normen & Technik",
-   "was": "Hybride DALI-Funk-Lösungen erweitern die Möglichkeiten bei der Lichtsteuerungsplanung und -installation.",
-   "tun": "Prüfe die Technik für künftige Projekte mit flexibler Lichtsteuerung.",
+   "thema": "Förderung",
+   "was": "Neues staatlich gefördertes Altersvorsorgedepot löst Riester ab und betrifft auch Selbstständige im Betrieb.",
+   "tun": "Informiere dich rechtzeitig über die Konditionen vor Vertriebsstart.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 2
   },
   {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
@@ -1012,21 +1012,21 @@
    ]
   },
   {
-   "titel": "Ausbildungs-Ass 2026: Diese Betriebe zeigen, wie gute Ausbildung heute funktioniert",
-   "link": "https://www.handwerk-magazin.de/ausbildungs-ass-2026-diese-betriebe-zeigen-wie-gute-ausbildung-heute-funktioniert-352934/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-11-05T08:30:08+00:00",
+   "titel": "Hybride DALI- und Funknetzwerke",
+   "link": "https://www.tga-praxis.de/news/hybride-dali-und-funknetzwerke.html",
+   "quelle": "TGA-Praxis",
+   "bereich": "TGA",
+   "datum": "2026-11-05T08:42:15+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Elektro"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Ausbildung"
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
    ],
-   "thema": "Personal & Ausbildung",
-   "was": "Preisträger zeigen, wie Ausbildung mit Perspektive und Führungsrolle im Betrieb erfolgreich läuft.",
-   "tun": "Schau dir die Konzepte der Preisträger für eigene Ausbildungsideen an.",
+   "thema": "Normen & Technik",
+   "was": "Hybride DALI-Funk-Lösungen erweitern die Möglichkeiten bei der Lichtsteuerungsplanung und -installation.",
+   "tun": "Prüfe die Technik für künftige Projekte mit flexibler Lichtsteuerung.",
    "frist": null,
    "gewicht": 1
   },
@@ -1257,23 +1257,23 @@
    "gewicht": 2
   },
   {
-   "titel": "Steuerreform 2027: Wenig Entlastung, mehr Kosten fürs Handwerk",
-   "link": "https://www.handwerk-magazin.de/steuerreform-2027-handwerk-352539/",
+   "titel": "Ausbildungs-Ass 2026: Diese Betriebe zeigen, wie gute Ausbildung heute funktioniert",
+   "link": "https://www.handwerk-magazin.de/ausbildungs-ass-2026-diese-betriebe-zeigen-wie-gute-ausbildung-heute-funktioniert-352934/",
    "quelle": "handwerk magazin",
    "bereich": "Handwerk",
-   "datum": "2026-11-04T10:01:33+00:00",
+   "datum": "2026-11-05T08:30:08+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
+    "Ausbildung"
    ],
-   "thema": "Recht & Pflichten",
-   "was": "Die Steuerreform 2027 bringt kaum Entlastung, aber neue Pflichten für Handwerksbetriebe.",
-   "tun": "Prüfe mit dem Steuerberater die aktuellen Neuregelungen vor Jahresende.",
+   "thema": "Personal & Ausbildung",
+   "was": "Preisträger zeigen, wie Ausbildung mit Perspektive und Führungsrolle im Betrieb erfolgreich läuft.",
+   "tun": "Schau dir die Konzepte der Preisträger für eigene Ausbildungsideen an.",
    "frist": null,
-   "gewicht": 3
+   "gewicht": 1
   },
   {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
@@ -1528,6 +1528,25 @@
    "gewicht": 1
   },
   {
+   "titel": "Steuerreform 2027: Wenig Entlastung, mehr Kosten fürs Handwerk",
+   "link": "https://www.handwerk-magazin.de/steuerreform-2027-handwerk-352539/",
+   "quelle": "handwerk magazin",
+   "bereich": "Handwerk",
+   "datum": "2026-11-04T10:01:33+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Die Steuerreform 2027 bringt kaum Entlastung, aber neue Pflichten für Handwerksbetriebe.",
+   "tun": "Prüfe mit dem Steuerberater die aktuellen Neuregelungen vor Jahresende.",
+   "frist": null,
+   "gewicht": 3
+  },
+  {
    "titel": "Tariftreuegesetz als Maßnahme zur Stärkung der Tarifbindung umstritten",
    "link": "https://vergabeblog.de/2026-11-04/tariftreuegesetz-als-massnahme-zur-staerkung-der-tarifbindung-umstritten/",
    "quelle": "vergabeblog",
@@ -1542,26 +1561,6 @@
    "thema": "Recht & Pflichten",
    "was": "Das geplante Tariftreuegesetz könnte Vergabebedingungen und Tarifpflichten für Betriebe verschärfen.",
    "tun": "Verfolge den Gesetzgebungsprozess und prüfe Auswirkungen auf öffentliche Aufträge.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Drohnen im Handwerk: So sparen Betriebe Zeit und holen Aufträge",
-   "link": "https://www.handwerk-magazin.de/drohnen-im-handwerk-einsatz-kosten-352654/",
-   "quelle": "handwerk magazin",
-   "bereich": "Handwerk",
-   "datum": "2026-11-03T09:00:00+00:00",
-   "gewerke": [
-    "Dachdecker",
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Drohnen sparen bei Inspektion, Aufmaß und Dokumentation Zeit und können neue Aufträge bringen.",
-   "tun": "Prüfe Kosten und BG-Bau-Vorgaben für den Drohneneinsatz in deinem Betrieb.",
    "frist": null,
    "gewicht": 2
   },
