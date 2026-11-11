@@ -1,144 +1,4 @@
 {
- "https://www.kka-online.info/news/forumsveranstaltung-natuerliche-kaeltemittel-in-der-industriellen-praxis-4434309.html": {
-  "id": "58b26faac6b0",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Markt",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-11"
- },
- "https://www.lto.de/recht/feuilleton/f/rechtsgeschichte-viehhaltung-schlachten-fleisch-lebensmittel-eigentum?r=rss": {
-  "id": "373ba3decbe4",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Recht & Pflichten",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-11"
- },
- "https://allgemeinebauzeitung.de/stihl-tsa-350-akkutrennschleifer-geringe-vibrations/": {
-  "id": "7db3f5013cd3",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Preise & Material",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-11"
- },
- "https://www.handwerk-magazin.de/marke-aufbauen-wie-ein-gitarrenbauer-rockstars-zu-kunden-macht-352126/": {
-  "id": "7af3e691ba49",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Markt",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-11"
- },
- "https://allgemeinebauzeitung.de/raupentelekran-praezise-tragwerksmontage-produktionshalle/": {
-  "id": "4a309e290b86",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Normen & Technik",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-11"
- },
- "https://allgemeinebauzeitung.de/alexander-hoff-cfo-elten-finanzexperte/": {
-  "id": "77adc6b8edec",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Markt",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-11"
- },
- "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-munster/handwerkskammer-feiert-1440-neue-meistertitel": {
-  "id": "96f8539bcf4c",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Personal & Ausbildung",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-11"
- },
  "https://www.lto.de/recht/presseschau/p/2026-10-12-friedensnobelpreis-istgh-usa-sanktionen-bverfg-erbschaftsteuer?r=rss": {
   "id": "82a5b3e9581d",
   "relevant": false,
@@ -25702,5 +25562,133 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-10"
+ },
+ "https://www.handwerksblatt.de/themen-specials/einstieg-in-die-ausbildung/neun-tipps-fuer-den-start-als-ausbildungsbetrieb": {
+  "id": "55fc717d37b9",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Klare Regeln zu Rechten und Pflichten machen den Ausbildungsstart für Betrieb und Azubi leichter.",
+  "tun": "Lies die Tipps vor dem nächsten Ausbildungsjahr durch.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-11"
+ },
+ "https://www.bft-international.com/de/news/digitalbau-2028-wechselt-in-den-april-4450652.html": {
+  "id": "9faf320c04d7",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-11"
+ },
+ "https://www.handwerksblatt.de/themen-specials/einstieg-in-die-ausbildung/rechtliche-huerden-in-der-ausbildung": {
+  "id": "0af19c732b92",
+  "relevant": true,
+  "gewerke": [
+   "Schreinerei/Tischlerei"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Praxistipps helfen, passende Azubis auszuwählen und Konflikte in der Probezeit zu lösen.",
+  "tun": "Nutze die Tipps bei der nächsten Bewerberauswahl.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-11"
+ },
+ "https://www.handwerksblatt.de/themen-specials/digitales-handwerk/barrierefreies-internet-so-gewinnen-handwerker-neue-zielgruppen": {
+  "id": "adfb7d712ede",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Barrierefreiheitspflichten für Websites betreffen auch Handwerksbetriebe mit Online-Auftritt.",
+  "tun": "Prüfe deine Website auf Barrierefreiheit und rechtliche Vorgaben.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-11"
+ },
+ "https://www.handwerksblatt.de/panorama/gesellschaft/mistel-kleber-effizient-und-umweltfreundlich-ohne-synthetische-chemie": {
+  "id": "dbde6ceb00b7",
+  "relevant": true,
+  "gewerke": [
+   "Innenausbau/Trockenbau",
+   "Fliesen- und Bodenleger",
+   "Fensterbau/Glas",
+   "Metallbau"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Ein neuer Biokleber könnte künftig synthetische Kleber bei Laminat, Glas und Metall ersetzen.",
+  "tun": "Beobachte die Marktreife für künftige Materialauswahl.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-11"
+ },
+ "https://www.handwerksblatt.de/panorama/gesellschaft/der-power-people-kalender-2027-handwerk-im-besten-licht": {
+  "id": "60c83ca1ef16",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-11"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/brandenburg-bahnchaos-belastet-handwerk-und-ausbildung": {
+  "id": "9286afac7267",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "Bauarbeiten an Bahnstrecken erschweren Azubis und Mitarbeitern den Arbeitsweg in der Region.",
+  "tun": "Plane alternative Anfahrtswege oder Arbeitszeiten mit Betroffenen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-11"
  }
 }
