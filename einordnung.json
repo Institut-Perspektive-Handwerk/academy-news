@@ -24345,5 +24345,103 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-13"
+ },
+ "https://allgemeinebauzeitung.de/daf-xb-komponente-stadtbau-transport-sicherheit/": {
+  "id": "b51497d3b001",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-15"
+ },
+ "https://allgemeinebauzeitung.de/geschwindigkeit-architektonische-vielfalt-holz-beton-modulbau/": {
+  "id": "54f38089720f",
+  "relevant": true,
+  "gewerke": [
+   "Holzbau/Zimmerei",
+   "Hochbau/Rohbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Modulare Holz-Beton-Bauweise verkürzt Bauzeit um bis zu 60 Prozent und eröffnet neue Marktchancen im Wohnungsbau.",
+  "tun": "Prüfe Modulbau als Alternative für kommende Wohnungsbauprojekte.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-15"
+ },
+ "https://allgemeinebauzeitung.de/hambach-planierraupe-hybridbagger-co2-effizienz/": {
+  "id": "a1e448473ee2",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-15"
+ },
+ "https://allgemeinebauzeitung.de/kurze-ruestzeiten-spezialtiefbau-lrb-19/": {
+  "id": "b9ea0968aa4c",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-15"
+ },
+ "https://allgemeinebauzeitung.de/schnelllauftore-raumklima-hochregallager-bruckberg/": {
+  "id": "2c1c50efbe13",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-15"
  }
 }
