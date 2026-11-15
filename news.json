@@ -1,6 +1,6 @@
 {
- "stand": "2026-11-15T09:27+00:00",
- "anzahl": 102,
+ "stand": "2026-11-15T17:12+00:00",
+ "anzahl": 105,
  "gewerke": [
   "Alle Gewerke",
   "Sanitär/Heizung/Klima (SHK)",
@@ -63,6 +63,25 @@
  ],
  "news": [
   {
+   "titel": "EEG-Novelle: Einspeisevergütung für kleine Photovoltaik-Anlagen könnte doch erhalten bleiben",
+   "link": "https://www.pv-magazine.de/2026/11/15/eeg-novelle-einspeiseverguetung-fuer-kleine-photovoltaik-anlagen-koennte-doch-erhalten-bleiben/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-15T09:31:32+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Förderung",
+   "was": "Die Einspeisevergütung für kleine PV-Anlagen könnte trotz EEG-Novelle bestehen bleiben, Planungssicherheit für Kunden wächst.",
+   "tun": "Verfolge den Gesetzgebungsprozess, bevor du Kunden berätst.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Neue Prüfergebnisse für Brand- und Schallschutz: Offene Trockenbausysteme teils besser als die Norm",
    "link": "https://www.bauhandwerk.de/news/neue-pruefergebnisse-fuer-brand-und-schallschutz-offene-trockenbausysteme-teils-besser-als-die-norm-4451998.html",
    "quelle": "bauhandwerk",
@@ -78,27 +97,6 @@
    "thema": "Normen & Technik",
    "was": "Offene Trockenbausysteme erfüllen laut neuen Prüfungen oft höhere Brand- und Schallschutzwerte als gefordert.",
    "tun": "Prüfe die neuen Prüfwerte für deine Systemkombinationen.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Netzanschlussverhältnis: Was darf der Netzbetreiber und was nicht?",
-   "link": "https://www.pv-magazine.de/2026/11/13/netzanschlussverhaeltnis-was-darf-der-netzbetreiber-und-was-nicht/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-13T15:27:53+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister",
-    "Elektro"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Recht & Pflichten",
-   "was": "Netzbetreiber dürfen Anschlussbedingungen für PV- und Speicheranlagen nicht beliebig nachträglich ändern.",
-   "tun": "Prüfe Anschlussverträge auf unzulässige nachträgliche Änderungen.",
    "frist": null,
    "gewicht": 2
   },
@@ -457,40 +455,43 @@
    "gewicht": 1
   },
   {
-   "titel": "Geschwindigkeit und architektonische Vielfalt in der modularen Bautechnik",
-   "link": "https://allgemeinebauzeitung.de/geschwindigkeit-architektonische-vielfalt-holz-beton-modulbau/",
+   "titel": "Deckensystem PYD für Wärme und Kühlung in Gewerbegebäuden",
+   "link": "https://allgemeinebauzeitung.de/deckensystem-pyd-waerme-kuelung-gewerbegebaeude/",
    "quelle": "Allgemeine Bauzeitung",
    "bereich": "Bau",
-   "datum": "2026-11-15T09:00:00+00:00",
+   "datum": "2026-11-15T11:00:00+00:00",
    "gewerke": [
-    "Holzbau/Zimmerei",
-    "Hochbau/Rohbau"
+    "TGA/Energiedienstleister",
+    "Sanitär/Heizung/Klima (SHK)"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Deckensysteme mit kombinierter Heiz-/Kühlfunktion zeigen eine Alternative zu klassischen Klimaanlagen in Gewerbebauten.",
+   "tun": "Prüfe das System als Option bei Ausschreibungen für Gewerbeobjekte.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Netzanschlussverhältnis: Was darf der Netzbetreiber und was nicht?",
+   "link": "https://www.pv-magazine.de/2026/11/13/netzanschlussverhaeltnis-was-darf-der-netzbetreiber-und-was-nicht/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-13T15:27:53+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister",
+    "Elektro"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "Normen & Technik",
-   "was": "Modulare Holz-Beton-Bauweise verkürzt Bauzeit um bis zu 60 Prozent und eröffnet neue Marktchancen im Wohnungsbau.",
-   "tun": "Prüfe Modulbau als Alternative für kommende Wohnungsbauprojekte.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Abo Energy beabsichtigt Restrukturierungsverfahren nach StaRUG",
-   "link": "https://www.pv-magazine.de/2026/11/13/abo-energy-beabsichtigt-restrukturierungsverfahren-nach-starug/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-13T14:51:43+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Markt",
-   "was": "Restrukturierung eines großen PV-Projektentwicklers kann laufende Projekte und Zahlungen für Subunternehmer gefährden.",
-   "tun": "Prüfe offene Forderungen und Projektstatus bei Aufträgen für Abo Energy.",
+   "thema": "Recht & Pflichten",
+   "was": "Netzbetreiber dürfen Anschlussbedingungen für PV- und Speicheranlagen nicht beliebig nachträglich ändern.",
+   "tun": "Prüfe Anschlussverträge auf unzulässige nachträgliche Änderungen.",
    "frist": null,
    "gewicht": 2
   },
@@ -780,22 +781,20 @@
    "gewicht": 2
   },
   {
-   "titel": "Barrierefreiheit mit vorgefertigten Badmodulen",
-   "link": "https://www.tga-praxis.de/20260842",
-   "quelle": "TGA-Praxis",
-   "bereich": "TGA",
-   "datum": "2026-11-13T13:40:47+00:00",
+   "titel": "Abo Energy beabsichtigt Restrukturierungsverfahren nach StaRUG",
+   "link": "https://www.pv-magazine.de/2026/11/13/abo-energy-beabsichtigt-restrukturierungsverfahren-nach-starug/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-13T14:51:43+00:00",
    "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "Innenausbau/Trockenbau"
+    "Photovoltaik/Solartechnik"
    ],
    "rollen": [
-    "Projektleitung/Bauleitung",
-    "Monteur/Facharbeiter"
+    "Inhaber/Geschäftsführung"
    ],
-   "thema": "Normen & Technik",
-   "was": "Vorgefertigte Badmodule können barrierefreie Umbauten beschleunigen und die Bauzeit verkürzen.",
-   "tun": "Prüfe vorgefertigte Modullösungen für dein nächstes Barrierefreiheits-Projekt.",
+   "thema": "Markt",
+   "was": "Restrukturierung eines großen PV-Projektentwicklers kann laufende Projekte und Zahlungen für Subunternehmer gefährden.",
+   "tun": "Prüfe offene Forderungen und Projektstatus bei Aufträgen für Abo Energy.",
    "frist": null,
    "gewicht": 2
   },
@@ -818,23 +817,22 @@
    ]
   },
   {
-   "titel": "Tool „Grid4Energy“ will Netzanschlüsse beschleunigen",
-   "link": "https://www.pv-magazine.de/2026/11/13/tool-grid4energy-will-netzanschluesse-beschleunigen/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-13T11:57:00+00:00",
+   "titel": "Barrierefreiheit mit vorgefertigten Badmodulen",
+   "link": "https://www.tga-praxis.de/20260842",
+   "quelle": "TGA-Praxis",
+   "bereich": "TGA",
+   "datum": "2026-11-13T13:40:47+00:00",
    "gewerke": [
-    "Elektro",
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
+    "Sanitär/Heizung/Klima (SHK)",
+    "Innenausbau/Trockenbau"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Projektleitung/Bauleitung",
+    "Monteur/Facharbeiter"
    ],
-   "thema": "KI & Digitales",
-   "was": "Ein neues Tool bündelt Netzanschlussanfragen und kann Wartezeiten für PV- und Speicherprojekte verkürzen.",
-   "tun": "Prüfe, ob Grid4Energy in deiner Region verfügbar ist.",
+   "thema": "Normen & Technik",
+   "was": "Vorgefertigte Badmodule können barrierefreie Umbauten beschleunigen und die Bauzeit verkürzen.",
+   "tun": "Prüfe vorgefertigte Modullösungen für dein nächstes Barrierefreiheits-Projekt.",
    "frist": null,
    "gewicht": 2
   },
@@ -1105,6 +1103,26 @@
    ]
   },
   {
+   "titel": "Geschwindigkeit und architektonische Vielfalt in der modularen Bautechnik",
+   "link": "https://allgemeinebauzeitung.de/geschwindigkeit-architektonische-vielfalt-holz-beton-modulbau/",
+   "quelle": "Allgemeine Bauzeitung",
+   "bereich": "Bau",
+   "datum": "2026-11-15T09:00:00+00:00",
+   "gewerke": [
+    "Holzbau/Zimmerei",
+    "Hochbau/Rohbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Modulare Holz-Beton-Bauweise verkürzt Bauzeit um bis zu 60 Prozent und eröffnet neue Marktchancen im Wohnungsbau.",
+   "tun": "Prüfe Modulbau als Alternative für kommende Wohnungsbauprojekte.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Steuerbarer Netzanschluss: BET-Studie zum Steuerungsrahmen in der Niederspannung",
    "link": "https://www.solarserver.de/2026/11/13/steuerbarer-netzanschluss-bet-studie-zum-steuerungsrahmen-in-der-niederspannung/",
    "quelle": "Solarserver",
@@ -1125,21 +1143,23 @@
    "gewicht": 2
   },
   {
-   "titel": "Photovoltaik-Großanlagen mit Speicher: Warum die Betriebsstrategie vor der Speichergröße feststehen muss",
-   "link": "https://www.pv-magazine.de/2026/11/13/photovoltaik-grossanlagen-mit-speicher-warum-die-betriebsstrategie-vor-der-speichergroesse-feststehen-muss/",
+   "titel": "Tool „Grid4Energy“ will Netzanschlüsse beschleunigen",
+   "link": "https://www.pv-magazine.de/2026/11/13/tool-grid4energy-will-netzanschluesse-beschleunigen/",
    "quelle": "pv magazine",
    "bereich": "Photovoltaik",
-   "datum": "2026-11-13T11:35:40+00:00",
+   "datum": "2026-11-13T11:57:00+00:00",
    "gewerke": [
-    "Photovoltaik/Solartechnik"
+    "Elektro",
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
     "Projektleitung/Bauleitung"
    ],
-   "thema": "Normen & Technik",
-   "was": "Bei Solarpark-Speichern entscheidet die Betriebsstrategie, wie Speichergröße und -leistung sinnvoll dimensioniert werden.",
-   "tun": "Lege die Betriebsstrategie fest, bevor du den Speicher auslegst.",
+   "thema": "KI & Digitales",
+   "was": "Ein neues Tool bündelt Netzanschlussanfragen und kann Wartezeiten für PV- und Speicherprojekte verkürzen.",
+   "tun": "Prüfe, ob Grid4Energy in deiner Region verfügbar ist.",
    "frist": null,
    "gewicht": 2
   },
@@ -1163,6 +1183,24 @@
    "gewicht": 1
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Produktsicherheitsrückruf von älteren Regenwassernutzungssystemen",
    "link": "https://www.ikz.de/detail/news/detail/produktsicherheitsrueckruf-von-aelteren-regenwassernutzungssystemen/",
    "quelle": "IKZ",
@@ -1181,24 +1219,6 @@
    "tun": "Prüfe installierte Anlagen bei Kunden auf betroffene Modelle.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Fortbildung zum geprüften Fachbauleiter",
@@ -1259,6 +1279,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Lastenrad ONO Cargo: \"Macht Spaß, ist mir aber zu ruckelig\"",
    "link": "https://www.handwerk-magazin.de/lastenrad-ono-cargo-macht-spass-ist-mir-aber-zu-ruckelig-352403/",
    "quelle": "handwerk magazin",
@@ -1276,24 +1314,6 @@
    "tun": "Prüfe Lastenrad als Alternative für kurze Serviceeinsätze im Nahbereich.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Keine Fristsetzung bei schwerwiegenden Mängeln!",
@@ -1355,6 +1375,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Absturzgefahr auf Fahrzeugen und Ladeflächen",
    "link": "https://www.dach-holzbau.de/news/absturzgefahr-auf-fahrzeugen-und-ladeflaechen-4449442.html",
    "quelle": "dach+holzbau",
@@ -1372,24 +1410,6 @@
    "tun": "Nutze die Aktionswoche, um Lade- und Absturzsicherung im Betrieb zu überprüfen.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Führe dein Unternehmen mit KI in die Zukunft",
@@ -1450,26 +1470,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Strommarktintegration immer verbreiteter – 5 neue Angebote in der pv magazine Marktübersicht Gewerbe-Energiemanagement",
-   "link": "https://www.pv-magazine.de/2026/11/13/strommarktintegration-immer-verbreiteter-5-neue-angebote-in-der-pv-magazine-marktuebersicht-gewerbe-energiemanagement/",
-   "quelle": "pv magazine",
-   "bereich": "Photovoltaik",
-   "datum": "2026-11-13T11:02:13+00:00",
-   "gewerke": [
-    "Photovoltaik/Solartechnik",
-    "TGA/Energiedienstleister"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Markt",
-   "was": "Mehr Anbieter für Gewerbe-Energiemanagement durch die MiSpeL-Festlegung machen PV-Speicher-Projekte für Gewerbekunden wirtschaftlicher.",
-   "tun": "Vergleiche neue Energiemanagement-Angebote für Gewerbekunden.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
    "link": "https://iph-academy.learningsuite.io/student/courses",
    "quelle": "IPH Academy",
@@ -1486,6 +1486,25 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Photovoltaik-Großanlagen mit Speicher: Warum die Betriebsstrategie vor der Speichergröße feststehen muss",
+   "link": "https://www.pv-magazine.de/2026/11/13/photovoltaik-grossanlagen-mit-speicher-warum-die-betriebsstrategie-vor-der-speichergroesse-feststehen-muss/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-13T11:35:40+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Normen & Technik",
+   "was": "Bei Solarpark-Speichern entscheidet die Betriebsstrategie, wie Speichergröße und -leistung sinnvoll dimensioniert werden.",
+   "tun": "Lege die Betriebsstrategie fest, bevor du den Speicher auslegst.",
+   "frist": null,
+   "gewicht": 2
   },
   {
    "titel": "BMV: Mehr Spielraum für Investitionen durch die Autobahn",
@@ -1545,6 +1564,24 @@
    "gewicht": 3
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Wärmewende im Gebäudebestand: Nicht jedes Gebäude braucht dieselbe Lösung",
    "link": "https://www.kka-online.info/news/waermewende-im-gebaeudebestand-nicht-jedes-gebaeude-braucht-dieselbe-loesung-4450263.html",
    "quelle": "KKA",
@@ -1563,24 +1600,6 @@
    "tun": "Prüfe Sanierungsfälle gebäudespezifisch statt mit Standardlösung zu kalkulieren.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "„Mehr Leistung für gleiches Geld ist eine Preissenkung“",
@@ -1622,6 +1641,44 @@
    "gewicht": 3
   },
   {
+   "titel": "Strommarktintegration immer verbreiteter – 5 neue Angebote in der pv magazine Marktübersicht Gewerbe-Energiemanagement",
+   "link": "https://www.pv-magazine.de/2026/11/13/strommarktintegration-immer-verbreiteter-5-neue-angebote-in-der-pv-magazine-marktuebersicht-gewerbe-energiemanagement/",
+   "quelle": "pv magazine",
+   "bereich": "Photovoltaik",
+   "datum": "2026-11-13T11:02:13+00:00",
+   "gewerke": [
+    "Photovoltaik/Solartechnik",
+    "TGA/Energiedienstleister"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Markt",
+   "was": "Mehr Anbieter für Gewerbe-Energiemanagement durch die MiSpeL-Festlegung machen PV-Speicher-Projekte für Gewerbekunden wirtschaftlicher.",
+   "tun": "Vergleiche neue Energiemanagement-Angebote für Gewerbekunden.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Photovoltaik: Neue Solarmodul-Serie von Longi erreicht 25,72 % Wirkungsgrad",
    "link": "https://www.solarserver.de/2026/11/13/photovoltaik-neue-solarmodul-serie-von-longi-erreicht-2572-wirkungsgrad/",
    "quelle": "Solarserver",
@@ -1661,24 +1718,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Automatischer hydraulischer Abgleich mit smarten Heizkörperthermostaten",
    "link": "https://www.ikz.de/detail/news/detail/automatischer-hydraulischer-abgleich-mit-smarten-heizkoerperthermostaten/",
    "quelle": "IKZ",
@@ -1716,6 +1755,24 @@
    "tun": "Prüfe das neue Merkblatt vor der nächsten Großküchen-Ausschreibung.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Was sich 2027 für Handwerker ändert",
@@ -1758,24 +1815,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "130 Ausbildungsberufe: Ein Podcast für alle",
    "link": "https://www.handwerk-magazin.de/ausbildung-im-handwerk-podcast-ki-352962/",
    "quelle": "handwerk magazin",
@@ -1814,6 +1853,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "DUH-Studie widerspricht der von der Chemieindustrie behaupteten Doppelregulierung",
    "link": "https://www.kka-online.info/news/duh-studie-widerspricht-der-von-der-chemieindustrie-behaupteten-doppelregulierung-4449410.html",
    "quelle": "KKA",
@@ -1849,24 +1906,6 @@
    "tun": "Prüfe deine Auftragslage und Kalkulation für die kommenden Monate.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Ungeeigneter Aufstellort = erheblicher Mangel!",
@@ -1907,6 +1946,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "\"Genullte\" mitzuverarbeitende Bausubstanz ist bindend!",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317227",
    "quelle": "IBR-Online",
@@ -1943,24 +2000,6 @@
    "tun": "Prüfe Ausschreibungsunterlagen auf klare Trennung dieser Kriterien.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Unzureichender Sicherheitsstandard ist ein Werkmangel!",
@@ -2000,6 +2039,24 @@
    "tun": "Prüfe Planungen konsequent gegen a.a.R.d.T. ab, bevor sie umgesetzt werden.",
    "frist": null,
    "gewicht": 2
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   }
  ]
 }

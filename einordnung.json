@@ -24443,5 +24443,60 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-15"
+ },
+ "https://allgemeinebauzeitung.de/doll-next-tiefbett-reihe-optionsbaukasten-flexibilitaet/": {
+  "id": "afc96b77ec2f",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Preise & Material",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-15"
+ },
+ "https://www.pv-magazine.de/2026/11/15/eeg-novelle-einspeiseverguetung-fuer-kleine-photovoltaik-anlagen-koennte-doch-erhalten-bleiben/": {
+  "id": "84ddcb4ec32d",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Förderung",
+  "was": "Die Einspeisevergütung für kleine PV-Anlagen könnte trotz EEG-Novelle bestehen bleiben, Planungssicherheit für Kunden wächst.",
+  "tun": "Verfolge den Gesetzgebungsprozess, bevor du Kunden berätst.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-15"
+ },
+ "https://allgemeinebauzeitung.de/deckensystem-pyd-waerme-kuelung-gewerbegebaeude/": {
+  "id": "0b3ff1034203",
+  "relevant": true,
+  "gewerke": [
+   "TGA/Energiedienstleister",
+   "Sanitär/Heizung/Klima (SHK)"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Deckensysteme mit kombinierter Heiz-/Kühlfunktion zeigen eine Alternative zu klassischen Klimaanlagen in Gewerbebauten.",
+  "tun": "Prüfe das System als Option bei Ausschreibungen für Gewerbeobjekte.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-15"
  }
 }
