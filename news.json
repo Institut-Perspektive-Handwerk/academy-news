@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-15T22:48+00:00",
+ "stand": "2026-11-16T06:30+00:00",
  "anzahl": 105,
  "gewerke": [
   "Alle Gewerke",
@@ -63,6 +63,24 @@
  ],
  "news": [
   {
+   "titel": "Für ein starkes Team: Die betriebliche Krankenversicherung.",
+   "link": "https://www.impulse.de/personal/fuer-ein-starkes-team-die-betriebliche-krankenversicherung/7642959.html",
+   "quelle": "impulse",
+   "bereich": "Unternehmer",
+   "datum": "2026-11-16T04:00:11+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Personal & Ausbildung",
+   "was": "Betriebliche Krankenversicherung kann im Fachkräftemangel ein Pluspunkt bei der Mitarbeitergewinnung sein.",
+   "tun": "Prüfe Angebote für eine betriebliche Krankenversicherung als Benefit.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "EEG-Novelle: Einspeisevergütung für kleine Photovoltaik-Anlagen könnte doch erhalten bleiben",
    "link": "https://www.pv-magazine.de/2026/11/15/eeg-novelle-einspeiseverguetung-fuer-kleine-photovoltaik-anlagen-koennte-doch-erhalten-bleiben/",
    "quelle": "pv magazine",
@@ -120,6 +138,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Cannabis ist legal: Darf jetzt bei der Arbeit gekifft werden?",
    "link": "https://www.handwerk-magazin.de/cannabis-wird-legal-darf-jetzt-bei-der-arbeit-gekifft-werden-306712/",
    "quelle": "handwerk magazin",
@@ -137,24 +173,6 @@
    "tun": "Regle den Umgang mit Cannabiskonsum klar in der Betriebsordnung.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Agora-Studie: Investitionssicherheit und Mieterschutz im Wärmenetzpaket stärken",
@@ -213,6 +231,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Trittschallschutz: Wann Bodenleger haften und Bedenken anmelden",
    "link": "https://www.boden-wand-decke.de/trittschallschutz-wann-bodenleger-haften-und-bedenken-anmelden-358269/",
    "quelle": "Boden Wand Decke",
@@ -230,24 +266,6 @@
    "tun": "Melde Bedenken schriftlich an, wenn die Trittschallplanung unklar ist.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Mehr Leistungsreserve für heiße Tage",
@@ -306,6 +324,24 @@
    "gewicht": 1
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Die Monatsinfo 11/2026 ist erschienen.",
    "link": "https://forum-vergabe.de/monatsinfo-news/die-monatsinfo-11-2026-ist-erschienen/",
    "quelle": "forum vergabe",
@@ -323,24 +359,6 @@
    "tun": "Lies die Monatsinfo auf relevante Änderungen für deine Ausschreibungen.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Bau-IST: Produktivität statt bloßer Beschäftigung",
@@ -380,24 +398,6 @@
    "tun": "Verfolge den Gesetzgebungsprozess für mögliche neue Haftungsregeln.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Gute Ziele sollten manchmal mit „nicht“ beginnen",
-   "link": "https://www.impulse.de/personal/vermeidungsziele/7641265.html",
-   "quelle": "impulse",
-   "bereich": "Unternehmer",
-   "datum": "2026-11-09T17:24:19+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "Personal & Ausbildung",
-   "was": "Klare Abgrenzungen im Team können wirksamer sein als vage Visionen.",
-   "tun": "Formuliere mit dem Team auch, was ihr bewusst nicht tun wollt.",
-   "frist": null,
-   "gewicht": 1
   },
   {
    "titel": "Attraktivität durch Gesundheitsförderung und Arbeitsschutz",
@@ -763,22 +763,22 @@
    "gewicht": 3
   },
   {
-   "titel": "5 Modelle, mit denen du bei der Übergabe der Firma Steuern sparst",
-   "link": "https://www.impulse.de/finanzen/nachfolge-steuerlich-gestalten-plus/7642137.html",
+   "titel": "Gute Ziele sollten manchmal mit „nicht“ beginnen",
+   "link": "https://www.impulse.de/personal/vermeidungsziele/7641265.html",
    "quelle": "impulse",
    "bereich": "Unternehmer",
-   "datum": "2026-11-06T13:40:35+00:00",
+   "datum": "2026-11-09T17:24:19+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung"
    ],
-   "thema": "Recht & Pflichten",
-   "was": "Es gibt mehrere steuerlich günstige Wege, den Betrieb an die nächste Generation zu übergeben.",
-   "tun": "Sprich mit Steuerberater über passendes Nachfolgemodell.",
+   "thema": "Personal & Ausbildung",
+   "was": "Klare Abgrenzungen im Team können wirksamer sein als vage Visionen.",
+   "tun": "Formuliere mit dem Team auch, was ihr bewusst nicht tun wollt.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Abo Energy beabsichtigt Restrukturierungsverfahren nach StaRUG",
@@ -1027,21 +1027,20 @@
    "gewicht": 1
   },
   {
-   "titel": "Du nutzt den Firmenwagen privat? Sei ehrlich! Es lohnt sich",
-   "link": "https://www.impulse.de/finanzen/privat-genutzter-dienstwagen/7642982.html",
+   "titel": "5 Modelle, mit denen du bei der Übergabe der Firma Steuern sparst",
+   "link": "https://www.impulse.de/finanzen/nachfolge-steuerlich-gestalten-plus/7642137.html",
    "quelle": "impulse",
    "bereich": "Unternehmer",
-   "datum": "2026-11-05T11:07:16+00:00",
+   "datum": "2026-11-06T13:40:35+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
+    "Inhaber/Geschäftsführung"
    ],
    "thema": "Recht & Pflichten",
-   "was": "Falsch angegebene Entfernungskilometer beim Firmenwagen können zu Nachzahlungen und Strafverfahren führen.",
-   "tun": "Prüfe und korrigiere ggf. deine Steuererklärungen zur Firmenwagennutzung.",
+   "was": "Es gibt mehrere steuerlich günstige Wege, den Betrieb an die nächste Generation zu übergeben.",
+   "tun": "Sprich mit Steuerberater über passendes Nachfolgemodell.",
    "frist": null,
    "gewicht": 2
   },
@@ -1412,20 +1411,21 @@
    "gewicht": 2
   },
   {
-   "titel": "Führe dein Unternehmen mit KI in die Zukunft",
-   "link": "https://www.impulse.de/strategie/geschaeftsmodell-entwickeln-mit-ki/7642666.html",
+   "titel": "Du nutzt den Firmenwagen privat? Sei ehrlich! Es lohnt sich",
+   "link": "https://www.impulse.de/finanzen/privat-genutzter-dienstwagen/7642982.html",
    "quelle": "impulse",
    "bereich": "Unternehmer",
-   "datum": "2026-11-04T15:59:00+00:00",
+   "datum": "2026-11-05T11:07:16+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "KI & Digitales",
-   "was": "Zeigt, wie KI neue Geschäftsmodelle im Betrieb ermöglichen kann, nicht nur Risiko ist.",
-   "tun": "Prüfe, wo KI in deinem Betrieb neue Angebote schaffen könnte.",
+   "thema": "Recht & Pflichten",
+   "was": "Falsch angegebene Entfernungskilometer beim Firmenwagen können zu Nachzahlungen und Strafverfahren führen.",
+   "tun": "Prüfe und korrigiere ggf. deine Steuererklärungen zur Firmenwagennutzung.",
    "frist": null,
    "gewicht": 2
   },
@@ -1602,22 +1602,20 @@
    "gewicht": 2
   },
   {
-   "titel": "„Mehr Leistung für gleiches Geld ist eine Preissenkung“",
-   "link": "https://www.impulse.de/strategie/preisdruck-durch-ki/7642716.html",
+   "titel": "Führe dein Unternehmen mit KI in die Zukunft",
+   "link": "https://www.impulse.de/strategie/geschaeftsmodell-entwickeln-mit-ki/7642666.html",
    "quelle": "impulse",
    "bereich": "Unternehmer",
-   "datum": "2026-11-03T14:16:05+00:00",
+   "datum": "2026-11-04T15:59:00+00:00",
    "gewerke": [
-    "Architektur/Planung",
     "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
+    "Inhaber/Geschäftsführung"
    ],
    "thema": "KI & Digitales",
-   "was": "Wenn KI Aufgaben beschleunigt, geraten Stundensätze und Pauschalpreise unter Druck.",
-   "tun": "Überdenke deine Preismodelle, bevor der Markt es für dich tut.",
+   "was": "Zeigt, wie KI neue Geschäftsmodelle im Betrieb ermöglichen kann, nicht nur Risiko ist.",
+   "tun": "Prüfe, wo KI in deinem Betrieb neue Angebote schaffen könnte.",
    "frist": null,
    "gewicht": 2
   },
@@ -1698,26 +1696,6 @@
    "gewicht": 1
   },
   {
-   "titel": "Elektrische Fußbodenheizung im Badezimmer",
-   "link": "https://www.elektro.net/130078/elektrische-fussbodentemperierung-im-badezimmer/",
-   "quelle": "elektro.net",
-   "bereich": "Elektro",
-   "datum": "2026-11-12T15:50:00+00:00",
-   "gewerke": [
-    "Sanitär/Heizung/Klima (SHK)",
-    "Elektro"
-   ],
-   "rollen": [
-    "Monteur/Facharbeiter",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "Normen & Technik",
-   "was": "Elektrische Fußbodenheizung lässt sich im Bad nachträglich einbauen ohne große Umbauten an der Zentralheizung.",
-   "tun": "Biete Kunden die Nachrüstung als Zusatzleistung im Bad an.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "Automatischer hydraulischer Abgleich mit smarten Heizkörperthermostaten",
    "link": "https://www.ikz.de/detail/news/detail/automatischer-hydraulischer-abgleich-mit-smarten-heizkoerperthermostaten/",
    "quelle": "IKZ",
@@ -1757,24 +1735,6 @@
    "gewicht": 2
   },
   {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Was sich 2027 für Handwerker ändert",
    "link": "https://handwerk.com/politik-und-wirtschaft/was-sich-2027-fuer-handwerker-aendert",
    "quelle": "handwerk.com",
@@ -1792,6 +1752,24 @@
    "tun": "Kläre mit Steuerberater und Software-Anbieter die Umstellung rechtzeitig.",
    "frist": "2027-01-01",
    "gewicht": 3
+  },
+  {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
   },
   {
    "titel": "Aktualisierter Leitfaden zu Abdichtungen mit Flüssigkunststoffen",
@@ -1853,6 +1831,24 @@
    "gewicht": 2
   },
   {
+   "titel": "DUH-Studie widerspricht der von der Chemieindustrie behaupteten Doppelregulierung",
+   "link": "https://www.kka-online.info/news/duh-studie-widerspricht-der-von-der-chemieindustrie-behaupteten-doppelregulierung-4449410.html",
+   "quelle": "KKA",
+   "bereich": "Kälte & Klima",
+   "datum": "2026-11-05T08:11:30+00:00",
+   "gewerke": [
+    "Kälte- und Klimatechnik"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Die Debatte um F-Gase-Ausnahmen in der PFAS-Regulierung betrifft künftig erlaubte Kältemittel.",
+   "tun": "Beobachte die PFAS-Regulierung, bevor du langfristig auf bestimmte Kältemittel setzt.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
    "link": "https://www.youtube.com/@institutperspektivehandwerk",
    "quelle": "IPH Podcast",
@@ -1871,20 +1867,22 @@
    ]
   },
   {
-   "titel": "DUH-Studie widerspricht der von der Chemieindustrie behaupteten Doppelregulierung",
-   "link": "https://www.kka-online.info/news/duh-studie-widerspricht-der-von-der-chemieindustrie-behaupteten-doppelregulierung-4449410.html",
-   "quelle": "KKA",
-   "bereich": "Kälte & Klima",
-   "datum": "2026-11-05T08:11:30+00:00",
+   "titel": "„Mehr Leistung für gleiches Geld ist eine Preissenkung“",
+   "link": "https://www.impulse.de/strategie/preisdruck-durch-ki/7642716.html",
+   "quelle": "impulse",
+   "bereich": "Unternehmer",
+   "datum": "2026-11-03T14:16:05+00:00",
    "gewerke": [
-    "Kälte- und Klimatechnik"
+    "Architektur/Planung",
+    "Alle Gewerke"
    ],
    "rollen": [
-    "Inhaber/Geschäftsführung"
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
    ],
-   "thema": "Recht & Pflichten",
-   "was": "Die Debatte um F-Gase-Ausnahmen in der PFAS-Regulierung betrifft künftig erlaubte Kältemittel.",
-   "tun": "Beobachte die PFAS-Regulierung, bevor du langfristig auf bestimmte Kältemittel setzt.",
+   "thema": "KI & Digitales",
+   "was": "Wenn KI Aufgaben beschleunigt, geraten Stundensätze und Pauschalpreise unter Druck.",
+   "tun": "Überdenke deine Preismodelle, bevor der Markt es für dich tut.",
    "frist": null,
    "gewicht": 2
   },
