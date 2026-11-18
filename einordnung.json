@@ -25856,5 +25856,755 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-18"
+ },
+ "https://www.pv-magazine.de/2026/11/18/fca-rechner-je-nach-modell-sinken-batteriespeicher-erloese-bis-zu-29-prozent/": {
+  "id": "37b4e6447fca",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Flexible Netzanschlussmodelle können die Erlöse von Batteriespeicher-Projekten deutlich drücken.",
+  "tun": "Prüfe bei Speicherprojekten das Netzanschlussmodell vor der Kalkulation.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.elektro.net/130124/maco-uebernimmt-die-mehrheit-an-ekey/": {
+  "id": "348df59a4da1",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/praktische-massnahmen-gegen-buerokratie-eine-studie-zum-handwerk": {
+  "id": "ba9fd1070a09",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Studie zeigt konkrete Hebel, mit denen Bürokratieaufwand im Betrieb sinken könnte.",
+  "tun": "Schau dir die Studienergebnisse zu Entlastungsmaßnahmen an.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/offshore-plattform-beine-verlaengert-dubai/": {
+  "id": "f21418fcb3bc",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.boden-wand-decke.de/%c2%b5-wert-statt-r-klasse-ausschreiben-358332/": {
+  "id": "538538233edb",
+  "relevant": true,
+  "gewerke": [
+   "Fliesen- und Bodenleger",
+   "Hochbau/Rohbau"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Normen & Technik",
+  "was": "R-Klassen aus dem Labor passen oft nicht zur Baustellenrealität – µ-Wert-Ausschreibung ist praxisnäher.",
+  "tun": "Schreibe künftig den µ-Wert statt der R-Klasse aus.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.solarserver.de/2026/11/18/eeg-reform-nina-scheer-fordert-eine-gesamtkostenrechnung/": {
+  "id": "998e3eb81d4c",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Förderung",
+  "was": "Die geplante EEG-Reform könnte die Förderkosten massiv erhöhen – das betrifft langfristig Strompreise und Förderrahmen.",
+  "tun": "Verfolge die EEG-Reformdebatte für Planungssicherheit bei Energieprojekten.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://handwerk.com/politik-und-wirtschaft/handwerkskonjunktur-stagnation-statt-aufschwung": {
+  "id": "70e72f30052c",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Auftragslage und Kosten bleiben angespannt, einzelne Gewerke entwickeln sich aber besser.",
+  "tun": "Prüfe deine Auftragsplanung angesichts der schwachen Konjunkturlage.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.ikz.de/detail/news/detail/streit-streit-270-verknuepft-buero-und-baustelle-enger/": {
+  "id": "8c7e21c40a36",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Neue ERP-Version verzahnt Büro- und Baustellenprozesse mit KI-Dokumentation und mobilen Apps.",
+  "tun": "Prüfe, ob das Update euren Dokumentations- und Organisationsaufwand senkt.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.tga-praxis.de/news/tastsensor-kombiniert-unsichtbare-hf-sensorik-mit-luftqualitaetserfassung.html": {
+  "id": "39b3f78eb34c",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://vergabeblog.de/2026-11-18/bescha-laedt-zum-marktdialog-zum-thema-beschaffung-von-zelten-und-zeltzubehoer-fuer-das-thw-ein/": {
+  "id": "caeabe981bb1",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://kaelte-luft-klima.de/branche-und-markt/energieresilienz-industrie-webinar": {
+  "id": "52b48966a373",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerk-magazin.de/versicherungen-geschuetzt-als-mensch-und-unternehmer-352904/": {
+  "id": "499a236e7f0b",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Fehlender oder falscher Versicherungsschutz kann den Betrieb bei Schäden existenziell gefährden.",
+  "tun": "Lass deinen Versicherungsschutz auf Lücken prüfen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.mittelstandswiki.de/2026/11/ki-security-produktionsumgebungen-brauchen-neuen-schutz/": {
+  "id": "9ab7aa87e92d",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "KI in Produktionsprozessen verlangt neue IT/OT-Sicherheitskonzepte, auch für kleinere Betriebe mit vernetzter Technik.",
+  "tun": "Prüfe, ob eure vernetzte Anlagentechnik gegen neue KI-Risiken abgesichert ist.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317410": {
+  "id": "4d195edf34df",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Einwände gegen Stundenlohnzettel müssen laut Urteil schon bei der Abzeichnung erhoben werden, sonst sind sie zu spät.",
+  "tun": "Weise Mitarbeiter an, Stundenzettel nur bei sofortigem Einwand abzeichnen zu lassen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.elektro.net/130123/klingelsystem-ermoeglicht-zutritt-per-qr-code-und-videoanruf/": {
+  "id": "9e4fe4ffd7dc",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "Metallbau",
+   "Fensterbau/Glas"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Neues Klingelsystem regelt Zutritt für Handwerker per QR-Code und Video statt Schlüsselübergabe.",
+  "tun": "Prüfe das System für Objekte mit häufigem Handwerkerzutritt.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.pv-magazine.de/2026/11/18/den-fca-standard-wird-es-nicht-geben/": {
+  "id": "ed07e42de266",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Ein einheitlicher Standard für flexible Netzanschlüsse kommt vorerst nicht, uneinheitliche Verfahren bei Netzbetreibern bleiben Alltag.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerksblatt.de/themen-specials/interessante-wettbewerbe-fuer-handwerker/berufsbildung-ohne-grenzen-handwerksbetriebe-mit-unternehmenspreis-ausgezeichnet": {
+  "id": "9d5b1e83d3bf",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/galabau-miettechnik-bodenbearbeitung-gruenflaechen-pflege/": {
+  "id": "535f06044785",
+  "relevant": true,
+  "gewerke": [
+   "Garten- und Landschaftsbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Preise & Material",
+  "was": "Mietlösungen für Boden- und Grünflächenarbeiten können Investitionen in eigene Maschinen bei Auftragsspitzen ersetzen.",
+  "tun": "Prüfe Mietangebote für saisonale Auftragsspitzen statt Kauf.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.solarserver.de/2026/11/18/windpark-dalkendorf-navaris-nimmt-399-mw-in-betrieb/": {
+  "id": "8a4b64b429d3",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://handwerk.com/politik-und-wirtschaft/stromsteuersenkung-soll-2027-fuer-alle-gelten": {
+  "id": "266ade3d5254",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Die geplante Stromsteuersenkung ab 2027 ist nur auf ein Jahr befristet, langfristige Entlastung bleibt unsicher.",
+  "tun": "",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.ikz.de/detail/news/detail/biomasseheizungen-studie-hebt-potenzial-elektrostatischer-staubabscheider-hervor/": {
+  "id": "c45b76d95dad",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Moderne Staubabscheider senken Feinstaubemissionen bei Holz- und Pelletheizungen, relevant für künftige Grenzwerte.",
+  "tun": "Informiere dich über elektrostatische Staubabscheider für Biomasseanlagen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.tga-praxis.de/news/der-industrieverbund-hat-einen-neuen-vorstand.html": {
+  "id": "31a85d6d8b91",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.elektro.net/130122/eigentuemerwechsel-bei-insta-gmbh/": {
+  "id": "ab45b2aa00de",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/optimas-pflastergreifer-bagger-lader-einsatzmoeglichkeiten/": {
+  "id": "22012aff1171",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau",
+   "Garten- und Landschaftsbau"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Ein Pflastergreifer macht Bagger und Lader für Pflasterarbeiten nutzbar und kann Personalaufwand beim Verlegen senken.",
+  "tun": "Prüfe den Einsatz eines Pflastergreifers für eigene Pflasterprojekte.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.pv-magazine.de/2026/11/18/green-flexibility-startet-bau-von-batteriespeichern-mit-insgesamt-480-megawattstunden-in-niedersachsen/": {
+  "id": "8d611fb25cc9",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.solarserver.de/2026/11/18/stromsteuersenkung-2027-das-gilt-fuer-haushalte-und-betriebe/": {
+  "id": "6593582fc084",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Die Stromsteuersenkung 2027 orientiert sich am EU-Mindestsatz, Betriebe sollten die Entlastung in Kalkulationen einplanen.",
+  "tun": "Rechne die mögliche Stromkostenersparnis für 2027 in deine Planung ein.",
+  "frist": "2027-01-01",
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-saarland/online-veranstaltung-zirkulaeres-bauen-als-chance-fuer-das-handwerk": {
+  "id": "ca828c3c864e",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Zirkuläres Bauen kann bei steigenden Materialkosten neue Geschäftsmodelle und Kostenvorteile bringen.",
+  "tun": "Melde dich für die Online-Veranstaltung zum zirkulären Bauen an.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.elektro.net/130045/smart-meter-gateway-2-0/": {
+  "id": "ef9a36e7a786",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Eine neue Smart-Meter-Gateway-Generation betrifft die Umsetzung der Messstellenbetriebspflicht bei Kunden.",
+  "tun": "Prüfe Kompatibilität des neuen Gateways mit laufenden Einbauprojekten.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/lichtbandsystem-modulare-installation-hallen-logistik/": {
+  "id": "b200bc4520bf",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.pv-magazine.de/2026/11/18/bees-bears-ermoeglicht-rechnungskaeufe-von-photovoltaik-und-waermepumpen/": {
+  "id": "f2fb464a855b",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)",
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Ein neues Finanzierungsmodell lässt Installateure Kundenrechnungen vorab bezahlt bekommen, ohne auf Abschläge zu warten.",
+  "tun": "Prüfe das Rechnungskauf-Angebot für bessere Liquidität bei PV- und Wärmepumpenprojekten.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.solarserver.de/2026/11/18/hems-fuer-pv-anlagen-bei-badenova-ohne-laufende-gebuehren/": {
+  "id": "32861625aef5",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister",
+   "Sanitär/Heizung/Klima (SHK)"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Ein Energieversorger bietet jetzt serienmäßig eine kostenlose Steuerung für PV, Speicher, Wärmepumpe und Wallbox an.",
+  "tun": "Prüfe, ob sich das Angebot für Kundenprojekte mit mehreren Erzeugern/Verbrauchern eignet.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/ish-2027-erstmals-gemeinsamer-kongress-von-handwerk-und-pflege": {
+  "id": "2023882d2308",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/gagarin-jlg-nano-sp-arbeitsbuehnen-kompakt-innenbereiche/": {
+  "id": "6e3212f69abe",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.elektro.net/130120/schreibtischleuchte-zeigt-berufsbilder-von-sechs-gewerken/": {
+  "id": "cd8df322904b",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.pv-magazine.de/2026/11/18/effizient-heizen-reicht-nicht-warum-bei-waermepumpen-zunehmend-der-zeitpunkt-des-stromverbrauchs-zaehlt/": {
+  "id": "c037f9b77f01",
+  "relevant": true,
+  "gewerke": [
+   "Sanitär/Heizung/Klima (SHK)",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Beim Wärmepumpenbetrieb zählt neben dem Strompreis auch, wann Strom verbraucht wird – Lastverschiebung ist oft begrenzt sinnvoll.",
+  "tun": "Berate Kunden realistisch zu Einsparpotenzialen durch Lastverschiebung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.solarserver.de/2026/11/18/pv-branche-zwischen-bangen-und-aufbruch/": {
+  "id": "8de80d2f51a9",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Die EEG-Novelle entscheidet über die Auftragslage für PV-Installateure im kommenden Jahr – Unsicherheit bis Q1 2027.",
+  "tun": "Beobachte die Gesetzgebung und plane Kapazitäten vorsichtig.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerksblatt.de/handwerkspolitik/stromsteuersenkung-und-spritpreisdeckel-beschlossen": {
+  "id": "f69132a7aa6a",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Die geplante Stromsteuersenkung senkt die Energiekosten im Betrieb, zunächst befristet.",
+  "tun": "Kalkuliere die Entlastung in deine Energiekosten-Planung ein.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/ramudden-overnimmt-baustellen-verkehrssicherung-zeppelin-rental/": {
+  "id": "1ced2dd7bf93",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.pv-magazine.de/2026/11/18/bundesregierung-findet-milliarden-fuer-stromsteuer-senkung-beim-eeg/": {
+  "id": "a8b0e71044a7",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Ab 1. Januar 2027 sinkt die Stromsteuer auf EU-Mindestniveau – wirkt sich direkt auf Betriebskosten aus.",
+  "tun": "Plane die Kostensenkung ab Januar 2027 in der Kalkulation ein.",
+  "frist": "2027-01-01",
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.solarserver.de/2026/11/18/studie-zur-windthermie-untersucht-waermekosten/": {
+  "id": "91438ee7dc58",
+  "relevant": true,
+  "gewerke": [
+   "TGA/Energiedienstleister",
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Windthermie könnte künftig für Betriebe mit hohem Wärmebedarf und schwacher Netzanbindung interessant werden.",
+  "tun": "Verfolge die Entwicklung als mögliche Nischentechnologie für Sonderkunden.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.elektro.net/130030/vernetzte-messgeraete-fuer-effiziente-pruefprozesse/": {
+  "id": "6bc9a478155a",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "Kälte- und Klimatechnik"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Neue Messgeräte für EV-Ladeprüfung und Wärmebild erleichtern Prüfprozesse im Elektrobetrieb.",
+  "tun": "Prüfe die Geräte für deine Prüf- und Serviceausstattung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
  }
 }
