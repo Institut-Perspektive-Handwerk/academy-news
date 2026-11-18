@@ -1,82 +1,4 @@
 {
- "https://www.handwerk-magazin.de/kommentar-zur-abschaffung-des-mini-jobs-wenn-politisches-wunschdenken-zur-generellen-zwangsbeglueckung-mutiert-352292/": {
-  "id": "172cfa067fe7",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Personal & Ausbildung",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-18"
- },
- "https://allgemeinebauzeitung.de/schnelle-sichere-befestigung-elektroinstallationen-fbs-4-5/": {
-  "id": "04de5674336a",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Preise & Material",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-18"
- },
- "https://www.solarserver.de/2026/10/18/emog-kommunen-nutzen-privilegien-fuer-e-autos-wenig/": {
-  "id": "e08fdf81e25c",
-  "relevant": false,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation",
-   "Monteur/Facharbeiter",
-   "Ausbildung"
-  ],
-  "thema": "Markt",
-  "was": "",
-  "tun": "",
-  "frist": null,
-  "gewicht": 1,
-  "gesehen": "2026-10-18"
- },
- "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316672": {
-  "id": "b760e5e6725d",
-  "relevant": true,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Projektleitung/Bauleitung",
-   "Büro/Kalkulation"
-  ],
-  "thema": "KI & Digitales",
-  "was": "Nutzt du KI für Schriftsätze oder Stellungnahmen im Streitfall, haftest du für falsche KI-Inhalte vor Gericht.",
-  "tun": "Prüfe jeden KI-generierten Text vor Gericht auf echte Quellen und Fakten.",
-  "frist": null,
-  "gewicht": 2,
-  "gesehen": "2026-10-18"
- },
  "https://www.elektro.net/129948/ladeinfrastruktur-flexibel-nutzen/": {
   "id": "2cce7d10c9f6",
   "relevant": false,
@@ -25595,5 +25517,344 @@
   "frist": null,
   "gewicht": 2,
   "gesehen": "2026-11-17"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-munster/betriebsnachfolge-handwerk-fordert-bessere-rahmenbedingungen": {
+  "id": "24ad41f1d88d",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Markt",
+  "was": "Jeder dritte Betrieb ab 55 hat keine geregelte Nachfolge – Risiko für Fortbestand und Werterhalt.",
+  "tun": "Kläre frühzeitig deine Nachfolgeregelung mit der Handwerkskammer.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://vergabeblog.de/2026-11-18/eu-finanzrahmen-eu-kommission-begruesst-einigung/": {
+  "id": "8058bf21c655",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/fassaden-dachbefestiger-logistikzentrum-marktredwitz/": {
+  "id": "f1f41d435b10",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.tga-praxis.de/news/vdma-sanitaertechnik-und-design-cyril-stutz-den-vorstand-gewaehlt.html": {
+  "id": "ea28a452626a",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.elektro.net/130118/weiterbildung-fuer-die-betriebliche-praxis/": {
+  "id": "37f803399e74",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Weiterbildung zu Schaltbefähigung, Elektrosicherheit und KNX hilft, aktuelle Normen sicher anzuwenden.",
+  "tun": "Melde Mitarbeiter für die Dezember-Kurse in Dresden oder Leipzig an.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.gff-magazin.de/marco-strese-wachstum-allein-ist-kein-erfolg-337257/": {
+  "id": "b2d8aac5bdc6",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.kka-online.info/news/ki-in-der-kaeltetechnik-zusammenspiel-von-technologie-und-fachwissen-entscheidet-4452626.html": {
+  "id": "fde1c2e7c4b7",
+  "relevant": true,
+  "gewerke": [
+   "Kälte- und Klimatechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "KI & Digitales",
+  "was": "KI kann Wartung und Anlagensteuerung unterstützen, ersetzt aber nicht das Fachwissen deiner Techniker.",
+  "tun": "Prüfe, wo KI-Tools deine Wartungsprozesse sinnvoll ergänzen können.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/dachziegel-transport-schaden-reduzieren-technomelt-as-4004/": {
+  "id": "45de7f5e4804",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-trier/vier-landesbeste-aus-der-region-trier": {
+  "id": "0f4efb98c15d",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.kka-online.info/news/btga-gruendet-zentralausschuss-digitale-transformation-4452624.html": {
+  "id": "70d0f757eabb",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.gff-magazin.de/franzoesischer-balkon-abp-allein-reicht-nicht-337696/": {
+  "id": "8143b140c8b4",
+  "relevant": true,
+  "gewerke": [
+   "Fensterbau/Glas",
+   "Metallbau"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Ein abP allein reicht laut DIBt nicht aus, um die Standsicherheit absturzsichernder Bauteile nachzuweisen.",
+  "tun": "Prüfe bei französischen Balkonen zusätzliche statische Nachweise.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.shk-profi.de/news/clage-erhaelt-den-geo-award-4452004.html": {
+  "id": "d43a2b6cc409",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/besser-planen-durch-praxiswissen": {
+  "id": "6ab1baa99feb",
+  "relevant": true,
+  "gewerke": [
+   "Architektur/Planung"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "Praxisnahe Zusammenarbeit zwischen Architekturstudenten und Handwerk kann spätere Planungsfehler vermeiden.",
+  "tun": "Nimm Kontakt zur HwK Koblenz auf, wenn du Studierende einbinden willst.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/ehl-werke-berding-pavolo-beton-produktprogramm/": {
+  "id": "acc061b9e58e",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Preise & Material",
+  "was": "Durch die Übernahme ändern sich Ansprechpartner und Strukturen im Baustoffhandel – Lieferketten können sich kurzfristig verschieben.",
+  "tun": "Informiere dich bei deinen Lieferanten über mögliche Änderungen ab Januar 2027.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.gff-magazin.de/so-soll-einfacheres-bauen-rechtssicher-gelingen-337693/": {
+  "id": "0262061b0603",
+  "relevant": true,
+  "gewerke": [
+   "Architektur/Planung",
+   "Hochbau/Rohbau",
+   "Fensterbau/Glas"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Der Gebäudetyp E soll einfacheres Bauen über freiwillige Vereinbarungen statt automatischer Standardabsenkung ermöglichen.",
+  "tun": "Verfolge die Entwicklung des Referentenentwurfs für deine Vertragsgestaltung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/starkes-ehrenamt-sichert-ausbildungsqualitaet": {
+  "id": "9a00cff4489a",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
+ },
+ "https://allgemeinebauzeitung.de/mobilbagger-wasserschutzgebiet-trinkwasser-infrastruktur-elektrisch/": {
+  "id": "efd3903ead9e",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau",
+   "Garten- und Landschaftsbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Elektrobagger ermöglichen Arbeiten in Wasserschutzgebieten ohne Dieselauflagen und mit weniger Lärm.",
+  "tun": "Prüfe Elektro-Baumaschinen für Einsätze in sensiblen Schutzgebieten.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-18"
+ },
+ "https://www.handwerksblatt.de/die-handwerkskammern-in-deutschland/hwk-koblenz/tag-der-offenen-toepferei-im-maerz": {
+  "id": "6b9c3b63b4e9",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-18"
  }
 }
