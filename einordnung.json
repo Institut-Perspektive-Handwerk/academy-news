@@ -26621,5 +26621,265 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-20"
+ },
+ "https://www.solarserver.de/2026/11/20/abwaerme-aus-rechenzentren-heizt-erste-wohnungen/": {
+  "id": "5ef3be1daf05",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/mutterschutz-fuer-selbststaendige-nrw-initiative-im-bundesrat": {
+  "id": "7127e4d852cf",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "NRW will Mutterschutz für Selbstständige einführen – relevant für Inhaberinnen ohne Angestelltenstatus.",
+  "tun": "Verfolge die Bundesratsinitiative und ihre Umsetzung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.pv-magazine.de/2026/11/20/pv-magazine-podcast-ermittlungen-mit-dem-energiesparkommissar-carsten-herbert-welche-massnahmen-bringen-viel-und-kosten-wenig/": {
+  "id": "2f07f6bba5f4",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.elektro.net/130132/vde-fnn-fordert-mehr-befugnisse-fuer-netzbetreiber-zur-sicherung-des-stromnetzes/": {
+  "id": "0755f3e642f1",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "TGA/Energiedienstleister",
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Netzbetreiber bekommen mehr Eingriffsrechte zur Netzstabilität – betrifft Anschluss- und Einspeiseprojekte.",
+  "tun": "Informiere dich über neue Netzbetreiber-Befugnisse bei Anlagenanschlüssen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-20"
+ },
+ "https://allgemeinebauzeitung.de/ueberstieg-arbeitsbuhnen-sicherheit-gefaehrdungsbeurteilung-praxis/": {
+  "id": "9bef9a03ab04",
+  "relevant": true,
+  "gewerke": [
+   "Gerüstbau",
+   "Dachdecker",
+   "Stuckateur/Fassade",
+   "Elektro"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Arbeitsschutz",
+  "was": "Überstieg aus Arbeitsbühnen ist nur erlaubt, wenn die Gefährdungsbeurteilung dies als sicherste Methode bestätigt.",
+  "tun": "Dokumentiere Gefährdungsbeurteilung vor jedem Überstieg aus Arbeitsbühnen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.handwerk-magazin.de/wichtiges-zur-eigenkapitalquote-180747/": {
+  "id": "b98a83001966",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Eine Eigenkapitalquote um 30 Prozent gilt als Richtwert für Kreditwürdigkeit und Krisenfestigkeit deines Betriebs.",
+  "tun": "Prüfe deine aktuelle Eigenkapitalquote und vergleiche sie mit dem Richtwert.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.pv-magazine.de/2026/11/20/pv-magazine-spotlight-fuer-verteilnetzbetreiber-transparenzplattform-licht-ins-dunkel-bringen/": {
+  "id": "d706b330241b",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Eine neue Plattform zeigt die Performance einzelner Verteilnetzbetreiber – hilft bei der Einschätzung von Anschlussprojekten.",
+  "tun": "Schau dir die Bewertung deines Verteilnetzbetreibers auf vnb-transparenz.de an.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-20"
+ },
+ "https://allgemeinebauzeitung.de/elektrische-arbeitsbuehnen-tra-x-digital-anwendungen/": {
+  "id": "db16b42836a4",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.solarserver.de/2026/11/20/german-renewables-awards-fuer-pv-leichtmodul-und-waermekonzept/": {
+  "id": "89b772c9c8b7",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.elektro.net/130043/zwei-praemienaktionen-fuer-das-handwerk/": {
+  "id": "020b3b672383",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Preise & Material",
+  "was": "Renault und Ford bieten über SDH Prämienaktionen für Handwerksfahrzeuge an – mögliche Einsparung beim Fuhrpark.",
+  "tun": "Vergleiche die Prämienaktionen bei deiner nächsten Fahrzeuganschaffung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.elektro.net/130040/efg-gruppe-uebernimmt-moster/": {
+  "id": "5527de9201d4",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.elektro.net/130025/eroeffnungsfeier-bei-mai-mosbach-in-saarwellingen/": {
+  "id": "aec36c847428",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.pv-magazine.de/2026/11/20/svea-solar-garantiert-mindestens-72-cent-pro-kilowattstunde-fuer-10-jahre-bei-direktvermarktung-kleiner-photovoltaik-anlagen/": {
+  "id": "c71357b1ed88",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Preise & Material",
+  "was": "Ein Anbieter garantiert Kunden feste Einspeisevergütungen über 10 Jahre – Argument bei Kundengesprächen zur EEG-Unsicherheit.",
+  "tun": "Nutze solche Garantiemodelle als Verkaufsargument bei PV-Angeboten.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-20"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316495": {
+  "id": "a65602753192",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Laut Urteil fällt Umsatzsteuer auch auf vergütete, aber wegen Kündigung nicht erbrachte Leistungen an.",
+  "tun": "Prüfe mit deinem Steuerberater die Umsatzsteuerpflicht bei Vertragskündigungen.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-20"
  }
 }
