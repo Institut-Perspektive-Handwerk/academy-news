@@ -1,21 +1,4 @@
 {
- "https://www.handwerk-magazin.de/digitale-sichtbarkeit-warum-findet-die-ki-meinen-betrieb-nicht-frau-eigel-347114/": {
-  "id": "f0d5cd7c2c74",
-  "relevant": true,
-  "gewerke": [
-   "Alle Gewerke"
-  ],
-  "rollen": [
-   "Inhaber/Geschäftsführung",
-   "Büro/Kalkulation"
-  ],
-  "thema": "KI & Digitales",
-  "was": "KI-Suchmaschinen ticken anders als Google – dein Betrieb kann dort unsichtbar sein, auch mit guter Website.",
-  "tun": "Prüfe, wie dein Betrieb in ChatGPT & Co. gefunden wird.",
-  "frist": null,
-  "gewicht": 2,
-  "gesehen": "2026-10-25"
- },
  "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316930": {
   "id": "ef692674fa73",
   "relevant": true,
@@ -25803,5 +25786,59 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-24"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317851": {
+  "id": "949812d75c90",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Nutzt du für Klagen eine c/o-Anschrift, kann das Gericht die Klage mangels Zustellbarkeit als unzulässig verwerfen.",
+  "tun": "Prüfe deine Firmenanschrift bei Klagen und Schriftverkehr mit Behörden.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-25"
+ },
+ "https://www.bft-international.com/de/news/dyckerhoff-stellt-klinkerreduzierte-zemente-und-neue-entwicklungen-vor-4453739.html": {
+  "id": "c9d9ab2f70bc",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Preise & Material",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-25"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317848": {
+  "id": "51bb48cbae7d",
+  "relevant": true,
+  "gewerke": [
+   "Hochbau/Rohbau",
+   "Tiefbau",
+   "Architektur/Planung"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Das Urteil klärt, wann die Erschließung eines Grundstücks als rechtlich gesichert gilt und Baubeginn möglich ist.",
+  "tun": "Prüfe vor Baubeginn, ob die Erschließung laut Urteil rechtlich gesichert ist.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-25"
  }
 }

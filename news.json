@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T17:46+00:00",
+ "stand": "2026-11-25T02:30+00:00",
  "anzahl": 100,
  "gewerke": [
   "Alle Gewerke",
@@ -41,6 +41,24 @@
   }
  ],
  "news": [
+  {
+   "titel": "c/o-Anschrift macht Klage unzulässig!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317851",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-24T23:06:24+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Nutzt du für Klagen eine c/o-Anschrift, kann das Gericht die Klage mangels Zustellbarkeit als unzulässig verwerfen.",
+   "tun": "Prüfe deine Firmenanschrift bei Klagen und Schriftverkehr mit Behörden.",
+   "frist": null,
+   "gewicht": 1
+  },
   {
    "titel": "Wärmepumpen: Ab Juli 2027 volle BEG-Förderung nur bei Produktion in EU und Partnerländern",
    "link": "https://www.solarserver.de/2026/11/24/waermepumpen-ab-juli-2027-volle-beg-foerderung-nur-bei-produktion-in-eu-und-partnerlaendern/",
@@ -101,6 +119,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Marktübersicht Wallboxen: Die nächste Entwicklungsstufe",
    "link": "https://www.pv-magazine.de/2026/11/24/marktuebersicht-wallboxen-die-naechste-entwicklungsstufe/",
    "quelle": "pv magazine",
@@ -119,24 +155,6 @@
    "tun": "Beobachte die Produktentwicklung, bevor du neue Ladeinfrastruktur anbietest.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Kommt bald die Pflicht? Wie Selbstständige für das Alter vorsorgen",
@@ -196,6 +214,24 @@
    "gewicht": 1
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "VOB: Diese 7 Hebel für Handwerker machen Sie zum Projekt-Treiber",
    "link": "https://www.handwerk-magazin.de/vob-von-projekten-die-man-erst-rettet-und-dann-selbst-draufzahlt-353462/",
    "quelle": "handwerk magazin",
@@ -214,24 +250,6 @@
    "tun": "Prüfe deine Abrechnungs- und Aufmaßprozesse anhand der genannten Hebel.",
    "frist": null,
    "gewicht": 3
-  },
-  {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Leitfaden für dichtere Luftleitungen in Gebäuden",
@@ -293,25 +311,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Cloud-Auswahl: Sieben Kriterien entlarven schwache Anbieter",
-   "link": "https://www.mittelstandswiki.de/2026/11/cloud-auswahl-sieben-kriterien-entlarven-schwache-anbieter/",
-   "quelle": "Mittelstandswiki",
-   "bereich": "KI & Digitales",
-   "datum": "2026-11-23T08:00:00+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "KI & Digitales",
-   "was": "Hilft bei der Bewertung von Cloud-Anbietern, um spätere Abhängigkeiten zu vermeiden.",
-   "tun": "Prüfe geplante Cloud-Verträge anhand der genannten Kriterien.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
    "link": "https://iph-academy.learningsuite.io/student/courses",
    "quelle": "IPH Academy",
@@ -330,24 +329,23 @@
    ]
   },
   {
-   "titel": "Keine \"vollständige Fertigstellung\" bei wesentlichen Mängeln!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317820",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-11-23T07:55:00+00:00",
+   "titel": "Cloud-Auswahl: Sieben Kriterien entlarven schwache Anbieter",
+   "link": "https://www.mittelstandswiki.de/2026/11/cloud-auswahl-sieben-kriterien-entlarven-schwache-anbieter/",
+   "quelle": "Mittelstandswiki",
+   "bereich": "KI & Digitales",
+   "datum": "2026-11-23T08:00:00+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
     "Büro/Kalkulation"
    ],
-   "thema": "VOB & Verträge",
-   "was": "Bei wesentlichen Mängeln gilt das Werk laut BGH nicht als vollständig fertiggestellt, das beeinflusst Abnahme und Vergütung.",
-   "tun": "Prüfe Abnahmeprotokolle auf vollständige Mängelfreiheit vor Fertigstellungsmeldung.",
+   "thema": "KI & Digitales",
+   "was": "Hilft bei der Bewertung von Cloud-Anbietern, um spätere Abhängigkeiten zu vermeiden.",
+   "tun": "Prüfe geplante Cloud-Verträge anhand der genannten Kriterien.",
    "frist": null,
-   "gewicht": 3
+   "gewicht": 1
   },
   {
    "titel": "Baugeld in der Krise: Wann Geschäftsführer strafbar werden",
@@ -546,6 +544,26 @@
    "gewicht": 2
   },
   {
+   "titel": "Wann ist die Erschließung gesichert?",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317848",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-24T04:50:19+00:00",
+   "gewerke": [
+    "Hochbau/Rohbau",
+    "Tiefbau",
+    "Architektur/Planung"
+   ],
+   "rollen": [
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "Das Urteil klärt, wann die Erschließung eines Grundstücks als rechtlich gesichert gilt und Baubeginn möglich ist.",
+   "tun": "Prüfe vor Baubeginn, ob die Erschließung laut Urteil rechtlich gesichert ist.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Verstoß gegen Ausstellungspflicht keine Ordnungswidrigkeit",
    "link": "https://handwerk.com/recht/verstoss-gegen-ausstellungspflicht-keine-ordnungswidrigkeit",
    "quelle": "handwerk.com",
@@ -586,6 +604,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Was tun, wenn der Plattenwärmetauscher streikt?",
    "link": "https://kaelte-luft-klima.de/klimatechnik/plattenwaermetauscher-mehr-als-nur-gepraegte-blechplatten",
    "quelle": "Kälte Luft Klima",
@@ -604,24 +640,6 @@
    "tun": "Nutze die Checkliste bei der nächsten Störungsdiagnose vor Ort.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Nachprüfungs- und Beschwerdeverfahren sind kein Stillstand",
@@ -686,6 +704,24 @@
    "gewicht": 3
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Webinar zum Cyber Resilience Act",
    "link": "https://www.kka-online.info/news/webinar-zum-cyber-resilience-act-4453044.html",
    "quelle": "KKA",
@@ -706,24 +742,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "Ausstattungsklassen-Rechner veröffentlicht",
    "link": "https://www.dach-holzbau.de/news/ausstattungsklassen-rechner-veroeffentlicht-4452695.html",
    "quelle": "dach+holzbau",
@@ -741,26 +759,6 @@
    "tun": "Teste den Rechner für eure nächste Dachangebots-Kalkulation.",
    "frist": null,
    "gewicht": 2
-  },
-  {
-   "titel": "Berding Beton plant Übernahme von sieben EHL-Werken",
-   "link": "https://www.bft-international.com/de/news/berding-beton-plant-uebernahme-von-sieben-ehl-werken-4452660.html",
-   "quelle": "BFT",
-   "bereich": "Bau",
-   "datum": "2026-11-18T09:53:41+00:00",
-   "gewerke": [
-    "Tiefbau",
-    "Hochbau/Rohbau"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "Preise & Material",
-   "was": "Werksübernahme kann Lieferketten und Preise für Transportbeton in den betroffenen Regionen verändern.",
-   "tun": "Kläre bei deinem Betonlieferanten, ob sich Konditionen oder Lieferzeiten ändern.",
-   "frist": null,
-   "gewicht": 1
   },
   {
    "titel": "KI-Security: Produktionsumgebungen brauchen neuen Schutz",
@@ -882,23 +880,24 @@
    "gewicht": 2
   },
   {
-   "titel": "vdp: Absatz steigt, Umsatz sinkt",
-   "link": "https://www.boden-wand-decke.de/vdp-absatz-steigt-umsatz-sinkt-358409/",
-   "quelle": "Boden Wand Decke",
-   "bereich": "Ausbau & Maler",
-   "datum": "2026-11-23T07:22:10+00:00",
+   "titel": "Keine \"vollständige Fertigstellung\" bei wesentlichen Mängeln!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317820",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-23T07:55:00+00:00",
    "gewerke": [
-    "Fliesen- und Bodenleger"
+    "Alle Gewerke"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
     "Büro/Kalkulation"
    ],
-   "thema": "Markt",
-   "was": "Parkettmarkt wächst leicht im Absatz, aber Preise und Margen geraten unter Druck.",
-   "tun": "Prüfe deine Kalkulation angesichts sinkender Durchschnittspreise.",
+   "thema": "VOB & Verträge",
+   "was": "Bei wesentlichen Mängeln gilt das Werk laut BGH nicht als vollständig fertiggestellt, das beeinflusst Abnahme und Vergütung.",
+   "tun": "Prüfe Abnahmeprotokolle auf vollständige Mängelfreiheit vor Fertigstellungsmeldung.",
    "frist": null,
-   "gewicht": 1
+   "gewicht": 3
   },
   {
    "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
@@ -919,23 +918,23 @@
    ]
   },
   {
-   "titel": "Mit Asbest spaßt man nicht!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317854",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-11-23T01:09:21+00:00",
+   "titel": "vdp: Absatz steigt, Umsatz sinkt",
+   "link": "https://www.boden-wand-decke.de/vdp-absatz-steigt-umsatz-sinkt-358409/",
+   "quelle": "Boden Wand Decke",
+   "bereich": "Ausbau & Maler",
+   "datum": "2026-11-23T07:22:10+00:00",
    "gewerke": [
-    "Alle Gewerke"
+    "Fliesen- und Bodenleger"
    ],
    "rollen": [
     "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung"
+    "Büro/Kalkulation"
    ],
-   "thema": "Arbeitsschutz",
-   "was": "Verstöße gegen Asbest-Vorschriften können strafrechtliche Folgen haben, wie ein aktueller Beschluss zeigt.",
-   "tun": "Kontrolliere, ob bei Sanierungsarbeiten Asbest-Vorschriften konsequent eingehalten werden.",
+   "thema": "Markt",
+   "was": "Parkettmarkt wächst leicht im Absatz, aber Preise und Margen geraten unter Druck.",
+   "tun": "Prüfe deine Kalkulation angesichts sinkender Durchschnittspreise.",
    "frist": null,
-   "gewicht": 2
+   "gewicht": 1
   },
   {
    "titel": "Wie du heute schon erkennst, ob morgen dein Geld reicht",
@@ -1032,6 +1031,26 @@
    "gewicht": 2
   },
   {
+   "titel": "Berding Beton plant Übernahme von sieben EHL-Werken",
+   "link": "https://www.bft-international.com/de/news/berding-beton-plant-uebernahme-von-sieben-ehl-werken-4452660.html",
+   "quelle": "BFT",
+   "bereich": "Bau",
+   "datum": "2026-11-18T09:53:41+00:00",
+   "gewerke": [
+    "Tiefbau",
+    "Hochbau/Rohbau"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "Preise & Material",
+   "was": "Werksübernahme kann Lieferketten und Preise für Transportbeton in den betroffenen Regionen verändern.",
+   "tun": "Kläre bei deinem Betonlieferanten, ob sich Konditionen oder Lieferzeiten ändern.",
+   "frist": null,
+   "gewicht": 1
+  },
+  {
    "titel": "Neufassung der DIN 1986-100 Entwässerungsanlagen",
    "link": "https://www.bauprofessor.de/news/neufassung-der-din-1986-100-entwaesserungsanlagen/",
    "quelle": "bauprofessor",
@@ -1071,6 +1090,24 @@
    "gewicht": 2
   },
   {
+   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
+   "link": "https://iph-academy.learningsuite.io/student/event-plan",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Zoll startet bundesweite Aktionswoche gegen Schwarzarbeit",
    "link": "https://www.handwerksblatt.de/themen-specials/offensiver-kampf-gegen-schwarzarbeit/gegen-schwarzarbeit-und-illegale-beschaeftigung-zoll-startet-bundesweite-aktionswoche",
    "quelle": "handwerksblatt",
@@ -1090,24 +1127,6 @@
    "gewicht": 2
   },
   {
-   "titel": "Fragestunde jeden Freitag, 9–10 Uhr: Bring deine KI-Frage mit",
-   "link": "https://iph-academy.learningsuite.io/student/event-plan",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
-  },
-  {
    "titel": "ChatGPT Business Hub: Warum das Handwerker brauchen könnten",
    "link": "https://www.handwerk-magazin.de/warum-du-als-handwerker-den-neuen-chatgpt-business-hub-brauchst-353328/",
    "quelle": "handwerk magazin",
@@ -1123,25 +1142,6 @@
    "thema": "KI & Digitales",
    "was": "Neue ChatGPT-Business-Funktionen könnten Büroabläufe wie Angebote und Kommunikation im Betrieb erleichtern.",
    "tun": "Teste den Business Hub für wiederkehrende Büroaufgaben.",
-   "frist": null,
-   "gewicht": 1
-  },
-  {
-   "titel": "Bewusste Auftragsüberschreitung ist ein Befangenheitsgrund!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317791",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-11-23T01:00:48+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Projektleitung/Bauleitung",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Überschreitet ein Gutachter bewusst seinen Auftrag, kann das seine Befangenheit begründen und das Gutachten entwerten.",
-   "tun": "Achte bei Gutachterbestellungen genau auf den Umfang des Auftrags.",
    "frist": null,
    "gewicht": 1
   },
@@ -1410,6 +1410,25 @@
    "gewicht": 3
   },
   {
+   "titel": "Mit Asbest spaßt man nicht!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317854",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-23T01:09:21+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung"
+   ],
+   "thema": "Arbeitsschutz",
+   "was": "Verstöße gegen Asbest-Vorschriften können strafrechtliche Folgen haben, wie ein aktueller Beschluss zeigt.",
+   "tun": "Kontrolliere, ob bei Sanierungsarbeiten Asbest-Vorschriften konsequent eingehalten werden.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Eigenkapitalquote: 30 Prozent für die Krisenvorsorge sind Pflicht",
    "link": "https://www.handwerk-magazin.de/wichtiges-zur-eigenkapitalquote-180747/",
    "quelle": "handwerk magazin",
@@ -1425,25 +1444,6 @@
    "thema": "Markt",
    "was": "Eine Eigenkapitalquote um 30 Prozent gilt als Richtwert für Kreditwürdigkeit und Krisenfestigkeit deines Betriebs.",
    "tun": "Prüfe deine aktuelle Eigenkapitalquote und vergleiche sie mit dem Richtwert.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Schlussrechnung wurde bezahlt: Auftraggeber muss Überzahlung beweisen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317308",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-11-20T07:14:16+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Büro/Kalkulation"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Hat der AG die Schlussrechnung bezahlt, muss er eine Überzahlung selbst beweisen, nicht der Betrieb.",
-   "tun": "Nutze das Urteil bei Rückforderungsstreitigkeiten nach Schlussrechnung.",
    "frist": null,
    "gewicht": 2
   },
@@ -1640,20 +1640,21 @@
    "gewicht": 1
   },
   {
-   "titel": "Mutterschutz für Selbstständige: NRW-Initiative im Bundesrat",
-   "link": "https://www.handwerksblatt.de/betriebsfuehrung/mutterschutz-fuer-selbststaendige-nrw-initiative-im-bundesrat",
-   "quelle": "handwerksblatt",
-   "bereich": "Handwerk",
-   "datum": "2026-11-20T15:07:00+00:00",
+   "titel": "Bewusste Auftragsüberschreitung ist ein Befangenheitsgrund!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317791",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-23T01:00:48+00:00",
    "gewerke": [
     "Alle Gewerke"
    ],
    "rollen": [
+    "Projektleitung/Bauleitung",
     "Inhaber/Geschäftsführung"
    ],
-   "thema": "Recht & Pflichten",
-   "was": "NRW will Mutterschutz für Selbstständige einführen – relevant für Inhaberinnen ohne Angestelltenstatus.",
-   "tun": "Verfolge die Bundesratsinitiative und ihre Umsetzung.",
+   "thema": "VOB & Verträge",
+   "was": "Überschreitet ein Gutachter bewusst seinen Auftrag, kann das seine Befangenheit begründen und das Gutachten entwerten.",
+   "tun": "Achte bei Gutachterbestellungen genau auf den Umfang des Auftrags.",
    "frist": null,
    "gewicht": 1
   },
@@ -1674,6 +1675,24 @@
     "Monteur/Facharbeiter",
     "Ausbildung"
    ]
+  },
+  {
+   "titel": "Mutterschutz für Selbstständige: NRW-Initiative im Bundesrat",
+   "link": "https://www.handwerksblatt.de/betriebsfuehrung/mutterschutz-fuer-selbststaendige-nrw-initiative-im-bundesrat",
+   "quelle": "handwerksblatt",
+   "bereich": "Handwerk",
+   "datum": "2026-11-20T15:07:00+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung"
+   ],
+   "thema": "Recht & Pflichten",
+   "was": "NRW will Mutterschutz für Selbstständige einführen – relevant für Inhaberinnen ohne Angestelltenstatus.",
+   "tun": "Verfolge die Bundesratsinitiative und ihre Umsetzung.",
+   "frist": null,
+   "gewicht": 1
   },
   {
    "titel": "Voilàp stellt Vertrieb in Deutschland neu auf",
@@ -1734,6 +1753,24 @@
    "gewicht": 2
   },
   {
+   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
+   "link": "https://iph-academy.learningsuite.io/student/courses",
+   "quelle": "IPH Academy",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
    "titel": "Fördermittel sichern, bevor die Hürden steigen",
    "link": "https://kaelte-luft-klima.de/branche-und-markt/foerdermittel-sichern-bevor-die-huerden-steigen",
    "quelle": "Kälte Luft Klima",
@@ -1752,24 +1789,6 @@
    "tun": "Stelle Förderanträge für Kälte-Klima-Projekte noch vor Ablauf 2026.",
    "frist": "2026-12-31",
    "gewicht": 3
-  },
-  {
-   "titel": "KI-Werkstatt im neuen Look: alle Skills, Agenten und Workflows überarbeitet",
-   "link": "https://iph-academy.learningsuite.io/student/courses",
-   "quelle": "IPH Academy",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "PFAS-Debatte: Kälte-Klima-Verbände warnen vor pauschalen Schlussfolgerungen",
@@ -1828,6 +1847,43 @@
    "gewicht": 1
   },
   {
+   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
+   "link": "https://www.youtube.com/@institutperspektivehandwerk",
+   "quelle": "IPH Podcast",
+   "aktiv": true,
+   "bereich": "IPH",
+   "thema": "IPH",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Projektleitung/Bauleitung",
+    "Büro/Kalkulation",
+    "Monteur/Facharbeiter",
+    "Ausbildung"
+   ]
+  },
+  {
+   "titel": "Schlussrechnung wurde bezahlt: Auftraggeber muss Überzahlung beweisen!",
+   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317308",
+   "quelle": "IBR-Online",
+   "bereich": "Baurecht",
+   "datum": "2026-11-20T07:14:16+00:00",
+   "gewerke": [
+    "Alle Gewerke"
+   ],
+   "rollen": [
+    "Inhaber/Geschäftsführung",
+    "Büro/Kalkulation"
+   ],
+   "thema": "VOB & Verträge",
+   "was": "Hat der AG die Schlussrechnung bezahlt, muss er eine Überzahlung selbst beweisen, nicht der Betrieb.",
+   "tun": "Nutze das Urteil bei Rückforderungsstreitigkeiten nach Schlussrechnung.",
+   "frist": null,
+   "gewicht": 2
+  },
+  {
    "titel": "Volle Kostenlast bei übereinstimmender Erledigungserklärung?",
    "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317629",
    "quelle": "IBR-Online",
@@ -1845,24 +1901,6 @@
    "tun": "Prüfe mit Anwalt die Kostenfolge bei Erledigungserklärungen in laufenden Verfahren.",
    "frist": null,
    "gewicht": 1
-  },
-  {
-   "titel": "Tragwerk-Podcast auf YouTube: KI im Handwerk ohne Schönfärberei",
-   "link": "https://www.youtube.com/@institutperspektivehandwerk",
-   "quelle": "IPH Podcast",
-   "aktiv": true,
-   "bereich": "IPH",
-   "thema": "IPH",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Inhaber/Geschäftsführung",
-    "Projektleitung/Bauleitung",
-    "Büro/Kalkulation",
-    "Monteur/Facharbeiter",
-    "Ausbildung"
-   ]
   },
   {
    "titel": "Baubeginn als Maßstab für anerkannte Regeln der Technik vereinbar!",
@@ -1900,44 +1938,6 @@
    "thema": "Recht & Pflichten",
    "was": "Eine Nutzungsänderung kann die bestehende Baugenehmigung automatisch erlöschen lassen.",
    "tun": "Prüfe vor jeder Umnutzung, ob eine neue Genehmigung nötig ist.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Einwände gegen Stundenlohnaufwand ist bei Abzeichnung zu erheben!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317410",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-11-18T07:01:12+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Projektleitung/Bauleitung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Einwände gegen Stundenlohnzettel müssen laut Urteil schon bei der Abzeichnung erhoben werden, sonst sind sie zu spät.",
-   "tun": "Weise Mitarbeiter an, Stundenzettel nur bei sofortigem Einwand abzeichnen zu lassen.",
-   "frist": null,
-   "gewicht": 2
-  },
-  {
-   "titel": "Umsatzsteuer auch auf kündigungsbedingt nicht erbrachte Leistungen!",
-   "link": "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=316495",
-   "quelle": "IBR-Online",
-   "bereich": "Baurecht",
-   "datum": "2026-11-18T06:16:45+00:00",
-   "gewerke": [
-    "Alle Gewerke"
-   ],
-   "rollen": [
-    "Büro/Kalkulation",
-    "Inhaber/Geschäftsführung"
-   ],
-   "thema": "VOB & Verträge",
-   "was": "Laut Urteil fällt Umsatzsteuer auch auf vergütete, aber wegen Kündigung nicht erbrachte Leistungen an.",
-   "tun": "Prüfe mit deinem Steuerberater die Umsatzsteuerpflicht bei Vertragskündigungen.",
    "frist": null,
    "gewicht": 2
   },
