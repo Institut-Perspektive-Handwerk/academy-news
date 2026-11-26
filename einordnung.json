@@ -26445,5 +26445,393 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-26"
+ },
+ "https://www.impulse.de/finanzen/liquiditaet-ueberwachen/7643497.html": {
+  "id": "eb2ad03cb30a",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Markt",
+  "was": "Volle Auftragsbücher heißen nicht automatisch volle Kasse – Liquiditätscheck zeigt echte finanzielle Lage.",
+  "tun": "Prüfe monatlich Liquiditätsplanung statt nur Auftragsbestand.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.pv-magazine.de/2026/11/26/bundesnetzagentur-plant-weitere-aenderungen-in-der-finalen-agnes-festlegung/": {
+  "id": "2ffa5de8e950",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Neue Netzentgeltsystematik AgNes verschiebt sich auf nach dem 22. Dezember und bringt noch Änderungen.",
+  "tun": "Verfolge finale AgNes-Fassung für Kalkulation von Netzentgelten.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.elektro.net/130023/ueberspannungsschutz-fuer-pv-anlagen-mit-gleichspannungen-von-1500v/": {
+  "id": "378149e1ec10",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "Elektro"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Bei PV-Großanlagen mit 1500V Gleichspannung wird Überspannungsschutz zum entscheidenden Faktor für Ertrag und Lebensdauer.",
+  "tun": "Plane Überspannungsschutz bei Großanlagen von Anfang an mit ein.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-26"
+ },
+ "https://allgemeinebauzeitung.de/winterwartung-baumaschinen-herstellerunabhaengige-expertise/": {
+  "id": "babb2b713988",
+  "relevant": true,
+  "gewerke": [
+   "Tiefbau",
+   "Hochbau/Rohbau",
+   "Garten- und Landschaftsbau"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Herstellerübergreifende Winterwartung sorgt dafür, dass Baumaschinen auch bei Frost einsatzbereit bleiben.",
+  "tun": "Plane Wartungstermine vor der Frostperiode ein.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/bgh-staerkt-mieterrechte-bei-balkonkraftwerken": {
+  "id": "78c437453989",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.solarserver.de/2026/11/26/batteriespeicher-sunlumo-eroeffnet-showroom-und-trainingscenter-in-mickhausen/": {
+  "id": "893ada31ef08",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://handwerk.com/steuern-und-finanzen/altersvorsorgedepot-2027-was-selbststaendige-handwerker-wissen-muessen": {
+  "id": "cd56b579e247",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "Förderung",
+  "was": "Ab 2027 können selbstständige Handwerker staatliche Zulagen für private Altersvorsorge über ein neues Depot nutzen.",
+  "tun": "Informiere dich frühzeitig über Förderhöhe und Bedingungen.",
+  "frist": "2027-01-01",
+  "gewicht": 2,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.boden-wand-decke.de/trocknungszeit-spachtelmasse-so-sparen-bodenleger-zeit-358598/": {
+  "id": "4d28f13898ac",
+  "relevant": true,
+  "gewerke": [
+   "Fliesen- und Bodenleger"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Konkrete Trocknungszeiten von fünf Herstellern helfen, Belagsarbeiten besser zu takten und Stillstand zu vermeiden.",
+  "tun": "Vergleiche Herstellerangaben zur Trocknungszeit vor der Planung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.ikz.de/detail/news/detail/50-jahre-sanipa-badmoebel-aus-treuchtlingen/": {
+  "id": "3c4b058e213a",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.tga-praxis.de/news/gebaeudemittel-bleiben-stabil-jeder-euro-fuer-energetische-sanierung-wirkt.html": {
+  "id": "09ec962bdd02",
+  "relevant": true,
+  "gewerke": [
+   "TGA/Energiedienstleister",
+   "Architektur/Planung",
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Förderung",
+  "was": "Fördermittel für energetische Sanierung bleiben stabil – Planungssicherheit für laufende und neue Sanierungsprojekte.",
+  "tun": "Nutze die stabile Förderkulisse für Kundenangebote zur Sanierung.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.ibr-online.de/IBRUrteile/index.php?S_ID=317974": {
+  "id": "d2f9744b7be0",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "VOB & Verträge",
+  "was": "Der BGH bestätigt: Eine Wartungsklausel ohne Kostenlimit ist wirksam – wichtig für eigene Wartungsverträge mit Kunden.",
+  "tun": "Prüfe eigene Wartungsverträge auf vergleichbare Kostenklauseln.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.impulse.de/organisation/ki-im-unternehmen-testen-aber-richtig/7643921.html": {
+  "id": "9fc7f32ca600",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Ein strukturierter 30-Tage-Test zeigt, ob Copilot im Betrieb wirklich Nutzen bringt statt nur Lizenzkosten zu verursachen.",
+  "tun": "Teste KI-Tools zeitlich begrenzt mit konkreten Anwendungsfällen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.pv-magazine.de/2026/11/26/chinesische-wechselrichter-und-batteriezellen-welche-beschraenkungen-bruessel-diskutiert/": {
+  "id": "01d5af9b39d8",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Neue EU-Regeln zu Cybersecurity und Industrieförderung könnten den Einsatz chinesischer Wechselrichter und Zellen einschränken.",
+  "tun": "Beobachte die Gesetzgebung bei Beschaffung chinesischer Komponenten.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.solarserver.de/2026/11/26/schnellere-pv-montage-auf-ziegeldaechern-tritec-stellt-tri-clip-ready-mit-vormontierten-klickverbindern-vor/": {
+  "id": "4fd9a3565dd8",
+  "relevant": true,
+  "gewerke": [
+   "Photovoltaik/Solartechnik",
+   "Dachdecker"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Vormontierte Klickverbinder sollen die PV-Montage auf Ziegeldächern beschleunigen und Personalengpässe abfedern.",
+  "tun": "Prüfe das System für zeitkritische Dachmontagen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.handwerksblatt.de/betriebsfuehrung/e-mail-rechnung-handwerker-haftet-fuer-betrueger-und-verliert-20000-euro": {
+  "id": "22d617d4274d",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Werden E-Mail-Rechnungen von Betrügern abgefangen, haftet der Betrieb – ein Gericht sah kein Mitverschulden des Kunden.",
+  "tun": "Sichere Rechnungsversand per E-Mail technisch ab (z.B. Verschlüsselung, Portale).",
+  "frist": null,
+  "gewicht": 3,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.elektro.net/130145/erweiterte-mobile-auftragsbearbeitung-und-projektuebersicht/": {
+  "id": "76b24ecb96a6",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "Sanitär/Heizung/Klima (SHK)",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "Neue Softwareversion bringt Android-Unterstützung, Projektübersichten und Änderungen bei E-Rechnung und Zeiterfassung.",
+  "tun": "Prüfe, ob Update für dein Büro relevante Funktionen bringt.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.pv-magazine.de/2026/11/26/bgh-wohnungsgenossenschaft-darf-mieter-nicht-zur-demontage-einer-photovoltaik-balkonanlage-zwingen/": {
+  "id": "d76eb5a4ee78",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.solarserver.de/2026/11/26/coneva-erloesverluste-durch-negativpreise-vermeiden-und-mispel-potenziale-erschliessen/": {
+  "id": "8f2052f4606c",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.pv-magazine.de/2026/11/26/baugenehmigung-fuer-4-stunden-speicher-mit-2800-megawattstunden-in-sachsen-erteilt/": {
+  "id": "c0c1553236ec",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Markt",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.solarserver.de/2026/11/26/balkonkraftwerk-bgh-entscheidet-zugunsten-von-mieter/": {
+  "id": "1eb58b68772e",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-26"
+ },
+ "https://www.elektro.net/130091/iec-61643-41-schliesst-luecke-beim-ueberspannungsschutz/": {
+  "id": "653df9e76c2d",
+  "relevant": true,
+  "gewerke": [
+   "Elektro",
+   "Photovoltaik/Solartechnik",
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Neue IEC-Norm regelt erstmals Überspannungsschutz in Gleichspannungsnetzen auch außerhalb von PV-Anlagen.",
+  "tun": "Prüfe Produktauswahl für Gleichspannungs-Überspannungsschutz nach neuer Norm.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-26"
  }
 }
