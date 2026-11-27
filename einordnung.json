@@ -26550,5 +26550,130 @@
   "frist": null,
   "gewicht": 1,
   "gesehen": "2026-11-27"
+ },
+ "https://www.elektro.net/130150/sichere-elektroinstallation-im-eigenheim/": {
+  "id": "e9d4fe7e0243",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Monteur/Facharbeiter",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Zeigt, welche Schutzgeräte in der Verteilung welche Aufgabe übernehmen und wann Abschalten normal ist.",
+  "tun": "Erkläre Kunden die Funktion der Schutzgeräte bei Abnahme oder Störung.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-27"
+ },
+ "https://www.tga-praxis.de/news/ki-tool-macht-urbane-hitze-sichtbar.html": {
+  "id": "388680337227",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-27"
+ },
+ "https://handwerk.com/it/mehr-zeit-fuers-handwerk-wie-ki-agenten-bei-der-bueroarbeit-entlasten": {
+  "id": "72f18902cb24",
+  "relevant": true,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Büro/Kalkulation",
+   "Inhaber/Geschäftsführung"
+  ],
+  "thema": "KI & Digitales",
+  "was": "KI-Agenten können Schadensmeldungen und Kundenanfragen im Büro automatisch bearbeiten und entlasten.",
+  "tun": "Prüfe, ob ein KI-Agent Routineanfragen in deinem Büro übernehmen kann.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-27"
+ },
+ "https://www.pv-magazine.de/2026/11/27/waermepumpen-cubes-fuer-80-wohnungen-von-vonovia-installiert/": {
+  "id": "88d48715a6bf",
+  "relevant": true,
+  "gewerke": [
+   "TGA/Energiedienstleister"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung"
+  ],
+  "thema": "Markt",
+  "was": "Vorgefertigte Wärmepumpen-Heizzentralen senken Montagezeit und Kosten bei Großprojekten im Bestand.",
+  "tun": "Informiere dich über vorgefertigte Heizzentralen für Bestandsprojekte.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-27"
+ },
+ "https://www.lto.de/recht/juristen/b/wenn-ki-die-arbeit-uebernimmt-an-der-juristen-ausbildung-ki-zeitalter-lernen?r=rss": {
+  "id": "6f85c2fd12a6",
+  "relevant": false,
+  "gewerke": [
+   "Alle Gewerke"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Projektleitung/Bauleitung",
+   "Büro/Kalkulation",
+   "Monteur/Facharbeiter",
+   "Ausbildung"
+  ],
+  "thema": "Personal & Ausbildung",
+  "was": "",
+  "tun": "",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-27"
+ },
+ "https://www.tga-praxis.de/news/die-hoai-kommt-2027.html": {
+  "id": "58c70053b7bb",
+  "relevant": true,
+  "gewerke": [
+   "Architektur/Planung"
+  ],
+  "rollen": [
+   "Inhaber/Geschäftsführung",
+   "Büro/Kalkulation"
+  ],
+  "thema": "Recht & Pflichten",
+  "was": "Neue HOAI-Fassung 2027 betrifft Honorarabrechnung bei Planungsleistungen.",
+  "tun": "Verfolge die Details zur neuen HOAI-Fassung rechtzeitig vor 2027.",
+  "frist": null,
+  "gewicht": 2,
+  "gesehen": "2026-11-27"
+ },
+ "https://www.elektro.net/130052/nichtvisuelle-kriterien-fuer-beleuchtungen/": {
+  "id": "b4b9bc3454a3",
+  "relevant": true,
+  "gewerke": [
+   "Elektro"
+  ],
+  "rollen": [
+   "Projektleitung/Bauleitung",
+   "Monteur/Facharbeiter"
+  ],
+  "thema": "Normen & Technik",
+  "was": "Beleuchtungsplanung muss künftig auch nichtvisuelle, biologische Lichtwirkungen berücksichtigen.",
+  "tun": "Beachte nichtvisuelle Kriterien bei der Planung neuer Beleuchtungsanlagen.",
+  "frist": null,
+  "gewicht": 1,
+  "gesehen": "2026-11-27"
  }
 }
